@@ -1,0 +1,20 @@
+title: Homepage of Laurent Perrinet
+author: Laurent Perrinet
+email: laurent.perrinet@univ-amu.fr
+description: Homepage of Laurent Perrinet
+baseurl: ""
+url: "https://laurentperrinet.github.io
+"
+github_username: laurentperrinet
+twitter_username: laurentperrinet
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+name: Laurent Perrinet
+gems:
+  - jekyll-feed
+  - jekyll-paginate
