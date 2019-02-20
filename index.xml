@@ -210,15 +210,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://laurentperrinet.github.io/project/tout-public/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/project/tout-public/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Internal Project</title>
       <link>https://laurentperrinet.github.io/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
@@ -234,6 +225,24 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Motion Clouds</title>
+      <link>https://laurentperrinet.github.io/project/motion-clouds/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/motion-clouds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tout public!</title>
+      <link>https://laurentperrinet.github.io/project/tout-public/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/tout-public/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -631,15 +640,6 @@ git submodule update --init --recursive
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/vacher-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compensation of oculomotor delays in the visual system&#39;s network.</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-16-networks/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-16-networks/</guid>
       <description></description>
     </item>
     
