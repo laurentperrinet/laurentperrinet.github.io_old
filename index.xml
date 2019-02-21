@@ -61,14 +61,14 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>ANR  (2013--2016)</title>
+      <title>ANR BalaV1 (2013/2016)</title>
       <link>https://laurentperrinet.github.io/project/anr-bala-v1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/anr-bala-v1/</guid>
       <description>
 
-&lt;h1 id=&#34;anr-balav1-balanced-states-in-area-v1-2013-2016&#34;&gt;ANR BalaV1: Balanced states in area V1 (2013&amp;ndash;2016)&lt;/h1&gt;
+&lt;h1 id=&#34;anr-balav1-balanced-states-in-area-v1-2013-2016&#34;&gt;ANR BalaV1: Balanced states in area V1 (&lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;)&lt;/h1&gt;
 
 &lt;p&gt;In carnivores and primates the orientation selectivity (OS) of the cells in the primary visual cortex (V1) is organized in maps in which preferred orientations (POs) of the cells change gradually except near “pin- wheels”, around which all orientations are present. Over the last half-century the mechanism for OS has been hotly debated. However the theories that purport to explain OS have almost all considered cortical networks in which the neurons receive input preferentially from cells with similar PO. Such theories certainly capture the connectivity for neurons in orientation domains where neurons are surrounded by other cells with similar PO. However this does not necessarily hold near pinwheels: because of the discontinuous change in orientation preference at the pinwheel, neurons in this area are surrounded by cells of all preferred orientations. Thus if the probability of connection is solely dependent on anatomical distance, the inputs that these neurons receive should represent all orientations by roughly the same amount. Thus one may expect that the response of the cells near pinwheels should hardly vary with orientation, in contrast to experimental data. As a result, the common belief is that, at least near pinwheels, the connectivity depends also on the differences between preferred orientation. The situation near pinwheels in V1 of carnivores and primates is similar to that in the whole of V1 of rodents. In these species, neurons in V1 are OS but the network does not exhibit an orientation map and the surround of the cells represents all orientations roughly equally. In a recent theoretical paper (Hansel and van Vreeswijk 2012) we have demonstrated that in this situation, the response of the cells can still be orientation selective provided that the network operates in the balanced regime. Here we hypothesize that V1 with an orientation map operates in the balanced regime and therefore neurons can exhibit OS near pinwheels even in the absence of functional specific connectivity. The goal of this interdisciplinary project is to investigate whether the “balance hypothesis” holds for layer &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; in V1 of primate and carnivore and whether the functional organization observed in that layer can be accounted for without feature specific connectivity. We will combine modeling and experiments to investigate how the response of the neurons – the mean firing, the mean voltage, the inhibitory and excitatory conductances and importantly, the power spectrum of their fluctuations – vary with the location in the map, and also how a population of neurons – LFP, voltage-sensitive dye imaging or 2 photons – is affected by the various para- meters used to test the system. Whether V1 indeed operates in the balanced regime in more realistic conditions will be further investigated by determining how the local network responds to visual stimuli beyond the classical receptive field. We will investigate this issue in models of layer &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; representing multiple hyper- columns to characterize center-surround interactions and their dependence on the long-range connectivity. This will provide us with predictions for center-surround interactions for cells near pinwheels and in orientation domains. These predictions will be tested experimentally.&lt;/p&gt;
 
@@ -82,7 +82,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>ANR CausaL (2018--2022)</title>
+      <title>ANR CausaL (2018/2022)</title>
       <link>https://laurentperrinet.github.io/project/anr-causal/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -102,7 +102,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>ANR Horizontal-V1 (2017--2021)</title>
+      <title>ANR Horizontal-V1 (2017/2021)</title>
       <link>https://laurentperrinet.github.io/project/anr-horizontal-v1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -142,7 +142,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>ANR PredictEye (2018--2022)</title>
+      <title>ANR PredictEye (2018/2022)</title>
       <link>https://laurentperrinet.github.io/project/anr-predicteye/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -157,7 +157,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>ANR REM (2013--2016)</title>
+      <title>ANR REM (2013/2016)</title>
       <link>https://laurentperrinet.github.io/project/anr-rem/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -178,7 +178,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>ANR SPEED (2013--2016)</title>
+      <title>ANR SPEED (2013/2016)</title>
       <link>https://laurentperrinet.github.io/project/anr-speed/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -197,16 +197,28 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>ANR TRAJECTORY (2016--2019)</title>
+      <title>ANR TRAJECTORY (2016/2019)</title>
       <link>https://laurentperrinet.github.io/project/anr-trajectory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/anr-trajectory/</guid>
-      <description>&lt;p&gt;Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities. However such local, piecewise, analysis ignores the recent history of motion and faces several difficulties, such as systematic delays, ambiguous information processing (e.g., aperture and correspondence problems61) high sensitivity to noise and segmentation problems when several objects are present. Indeed, two main aspects of visual processing have been largely ignored by the dominant, classical feed-forward scheme. First, natural inputs are often ambiguous, dynamic and non-stationary as, e.g., objects moving along complex trajectories. To process them, the visual system must segment them from the scene, estimate their position and direction over time and predict their future location and velocity. Second, each of these processing steps, from the retina to the highest cortical areas, is implemented by an intricate interplay of feed-forward, feedback and horizontal interactions1. Thus, at each stage, a moving object will not only be processed locally, but also generate a lateral propagation of information. Despite decades of motion processing research, it is still unclear how the early visual system processes motion trajectories. We, among others, have proposed that anisotropic diffusion of motion information in retinotopic maps can contribute resolving many of these difficulties25 13. Under this perspective, motion integration, anticipation and prediction would be jointly achieved through the interactions between feed-forward, lateral and feedback propagations within a common spatial reference frame, the retinotopic maps.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities. However such local, piecewise, analysis ignores the recent history of motion and faces several difficulties, such as systematic delays, ambiguous information processing (e.g., aperture and correspondence problems61) high sensitivity to noise and segmentation problems when several objects are present. Indeed, two main aspects of visual processing have been largely ignored by the dominant, classical feed-forward scheme. First, natural inputs are often ambiguous, dynamic and non-stationary as, e.g., objects moving along complex trajectories. To process them, the visual system must segment them from the scene, estimate their position and direction over time and predict their future location and velocity. Second, each of these processing steps, from the retina to the highest cortical areas, is implemented by an intricate interplay of feed-forward, feedback and horizontal interactions1. Thus, at each stage, a moving object will not only be processed locally, but also generate a lateral propagation of information. Despite decades of motion processing research, it is still unclear how the early visual system processes motion trajectories. We, among others, have proposed that anisotropic diffusion of motion information in retinotopic maps can contribute resolving many of these difficulties25 13. Under this perspective, motion integration, anticipation and prediction would be jointly achieved through the interactions between feed-forward, lateral and feedback propagations within a common spatial reference frame, the retinotopic maps.&lt;/p&gt;
 
 &lt;p&gt;Addressing this question is particularly challenging, as it requires to probe these sequences of events at multiple scales (from individual cells to large networks) and multiple stages (retina, primary visual cortex (V1)). “TRAJECTORY” proposes such an integrated approach. Using state-of-the-art micro- and mesoscopic recording techniques combined with modeling approaches, we aim at dissecting, for the first time, the population responses at two key stages of visual motion encoding: the retina and V1. Preliminary experiments and previous computational studies demonstrate the feasibility of our work. We plan three coordinated physiology and modeling work-packages aimed to explore two crucial early visual stages in order to answer the following questions: How is a translating bar represented and encoded within a hierarchy of visual networks and for which condition does it elicit anticipatory responses? How is visual processing shaped by the recent history of motion along a more or less predictable trajectory? How much processing happens in V1 as opposed to simply reflecting transformations occurring already in the retina?&lt;/p&gt;
 
 &lt;p&gt;The project is timely because partners master new tools such as multi-electrode arrays and voltage-sensitive dye imaging for investigating the dynamics of neuronal populations covering a large segment of the motion trajectory, both in retina and V1. Second, it is strategic: motion trajectories are a fundamental aspect of visual processing that is also a technological obstacle in computer vision and neuroprostheses design. Third, this project is unique by proposing to jointly investigate retinal and V1 levels within a single experimental and theoretical framework. Lastly, it is mature being grounded on (i) preliminary data paving the way of the three different aims and (ii) a history of strong interactions between the different groups that have decided to join their efforts.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-marseille-team&#34;&gt;The Marseille team&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Frédéric Chavane (DR, CNRS, NEOPTO team) is working in the field of vision research for about 20 years with a special interest in the role of lateral interactions in the integration of sensory input in the primary visual cortex. His recent work suggest that lateral interactions mediated by horizontal intracortical connectivity participates actively in the input normalization that controls a wide range of function, from the contrast-response gain to the representation of illusory or real motion. His expertise range from microscopic (intracellular recordings) to mesoscopic (optical imaging, multi-electrode array) recording scales in the primary visual cortex of anesthetized and awake behaving animals.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Laurent Perrinet (CR, CNRS, NEOPTO team). His scientific interests focus on bridging computational understanding of neural dynamics and low-level sensory processing by focusing on motion perception. He is the author of papers in machine learning, computational neuroscience and behavioral psychology. One key concept is the use of statistical regularities from natural scenes as a main drive to integrate local neural information into a global understanding of the scene. In a recent paper that he coauthored (in Nature Neuroscience), he developed a method to use synthesized stimuli targeted to analyze physiological data in a system-identification approach.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ivo Vanzetta (CR, CNRS, NEOPTO team). His scientific interests focus on how to optimally use photonics-based imaging methods to investigate visual information processing in low-level visual areas, in the anesthetized and awake animal (rodent &amp;amp; primate). As can be seen from his bibliographic record, these methods include optical imaging of intrinsic signals and voltage sensitive dyes and, recently, 2 photon microscopy. Finally I. Vanzetta has an ongoing collaboration with L. Perrinet on the utilization of well-controlled, synthesized nature-like visual stimuli to probe the response characteristics of the primate&amp;rsquo;s visual system (Sanz-Leon &amp;amp; al. 2012).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Acknowledgement&lt;/p&gt;
 
@@ -215,7 +227,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>DOC2AMU (2016--2019)</title>
+      <title>DOC2AMU (2016/2019)</title>
       <link>https://laurentperrinet.github.io/project/doc-2-amu/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -247,7 +259,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <guid>https://laurentperrinet.github.io/project/phd-icn/</guid>
       <description>&lt;p&gt;Description&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;The Ph.D. program in Integrative and Clinical Neuroscience (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the &amp;quot;Institut de Neurosciences de la Timone&amp;quot; (team &amp;quot;Inference and Visual Behavior&amp;quot;), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.
+&lt;pre&gt;&lt;code&gt;The [Ph.D. program in Integrative and Clinical Neuroscience](http://neuro-marseille.org/en/phd-program-en/) (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the &amp;quot;Institut de Neurosciences de la Timone&amp;quot; (team &amp;quot;Inference and Visual Behavior&amp;quot;), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Funding&lt;/p&gt;
