@@ -10,7 +10,7 @@
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
-    <lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://laurentperrinet.github.io/tags/eye/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,43 +18,25 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Active inference, eye movements and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</guid>
       <description>Active Inference, tracking eye movements and oculomotor delays Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future.</description>
     </item>
     
     <item>
-      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-13-vss/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <title>Bayesian modeling of dynamic motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/simoncini-13-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical emergence of a neural solution for motion integration</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</guid>
+      <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decoding center-surround interactions in population of neurons for the ocular following response</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</guid>
       <description></description>
@@ -63,45 +45,63 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Decoding the population dynamics underlying ocular following response using a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Modeling spatial integration in the ocular following response to center-surround stimulation using a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-08-a/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <title>Dynamical emergence of a neural solution for motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/perrinet-08-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian modeling of dynamic motion integration</title>
-      <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling spatial integration in the ocular following response using a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</guid>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-13-vss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-13-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling spatial integration in the ocular following response to center-surround stimulation using a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-08-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-08-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling spatial integration in the ocular following response using a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</guid>
       <description></description>
     </item>
     
