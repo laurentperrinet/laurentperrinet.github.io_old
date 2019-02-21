@@ -62,10 +62,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     <item>
       <title>Internal Project</title>
-      <link>https://laurentperrinet.github.io/project/internal-project/</link>
+      <link>https://laurentperrinet.github.io/project/phd-icn/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://laurentperrinet.github.io/project/internal-project/</guid>
+      <guid>https://laurentperrinet.github.io/project/phd-icn/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -488,6 +488,18 @@ git submodule update --init --recursive
     </item>
     
     <item>
+      <title>PACE-ITN (2015--2019)</title>
+      <link>https://laurentperrinet.github.io/project/pace-itn/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/pace-itn/</guid>
+      <description>&lt;p&gt;The PACE ITN project involves over 50 researchers spread across 10 full and 5 associated partners, from academia and the private sector, established in 7 different European and Associated countries, the PACE network gathers a broad range of expertise from experimental psychology, cognitive neurosciences, brain imaging, technology and clinical sciences.&lt;/p&gt;
+
+&lt;p&gt;The PACE Project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 642961&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Active inference, eye movements and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</link>
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
@@ -550,15 +562,6 @@ git submodule update --init --recursive
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/simoncini-14-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anisotropic connectivity implements motion-based prediction in a spiking neural network</title>
-      <link>https://laurentperrinet.github.io/publication/kaplan-13/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/kaplan-13/</guid>
       <description></description>
     </item>
     
