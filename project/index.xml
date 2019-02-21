@@ -16,6 +16,70 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     <item>
+      <title>ANR  (2013--2016)</title>
+      <link>https://laurentperrinet.github.io/project/anr-bala-v1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-bala-v1/</guid>
+      <description>ANR BalaV1: Balanced states in area V1 (2013&amp;ndash;2016) In carnivores and primates the orientation selectivity (OS) of the cells in the primary visual cortex (V1) is organized in maps in which preferred orientations (POs) of the cells change gradually except near “pin- wheels”, around which all orientations are present. Over the last half-century the mechanism for OS has been hotly debated. However the theories that purport to explain OS have almost all considered cortical networks in which the neurons receive input preferentially from cells with similar PO.</description>
+    </item>
+    
+    <item>
+      <title>ANR CausaL (2018--2022)</title>
+      <link>https://laurentperrinet.github.io/project/anr-causal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-causal/</guid>
+      <description>Humans have an extraordinary capacity to infer cause-effect relations. In particular, we excel in forming ​beliefs ​about the ​causal effect of actions​. Causal learning provides the basis for rational decision-making and allows people to engage in meaningful life and social interactions. Causal learning is a form of goal-directed learning, defined as the capacity to rapidly learn the consequence of actions and to select behaviours according to goals and motivational state 1​ ,2​.</description>
+    </item>
+    
+    <item>
+      <title>ANR Horizontal-V1 (2017--2021)</title>
+      <link>https://laurentperrinet.github.io/project/anr-horizontal-v1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-horizontal-v1/</guid>
+      <description>The Horizontal-V1 project aims at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). We will study how the long-distance &amp;ldquo;horizontal&amp;rdquo; connectivity, intrinsic to V1 and the feedback from higher cortical areas contribute to a dynamic processing of local-to-global features as a function of the context (eg displacement along a trajectory; during reafference change induced by eye-movements&amp;hellip;).</description>
+    </item>
+    
+    <item>
+      <title>ANR PredictEye (2018--2022)</title>
+      <link>https://laurentperrinet.github.io/project/anr-predicteye/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-predicteye/</guid>
+      <description>The objectives of PREDICTEYE is to rigorously test and define the functional and neurophysiological grounds of probabilistic oculomotor internal models by investigating the multiple timescales at which the trajectory of a moving target is learned and represented in a probabilistic framework (Aim #1). Second, we will investigate the role of (pre)frontal oculomotor networks in building such probabilistic representations and their impact upon two of their downstream neural targets of the brainstem premotor centers (superior colliculus for saccades; NRTP for pursuit) (Aim #2).</description>
+    </item>
+    
+    <item>
+      <title>ANR REM (2013--2016)</title>
+      <link>https://laurentperrinet.github.io/project/anr-rem/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-rem/</guid>
+      <description>http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg
+Reinforcement learning theory provides a general conceptual framework to account for behavioral changes. Recently the idea that reinforcement may be used to explain learning in motor responses has emerged. In particular, there is a growing interest in studying the effects of reinforcement learning in arm movements trajectories (Dam, Kording, &amp;amp; Wei, 2013), pointing movements (Trommershauser, Landy, &amp;amp; Maloney, 2006), or eye movements (Madelain, Champrenaut, &amp;amp; Chauvin, 2007; Madelain &amp;amp; Krauzlis, 2003b; Madelain, Paeye, &amp;amp; Wallman, 2011; Sugrue, Corrado, &amp;amp; Newsome, 2004; Takikawa, Kawagoe, Itoh, Nakahara, &amp;amp; Hikosaka, 2002; Xu-Wilson, Zee, &amp;amp; Shadmehr, 2009).</description>
+    </item>
+    
+    <item>
+      <title>ANR SPEED (2013--2016)</title>
+      <link>https://laurentperrinet.github.io/project/anr-speed/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-speed/</guid>
+      <description>Measuring speed and direction of moving objects is an essential computational step in order to move our eyes, hands or other body parts with respect to the environment. Whereas encoding and decoding of direction information is now largely understood in various neuronal systems, how the human brain accurately represents speed information remains largely unknown. Speed tuned neurons have been identified in several early cortical visual areas in monkeys. However, how such speed tuning emerges is not yet understood.</description>
+    </item>
+    
+    <item>
+      <title>ANR TRAJECTORY (2016--2019)</title>
+      <link>https://laurentperrinet.github.io/project/anr-trajectory/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-trajectory/</guid>
+      <description>Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities.</description>
+    </item>
+    
+    <item>
       <title>DOC2AMU (2016--2019)</title>
       <link>https://laurentperrinet.github.io/project/doc-2-amu/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
@@ -56,25 +120,21 @@ This project is funded by the Aix-Marseille Université, which was awarded the p
     </item>
     
     <item>
+      <title>ANR TRAJECTORY (2016--2019)</title>
+      <link>https://laurentperrinet.github.io/project/brain-scales/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/brain-scales/</guid>
+      <description>Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities.</description>
+    </item>
+    
+    <item>
       <title>CODDE (2008--2012)</title>
       <link>https://laurentperrinet.github.io/project/codde/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/codde/</guid>
       <description>http://www.optimaldecisions.org/ The CODDE network studies the links between sensory input, brain activity and motor output. It does this by combining behavioural techniques, brain imaging, movement recording and computational modelling.</description>
-    </item>
-    
-    <item>
-      <title>FACETS (2006--2010)</title>
-      <link>https://laurentperrinet.github.io/project/brain-scales/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/project/brain-scales/</guid>
-      <description>List of publications that were funded by the FACETS project (more info).
- also available on the FACET&amp;rsquo;s website  See also:
- The FACETS research project which ended on 31 August 2010.
- The FACETS-ITN Marie-Curie initital training network for graduate training continues until August 2013
- The BrainScaleS project builds on and extends the research done in FACETS. This 4 year project started on 1 January 2011</description>
     </item>
     
     <item>
