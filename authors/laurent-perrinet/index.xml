@@ -10,7 +10,7 @@
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://laurentperrinet.github.io/authors/laurent-perrinet/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,25 +18,16 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Modelling spiking neural networks using Brian, Nest and pyNN</title>
       <link>https://laurentperrinet.github.io/talk/2019-01-14-laconeu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2019-01-14-laconeu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
-      <link>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Principles and psychophysics of Active Inference</title>
       <link>https://laurentperrinet.github.io/talk/2018-04-05-active-inference/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2018-04-05-active-inference/</guid>
       <description></description>
@@ -45,16 +36,25 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Principles and psychophysics of Active Inference in anticipating a dynamic, switching probabilistic bias</title>
       <link>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
+      <link>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reinforcement contingencies modulate anticipatory smooth eye movements</title>
       <link>https://laurentperrinet.github.io/talk/2016-11-03-gdr/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2016-11-03-gdr/</guid>
       <description></description>
@@ -63,7 +63,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</title>
       <link>https://laurentperrinet.github.io/talk/2013-11-26-brain-scales-demos/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 26 Nov 2013 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2013-11-26-brain-scales-demos/</guid>
       <description></description>
@@ -72,7 +72,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Edge co-occurrences and categorizing natural images</title>
       <link>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 05 Jul 2013 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</guid>
       <description></description>
@@ -80,35 +80,44 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     <item>
       <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
-      <link>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
       <link>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 May 2012 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
+      <link>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</link>
+      <pubDate>Tue, 24 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Motion-based prediction is sufficient to solve the aperture problem</title>
       <link>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 12 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
+      <link>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</link>
+      <pubDate>Tue, 15 Nov 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</title>
       <link>https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 05 Oct 2011 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/</guid>
       <description></description>
@@ -117,52 +126,43 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
       <link>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 28 Sep 2011 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
-      <link>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Propriétés émergentes d&#39;un modèle de prédiction probabiliste utilisant un champ neural</title>
       <link>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 02 Jul 2011 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Models of low-level vision: linking probabilistic models and neural masses</title>
-      <link>https://laurentperrinet.github.io/talk/2010-01-08-facets/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2010-01-08-facets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
       <link>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 17 Dec 2010 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Models of low-level vision: linking probabilistic models and neural masses</title>
+      <link>https://laurentperrinet.github.io/talk/2010-01-08-facets/</link>
+      <pubDate>Fri, 08 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2010-01-08-facets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input</title>
       <link>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 18 Jul 2009 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</guid>
       <description></description>
@@ -170,62 +170,62 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     <item>
       <title>Decoding low-level neural information to track visual motion</title>
-      <link>https://laurentperrinet.github.io/talk/2009-04-int/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <link>https://laurentperrinet.github.io/talk/2009-04-01-int/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0200</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2009-04-int/</guid>
+      <guid>https://laurentperrinet.github.io/talk/2009-04-01-int/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decoding the population dynamics underlying ocular following response using a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/talk/2008-06-ulm/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <link>https://laurentperrinet.github.io/talk/2008-06-01-ulm/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0200</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2008-06-ulm/</guid>
+      <guid>https://laurentperrinet.github.io/talk/2008-06-01-ulm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From neural activity to behavior: computational neuroscience as a synthetic approach for understanding the neural code.</title>
-      <link>https://laurentperrinet.github.io/talk/2008-04-incm/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <link>https://laurentperrinet.github.io/talk/2008-04-01-incm/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0200</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2008-04-incm/</guid>
+      <guid>https://laurentperrinet.github.io/talk/2008-04-01-incm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling of spikes, sparseness and adaptation in the primary visual cortex: applications to imaging</title>
-      <link>https://laurentperrinet.github.io/talk/2008-02-toledo/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <link>https://laurentperrinet.github.io/talk/2008-02-01-toledo/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2008-02-toledo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Codes for Adaptive Sparse Representations of Natural Images</title>
-      <link>https://laurentperrinet.github.io/talk/2007-09-mipm/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2007-09-mipm/</guid>
+      <guid>https://laurentperrinet.github.io/talk/2008-02-01-toledo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What efficient code for adaptive spiking representations?</title>
-      <link>https://laurentperrinet.github.io/talk/2007-12-rankprize/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      <link>https://laurentperrinet.github.io/talk/2007-12-01-rankprize/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2007-12-rankprize/</guid>
+      <guid>https://laurentperrinet.github.io/talk/2007-12-01-rankprize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Codes for Adaptive Sparse Representations of Natural Images</title>
+      <link>https://laurentperrinet.github.io/talk/2007-09-01-mipm/</link>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2007-09-01-mipm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
       <description></description>
@@ -233,10 +233,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     <item>
       <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/talk/2006-neurocomp/</link>
+      <link>https://laurentperrinet.github.io/talk/2006-01-01-neurocomp/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2006-neurocomp/</guid>
+      <guid>https://laurentperrinet.github.io/talk/2006-01-01-neurocomp/</guid>
       <description></description>
     </item>
     

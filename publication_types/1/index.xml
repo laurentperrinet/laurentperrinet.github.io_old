@@ -10,798 +10,15 @@
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://laurentperrinet.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Role of dynamics in neural computations underlying  visual processing</title>
-      <link>https://laurentperrinet.github.io/talk/2019-01-17-laconeu/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2019-01-17-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient coding of visual information in neural computations</title>
-      <link>https://laurentperrinet.github.io/talk/2019-01-16-laconeu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2019-01-16-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling spiking neural networks using Brian, Nest and pyNN</title>
-      <link>https://laurentperrinet.github.io/talk/2019-01-14-laconeu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2019-01-14-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
-      <link>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expériences autour de la perception de la forme en art et science</title>
-      <link>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Principles and psychophysics of Active Inference</title>
-      <link>https://laurentperrinet.github.io/talk/2018-04-05-active-inference/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-04-05-active-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Principles and psychophysics of Active Inference in anticipating a dynamic, switching probabilistic bias</title>
-      <link>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilities, Bayes and the Free-energy principle</title>
-      <link>https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Back to the present: dealing with delays in biological and neuromorphic systems</title>
-      <link>https://laurentperrinet.github.io/talk/2017-06-28-telluride/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2017-06-28-telluride/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Back to the present: how neurons deal with delays</title>
-      <link>https://laurentperrinet.github.io/talk/2017-01-18-laconeu/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2017-01-18-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial on predictive coding</title>
-      <link>https://laurentperrinet.github.io/talk/2017-06-30-telluride/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2017-06-30-telluride/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial: Active inference for eye movements: Bayesian methods, neural inference, dynamics</title>
-      <link>https://laurentperrinet.github.io/talk/2017-01-20-laconeu/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2017-01-20-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial: Sparse optimization in neural computations</title>
-      <link>https://laurentperrinet.github.io/talk/2017-01-19-laconeu/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2017-01-19-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised learning applied to robotic vision</title>
-      <link>https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What dynamic neural codes for efficient visual processing</title>
-      <link>https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biologically-inspired characterization of sparseness in natural images</title>
-      <link>https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor</title>
-      <link>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eye movements as a model for active inference</title>
-      <link>https://laurentperrinet.github.io/talk/2016-10-13-law/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2016-10-13-law/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling the dynamics of cognitive processes: from the Bayesian brain to particles</title>
-      <link>https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement contingencies modulate anticipatory smooth eye movements</title>
-      <link>https://laurentperrinet.github.io/talk/2016-11-03-gdr/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2016-11-03-gdr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The flash-lag effect as a motion-based predictive shift</title>
-      <link>https://laurentperrinet.github.io/talk/2016-11-03-sigma/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2016-11-03-sigma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motion-based prediction with neuromorphic hardware</title>
-      <link>https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motion-based prediction with neuromorphic hardware</title>
-      <link>https://laurentperrinet.github.io/talk/2015-11-05-chile/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2015-11-05-chile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Axonal delays and on-time control of eye movements</title>
-      <link>https://laurentperrinet.github.io/talk/2014-01-10-int-fest/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2014-01-10-int-fest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</title>
-      <link>https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WP5 - Demo 1.3 : Spiking model of motion-based prediction</title>
-      <link>https://laurentperrinet.github.io/talk/2014-03-20-manchester/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2014-03-20-manchester/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</title>
-      <link>https://laurentperrinet.github.io/talk/2013-11-26-brain-scales-demos/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2013-11-26-brain-scales-demos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge co-occurrences and categorizing natural images</title>
-      <link>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Why methods and tools are the key to artificial brain-like systems</title>
-      <link>https://laurentperrinet.github.io/talk/2013-03-21-marseille/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2013-03-21-marseille/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apparent motion in V1 - Probabilistic approaches</title>
-      <link>https://laurentperrinet.github.io/talk/2012-03-23-juelich/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2012-03-23-juelich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
-      <link>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
-      <link>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grabbing, tracking and sniffing as models for motion detection and eye movements</title>
-      <link>https://laurentperrinet.github.io/talk/2012-01-27-fil/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2012-01-27-fil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</title>
-      <link>https://laurentperrinet.github.io/talk/2012-03-22-juelich/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2012-03-22-juelich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motion-based prediction is sufficient to solve the aperture problem</title>
-      <link>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</title>
-      <link>https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
-      <link>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
-      <link>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Propriétés émergentes d&#39;un modèle de prédiction probabiliste utilisant un champ neural</title>
-      <link>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
-      <link>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input</title>
-      <link>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decoding low-level neural information to track visual motion</title>
-      <link>https://laurentperrinet.github.io/talk/2009-04-int/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2009-04-int/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reading out the dynamics of lateral interactions in the primary visual cortex from VSD data</title>
-      <link>https://laurentperrinet.github.io/talk/2009-11-30-vss/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2009-11-30-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decoding the population dynamics underlying ocular following response using a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/talk/2008-06-ulm/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2008-06-ulm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>From neural activity to behavior: computational neuroscience as a synthetic approach for understanding the neural code.</title>
-      <link>https://laurentperrinet.github.io/talk/2008-04-incm/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2008-04-incm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling of spikes, sparseness and adaptation in the primary visual cortex: applications to imaging</title>
-      <link>https://laurentperrinet.github.io/talk/2008-02-toledo/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2008-02-toledo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Codes for Adaptive Sparse Representations of Natural Images</title>
-      <link>https://laurentperrinet.github.io/talk/2007-09-mipm/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2007-09-mipm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What efficient code for adaptive spiking representations?</title>
-      <link>https://laurentperrinet.github.io/talk/2007-12-rankprize/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2007-12-rankprize/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian modeling of dynamic motion integration</title>
-      <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/talk/2006-neurocomp/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2006-neurocomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Gabor wavelets by local operations</title>
-      <link>https://laurentperrinet.github.io/publication/fischer-05-a/</link>
-      <pubDate>Wed, 29 Jun 2005 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/fischer-05-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception</title>
-      <link>https://laurentperrinet.github.io/publication/vacher-15-icms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/vacher-15-icms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
-      <link>https://laurentperrinet.github.io/publication/taouali-14-areadne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/taouali-14-areadne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
-      <link>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/taouali-15-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/taouali-15-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A generative model for Spike Time Dependent Hebbian Plasticity</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-00/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-00/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A recurrent Bayesian model of dynamic motion integration for smooth pursuit</title>
-      <link>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active inference, eye movements and oculomotor delays.</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-13-cns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-13-cns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active inference, eye movements and oculomotor delays.</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-13-jffos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-13-jffos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active inference, smooth pursuit and oculomotor delays.</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-12-areadne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-12-areadne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-08-spie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-08-spie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An efficiency razor for model selection and adaptation in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-06-cns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-06-cns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
-      <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anticipating a moving target: role of vision and reinforcement</title>
-      <link>https://laurentperrinet.github.io/publication/montagnini-15-sfn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/montagnini-15-sfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anticipatory smooth eye movements and reinforcement</title>
-      <link>https://laurentperrinet.github.io/publication/damasse-15-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/damasse-15-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biologically-inspired characterization of sparseness in natural images</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compensation of oculomotor delays in the visual system&#39;s network.</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-16-networks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-16-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contrast sensitivity adaptation in a virtual spiking retina and its adequation with mammalians retinas</title>
-      <link>https://laurentperrinet.github.io/publication/wohrer-06/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/wohrer-06/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input: a V1 network modelling study</title>
-      <link>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decoding center-surround interactions in population of neurons for the ocular following response</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Decoding the population dynamics underlying ocular following response using a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-10-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/simoncini-10-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic Textures For Probing Motion Perception</title>
-      <link>https://laurentperrinet.github.io/publication/vacher-14-ihp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic inference for motion tracking</title>
-      <link>https://laurentperrinet.github.io/publication/montagnini-07-a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/montagnini-07-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-06-fab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-06-fab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical emergence of a neural solution for motion integration</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical state spaces of cortical networks representing various horizontal connectivities</title>
-      <link>https://laurentperrinet.github.io/publication/voges-09-cosyne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/voges-09-cosyne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamics of cortical networks based on patchy connectivity patterns</title>
-      <link>https://laurentperrinet.github.io/publication/voges-08/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/voges-08/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamics of cortical networks including long-range patchy connections</title>
-      <link>https://laurentperrinet.github.io/publication/voges-09-gns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/voges-09-gns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamics of motion representation in short-latency ocular following: A two-pathways Bayesian model</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-05-a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-05-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effects of motion predictability on anticipatory and visually-guided eye movements: a common prior for sensory processing and motor control?</title>
-      <link>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient learning of sparse image representations using homeostatic regulation</title>
-      <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</guid>
-      <description> This work is a followup of Perrinet, 2010, Neural Computation the poster (PDF) will be presented Thursday, May 18 @ NeuroFrance, Bordeaux. see a follow-up publication on BoutinRuffierPerrinet17spars  </description>
-    </item>
-    
-    <item>
-      <title>Efficient learning of sparse image representations using homeostatic regulation</title>
-      <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
-      <description> This work is a followup of Perrinet, 2010, Neural Computation code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning the poster (PDF) will be presented Thursday, June 8 @ SPARS, Lisbon.  </description>
-    </item>
-    
-    <item>
-      <title>Efficient representation of natural images using local cooperation</title>
-      <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eye tracking a self-moved target with complex hand-target dynamics</title>
-      <link>https://laurentperrinet.github.io/publication/danion-15-sfn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/danion-15-sfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>From biological vision to unsupervised hierarchical sparse coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</guid>
       <description> From biological vision to unsupervised hierarchical sparse coding  accepted submission @ iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques, 21 - 23 November​, 2018
@@ -813,261 +30,90 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>Functional consequences of correlated excitation and inhibition on single neuron integration and signal propagation through synfire chains</title>
-      <link>https://laurentperrinet.github.io/publication/kremkow-09-gns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/kremkow-09-gns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional properties of feed-forward inhibition</title>
-      <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How and why do image frequency properties influence perceived speed?</title>
-      <link>https://laurentperrinet.github.io/publication/meso-13-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/meso-13-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inferring monkey ocular following responses from V1 population dynamics using a probabilistic model of motion integration</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-09-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-09-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-06-fens/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-06-fens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation</title>
       <link>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-12-coding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Efficient learning of sparse image representations using homeostatic regulation</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/simoncini-12-coding/</guid>
-      <description></description>
+      <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</guid>
+      <description> This work is a followup of Perrinet, 2010, Neural Computation the poster (PDF) will be presented Thursday, May 18 @ NeuroFrance, Bordeaux. see a follow-up publication on BoutinRuffierPerrinet17spars  </description>
     </item>
     
     <item>
-      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Efficient learning of sparse image representations using homeostatic regulation</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
-      <description></description>
+      <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
+      <description> This work is a followup of Perrinet, 2010, Neural Computation code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning the poster (PDF) will be presented Thursday, June 8 @ SPARS, Lisbon.  </description>
     </item>
     
     <item>
-      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-13-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Biologically-inspired characterization of sparseness in natural images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/simoncini-13-vss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
-      <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling spatial integration in the ocular following response to center-surround stimulation using a probabilistic framework</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-08-a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-08-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling the effect of dynamic contingencies on anticipatory eye movements</title>
-      <link>https://laurentperrinet.github.io/publication/damasse-16-ecvp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/damasse-16-ecvp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motion-based prediction and development of the response to an &#39;on the way&#39; stimulus</title>
-      <link>https://laurentperrinet.github.io/publication/khoei-13-cns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motion-based prediction is sufficient to solve the aperture problem</title>
-      <link>https://laurentperrinet.github.io/publication/masson-12-areadne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/masson-12-areadne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Codes for Adaptive Sparse Representations of Natural Images</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-07-mipm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-07-mipm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NeuralEnsemble: Towards a meta-environment for network modeling and data analysis</title>
-      <link>https://laurentperrinet.github.io/publication/yger-09-gns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/yger-09-gns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On efficient sparse spike coding schemes for learning natural scenes in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-07-cns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-07-cns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On overdispersion in neuronal evoked activity</title>
-      <link>https://laurentperrinet.github.io/publication/taouali-15-icmns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/taouali-15-icmns/</guid>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Operant reinforcement versus reward expectancy: effects on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-vss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/damasse-16-vss/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-15-vss/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</guid>
+      <guid>https://laurentperrinet.github.io/publication/taouali-15-vss/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>PyNN: towards a universal neural simulator API in Python</title>
-      <link>https://laurentperrinet.github.io/publication/davison-07-cns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Compensation of oculomotor delays in the visual system&#39;s network.</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-16-networks/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/davison-07-cns/</guid>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-16-networks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Relationship between natural image statistics and lateral connectivity in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Effects of motion predictability on anticipatory and visually-guided eye movements: a common prior for sensory processing and motor control?</title>
+      <link>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</guid>
+      <guid>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Role of motion-based prediction in motion extrapolation</title>
-      <link>https://laurentperrinet.github.io/publication/khoei-12-sfn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Modeling the effect of dynamic contingencies on anticipatory eye movements</title>
+      <link>https://laurentperrinet.github.io/publication/damasse-16-ecvp/</link>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/khoei-12-sfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Image Coding Using an Asynchronous Spiking Neural Network</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-02-esann/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-02-esann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatiotemporal tuning of retinal ganglion cells dependent on the context of signal presentation</title>
-      <link>https://laurentperrinet.github.io/publication/ravello-15/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/ravello-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual Strategies for Sparse Spike Coding</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</guid>
+      <guid>https://laurentperrinet.github.io/publication/damasse-16-ecvp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-ecvp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/mansour-16-ecvp/</guid>
       <description></description>
@@ -1076,7 +122,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-gdr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/mansour-16-gdr/</guid>
       <description></description>
@@ -1085,18 +131,531 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-sfn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/mansour-16-sfn/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception</title>
+      <link>https://laurentperrinet.github.io/publication/vacher-15-icms/</link>
+      <pubDate>Sun, 22 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/vacher-15-icms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticipating a moving target: role of vision and reinforcement</title>
+      <link>https://laurentperrinet.github.io/publication/montagnini-15-sfn/</link>
+      <pubDate>Sun, 22 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/montagnini-15-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticipatory smooth eye movements and reinforcement</title>
+      <link>https://laurentperrinet.github.io/publication/damasse-15-vss/</link>
+      <pubDate>Sun, 22 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/damasse-15-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eye tracking a self-moved target with complex hand-target dynamics</title>
+      <link>https://laurentperrinet.github.io/publication/danion-15-sfn/</link>
+      <pubDate>Sun, 22 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/danion-15-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On overdispersion in neuronal evoked activity</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-15-icmns/</link>
+      <pubDate>Sun, 22 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/taouali-15-icmns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal tuning of retinal ganglion cells dependent on the context of signal presentation</title>
+      <link>https://laurentperrinet.github.io/publication/ravello-15/</link>
+      <pubDate>Sun, 22 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/ravello-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-14-areadne/</link>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/taouali-14-areadne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</link>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Textures For Probing Motion Perception</title>
+      <link>https://laurentperrinet.github.io/publication/vacher-14-ihp/</link>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship between natural image statistics and lateral connectivity in the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</link>
+      <pubDate>Sat, 22 Feb 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active inference, eye movements and oculomotor delays.</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-13-cns/</link>
+      <pubDate>Fri, 22 Feb 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-13-cns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active inference, eye movements and oculomotor delays.</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-13-jffos/</link>
+      <pubDate>Fri, 22 Feb 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-13-jffos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How and why do image frequency properties influence perceived speed?</title>
+      <link>https://laurentperrinet.github.io/publication/meso-13-vss/</link>
+      <pubDate>Fri, 22 Feb 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/meso-13-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-13-vss/</link>
+      <pubDate>Fri, 22 Feb 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-13-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion-based prediction and development of the response to an &#39;on the way&#39; stimulus</title>
+      <link>https://laurentperrinet.github.io/publication/khoei-13-cns/</link>
+      <pubDate>Fri, 22 Feb 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active inference, smooth pursuit and oculomotor delays.</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-12-areadne/</link>
+      <pubDate>Wed, 22 Feb 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-12-areadne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-12-coding/</link>
+      <pubDate>Wed, 22 Feb 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-12-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
+      <pubDate>Wed, 22 Feb 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion-based prediction is sufficient to solve the aperture problem</title>
+      <link>https://laurentperrinet.github.io/publication/masson-12-areadne/</link>
+      <pubDate>Wed, 22 Feb 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/masson-12-areadne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of motion-based prediction in motion extrapolation</title>
+      <link>https://laurentperrinet.github.io/publication/khoei-12-sfn/</link>
+      <pubDate>Wed, 22 Feb 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/khoei-12-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</link>
+      <pubDate>Tue, 22 Feb 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A recurrent Bayesian model of dynamic motion integration for smooth pursuit</title>
+      <link>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</link>
+      <pubDate>Mon, 22 Feb 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-10-vss/</link>
+      <pubDate>Mon, 22 Feb 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-10-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical emergence of a neural solution for motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</link>
+      <pubDate>Mon, 22 Feb 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</link>
+      <pubDate>Mon, 22 Feb 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding center-surround interactions in population of neurons for the ocular following response</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</link>
+      <pubDate>Sun, 22 Feb 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical state spaces of cortical networks representing various horizontal connectivities</title>
+      <link>https://laurentperrinet.github.io/publication/voges-09-cosyne/</link>
+      <pubDate>Sun, 22 Feb 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/voges-09-cosyne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of cortical networks including long-range patchy connections</title>
+      <link>https://laurentperrinet.github.io/publication/voges-09-gns/</link>
+      <pubDate>Sun, 22 Feb 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/voges-09-gns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional consequences of correlated excitation and inhibition on single neuron integration and signal propagation through synfire chains</title>
+      <link>https://laurentperrinet.github.io/publication/kremkow-09-gns/</link>
+      <pubDate>Sun, 22 Feb 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/kremkow-09-gns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring monkey ocular following responses from V1 population dynamics using a probabilistic model of motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-09-vss/</link>
+      <pubDate>Sun, 22 Feb 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-09-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuralEnsemble: Towards a meta-environment for network modeling and data analysis</title>
+      <link>https://laurentperrinet.github.io/publication/yger-09-gns/</link>
+      <pubDate>Sun, 22 Feb 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/yger-09-gns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
+      <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
+      <pubDate>Wed, 22 Oct 2008 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional properties of feed-forward inhibition</title>
+      <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
+      <pubDate>Wed, 22 Oct 2008 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-08-spie/</link>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-08-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input: a V1 network modelling study</title>
+      <link>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</link>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decoding the population dynamics underlying ocular following response using a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</link>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of cortical networks based on patchy connectivity patterns</title>
+      <link>https://laurentperrinet.github.io/publication/voges-08/</link>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/voges-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling spatial integration in the ocular following response to center-surround stimulation using a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-08-a/</link>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-08-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What adaptive code for efficient spiking representations? A model for the formation of receptive fields of simple cells</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic inference for motion tracking</title>
+      <link>https://laurentperrinet.github.io/publication/montagnini-07-a/</link>
+      <pubDate>Thu, 22 Feb 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/montagnini-07-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Codes for Adaptive Sparse Representations of Natural Images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-07-mipm/</link>
+      <pubDate>Thu, 22 Feb 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-07-mipm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On efficient sparse spike coding schemes for learning natural scenes in the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-07-cns/</link>
+      <pubDate>Thu, 22 Feb 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-07-cns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyNN: towards a universal neural simulator API in Python</title>
+      <link>https://laurentperrinet.github.io/publication/davison-07-cns/</link>
+      <pubDate>Thu, 22 Feb 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/davison-07-cns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficiency razor for model selection and adaptation in the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-06-cns/</link>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-06-cns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrast sensitivity adaptation in a virtual spiking retina and its adequation with mammalians retinas</title>
+      <link>https://laurentperrinet.github.io/publication/wohrer-06/</link>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/wohrer-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</link>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-06-fab/</link>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-06-fab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-06-fens/</link>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-06-fens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</link>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian modeling of dynamic motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
+      <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
+      <pubDate>Mon, 22 Aug 2005 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Gabor wavelets by local operations</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-05-a/</link>
+      <pubDate>Wed, 29 Jun 2005 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/fischer-05-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of motion representation in short-latency ocular following: A two-pathways Bayesian model</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-05-a/</link>
+      <pubDate>Tue, 22 Feb 2005 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-05-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient representation of natural images using local cooperation</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
+      <pubDate>Tue, 22 Feb 2005 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Image Coding Using an Asynchronous Spiking Neural Network</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-02-esann/</link>
+      <pubDate>Fri, 22 Feb 2002 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-02-esann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Strategies for Sparse Spike Coding</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</link>
+      <pubDate>Fri, 22 Feb 2002 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generative model for Spike Time Dependent Hebbian Plasticity</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-00/</link>
+      <pubDate>Tue, 22 Feb 2000 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-00/</guid>
       <description></description>
     </item>
     
