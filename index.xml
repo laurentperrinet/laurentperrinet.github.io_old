@@ -99,33 +99,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
     </item>
     
     <item>
-      <title>Role of dynamics in neural computations underlying visual processing</title>
-      <link>https://laurentperrinet.github.io/talk/2019-01-17-laconeu/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2019-01-17-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient coding of visual information in neural computations</title>
-      <link>https://laurentperrinet.github.io/talk/2019-01-16-laconeu/</link>
-      <pubDate>Wed, 16 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2019-01-16-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling spiking neural networks using Brian, Nest and pyNN</title>
-      <link>https://laurentperrinet.github.io/talk/2019-01-14-laconeu/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2019-01-14-laconeu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reinforcement effects in anticipatory smooth eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
@@ -164,33 +137,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
     </item>
     
     <item>
-      <title>Principles and psychophysics of Active Inference</title>
-      <link>https://laurentperrinet.github.io/talk/2018-04-05-active-inference/</link>
-      <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-04-05-active-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Principles and psychophysics of Active Inference in anticipating a dynamic, switching probabilistic bias</title>
-      <link>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</link>
-      <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilities, Bayes and the Free-energy principle</title>
-      <link>https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>From biological vision to unsupervised hierarchical sparse coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0100</pubDate>
@@ -224,21 +170,146 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
     </item>
     
     <item>
-      <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
-      <link>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      <title>Efficient learning of sparse image representations using homeostatic regulation</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</guid>
+      <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf&#34; target=&#34;_blank&#34;&gt;poster (PDF)&lt;/a&gt; will be presented Thursday, May 18 @ &lt;a href=&#34;http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf&#34; target=&#34;_blank&#34;&gt;NeuroFrance, Bordeaux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;see a follow-up publication on &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/&#34; target=&#34;_blank&#34;&gt;BoutinRuffierPerrinet17spars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient learning of sparse image representations using homeostatic regulation</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;code is available @ &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&#34; target=&#34;_blank&#34;&gt;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&lt;/a&gt; and heavily uses &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning&#34; target=&#34;_blank&#34;&gt;https://github.com/bicv/SparseHebbianLearning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf&#34; target=&#34;_blank&#34;&gt;poster (PDF)&lt;/a&gt;  will be presented Thursday, June 8 @ &lt;a href=&#34;http://spars2017.lx.it.pt/index_files/SPARS2017_program.html&#34; target=&#34;_blank&#34;&gt;SPARS, Lisbon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The flash-lag effect as a motion-based predictive shift</title>
+      <link>https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/</link>
+      <pubDate>Thu, 23 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/</guid>
+      <description>
+
+&lt;h1 id=&#34;visual-illusions-their-origin-lies-in-prediction&#34;&gt;Visual illusions: their origin lies in prediction&lt;/h1&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;flash_lag.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;em&gt;Flash-Lag Effect.&lt;/em&gt; When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New Research: The Flash-Lag Effect as a Motion-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; Khoei et al. &lt;a href=&#34;https://twitter.com/hashtag/vision?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#vision&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#motion&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/RElm4Qqo58&#34;&gt;pic.twitter.com/RElm4Qqo58&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829354100273745920?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Visual illusions are still popular: in a quasi-magical way, they can make objects appear where they are not expected&amp;hellip; They are also excellent opportunities to question the constraints of our perceptual system. Many illusions are based on motion, such as the flash-lag effect. Observe a luminous dot that moves along a rectilinear trajectory. If a second light dot is flashed very briefly just above the first, the moving point will always be perceived in front of the flash while they are vertically aligned.&lt;/p&gt;
+
+&lt;p&gt;Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.&lt;/p&gt;
+
+&lt;p&gt;The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&amp;rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.&lt;/p&gt;
+
+&lt;p&gt;Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &amp;ldquo;hidden&amp;rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &amp;ldquo;simulation&amp;rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &amp;ldquo;science fiction&amp;rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New from Khoei et al. The Flash-Lag Effect as a &lt;a href=&#34;https://twitter.com/hashtag/Motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Motion&lt;/a&gt;-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/iWsd9nK5qp&#34;&gt;pic.twitter.com/iWsd9nK5qp&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829474896023474176?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
+      <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Expériences autour de la perception de la forme en art et science</title>
-      <link>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</link>
-      <pubDate>Thu, 25 Jan 2018 00:00:00 +0100</pubDate>
+      <title>Biologically-inspired characterization of sparseness in natural images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
+      <pubDate>Sun, 23 Oct 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</guid>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Operant reinforcement versus reward expectancy: effects on anticipatory eye movements</title>
+      <link>https://laurentperrinet.github.io/publication/damasse-16-vss/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/damasse-16-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANR BalaV1 (2013/2016)</title>
+      <link>https://laurentperrinet.github.io/project/anr-bala-v1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-bala-v1/</guid>
+      <description>
+
+&lt;h1 id=&#34;anr-balav1-balanced-states-in-area-v1-2013-2016&#34;&gt;ANR BalaV1: Balanced states in area V1 (&lt;sup&gt;2013&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;)&lt;/h1&gt;
+
+&lt;p&gt;In carnivores and primates the orientation selectivity (OS) of the cells in the primary visual cortex (V1) is organized in maps in which preferred orientations (POs) of the cells change gradually except near “pin- wheels”, around which all orientations are present. Over the last half-century the mechanism for OS has been hotly debated. However the theories that purport to explain OS have almost all considered cortical networks in which the neurons receive input preferentially from cells with similar PO. Such theories certainly capture the connectivity for neurons in orientation domains where neurons are surrounded by other cells with similar PO. However this does not necessarily hold near pinwheels: because of the discontinuous change in orientation preference at the pinwheel, neurons in this area are surrounded by cells of all preferred orientations. Thus if the probability of connection is solely dependent on anatomical distance, the inputs that these neurons receive should represent all orientations by roughly the same amount. Thus one may expect that the response of the cells near pinwheels should hardly vary with orientation, in contrast to experimental data. As a result, the common belief is that, at least near pinwheels, the connectivity depends also on the differences between preferred orientation. The situation near pinwheels in V1 of carnivores and primates is similar to that in the whole of V1 of rodents. In these species, neurons in V1 are OS but the network does not exhibit an orientation map and the surround of the cells represents all orientations roughly equally. In a recent theoretical paper (Hansel and van Vreeswijk 2012) we have demonstrated that in this situation, the response of the cells can still be orientation selective provided that the network operates in the balanced regime. Here we hypothesize that V1 with an orientation map operates in the balanced regime and therefore neurons can exhibit OS near pinwheels even in the absence of functional specific connectivity. The goal of this interdisciplinary project is to investigate whether the “balance hypothesis” holds for layer &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; in V1 of primate and carnivore and whether the functional organization observed in that layer can be accounted for without feature specific connectivity. We will combine modeling and experiments to investigate how the response of the neurons – the mean firing, the mean voltage, the inhibitory and excitatory conductances and importantly, the power spectrum of their fluctuations – vary with the location in the map, and also how a population of neurons – LFP, voltage-sensitive dye imaging or 2 photons – is affected by the various para- meters used to test the system. Whether V1 indeed operates in the balanced regime in more realistic conditions will be further investigated by determining how the local network responds to visual stimuli beyond the classical receptive field. We will investigate this issue in models of layer &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; representing multiple hyper- columns to characterize center-surround interactions and their dependence on the long-range connectivity. This will provide us with predictions for center-surround interactions for cells near pinwheels and in orientation domains. These predictions will be tested experimentally.&lt;/p&gt;
+
+&lt;p&gt;The proposed project is new and ambitious. It aims at building a comprehensive and coherent understand- ing of the physiology of V1 layer &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; on several spatial scales from single cells to several hypercolumns and to account for this in mechanistic models. To accomplish these ambitious aims, we propose a combination of experimental and computational studies that take advantage of the unique strengths and the complementarity of expertise of 3 research teams. The Paris team has extensive experience in large-scale modeling of V1. The Toulouse and Marseille teams master both intra- and extracellular electrophysiology. In addition, the Marseille team is expert in microscopic and mesoscopic imaging techniques in V1.&lt;/p&gt;
+
+&lt;p&gt;Acknowledgement&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;This work was supported by ANR project &amp;quot;BalaV1&amp;quot; N° ANR-13-BSV4-0014-02.  
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANR CausaL (2018/2022)</title>
+      <link>https://laurentperrinet.github.io/project/anr-causal/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/anr-causal/</guid>
+      <description>&lt;p&gt;Humans have an extraordinary capacity to infer cause-effect relations. In particular, we excel in forming ​beliefs ​about the ​causal effect of actions​. Causal learning provides the basis for rational decision-making and allows people to engage in meaningful life and social interactions. Causal learning is a form of goal-directed learning, defined as the capacity to rapidly learn the consequence of actions and to select behaviours according to goals and motivational state. This ability is based on internal models of the consequence of our behaviors​ and relies on learning rules determined by the​ contingency between actions and outcomes​. At a first approximation, contingency Δ​P ​is operationalized as the difference between two conditional probabilities: i) P(O|A), the probability of outcome O given action A; ii) P(O|¬A), the probability of the outcome when the action is withheld. In everyday life, people perceive their actions as causing a given outcome if the contingency is positive, whereas they perceive them as preventing​ ​it​ ​if​ ​negative;​ ​when​ ​P(O|A)​ ​and​ ​P(O|¬A)​ ​are​ ​equal,​ ​people​ ​report​ ​no​ ​causal​ ​effect​​ ​. Despite the centrality of causal learning, a clear understanding of both the internal computations and neural substrates (the so-called ​cognitive architectures​) is currently missing. ​Our project will therefore address​ ​two​ ​key​ ​questions:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;What are the key ​internal representations of causal beliefs and what are the ​computational processes​​ ​that​ ​enable​ ​their​ ​formation​ ​during​ ​learning?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How ​​are ​​internal​ ​representations​ ​and ​​computational​​ processes​ ​​implemented​ ​​in ​​the ​​brain? CausaL​ ​​will​ ​address​ ​these​ ​two​ ​objectives​ ​through​ ​two​ ​dedicated​ ​research​ ​work​ ​packages​ ​(WPs).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Acknowledgement&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;This work was supported by ANR project &amp;quot;ANR Causal&amp;quot; ANR-XXXX.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
   </channel>
