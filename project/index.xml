@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Novel computational paradigms for vision</title>
+    <title>Projects on Novel visual computations</title>
     <link>https://laurentperrinet.github.io/project/</link>
-    <description>Recent content in Projects on Novel computational paradigms for vision</description>
+    <description>Recent content in Projects on Novel visual computations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
@@ -125,7 +125,11 @@ This project is funded by the Aix-Marseille Université, which was awarded the p
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/brain-scales/</guid>
-      <description>Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities.</description>
+      <description>FACETS-ITN: From Neuroscience to neuro-inspired computing (2010&amp;frasl;2013) List of publications that were funded by European Union&amp;rsquo;s project Number FP7-269921, &amp;ldquo;BrainScales&amp;rdquo;.
+See also:
+ The FACETS research project which ended on 31 August 2010.
+ The FACETS-ITN Marie-Curie initital training network for graduate training continues until August 2013
+ The BrainScaleS project builds on and extends the research done in FACETS. This 4 year project started on 1 January 2011</description>
     </item>
     
     <item>
