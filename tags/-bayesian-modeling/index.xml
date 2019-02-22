@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> bayesian modeling on Novel visual computations</title>
+    <title> Bayesian modeling on Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/-bayesian-modeling/</link>
-    <description>Recent content in  bayesian modeling on Novel visual computations</description>
+    <description>Recent content in  Bayesian modeling on Novel visual computations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
@@ -16,11 +16,20 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     <item>
-      <title>Models of low-level vision: linking probabilistic models and neural masses</title>
-      <link>https://laurentperrinet.github.io/talk/2010-01-08-facets/</link>
+      <title>Motion-based prediction is sufficient to solve the aperture problem</title>
+      <link>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</link>
       <pubDate>Fri, 23 Feb 1973 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2010-01-08-facets/</guid>
+      <guid>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
+      <link>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</link>
+      <pubDate>Fri, 23 Feb 1973 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</guid>
       <description></description>
     </item>
     
