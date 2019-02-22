@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Novel computational paradigms for vision</title>
+    <title>Projects on Novel visual computations</title>
     <link>https://laurentperrinet.github.io/project/</link>
-    <description>Recent content in Projects on Novel computational paradigms for vision</description>
+    <description>Recent content in Projects on Novel visual computations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
@@ -30,7 +30,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/anr-causal/</guid>
-      <description>Humans have an extraordinary capacity to infer cause-effect relations. In particular, we excel in forming ​beliefs ​about the ​causal effect of actions​. Causal learning provides the basis for rational decision-making and allows people to engage in meaningful life and social interactions. Causal learning is a form of goal-directed learning, defined as the capacity to rapidly learn the consequence of actions and to select behaviours according to goals and motivational state 1​ ,2​.</description>
+      <description>Humans have an extraordinary capacity to infer cause-effect relations. In particular, we excel in forming ​beliefs ​about the ​causal effect of actions​. Causal learning provides the basis for rational decision-making and allows people to engage in meaningful life and social interactions. Causal learning is a form of goal-directed learning, defined as the capacity to rapidly learn the consequence of actions and to select behaviours according to goals and motivational state. This ability is based on internal models of the consequence of our behaviors​ and relies on learning rules determined by the​ contingency between actions and outcomes​.</description>
     </item>
     
     <item>
@@ -96,7 +96,7 @@ These PhD fellowships are remunerated above that of a standard French PhD contra
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/motion-clouds/</guid>
-      <description></description>
+      <description>Motion Clouds are random, textured dynamical stimuli synthesized such as to challenge spatio-temporal integration properties of the early visual system. Unlike classical low-entropy stimuli such as gratings, these stimuli are less susceptible to create interference patterns when mixed together. This is essential to study integrative and discriminative properties of the low-level sensory systems. Moreover, this pseudo-random stimulation protocol allows to make a trial-by-trial analysis locked to the stimulation onset. This allows to study experimentally trial-by-trial variability and relative importance between measurement noise and contextual uncertainty.</description>
     </item>
     
     <item>
@@ -125,7 +125,21 @@ This project is funded by the Aix-Marseille Université, which was awarded the p
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/brain-scales/</guid>
-      <description>Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities.</description>
+      <description>FACETS-ITN: From Neuroscience to neuro-inspired computing (2010&amp;frasl;2013) List of publications that were funded by European Union&amp;rsquo;s project Number FP7-269921, &amp;ldquo;BrainScales&amp;rdquo;.
+See also:
+ The FACETS research project which ended on 31 August 2010.
+ The FACETS-ITN Marie-Curie initital training network for graduate training continues until August 2013
+ The BrainScaleS project builds on and extends the research done in FACETS. This 4 year project started on 1 January 2011</description>
+    </item>
+    
+    <item>
+      <title>BrainScaleS (2011/2014)</title>
+      <link>https://laurentperrinet.github.io/project/facets-itn/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/facets-itn/</guid>
+      <description>FACETS-ITN: From Neuroscience to neuro-inspired computing (2010&amp;frasl;2013) 
+FACETS ITN project (EU funding, grant number 237955) is a &amp;lsquo;Marie-Curie Initial Training Network&amp;rsquo; involves 15 groups at European Research Universities, Research Centers and Industrial Partners in 6 countries. 22 Ph.D. Positions are funded in the FACETS-ITN project in the following scientific work areas: Neurobiology of Cells and Networks, Modelling of Neural Systems, Neuromorphic Hardware, Neuro-Electronic Interfaces, Computational Principles in Neural Architectures, Mechanisms of Learning and Plasticity.</description>
     </item>
     
     <item>
@@ -148,16 +162,6 @@ This project is funded by the Aix-Marseille Université, which was awarded the p
  The FACETS research project which ended on 31 August 2010.
  The FACETS-ITN Marie-Curie initital training network for graduate training continues until August 2013
  The BrainScaleS project builds on and extends the research done in FACETS. This 4 year project started on 1 January 2011</description>
-    </item>
-    
-    <item>
-      <title>FACETS-ITN (2010/2013)</title>
-      <link>https://laurentperrinet.github.io/project/facets-itn/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/project/facets-itn/</guid>
-      <description>FACETS-ITN: From Neuroscience to neuro-inspired computing (2010&amp;frasl;2013) 
-FACETS ITN project (EU funding, grant number 237955) is a &amp;lsquo;Marie-Curie Initial Training Network&amp;rsquo; involves 15 groups at European Research Universities, Research Centers and Industrial Partners in 6 countries. 22 Ph.D. Positions are funded in the FACETS-ITN project in the following scientific work areas: Neurobiology of Cells and Networks, Modelling of Neural Systems, Neuromorphic Hardware, Neuro-Electronic Interfaces, Computational Principles in Neural Architectures, Mechanisms of Learning and Plasticity.</description>
     </item>
     
     <item>

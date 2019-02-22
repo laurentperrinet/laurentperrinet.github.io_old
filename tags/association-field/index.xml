@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>association field on Novel computational paradigms for vision</title>
+    <title>association field on Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/association-field/</link>
-    <description>Recent content in association field on Novel computational paradigms for vision</description>
+    <description>Recent content in association field on Novel visual computations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
-    <lastBuildDate>Wed, 10 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://laurentperrinet.github.io/tags/association-field/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Edge co-occurrences are sufficient to categorize natural versus animal images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Phase space analysis of networks based on biologically realistic parameters.</title>
@@ -25,11 +34,84 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>Phase space analysis of networks based on biologically realistic parameters.</title>
+      <link>https://laurentperrinet.github.io/publication/voges-10-a/</link>
+      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/voges-10-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of homeostasis in learning sparse representations</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-10-shl/</link>
+      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-10-shl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-08-spie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-08-spie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-04-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-04-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge co-occurrences can account for rapid categorization of natural versus animal images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</guid>
+      <description>A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain. Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.
+They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.</description>
+    </item>
+    
+    <item>
+      <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>
     

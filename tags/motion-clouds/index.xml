@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>motion-clouds on Novel computational paradigms for vision</title>
+    <title>motion-clouds on Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/motion-clouds/</link>
-    <description>Recent content in motion-clouds on Novel computational paradigms for vision</description>
+    <description>Recent content in motion-clouds on Novel visual computations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
@@ -21,6 +21,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/motion-clouds/</guid>
+      <description>Motion Clouds are random, textured dynamical stimuli synthesized such as to challenge spatio-temporal integration properties of the early visual system. Unlike classical low-entropy stimuli such as gratings, these stimuli are less susceptible to create interference patterns when mixed together. This is essential to study integrative and discriminative properties of the low-level sensory systems. Moreover, this pseudo-random stimulation protocol allows to make a trial-by-trial analysis locked to the stimulation onset. This allows to study experimentally trial-by-trial variability and relative importance between measurement noise and contextual uncertainty.</description>
+    </item>
+    
+    <item>
+      <title>Beyond simply faster and slower: exploring paradoxes in speed perception</title>
+      <link>https://laurentperrinet.github.io/publication/meso-14-vss/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/meso-14-vss/</guid>
       <description></description>
     </item>
     
@@ -43,6 +52,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-14-vss/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-14-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</title>
       <link>https://laurentperrinet.github.io/publication/sanz-12/</link>
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
@@ -52,11 +70,56 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</title>
+      <link>https://laurentperrinet.github.io/publication/sanz-12/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/sanz-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</link>
+      <pubDate>Fri, 23 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of homeostasis in learning sparse representations</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-10-shl/</link>
+      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-10-shl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception</title>
       <link>https://laurentperrinet.github.io/publication/vacher-15-icms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/vacher-15-icms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</title>
+      <link>https://laurentperrinet.github.io/publication/vacher-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/vacher-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</title>
+      <link>https://laurentperrinet.github.io/publication/vacher-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/vacher-16/</guid>
       <description></description>
     </item>
     
@@ -88,6 +151,24 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-10-vss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-10-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Textures For Probing Motion Perception</title>
+      <link>https://laurentperrinet.github.io/publication/vacher-14-ihp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamic Textures For Probing Motion Perception</title>
       <link>https://laurentperrinet.github.io/publication/vacher-14-ihp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,11 +187,47 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following.</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-08-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following.</title>
+      <link>https://laurentperrinet.github.io/publication/barthelemy-08-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/barthelemy-08-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How and why do image frequency properties influence perceived speed?</title>
+      <link>https://laurentperrinet.github.io/publication/meso-13-vss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/meso-13-vss/</guid>
       <description></description>
     </item>
     
@@ -134,10 +251,37 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     <item>
       <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-12-coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-12-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-13-vss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-13-vss/</guid>
       <description></description>
     </item>
     
@@ -160,6 +304,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>More is not always better: dissociation between perception and action explained by adaptive gain control</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/simoncini-12/</guid>
+      <description>Band-pass motion stimuli for perception and action tasks. (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples.</description>
+    </item>
+    
+    <item>
       <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
       <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -169,11 +322,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>Spatiotemporal tuning of retinal ganglion cells dependent on the context of signal presentation</title>
-      <link>https://laurentperrinet.github.io/publication/ravello-15/</link>
+      <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/ravello-15/</guid>
+      <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
       <description></description>
     </item>
     
@@ -184,33 +337,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       
       <guid>https://laurentperrinet.github.io/publication/ravello-19/</guid>
       <description>Dès la rétine, le système visuel préfère des images naturelles Dans la rétine, au premier étage du traitement de l&amp;rsquo;image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l&amp;rsquo;image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l&amp;rsquo;utilisation d&amp;rsquo;un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.</description>
-    </item>
-    
-    <item>
-      <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
-      <link>https://laurentperrinet.github.io/publication/mansour-16-ecvp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/mansour-16-ecvp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
-      <link>https://laurentperrinet.github.io/publication/mansour-16-gdr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/mansour-16-gdr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
-      <link>https://laurentperrinet.github.io/publication/mansour-16-sfn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/mansour-16-sfn/</guid>
-      <description></description>
     </item>
     
   </channel>

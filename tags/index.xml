@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Novel computational paradigms for vision</title>
+    <title>Tags on Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/</link>
-    <description>Recent content in Tags on Novel computational paradigms for vision</description>
+    <description>Recent content in Tags on Novel visual computations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://laurentperrinet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2D Motion</title>
+      <link>https://laurentperrinet.github.io/tags/2d-motion/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/2d-motion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Academic</title>
@@ -25,29 +34,38 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>Computer vision</title>
-      <link>https://laurentperrinet.github.io/tags/computer-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Aperture problem</title>
+      <link>https://laurentperrinet.github.io/tags/aperture-problem/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/computer-vision/</guid>
+      <guid>https://laurentperrinet.github.io/tags/aperture-problem/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Decoding</title>
-      <link>https://laurentperrinet.github.io/tags/decoding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Bayesian model</title>
+      <link>https://laurentperrinet.github.io/tags/bayesian-model/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/decoding/</guid>
+      <guid>https://laurentperrinet.github.io/tags/bayesian-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dynamic textures</title>
-      <link>https://laurentperrinet.github.io/tags/dynamic-textures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Bayesian modeling</title>
+      <link>https://laurentperrinet.github.io/tags/bayesian-modeling/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/dynamic-textures/</guid>
+      <guid>https://laurentperrinet.github.io/tags/bayesian-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biologically Inspired Computer vision</title>
+      <link>https://laurentperrinet.github.io/tags/biologically-inspired-computer-vision/</link>
+      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/biologically-inspired-computer-vision/</guid>
       <description></description>
     </item>
     
@@ -70,56 +88,65 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>Image texture ; Neuroscience ; Computer vision ; Retina</title>
-      <link>https://laurentperrinet.github.io/tags/image-texture-neuroscience-computer-vision-retina/</link>
+      <title>Image texture; sparse coding; Biologically Inspired Computer vision; Retina</title>
+      <link>https://laurentperrinet.github.io/tags/image-texture-sparse-coding-biologically-inspired-computer-vision-retina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/image-texture-neuroscience-computer-vision-retina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine vision</title>
-      <link>https://laurentperrinet.github.io/tags/machine-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/machine-vision/</guid>
+      <guid>https://laurentperrinet.github.io/tags/image-texture-sparse-coding-biologically-inspired-computer-vision-retina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion perception</title>
       <link>https://laurentperrinet.github.io/tags/motion-perception/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/motion-perception/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Negative-binomial distribution</title>
-      <link>https://laurentperrinet.github.io/tags/negative-binomial-distribution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Navier-Stokes</title>
+      <link>https://laurentperrinet.github.io/tags/navier-stokes/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/negative-binomial-distribution/</guid>
+      <guid>https://laurentperrinet.github.io/tags/navier-stokes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Neuroscience</title>
-      <link>https://laurentperrinet.github.io/tags/neuroscience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Neuronal representation</title>
+      <link>https://laurentperrinet.github.io/tags/neuronal-representation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/neuroscience/</guid>
+      <guid>https://laurentperrinet.github.io/tags/neuronal-representation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Overdispersion</title>
-      <link>https://laurentperrinet.github.io/tags/overdispersion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Neurosciences Computationnelles</title>
+      <link>https://laurentperrinet.github.io/tags/neurosciences-computationnelles/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/overdispersion/</guid>
+      <guid>https://laurentperrinet.github.io/tags/neurosciences-computationnelles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object motion</title>
+      <link>https://laurentperrinet.github.io/tags/object-motion/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/object-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDE</title>
+      <link>https://laurentperrinet.github.io/tags/pde/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/pde/</guid>
       <description></description>
     </item>
     
@@ -142,56 +169,38 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>RetinaClouds</title>
-      <link>https://laurentperrinet.github.io/tags/retinaclouds/</link>
+      <title>Retina</title>
+      <link>https://laurentperrinet.github.io/tags/retina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/retinaclouds/</guid>
+      <guid>https://laurentperrinet.github.io/tags/retina/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sensory coding</title>
-      <link>https://laurentperrinet.github.io/tags/sensory-coding/</link>
+      <title>Retina; motion detection</title>
+      <link>https://laurentperrinet.github.io/tags/retina-motion-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/sensory-coding/</guid>
+      <guid>https://laurentperrinet.github.io/tags/retina-motion-detection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spike counts</title>
-      <link>https://laurentperrinet.github.io/tags/spike-counts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Smooth pursuit eye movement</title>
+      <link>https://laurentperrinet.github.io/tags/smooth-pursuit-eye-movement/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/spike-counts/</guid>
+      <guid>https://laurentperrinet.github.io/tags/smooth-pursuit-eye-movement/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stochastic Par-tial Differential Equations</title>
-      <link>https://laurentperrinet.github.io/tags/stochastic-par-tial-differential-equations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Temporal evolution.</title>
+      <link>https://laurentperrinet.github.io/tags/temporal-evolution./</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/stochastic-par-tial-differential-equations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tuning function</title>
-      <link>https://laurentperrinet.github.io/tags/tuning-function/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/tuning-function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual Cortex</title>
-      <link>https://laurentperrinet.github.io/tags/visual-cortex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/visual-cortex/</guid>
+      <guid>https://laurentperrinet.github.io/tags/temporal-evolution./</guid>
       <description></description>
     </item>
     
@@ -201,42 +210,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/active-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>adaptive</title>
-      <link>https://laurentperrinet.github.io/tags/adaptive/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/adaptive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>anr-speed</title>
-      <link>https://laurentperrinet.github.io/tags/anr-speed/</link>
-      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/anr-speed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>anr-trax</title>
-      <link>https://laurentperrinet.github.io/tags/anr-trax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/anr-trax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aperture</title>
-      <link>https://laurentperrinet.github.io/tags/aperture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/aperture/</guid>
       <description></description>
     </item>
     
@@ -252,7 +225,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>area-v1</title>
       <link>https://laurentperrinet.github.io/tags/area-v1/</link>
-      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/area-v1/</guid>
       <description></description>
@@ -261,81 +234,54 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>association field</title>
       <link>https://laurentperrinet.github.io/tags/association-field/</link>
-      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/association-field/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>assofield</title>
-      <link>https://laurentperrinet.github.io/tags/assofield/</link>
-      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/assofield/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>asynchronous</title>
-      <link>https://laurentperrinet.github.io/tags/asynchronous/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/asynchronous/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bayesian</title>
       <link>https://laurentperrinet.github.io/tags/bayesian/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/bayesian/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>bayesian modeling</title>
+      <link>https://laurentperrinet.github.io/tags/bayesian-modeling/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/bayesian-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>bayesian models</title>
       <link>https://laurentperrinet.github.io/tags/bayesian-models/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/bayesian-models/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>behavioral_receptive_field</title>
-      <link>https://laurentperrinet.github.io/tags/behavioral_receptive_field/</link>
-      <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/behavioral_receptive_field/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bicv-motion</title>
       <link>https://laurentperrinet.github.io/tags/bicv-motion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/bicv-motion/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>bicv-sparse</title>
-      <link>https://laurentperrinet.github.io/tags/bicv-sparse/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
+      <title>center-surround integration</title>
+      <link>https://laurentperrinet.github.io/tags/center-surround-integration/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/bicv-sparse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cell</title>
-      <link>https://laurentperrinet.github.io/tags/cell/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/cell/</guid>
+      <guid>https://laurentperrinet.github.io/tags/center-surround-integration/</guid>
       <description></description>
     </item>
     
@@ -349,146 +295,38 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>coding</title>
-      <link>https://laurentperrinet.github.io/tags/coding/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
+      <title>center-surround stimulation</title>
+      <link>https://laurentperrinet.github.io/tags/center-surround-stimulation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/coding/</guid>
+      <guid>https://laurentperrinet.github.io/tags/center-surround-stimulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>competition</title>
-      <link>https://laurentperrinet.github.io/tags/competition/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
+      <title>champ neural</title>
+      <link>https://laurentperrinet.github.io/tags/champ-neural/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/competition/</guid>
+      <guid>https://laurentperrinet.github.io/tags/champ-neural/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>computation</title>
-      <link>https://laurentperrinet.github.io/tags/computation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>coding decoding</title>
+      <link>https://laurentperrinet.github.io/tags/coding-decoding/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/computation/</guid>
+      <guid>https://laurentperrinet.github.io/tags/coding-decoding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>computational-neuroscience</title>
+      <title>computational neuroscience</title>
       <link>https://laurentperrinet.github.io/tags/computational-neuroscience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/computational-neuroscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computing</title>
-      <link>https://laurentperrinet.github.io/tags/computing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conductances</title>
-      <link>https://laurentperrinet.github.io/tags/conductances/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/conductances/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>connections</title>
-      <link>https://laurentperrinet.github.io/tags/connections/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/connections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cooperative</title>
-      <link>https://laurentperrinet.github.io/tags/cooperative/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/cooperative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>correlated</title>
-      <link>https://laurentperrinet.github.io/tags/correlated/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/correlated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>correlation-based</title>
-      <link>https://laurentperrinet.github.io/tags/correlation-based/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/correlation-based/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cortex</title>
-      <link>https://laurentperrinet.github.io/tags/cortex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/cortex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>decoding</title>
-      <link>https://laurentperrinet.github.io/tags/decoding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/decoding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>decorrelation</title>
-      <link>https://laurentperrinet.github.io/tags/decorrelation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/decorrelation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>delays</title>
-      <link>https://laurentperrinet.github.io/tags/delays/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/delays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>denoising</title>
-      <link>https://laurentperrinet.github.io/tags/denoising/</link>
-      <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/denoising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dependent</title>
-      <link>https://laurentperrinet.github.io/tags/dependent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/dependent/</guid>
       <description></description>
     </item>
     
@@ -502,92 +340,29 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>distributed</title>
-      <link>https://laurentperrinet.github.io/tags/distributed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>divisive normalization.</title>
+      <link>https://laurentperrinet.github.io/tags/divisive-normalization./</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/distributed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>divisive normalization</title>
-      <link>https://laurentperrinet.github.io/tags/divisive-normalization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/divisive-normalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dynamical_model</title>
-      <link>https://laurentperrinet.github.io/tags/dynamical_model/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/dynamical_model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>efficient</title>
-      <link>https://laurentperrinet.github.io/tags/efficient/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/efficient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emergence</title>
-      <link>https://laurentperrinet.github.io/tags/emergence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/emergence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolution</title>
-      <link>https://laurentperrinet.github.io/tags/evolution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eye</title>
-      <link>https://laurentperrinet.github.io/tags/eye/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/eye/</guid>
+      <guid>https://laurentperrinet.github.io/tags/divisive-normalization./</guid>
       <description></description>
     </item>
     
     <item>
       <title>eye movements</title>
       <link>https://laurentperrinet.github.io/tags/eye-movements/</link>
-      <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/eye-movements/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>eye-movements</title>
-      <link>https://laurentperrinet.github.io/tags/eye-movements/</link>
-      <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
+      <title>eye movements; active inference</title>
+      <link>https://laurentperrinet.github.io/tags/eye-movements-active-inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/eye-movements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eye_velocity</title>
-      <link>https://laurentperrinet.github.io/tags/eye_velocity/</link>
-      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/eye_velocity/</guid>
+      <guid>https://laurentperrinet.github.io/tags/eye-movements-active-inference/</guid>
       <description></description>
     </item>
     
@@ -601,47 +376,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>field</title>
-      <link>https://laurentperrinet.github.io/tags/field/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>filtre particulaire</title>
+      <link>https://laurentperrinet.github.io/tags/filtre-particulaire/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/field/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fields</title>
-      <link>https://laurentperrinet.github.io/tags/fields/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/fields/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>filters</title>
-      <link>https://laurentperrinet.github.io/tags/filters/</link>
-      <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/filters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>following</title>
-      <link>https://laurentperrinet.github.io/tags/following/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/following/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>framework</title>
-      <link>https://laurentperrinet.github.io/tags/framework/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/framework/</guid>
+      <guid>https://laurentperrinet.github.io/tags/filtre-particulaire/</guid>
       <description></description>
     </item>
     
@@ -655,11 +394,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>freemove</title>
-      <link>https://laurentperrinet.github.io/tags/freemove/</link>
+      <title>free-energy</title>
+      <link>https://laurentperrinet.github.io/tags/free-energy/</link>
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/freemove/</guid>
+      <guid>https://laurentperrinet.github.io/tags/free-energy/</guid>
       <description></description>
     </item>
     
@@ -673,38 +412,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>generalized-coordinates</title>
-      <link>https://laurentperrinet.github.io/tags/generalized-coordinates/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
+      <title>grant</title>
+      <link>https://laurentperrinet.github.io/tags/grant/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/generalized-coordinates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generalized-filtering</title>
-      <link>https://laurentperrinet.github.io/tags/generalized-filtering/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/generalized-filtering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hebb</title>
-      <link>https://laurentperrinet.github.io/tags/hebb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/hebb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hebbian</title>
-      <link>https://laurentperrinet.github.io/tags/hebbian/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/hebbian/</guid>
+      <guid>https://laurentperrinet.github.io/tags/grant/</guid>
       <description></description>
     </item>
     
@@ -718,101 +430,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>ies</title>
-      <link>https://laurentperrinet.github.io/tags/ies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/ies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>image</title>
-      <link>https://laurentperrinet.github.io/tags/image/</link>
-      <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/image/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>images</title>
-      <link>https://laurentperrinet.github.io/tags/images/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/images/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inference</title>
-      <link>https://laurentperrinet.github.io/tags/inference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>inhibition</title>
       <link>https://laurentperrinet.github.io/tags/inhibition/</link>
       <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/inhibition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>integrate_and_fire</title>
-      <link>https://laurentperrinet.github.io/tags/integrate_and_fire/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/integrate_and_fire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>integration</title>
-      <link>https://laurentperrinet.github.io/tags/integration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interactions</title>
-      <link>https://laurentperrinet.github.io/tags/interactions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/interactions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inverse</title>
-      <link>https://laurentperrinet.github.io/tags/inverse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/inverse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kaplan13</title>
-      <link>https://laurentperrinet.github.io/tags/kaplan13/</link>
-      <pubDate>Fri, 22 Apr 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/kaplan13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>khoei13jpp</title>
-      <link>https://laurentperrinet.github.io/tags/khoei13jpp/</link>
-      <pubDate>Fri, 22 Apr 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/khoei13jpp/</guid>
       <description></description>
     </item>
     
@@ -826,65 +448,47 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>kinetic</title>
-      <link>https://laurentperrinet.github.io/tags/kinetic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>khoei14thesis</title>
+      <link>https://laurentperrinet.github.io/tags/khoei14thesis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/kinetic/</guid>
+      <guid>https://laurentperrinet.github.io/tags/khoei14thesis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>large-scale neuromorphic systems</title>
-      <link>https://laurentperrinet.github.io/tags/large-scale-neuromorphic-systems/</link>
+      <title>khoei15fle</title>
+      <link>https://laurentperrinet.github.io/tags/khoei15fle/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/khoei15fle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large-scale_networks</title>
+      <link>https://laurentperrinet.github.io/tags/large-scale_networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/large-scale_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large-scale_networks; pynn</title>
+      <link>https://laurentperrinet.github.io/tags/large-scale_networks-pynn/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/large-scale-neuromorphic-systems/</guid>
+      <guid>https://laurentperrinet.github.io/tags/large-scale_networks-pynn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>large_scale_networks</title>
-      <link>https://laurentperrinet.github.io/tags/large_scale_networks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/large_scale_networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lateral</title>
-      <link>https://laurentperrinet.github.io/tags/lateral/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/lateral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lateral-connections</title>
+      <title>lateral connections</title>
       <link>https://laurentperrinet.github.io/tags/lateral-connections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/lateral-connections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>learning</title>
-      <link>https://laurentperrinet.github.io/tags/learning/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linear</title>
-      <link>https://laurentperrinet.github.io/tags/linear/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/linear/</guid>
       <description></description>
     </item>
     
@@ -898,92 +502,74 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>matching</title>
-      <link>https://laurentperrinet.github.io/tags/matching/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>matching-pursuit</title>
+      <title>matching pursuit</title>
       <link>https://laurentperrinet.github.io/tags/matching-pursuit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/matching-pursuit/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>microsaccades</title>
-      <link>https://laurentperrinet.github.io/tags/microsaccades/</link>
-      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/microsaccades/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>model</title>
-      <link>https://laurentperrinet.github.io/tags/model/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>modeling</title>
-      <link>https://laurentperrinet.github.io/tags/modeling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>models</title>
       <link>https://laurentperrinet.github.io/tags/models/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/models/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>motion</title>
-      <link>https://laurentperrinet.github.io/tags/motion/</link>
-      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <title>modèle Bayésien</title>
+      <link>https://laurentperrinet.github.io/tags/mod%C3%A8le-bay%C3%A9sien/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/motion/</guid>
+      <guid>https://laurentperrinet.github.io/tags/mod%C3%A8le-bay%C3%A9sien/</guid>
       <description></description>
     </item>
     
     <item>
       <title>motion detection</title>
       <link>https://laurentperrinet.github.io/tags/motion-detection/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/motion-detection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>motion extrapolation</title>
-      <link>https://laurentperrinet.github.io/tags/motion-extrapolation/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      <title>motion detection; active inference</title>
+      <link>https://laurentperrinet.github.io/tags/motion-detection-active-inference/</link>
+      <pubDate>Fri, 26 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/motion-extrapolation/</guid>
+      <guid>https://laurentperrinet.github.io/tags/motion-detection-active-inference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>motion perception</title>
-      <link>https://laurentperrinet.github.io/tags/motion-perception/</link>
+      <title>motion detection; pynn</title>
+      <link>https://laurentperrinet.github.io/tags/motion-detection-pynn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/motion-perception/</guid>
+      <guid>https://laurentperrinet.github.io/tags/motion-detection-pynn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motion prediction</title>
+      <link>https://laurentperrinet.github.io/tags/motion-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/motion-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motion-based segmentation</title>
+      <link>https://laurentperrinet.github.io/tags/motion-based-segmentation/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/motion-based-segmentation/</guid>
       <description></description>
     </item>
     
@@ -997,515 +583,92 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>motion-estimation</title>
-      <link>https://laurentperrinet.github.io/tags/motion-estimation/</link>
-      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <title>mouvements oculaires</title>
+      <link>https://laurentperrinet.github.io/tags/mouvements-oculaires/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/motion-estimation/</guid>
+      <guid>https://laurentperrinet.github.io/tags/mouvements-oculaires/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>motion-extrapolation</title>
-      <link>https://laurentperrinet.github.io/tags/motion-extrapolation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>neural masses</title>
+      <link>https://laurentperrinet.github.io/tags/neural-masses/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/motion-extrapolation/</guid>
+      <guid>https://laurentperrinet.github.io/tags/neural-masses/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>motion-integration</title>
-      <link>https://laurentperrinet.github.io/tags/motion-integration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>neural_delays</title>
+      <link>https://laurentperrinet.github.io/tags/neural_delays/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/motion-integration/</guid>
+      <guid>https://laurentperrinet.github.io/tags/neural_delays/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>motion-perception</title>
-      <link>https://laurentperrinet.github.io/tags/motion-perception/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/motion-perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motion-segmentation</title>
-      <link>https://laurentperrinet.github.io/tags/motion-segmentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/motion-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motion_2d</title>
-      <link>https://laurentperrinet.github.io/tags/motion_2d/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/motion_2d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motion_clouds</title>
-      <link>https://laurentperrinet.github.io/tags/motion_clouds/</link>
-      <pubDate>Fri, 23 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/motion_clouds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>motion_estimation</title>
-      <link>https://laurentperrinet.github.io/tags/motion_estimation/</link>
-      <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/motion_estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movement</title>
-      <link>https://laurentperrinet.github.io/tags/movement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/movement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>movements</title>
-      <link>https://laurentperrinet.github.io/tags/movements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/movements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>moving_target</title>
-      <link>https://laurentperrinet.github.io/tags/moving_target/</link>
-      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/moving_target/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>natural</title>
-      <link>https://laurentperrinet.github.io/tags/natural/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/natural/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>natural visual stimuli</title>
-      <link>https://laurentperrinet.github.io/tags/natural-visual-stimuli/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/natural-visual-stimuli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>navier-stokes</title>
-      <link>https://laurentperrinet.github.io/tags/navier-stokes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/navier-stokes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>negative-binomial distribution</title>
-      <link>https://laurentperrinet.github.io/tags/negative-binomial-distribution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/negative-binomial-distribution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network of spiking neurons</title>
-      <link>https://laurentperrinet.github.io/tags/network-of-spiking-neurons/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/network-of-spiking-neurons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network_dynamics</title>
-      <link>https://laurentperrinet.github.io/tags/network_dynamics/</link>
-      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/network_dynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>networks</title>
-      <link>https://laurentperrinet.github.io/tags/networks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural</title>
-      <link>https://laurentperrinet.github.io/tags/neural/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/neural/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural_masses</title>
-      <link>https://laurentperrinet.github.io/tags/neural_masses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/neural_masses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural_representation</title>
-      <link>https://laurentperrinet.github.io/tags/neural_representation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/neural_representation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuralensemble</title>
-      <link>https://laurentperrinet.github.io/tags/neuralensemble/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/neuralensemble/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuronal</title>
-      <link>https://laurentperrinet.github.io/tags/neuronal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/neuronal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuronal_representation</title>
-      <link>https://laurentperrinet.github.io/tags/neuronal_representation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/neuronal_representation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neurotools</title>
-      <link>https://laurentperrinet.github.io/tags/neurotools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/neurotools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>normalization</title>
-      <link>https://laurentperrinet.github.io/tags/normalization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/normalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>object</title>
-      <link>https://laurentperrinet.github.io/tags/object/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/object/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>occlusion</title>
-      <link>https://laurentperrinet.github.io/tags/occlusion/</link>
-      <pubDate>Fri, 26 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/occlusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ocular</title>
-      <link>https://laurentperrinet.github.io/tags/ocular/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/ocular/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ocular-following-response</title>
+      <title>ocular following response</title>
       <link>https://laurentperrinet.github.io/tags/ocular-following-response/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/ocular-following-response/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ocular_following_response</title>
-      <link>https://laurentperrinet.github.io/tags/ocular_following_response/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>particles</title>
+      <link>https://laurentperrinet.github.io/tags/particles/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/ocular_following_response/</guid>
+      <guid>https://laurentperrinet.github.io/tags/particles/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>oculomotor</title>
-      <link>https://laurentperrinet.github.io/tags/oculomotor/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
+      <title>perception du mouvement</title>
+      <link>https://laurentperrinet.github.io/tags/perception-du-mouvement/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/oculomotor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>of</title>
-      <link>https://laurentperrinet.github.io/tags/of/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/of/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ofr</title>
-      <link>https://laurentperrinet.github.io/tags/ofr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/ofr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimized</title>
-      <link>https://laurentperrinet.github.io/tags/optimized/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/optimized/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>order</title>
-      <link>https://laurentperrinet.github.io/tags/order/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/order/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>oriented</title>
-      <link>https://laurentperrinet.github.io/tags/oriented/</link>
-      <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/oriented/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>over-complete</title>
-      <link>https://laurentperrinet.github.io/tags/over-complete/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/over-complete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>overcomplete_dictionaries</title>
-      <link>https://laurentperrinet.github.io/tags/overcomplete_dictionaries/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/overcomplete_dictionaries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>overdispersion</title>
-      <link>https://laurentperrinet.github.io/tags/overdispersion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/overdispersion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parallel-processing</title>
-      <link>https://laurentperrinet.github.io/tags/parallel-processing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/parallel-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>particle-filter</title>
-      <link>https://laurentperrinet.github.io/tags/particle-filter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/particle-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>patch-based</title>
-      <link>https://laurentperrinet.github.io/tags/patch-based/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/patch-based/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pde</title>
-      <link>https://laurentperrinet.github.io/tags/pde/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/pde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>perception</title>
-      <link>https://laurentperrinet.github.io/tags/perception/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>perrinet10shl</title>
-      <link>https://laurentperrinet.github.io/tags/perrinet10shl/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/perrinet10shl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>perrinet11sfn</title>
-      <link>https://laurentperrinet.github.io/tags/perrinet11sfn/</link>
-      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/perrinet11sfn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>perrinet12pred</title>
-      <link>https://laurentperrinet.github.io/tags/perrinet12pred/</link>
-      <pubDate>Fri, 22 Apr 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/perrinet12pred/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plasticity</title>
-      <link>https://laurentperrinet.github.io/tags/plasticity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/plasticity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>population</title>
-      <link>https://laurentperrinet.github.io/tags/population/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/population/</guid>
+      <guid>https://laurentperrinet.github.io/tags/perception-du-mouvement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>predictive coding</title>
       <link>https://laurentperrinet.github.io/tags/predictive-coding/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/predictive-coding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>primate</title>
-      <link>https://laurentperrinet.github.io/tags/primate/</link>
-      <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
+      <title>probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/tags/probabilistic-framework/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/primate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>probabilistic</title>
-      <link>https://laurentperrinet.github.io/tags/probabilistic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/probabilistic/</guid>
+      <guid>https://laurentperrinet.github.io/tags/probabilistic-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>probabilistic representation</title>
       <link>https://laurentperrinet.github.io/tags/probabilistic-representation/</link>
-      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/probabilistic-representation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>probabilistic_framework</title>
-      <link>https://laurentperrinet.github.io/tags/probabilistic_framework/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>propriétés émergentes.</title>
+      <link>https://laurentperrinet.github.io/tags/propri%C3%A9t%C3%A9s-%C3%A9mergentes./</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/probabilistic_framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>problem</title>
-      <link>https://laurentperrinet.github.io/tags/problem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/problem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>propagation</title>
-      <link>https://laurentperrinet.github.io/tags/propagation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/propagation/</guid>
+      <guid>https://laurentperrinet.github.io/tags/propri%C3%A9t%C3%A9s-%C3%A9mergentes./</guid>
       <description></description>
     </item>
     
@@ -1519,38 +682,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>pursuit</title>
-      <link>https://laurentperrinet.github.io/tags/pursuit/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/pursuit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>push-pull receptive field</title>
-      <link>https://laurentperrinet.github.io/tags/push-pull-receptive-field/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/push-pull-receptive-field/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pynn</title>
       <link>https://laurentperrinet.github.io/tags/pynn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/pynn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rank</title>
-      <link>https://laurentperrinet.github.io/tags/rank/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/rank/</guid>
       <description></description>
     </item>
     
@@ -1564,74 +700,20 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>re-</title>
-      <link>https://laurentperrinet.github.io/tags/re-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/re-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>receptive</title>
-      <link>https://laurentperrinet.github.io/tags/receptive/</link>
+      <title>receptive field</title>
+      <link>https://laurentperrinet.github.io/tags/receptive-field/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/receptive/</guid>
+      <guid>https://laurentperrinet.github.io/tags/receptive-field/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>receptive_field</title>
-      <link>https://laurentperrinet.github.io/tags/receptive_field/</link>
-      <pubDate>Wed, 29 Jun 2005 00:00:00 +0000</pubDate>
+      <title>recursive inference</title>
+      <link>https://laurentperrinet.github.io/tags/recursive-inference/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/receptive_field/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>recurrent_neural_networks</title>
-      <link>https://laurentperrinet.github.io/tags/recurrent_neural_networks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/recurrent_neural_networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>recursive</title>
-      <link>https://laurentperrinet.github.io/tags/recursive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/recursive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>representation</title>
-      <link>https://laurentperrinet.github.io/tags/representation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/representation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>response</title>
-      <link>https://laurentperrinet.github.io/tags/response/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/response/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>response_latency</title>
-      <link>https://laurentperrinet.github.io/tags/response_latency/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/response_latency/</guid>
+      <guid>https://laurentperrinet.github.io/tags/recursive-inference/</guid>
       <description></description>
     </item>
     
@@ -1645,114 +727,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>rule</title>
-      <link>https://laurentperrinet.github.io/tags/rule/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/rule/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>saccades</title>
-      <link>https://laurentperrinet.github.io/tags/saccades/</link>
-      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/saccades/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>saccades; active inference</title>
-      <link>https://laurentperrinet.github.io/tags/saccades-active-inference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/saccades-active-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sanz-12</title>
-      <link>https://laurentperrinet.github.io/tags/sanz-12/</link>
-      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/sanz-12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sanz12jnp</title>
-      <link>https://laurentperrinet.github.io/tags/sanz12jnp/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/sanz12jnp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scene</title>
-      <link>https://laurentperrinet.github.io/tags/scene/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/scene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>schizophrenia</title>
-      <link>https://laurentperrinet.github.io/tags/schizophrenia/</link>
-      <pubDate>Fri, 26 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/schizophrenia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>signal</title>
-      <link>https://laurentperrinet.github.io/tags/signal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/signal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>simple</title>
-      <link>https://laurentperrinet.github.io/tags/simple/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/simple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>smooth</title>
-      <link>https://laurentperrinet.github.io/tags/smooth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/smooth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>smooth-pursuit</title>
-      <link>https://laurentperrinet.github.io/tags/smooth-pursuit/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/smooth-pursuit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sparse</title>
-      <link>https://laurentperrinet.github.io/tags/sparse/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/sparse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sparse coding</title>
       <link>https://laurentperrinet.github.io/tags/sparse-coding/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
@@ -1762,29 +736,20 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>sparse_hebbian_learning</title>
-      <link>https://laurentperrinet.github.io/tags/sparse_hebbian_learning/</link>
+      <title>sparse hebbian learning</title>
+      <link>https://laurentperrinet.github.io/tags/sparse-hebbian-learning/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/sparse_hebbian_learning/</guid>
+      <guid>https://laurentperrinet.github.io/tags/sparse-hebbian-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>sparse_spike_coding</title>
-      <link>https://laurentperrinet.github.io/tags/sparse_spike_coding/</link>
-      <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/sparse_spike_coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sparselet</title>
-      <link>https://laurentperrinet.github.io/tags/sparselet/</link>
+      <title>sparse hebbian learning; stdp</title>
+      <link>https://laurentperrinet.github.io/tags/sparse-hebbian-learning-stdp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/sparselet/</guid>
+      <guid>https://laurentperrinet.github.io/tags/sparse-hebbian-learning-stdp/</guid>
       <description></description>
     </item>
     
@@ -1798,83 +763,20 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>speed-tuning</title>
-      <link>https://laurentperrinet.github.io/tags/speed-tuning/</link>
-      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/speed-tuning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spem; active inference</title>
-      <link>https://laurentperrinet.github.io/tags/spem-active-inference/</link>
-      <pubDate>Fri, 26 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/spem-active-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>spike</title>
       <link>https://laurentperrinet.github.io/tags/spike/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/spike/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>spike counts</title>
-      <link>https://laurentperrinet.github.io/tags/spike-counts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/spike-counts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spike-event</title>
-      <link>https://laurentperrinet.github.io/tags/spike-event/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/spike-event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spikes</title>
-      <link>https://laurentperrinet.github.io/tags/spikes/</link>
-      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/spikes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spiking</title>
-      <link>https://laurentperrinet.github.io/tags/spiking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/spiking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sponse</title>
-      <link>https://laurentperrinet.github.io/tags/sponse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/sponse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>statistics</title>
-      <link>https://laurentperrinet.github.io/tags/statistics/</link>
+      <title>staistics of natural images</title>
+      <link>https://laurentperrinet.github.io/tags/staistics-of-natural-images/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/statistics/</guid>
+      <guid>https://laurentperrinet.github.io/tags/staistics-of-natural-images/</guid>
       <description></description>
     </item>
     
@@ -1888,155 +790,20 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>synaptic</title>
-      <link>https://laurentperrinet.github.io/tags/synaptic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>temporal delays</title>
+      <link>https://laurentperrinet.github.io/tags/temporal-delays/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/synaptic/</guid>
+      <guid>https://laurentperrinet.github.io/tags/temporal-delays/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>taouali14</title>
-      <link>https://laurentperrinet.github.io/tags/taouali14/</link>
-      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/taouali14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>taouali15</title>
-      <link>https://laurentperrinet.github.io/tags/taouali15/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/taouali15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>target_speed</title>
-      <link>https://laurentperrinet.github.io/tags/target_speed/</link>
-      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/target_speed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>temporal</title>
-      <link>https://laurentperrinet.github.io/tags/temporal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/temporal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>texture</title>
-      <link>https://laurentperrinet.github.io/tags/texture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/texture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>textures</title>
-      <link>https://laurentperrinet.github.io/tags/textures/</link>
-      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/textures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>time</title>
-      <link>https://laurentperrinet.github.io/tags/time/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/time/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tracking</title>
-      <link>https://laurentperrinet.github.io/tags/tracking/</link>
-      <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tracking-eye-movements</title>
-      <link>https://laurentperrinet.github.io/tags/tracking-eye-movements/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/tracking-eye-movements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transforms</title>
-      <link>https://laurentperrinet.github.io/tags/transforms/</link>
-      <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/transforms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>translational-science</title>
-      <link>https://laurentperrinet.github.io/tags/translational-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/translational-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tuning function.</title>
-      <link>https://laurentperrinet.github.io/tags/tuning-function./</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/tuning-function./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ultra-rapid</title>
-      <link>https://laurentperrinet.github.io/tags/ultra-rapid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/ultra-rapid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unsupervised</title>
-      <link>https://laurentperrinet.github.io/tags/unsupervised/</link>
+      <title>unsupervised learning</title>
+      <link>https://laurentperrinet.github.io/tags/unsupervised-learning/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/tags/unsupervised/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unsupervised_learning</title>
-      <link>https://laurentperrinet.github.io/tags/unsupervised_learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/unsupervised_learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-filtering</title>
-      <link>https://laurentperrinet.github.io/tags/variational-filtering/</link>
-      <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/variational-filtering/</guid>
+      <guid>https://laurentperrinet.github.io/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     
@@ -2050,20 +817,20 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>vision; stdp</title>
+      <link>https://laurentperrinet.github.io/tags/vision-stdp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/tags/vision-stdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>visual perception</title>
       <link>https://laurentperrinet.github.io/tags/visual-perception/</link>
       <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/tags/visual-perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wavelets</title>
-      <link>https://laurentperrinet.github.io/tags/wavelets/</link>
-      <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tags/wavelets/</guid>
       <description></description>
     </item>
     
