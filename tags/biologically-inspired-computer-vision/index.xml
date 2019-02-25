@@ -10,7 +10,7 @@
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
-    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://laurentperrinet.github.io/tags/biologically-inspired-computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,16 +18,34 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation</title>
       <link>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</link>
-      <pubDate>Fri, 23 Feb 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Expériences autour de la perception de la forme en art et science</title>
+      <link>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Sparse optimization in neural computations</title>
+      <link>https://laurentperrinet.github.io/talk/2017-01-19-laconeu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2017-01-19-laconeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Wed, 23 Nov 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 25 Nov 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
@@ -36,25 +54,34 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Sun, 23 Oct 2016 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 25 Oct 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Biologically Inspired Computer Vision</title>
-      <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</link>
-      <pubDate>Mon, 23 Nov 2015 00:00:00 +0100</pubDate>
+      <title>Biologically-inspired characterization of sparseness in natural images</title>
+      <link>https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</guid>
-      <description>Biologically Inspired Computer Vision As state-of-the-art imaging technologies becomes more and more advanced, yielding scientific data at unprecedented detail and volume, the need to process and interpret all the data has made image processing and computer vision also increasingly important. Sources of data that have to be routinely dealt with today applications include video transmission, wireless communication, automatic fingerprint processing, massive databanks, non-weary and accurate automatic airport screening, robust night vision to name a few.</description>
+      <guid>https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor</title>
+      <link>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Mon, 23 Nov 2015 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description></description>
@@ -63,7 +90,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Mon, 23 Nov 2015 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
@@ -72,19 +99,38 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Mon, 23 Nov 2015 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Biologically Inspired Computer Vision</title>
+      <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</guid>
+      <description>Biologically Inspired Computer Vision As state-of-the-art imaging technologies becomes more and more advanced, yielding scientific data at unprecedented detail and volume, the need to process and interpret all the data has made image processing and computer vision also increasingly important. Sources of data that have to be routinely dealt with today applications include video transmission, wireless communication, automatic fingerprint processing, massive databanks, non-weary and accurate automatic airport screening, robust night vision to name a few.</description>
+    </item>
+    
+    <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Sun, 23 Aug 2015 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 25 Aug 2015 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Edge co-occurrences can account for rapid categorization of natural versus animal images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</link>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</guid>
+      <description>A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain. Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.
+They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.</description>
     </item>
     
     <item>
@@ -97,18 +143,45 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>Edge co-occurrences are sufficient to categorize natural versus animal images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</title>
+      <link>https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Advances in Texture Analysis for Emphysema Classification</title>
       <link>https://laurentperrinet.github.io/publication/nava-13/</link>
-      <pubDate>Sat, 23 Feb 2013 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/nava-13/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Edge co-occurrences and categorizing natural images</title>
+      <link>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-spie/</link>
-      <pubDate>Sat, 23 Feb 2008 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 25 Feb 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-spie/</guid>
       <description></description>
@@ -117,7 +190,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
       <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
-      <pubDate>Fri, 23 Feb 2007 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 25 Feb 2007 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
       <description></description>
@@ -144,7 +217,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Efficient representation of natural images using local cooperation</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
-      <pubDate>Wed, 23 Feb 2005 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 25 Feb 2005 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
       <description></description>
@@ -153,7 +226,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-a/</link>
-      <pubDate>Thu, 23 Sep 2004 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 25 Sep 2004 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-a/</guid>
       <description></description>

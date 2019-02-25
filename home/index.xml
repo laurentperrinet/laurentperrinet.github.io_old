@@ -24,7 +24,16 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
-      <title>Novel computational paradigms for vision</title>
+      <title></title>
+      <link>https://laurentperrinet.github.io/home/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/home/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel visual computations</title>
       <link>https://laurentperrinet.github.io/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -75,16 +84,8 @@ To narrow the gap between neuroscience and the theory of sensory processing comp
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Featured Talks</title>
-      <link>https://laurentperrinet.github.io/home/talks_featured/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/home/talks_featured/</guid>
-      <description></description>
+      <description> Quickly discover relevant content by filtering publications.
+  </description>
     </item>
     
     <item>
@@ -120,17 +121,27 @@ To narrow the gap between neuroscience and the theory of sensory processing comp
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
+      <description>  This is an example of using the custom widget to create your own homepage section.
+This section also demonstrates how to apply the background option to create an image parallax effect. Backgrounds can be applied to any section.
+  Example content I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
     </item>
     
     <item>
-      <title>Tags</title>
+      <title>Popular Topics</title>
       <link>https://laurentperrinet.github.io/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://laurentperrinet.github.io/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/home/people/</guid>
       <description></description>
     </item>
     
