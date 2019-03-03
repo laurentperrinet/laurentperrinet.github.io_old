@@ -61,20 +61,11 @@ To narrow the gap between neuroscience and the theory of sensory processing comp
     </item>
     
     <item>
-      <title>Accomplish&amp;shy;ments</title>
-      <link>https://laurentperrinet.github.io/home/accomplishments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/home/accomplishments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Featured Publications</title>
-      <link>https://laurentperrinet.github.io/home/publications_featured/</link>
+      <link>https://laurentperrinet.github.io/home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/home/publications_featured/</guid>
+      <guid>https://laurentperrinet.github.io/home/featured/</guid>
       <description></description>
     </item>
     
@@ -107,24 +98,17 @@ To narrow the gap between neuroscience and the theory of sensory processing comp
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://laurentperrinet.github.io/home/projects/</link>
+      <title>Demos</title>
+      <link>https://laurentperrinet.github.io/home/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurentperrinet.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://laurentperrinet.github.io/home/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/home/teaching/</guid>
-      <description>  This is an example of using the custom widget to create your own homepage section.
-This section also demonstrates how to apply the background option to create an image parallax effect. Backgrounds can be applied to any section.
-  Example content I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <guid>https://laurentperrinet.github.io/home/demo/</guid>
+      <description>Welcome to the personal demo of Academic. Other demos available include:
+ Project Demo (Academic&amp;rsquo;s actual site)  Over 100,000 Amazing Websites have Already Been Built with Academic
+Join the Most Empowered Hugo Community
+ This homepage section is an example of adding elements to the Blank widget.
+Backgrounds can be applied to any section. Here, the background option is set give an image parallax effect.
+  </description>
     </item>
     
     <item>
@@ -133,6 +117,15 @@ This section also demonstrates how to apply the background option to create an i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://laurentperrinet.github.io/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/home/projects/</guid>
       <description></description>
     </item>
     
@@ -160,6 +153,15 @@ This section also demonstrates how to apply the background option to create an i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://laurentperrinet.github.io/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/home/accomplishments/</guid>
       <description></description>
     </item>
     
