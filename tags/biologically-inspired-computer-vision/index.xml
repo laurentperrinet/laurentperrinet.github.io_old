@@ -10,19 +10,10 @@
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
-    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://laurentperrinet.github.io/tags/biologically-inspired-computer-vision/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation</title>
-      <link>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</link>
-      <pubDate>Sat, 03 Mar 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Expériences autour de la perception de la forme en art et science</title>
@@ -30,6 +21,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation</title>
+      <link>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</guid>
       <description></description>
     </item>
     
@@ -126,11 +126,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Edge co-occurrences can account for rapid categorization of natural versus animal images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</link>
-      <pubDate>Tue, 03 Mar 2015 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</guid>
-      <description>Press release communiqué de presse supplementary information supplementary material  A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain. Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.
-They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.</description>
+      <description>Press release communiqué de presse supplementary information supplementary material
+A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain. Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second. They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.</description>
     </item>
     
     <item>
@@ -163,7 +163,7 @@ They found that one of the first parts of the brain to process visual informatio
     <item>
       <title>Advances in Texture Analysis for Emphysema Classification</title>
       <link>https://laurentperrinet.github.io/publication/nava-13/</link>
-      <pubDate>Sun, 03 Mar 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/nava-13/</guid>
       <description></description>
@@ -181,18 +181,9 @@ They found that one of the first parts of the brain to process visual informatio
     <item>
       <title>Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-spie/</link>
-      <pubDate>Mon, 03 Mar 2008 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-spie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
-      <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
-      <pubDate>Sat, 03 Mar 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
       <description></description>
     </item>
     
@@ -202,6 +193,15 @@ They found that one of the first parts of the brain to process visual informatio
       <pubDate>Sat, 13 Jan 2007 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/fischer-07-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
       <description></description>
     </item>
     
@@ -217,7 +217,7 @@ They found that one of the first parts of the brain to process visual informatio
     <item>
       <title>Efficient representation of natural images using local cooperation</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
-      <pubDate>Thu, 03 Mar 2005 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
       <description></description>

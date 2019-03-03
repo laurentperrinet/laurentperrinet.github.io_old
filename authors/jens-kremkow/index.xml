@@ -10,7 +10,7 @@
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
-    <lastBuildDate>Thu, 03 Mar 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://laurentperrinet.github.io/authors/jens-kremkow/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms for Reliably Encoding Naturalistic Stimuli in V1</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-16/</link>
-      <pubDate>Thu, 03 Mar 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-16/</guid>
       <description></description>
@@ -43,9 +43,18 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input</title>
+      <link>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decoding center-surround interactions in population of neurons for the ocular following response</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</link>
-      <pubDate>Tue, 03 Mar 2009 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</guid>
       <description></description>
@@ -54,7 +63,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Functional consequences of correlated excitation and inhibition on single neuron integration and signal propagation through synfire chains</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-09-gns/</link>
-      <pubDate>Tue, 03 Mar 2009 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-09-gns/</guid>
       <description></description>
@@ -63,18 +72,9 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>NeuralEnsemble: Towards a meta-environment for network modeling and data analysis</title>
       <link>https://laurentperrinet.github.io/publication/yger-09-gns/</link>
-      <pubDate>Tue, 03 Mar 2009 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/yger-09-gns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input</title>
-      <link>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
       
-      <guid>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</guid>
+      <guid>https://laurentperrinet.github.io/publication/yger-09-gns/</guid>
       <description></description>
     </item>
     
@@ -90,7 +90,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input: a V1 network modelling study</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</link>
-      <pubDate>Mon, 03 Mar 2008 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</guid>
       <description></description>
@@ -99,7 +99,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Dynamics of cortical networks based on patchy connectivity patterns</title>
       <link>https://laurentperrinet.github.io/publication/voges-08/</link>
-      <pubDate>Mon, 03 Mar 2008 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/voges-08/</guid>
       <description></description>
@@ -108,7 +108,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>PyNN: A Common Interface for Neuronal Network Simulators</title>
       <link>https://laurentperrinet.github.io/publication/davison-08/</link>
-      <pubDate>Mon, 03 Mar 2008 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/davison-08/</guid>
       <description></description>
@@ -117,7 +117,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>PyNN: towards a universal neural simulator API in Python</title>
       <link>https://laurentperrinet.github.io/publication/davison-07-cns/</link>
-      <pubDate>Sat, 03 Mar 2007 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/davison-07-cns/</guid>
       <description></description>
@@ -126,7 +126,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Synchrony in thalamic inputs enhances propagation of activity through cortical layers</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-07-cns/</link>
-      <pubDate>Sat, 03 Mar 2007 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-07-cns/</guid>
       <description></description>
@@ -135,7 +135,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</link>
-      <pubDate>Fri, 03 Mar 2006 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</guid>
       <description></description>
@@ -144,7 +144,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-fab/</link>
-      <pubDate>Fri, 03 Mar 2006 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-fab/</guid>
       <description></description>
@@ -153,7 +153,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-fens/</link>
-      <pubDate>Fri, 03 Mar 2006 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-fens/</guid>
       <description></description>
