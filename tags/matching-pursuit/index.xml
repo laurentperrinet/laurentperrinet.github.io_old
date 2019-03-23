@@ -36,7 +36,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
+<<<<<<< HEAD
       <pubDate>Fri, 23 Mar 2007 00:00:00 +0100</pubDate>
+=======
+      <pubDate>Thu, 22 Mar 2007 00:00:00 +0100</pubDate>
+>>>>>>> d08ddd7430172b8b08445a0cf92d04399a8ae377
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions.</description>
@@ -63,7 +67,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
+<<<<<<< HEAD
       <pubDate>Thu, 23 Sep 2004 00:00:00 +0200</pubDate>
+=======
+      <pubDate>Wed, 22 Sep 2004 00:00:00 +0200</pubDate>
+>>>>>>> d08ddd7430172b8b08445a0cf92d04399a8ae377
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>  Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.   </description>
@@ -72,7 +80,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Feature detection using spikes : the greedy approach.</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
+<<<<<<< HEAD
       <pubDate>Fri, 23 Jul 2004 00:00:00 +0200</pubDate>
+=======
+      <pubDate>Thu, 22 Jul 2004 00:00:00 +0200</pubDate>
+>>>>>>> d08ddd7430172b8b08445a0cf92d04399a8ae377
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
       <description></description>
@@ -81,7 +93,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
+<<<<<<< HEAD
       <pubDate>Tue, 23 Mar 2004 00:00:00 +0100</pubDate>
+=======
+      <pubDate>Mon, 22 Mar 2004 00:00:00 +0100</pubDate>
+>>>>>>> d08ddd7430172b8b08445a0cf92d04399a8ae377
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
