@@ -218,7 +218,7 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Wed, 23 Nov 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
@@ -227,7 +227,7 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Sun, 23 Oct 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
@@ -245,7 +245,7 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
     <item>
       <title>Testing the odds of inherent vs. observed overdispersion in neural spike counts.</title>
       <link>https://laurentperrinet.github.io/publication/taouali-16/</link>
-      <pubDate>Sat, 23 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/taouali-16/</guid>
       <description></description>
@@ -333,20 +333,20 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
     </item>
     
     <item>
+      <title>Sparse Models for Computer Vision</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
+      <pubDate>Thu, 26 Nov 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
       <pubDate>Thu, 26 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Models for Computer Vision</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Mon, 23 Nov 2015 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
     
@@ -371,7 +371,7 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Sun, 23 Aug 2015 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
@@ -946,6 +946,15 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     </item>
     
     <item>
+      <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
+      <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
+      <pubDate>Sun, 26 Oct 2008 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Functional properties of feed-forward inhibition</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
       <pubDate>Sun, 26 Oct 2008 00:00:00 +0200</pubDate>
@@ -955,18 +964,9 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     </item>
     
     <item>
-      <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
-      <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
-      <pubDate>Thu, 23 Oct 2008 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Proceedings of the second french conference on Computational Neuroscience, Marseille</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</link>
-      <pubDate>Thu, 23 Oct 2008 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 26 Oct 2008 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</guid>
       <description></description>
@@ -1045,6 +1045,15 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     </item>
     
     <item>
+      <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
+      <pubDate>Mon, 26 Mar 2007 00:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
+      <description>Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions.</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07-a/</link>
       <pubDate>Mon, 26 Mar 2007 00:00:00 +0200</pubDate>
@@ -1060,15 +1069,6 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       
       <guid>https://laurentperrinet.github.io/publication/cessac-07/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Fri, 23 Mar 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
-      <description>Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions.</description>
     </item>
     
     <item>
@@ -1227,7 +1227,7 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     <item>
       <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
       <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
-      <pubDate>Tue, 23 Aug 2005 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 26 Aug 2005 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
       <description></description>
@@ -1272,7 +1272,7 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Thu, 23 Sep 2004 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 26 Sep 2004 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>  Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.   </description>
@@ -1281,7 +1281,7 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     <item>
       <title>Feature detection using spikes : the greedy approach.</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
-      <pubDate>Fri, 23 Jul 2004 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 26 Jul 2004 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
       <description></description>
@@ -1299,7 +1299,7 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     <item>
       <title>Finding Independent Components using spikes : a natural result of hebbian learning in a sparse spike coding scheme</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04/</link>
-      <pubDate>Fri, 23 Jan 2004 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 26 Jan 2004 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-04/</guid>
       <description></description>
