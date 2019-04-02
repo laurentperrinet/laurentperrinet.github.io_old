@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="We present a biologically plausible model of simple cortical cells as 1) a linear transform representing edges and 2) a non-linear iterative stage of inhibition and facilitation between neighboring coefficients. The linear transform is a complex log-Gabor wavelet transform which is overcomplete (i.e. there are more coefficients than pixels in the image) and has exact reconstruction. The inhibition consists in diminishing down the coefficients which are not at a local-maxima along the direction normal to the edge filter orientation, whereas the facilitation enhances the collinear and co-aligned local-maximum coefficients. At each iteration and after the inhibition and facilitation stages, the reconstructed error is subtracted in the transform domain for keeping an exact reconstruction. Such process concentrates the signal energy on a few coefficients situated along the edges of the objects, yielding a sparse representation. The rationale for such procedure is: (1) th e overcompleteness offers flexibility for activity reassignment; (2) images can be coded by sparse Gabor coefficients located on object edges; (3) image contours produce aligned and collinear local-maxima in the transform domain; (4) the inhibition/facilitation processes are able to extract the contours. The sparse Gabor coefficients are mostly connected each other and located along object contours. Such layout makes chain coding suitable for compression purposes. Specially adapted to Gabor wavelets features, our chain coding represents every chain by its end-points (head and tail) and the elementary movements necessary to walk along the chain from head to tail. Moreover it predicts the module and phase of each Gabor coefficient according to the previous chain coefficient. As a result, redundancy of the transform domain is further reduced. Used for compression, the scheme limits particularly the high-frequency artifacts. The model performs also efficiently in tasks the Human Visual System is supposed to deal with, as for instance edge extraction and image denoising.">
+  <meta name="description" content="Visual areas are essential in transforming the raw luminous signal into a representation which efficiently conveys information about the environment. This process is constrained by various factors such as a wide variety of changes in the characteristics of the visual image but also by the necessity to be able to respond as quickly as possible to the incoming sensory stream, for instance to drive a movement of the eyes to the location of a potential danger. To achieve this, it is believed that the visual system takes advantage of the existence of a priori knowledge in the structure of visual information, such as the regularity in the shape and motion of visual objects. We will review different models around the predictive coding coding framework to offer a unified theory to explain many of the mechanisms at the different levels of the visual system and which were unveiled by decades of study in neurophysiology and psychophysics.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/publication/redondo-05/">
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/">
 
   
 
@@ -106,7 +106,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://laurentperrinet.github.io/publication/redondo-05/">
+  <link rel="canonical" href="https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/">
 
   
   
@@ -121,12 +121,12 @@
   <meta property="twitter:creator" content="@laurentperrinet">
   
   <meta property="og:site_name" content="Novel visual computations">
-  <meta property="og:url" content="https://laurentperrinet.github.io/publication/redondo-05/">
-  <meta property="og:title" content="Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation | Novel visual computations">
-  <meta property="og:description" content="We present a biologically plausible model of simple cortical cells as 1) a linear transform representing edges and 2) a non-linear iterative stage of inhibition and facilitation between neighboring coefficients. The linear transform is a complex log-Gabor wavelet transform which is overcomplete (i.e. there are more coefficients than pixels in the image) and has exact reconstruction. The inhibition consists in diminishing down the coefficients which are not at a local-maxima along the direction normal to the edge filter orientation, whereas the facilitation enhances the collinear and co-aligned local-maximum coefficients. At each iteration and after the inhibition and facilitation stages, the reconstructed error is subtracted in the transform domain for keeping an exact reconstruction. Such process concentrates the signal energy on a few coefficients situated along the edges of the objects, yielding a sparse representation. The rationale for such procedure is: (1) th e overcompleteness offers flexibility for activity reassignment; (2) images can be coded by sparse Gabor coefficients located on object edges; (3) image contours produce aligned and collinear local-maxima in the transform domain; (4) the inhibition/facilitation processes are able to extract the contours. The sparse Gabor coefficients are mostly connected each other and located along object contours. Such layout makes chain coding suitable for compression purposes. Specially adapted to Gabor wavelets features, our chain coding represents every chain by its end-points (head and tail) and the elementary movements necessary to walk along the chain from head to tail. Moreover it predicts the module and phase of each Gabor coefficient according to the previous chain coefficient. As a result, redundancy of the transform domain is further reduced. Used for compression, the scheme limits particularly the high-frequency artifacts. The model performs also efficiently in tasks the Human Visual System is supposed to deal with, as for instance edge extraction and image denoising."><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/">
+  <meta property="og:title" content="From the retina to action: Understanding visual processing | Novel visual computations">
+  <meta property="og:description" content="Visual areas are essential in transforming the raw luminous signal into a representation which efficiently conveys information about the environment. This process is constrained by various factors such as a wide variety of changes in the characteristics of the visual image but also by the necessity to be able to respond as quickly as possible to the incoming sensory stream, for instance to drive a movement of the eyes to the location of a potential danger. To achieve this, it is believed that the visual system takes advantage of the existence of a priori knowledge in the structure of visual information, such as the regularity in the shape and motion of visual objects. We will review different models around the predictive coding coding framework to offer a unified theory to explain many of the mechanisms at the different levels of the visual system and which were unveiled by decades of study in neurophysiology and psychophysics."><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2005-08-02T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2019-01-01T00:00:00&#43;00:00">
   
   <meta property="article:modified_time" content="2019-04-02T10:27:34&#43;02:00">
   
@@ -135,7 +135,7 @@
 
   
 
-  <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation | Novel visual computations</title>
+  <title>From the retina to action: Understanding visual processing | Novel visual computations</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -361,7 +361,7 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+<div class="pub" itemscope itemtype="http://schema.org/Event">
 
   
 
@@ -382,7 +382,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</h1>
+  <h1 itemprop="name">From the retina to action: Understanding visual processing</h1>
 
   
 
@@ -391,7 +391,7 @@
 
 
 
-<meta content="2005-08-02 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+<meta content="2019-04-03 14:30:00 &#43;0200 CEST" itemprop="datePublished">
 <meta content="2019-04-02 10:27:34 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
@@ -411,28 +411,7 @@
 
       
       
-      <a href="/authors/rafael-redondo/">Rafael Redondo</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="/authors/sylvain-fischer/">Sylvain Fischer</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="/authors/gabriel-crist%C3%B3bal/">Gabriel Cristóbal</a></span></span>
+      <a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span></span>
   
 
 
@@ -441,14 +420,6 @@
   
   
 
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>2005-08-02</time>
-  </span>
   
 
   
@@ -466,35 +437,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Modeling%20of%20simple%20cells%20through%20a%20sparse%20overcomplete%20gabor%20wavelet%20representation%20based%20on%20local%20inhibition%20and%20facilitation&amp;url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2fredondo-05%2f"
+         href="https://twitter.com/intent/tweet?text=From%20the%20retina%20to%20action%3a%20Understanding%20visual%20processing&amp;url=https%3a%2f%2flaurentperrinet.github.io%2ftalk%2f2019-04-03-a-course-on-vision-and-modelization%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2fredondo-05%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2flaurentperrinet.github.io%2ftalk%2f2019-04-03-a-course-on-vision-and-modelization%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2fredondo-05%2f&amp;title=Modeling%20of%20simple%20cells%20through%20a%20sparse%20overcomplete%20gabor%20wavelet%20representation%20based%20on%20local%20inhibition%20and%20facilitation"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2flaurentperrinet.github.io%2ftalk%2f2019-04-03-a-course-on-vision-and-modelization%2f&amp;title=From%20the%20retina%20to%20action%3a%20Understanding%20visual%20processing"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2fredondo-05%2f&amp;title=Modeling%20of%20simple%20cells%20through%20a%20sparse%20overcomplete%20gabor%20wavelet%20representation%20based%20on%20local%20inhibition%20and%20facilitation"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2flaurentperrinet.github.io%2ftalk%2f2019-04-03-a-course-on-vision-and-modelization%2f&amp;title=From%20the%20retina%20to%20action%3a%20Understanding%20visual%20processing"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Modeling%20of%20simple%20cells%20through%20a%20sparse%20overcomplete%20gabor%20wavelet%20representation%20based%20on%20local%20inhibition%20and%20facilitation&amp;body=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2fredondo-05%2f">
+         href="mailto:?subject=From%20the%20retina%20to%20action%3a%20Understanding%20visual%20processing&amp;body=https%3a%2f%2flaurentperrinet.github.io%2ftalk%2f2019-04-03-a-course-on-vision-and-modelization%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -536,22 +507,50 @@
 
 
   
+    
+  
 
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/talk/2019-04-03-a-course-on-vision-and-modelization" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/redondo-05/redondo-05.bib">
+        data-filename="/talk/2019-04-03-a-course-on-vision-and-modelization/2019-04-03-a-course-on-vision-and-modelization.bib">
   Cite
 </button>
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/anr-horizontal-v1/">
+    Project
+  </a>
+  
 
 
 
 
 
-
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="/2019-04-03_a_course_on_vision_and_modelization" target="_blank" rel="noopener">
+  Slides
+</a>
 
 
 
@@ -570,24 +569,39 @@
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We present a biologically plausible model of simple cortical cells as 1) a linear transform representing edges and 2) a non-linear iterative stage of inhibition and facilitation between neighboring coefficients. The linear transform is a complex log-Gabor wavelet transform which is overcomplete (i.e. there are more coefficients than pixels in the image) and has exact reconstruction. The inhibition consists in diminishing down the coefficients which are not at a local-maxima along the direction normal to the edge filter orientation, whereas the facilitation enhances the collinear and co-aligned local-maximum coefficients. At each iteration and after the inhibition and facilitation stages, the reconstructed error is subtracted in the transform domain for keeping an exact reconstruction. Such process concentrates the signal energy on a few coefficients situated along the edges of the objects, yielding a sparse representation. The rationale for such procedure is: (1) th e overcompleteness offers flexibility for activity reassignment; (2) images can be coded by sparse Gabor coefficients located on object edges; (3) image contours produce aligned and collinear local-maxima in the transform domain; (4) the inhibition/facilitation processes are able to extract the contours. The sparse Gabor coefficients are mostly connected each other and located along object contours. Such layout makes chain coding suitable for compression purposes. Specially adapted to Gabor wavelets features, our chain coding represents every chain by its end-points (head and tail) and the elementary movements necessary to walk along the chain from head to tail. Moreover it predicts the module and phase of each Gabor coefficient according to the previous chain coefficient. As a result, redundancy of the transform domain is further reduced. Used for compression, the scheme limits particularly the high-frequency artifacts. The model performs also efficiently in tasks the Human Visual System is supposed to deal with, as for instance edge extraction and image denoising.</p>
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Visual areas are essential in transforming the raw luminous signal into a representation which efficiently conveys information about the environment. This process is constrained by various factors such as a wide variety of changes in the characteristics of the visual image but also by the necessity to be able to respond as quickly as possible to the incoming sensory stream, for instance to drive a movement of the eyes to the location of a potential danger. To achieve this, it is believed that the visual system takes advantage of the existence of a priori knowledge in the structure of visual information, such as the regularity in the shape and motion of visual objects. We will review different models around the predictive coding coding framework to offer a unified theory to explain many of the mechanisms at the different levels of the visual system and which were unveiled by decades of study in neurophysiology and psychophysics.</p>
     
 
-    
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            2019-04-03
+            <div class="talk-time">
+              
+                14:30
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
             
-
-            
-            
-            <a href="/publication/#1">
-              Conference paper
-            </a>
+            Licence Sciences &amp; Humanité
             
           </div>
         </div>
@@ -595,15 +609,14 @@
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
-    
 
     
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Perception</em></div>
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Marseille (France)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -613,18 +626,11 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style">
+      
+    </div>
 
     
-
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/log-gabor/">log-gabor</a>
-  
-</div>
-
-
 
     
 
