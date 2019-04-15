@@ -32,6 +32,21 @@ Please note that multiple distribution, publication or commercial usage of copyr
     </item>
     
     <item>
+      <title>SpikeAI: laureat du Défi Biomimétisme (2019)</title>
+      <link>https://laurentperrinet.github.io/project/spikeai/</link>
+      <pubDate>Mon, 15 Apr 2019 10:00:00 +0200</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/project/spikeai/</guid>
+      <description>&lt;p&gt;Description&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;The SpikeAI project targets analog computing for artificial intelligence in the form of Spiking Neural Networks (SNNs). Computer vision systems widely rely on artificial intelligence and especially neural network based machine learning, which recently gained huge visibility. The training stage for deep convolutional neural networks is time-consuming and yields enormous energy consumption. In contrast, the human brain has the ability to perform visual tasks with unrivaled computational and energy efficiency. It is believed that one major factor of this efficiency is the fact that information is vastly represented by short pulses (spikes) at analog –not discrete– times. However, computer vision algorithms using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power, end-to-end analog sensing and processing architecture. This will be applied on the particular context of a field programmable analog array (FPAA) applied to a stereovision system dedicated to coastal surveillance using an aerial robot of 3D visual scenes, running on analog devices, without a central clock and to validate them in real-life situations. The ambitious long-term vision of the project is to develop the next generation AI paradigm that will at term compete with deep learning. We believe that neuromorphic computing, mainly studied in EU countries, will be a key technology in the next decade. It is therefore both a scientific and strategic challenge for France and EU to foster this technological breakthrough. *This call will help kickstart collaboration within this European consortium to help leverage the chance to successfully apply to future large-scale grant proposals (e.g. ANR, CHIST-ERA, ERC).*
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Get &lt;a href=&#34;https://spikeai.github.io/&#34; target=&#34;_blank&#34;&gt;more information&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Should I stay or should I go? Adaption of human observers to the volatility of visual inputs</title>
       <link>https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/</link>
       <pubDate>Fri, 05 Apr 2019 15:45:00 +0200</pubDate>
@@ -217,26 +232,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       
       <guid>https://laurentperrinet.github.io/publication/damasse-18/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>https://laurentperrinet.github.io/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
