@@ -43,6 +43,15 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
     </item>
     
     <item>
+      <title>Sparse Deep Predictive Coding To Model Visual Object Recognition</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</title>
       <link>https://laurentperrinet.github.io/publication/vacher-16/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
@@ -1134,15 +1143,6 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     </item>
     
     <item>
-      <title>Synchrony in thalamic inputs enhances propagation of activity through cortical layers</title>
-      <link>https://laurentperrinet.github.io/publication/kremkow-07-cns/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/kremkow-07-cns/</guid>
-      <description> see this subsequent paper in the Journal of Computational Neuroscience  </description>
-    </item>
-    
-    <item>
       <title>Visual tracking of ambiguous moving objects: A recursive Bayesian model</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07-b/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
@@ -1383,6 +1383,15 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-99/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://laurentperrinet.github.io/publication/kremkow-07-cns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/kremkow-07-cns/</guid>
+      <description>kremkow-10-jcns+++ title = &amp;ldquo;Synchrony in thalamic inputs enhances propagation of activity through cortical layers&amp;rdquo; date = 2007-01-01 authors = [ &amp;ldquo;Jens Kremkow&amp;rdquo;, &amp;ldquo;Laurent U Perrinet&amp;rdquo;, &amp;ldquo;Arvind Kumar&amp;rdquo;, &amp;ldquo;Ad M Aertsen&amp;rdquo;, &amp;ldquo;Guillaume S Masson&amp;rdquo;,] publication_types = [ &amp;ldquo;2&amp;rdquo;,] abstract = &amp;ldquo;Sensory input enters the cortex via the thalamocortical (TC) projection, where it elicits large postsynaptic potentials in layer 4 neurons [1]. Interestingly, the TC connections account for only ̃15% of synapses onto these neurons.</description>
     </item>
     
   </channel>
