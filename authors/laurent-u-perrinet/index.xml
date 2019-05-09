@@ -125,6 +125,15 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
     </item>
     
     <item>
+      <title>Sparse Deep Predictive Coding To Model Visual Object Recognition</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</title>
       <link>https://laurentperrinet.github.io/publication/vacher-16/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
@@ -179,11 +188,83 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
     </item>
     
     <item>
+      <title>A low-cost, accessible eye tracking framework</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-18-gdr/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-18-gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANEMO: Quantitative tools for the ANalysis of Eye MOvements</title>
+      <link>https://laurentperrinet.github.io/publication/pasturel-18-anemo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/pasturel-18-anemo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
+      <link>https://laurentperrinet.github.io/publication/pasturel-18-grenoble/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/pasturel-18-grenoble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
+      <link>https://laurentperrinet.github.io/publication/pasturel-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/pasturel-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From biological vision to unsupervised hierarchical sparse coding</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</guid>
+      <description> accepted submission @ iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques, 21 - 23 November​, 2018 poster session scheduled on Thursday, November 22th, from 10h30 till 12h00. CIRM, Marseille, France.  get the full proceedings Poster as PDF check-out our preprint on SDPC  </description>
+    </item>
+    
+    <item>
       <title>M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation</title>
       <link>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Origins of Hierarchy in Visual Processing</title>
+      <link>https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selectivity to oriented patterns of different precisions</title>
+      <link>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</guid>
+      <description> poster présenté au GDR vision, Paris. program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf Poster (pdf) code : https://github.com/hugoladret/InternshipM1  </description>
+    </item>
+    
+    <item>
+      <title>Speed uncertainty and motion perception with naturalistic random textures</title>
+      <link>https://laurentperrinet.github.io/publication/mansour-18-vss/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/mansour-18-vss/</guid>
       <description></description>
     </item>
     
@@ -285,6 +366,42 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
       <description> This work is a followup of Perrinet, 2010, Neural Computation code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning the poster (PDF) will be presented Thursday, June 8 @ SPARS, Lisbon.  </description>
+    </item>
+    
+    <item>
+      <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
+      <link>https://laurentperrinet.github.io/publication/pasturel-17-gdr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/pasturel-17-gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expériences autour de la perception de la forme en art et science</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-17-gdr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/perrinet-17-gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How the dynamics of human smooth pursuit is influenced by speed uncertainty</title>
+      <link>https://laurentperrinet.github.io/publication/mansour-17-ecvp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/mansour-17-ecvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
+      <link>https://laurentperrinet.github.io/publication/mansour-17-gdr/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/mansour-17-gdr/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -549,6 +666,15 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
     </item>
     
     <item>
+      <title>Anticipatory smooth eye movements as operant behavior</title>
+      <link>https://laurentperrinet.github.io/publication/damasse-15-gdr/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/damasse-15-gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Biologically Inspired Dynamic Textures for Probing Motion Perception</title>
       <link>https://laurentperrinet.github.io/publication/vacher-15-nips/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
@@ -690,6 +816,15 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the nature of anticipatory eye movements and the factors affecting them</title>
+      <link>https://laurentperrinet.github.io/publication/damasse-14-gdr/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/damasse-14-gdr/</guid>
       <description></description>
     </item>
     
@@ -1054,6 +1189,15 @@ A study of how people can quickly spot animals by sight is helping uncover the w
     </item>
     
     <item>
+      <title>Role of motion inertia in dynamic motion integration for smooth pursuit</title>
+      <link>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
       <link>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0100</pubDate>
@@ -1123,6 +1267,15 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       
       <guid>https://laurentperrinet.github.io/publication/simoncini-10-vss/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical emergence of a neural solution for motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/khoei-10-tauc/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/khoei-10-tauc/</guid>
+      <description>[[MotionPerception|attachment:MotionPerception/line_particles.gif|Animation of particles representing motion of a line|width=100%,align=&#34;left&#34;]]  &#39;&#39;Animation of particles representing the motion of a slanted line: the aperture problem is progressively solved.&#39;&#39; || # Dynamical emergence of a neural solution for motion integration * https://invibe.net/LaurentPerrinet/Publications/Khoei10tauc?action=AttachFile&amp;do=view&amp;target=khoei10tauc.pdf * browse the slides : https://invibe.net/LaurentPerrinet/Presentations/2010-12-17_TaucTalk * read more : Laurent Perrinet, Guillaume S. Masson. &#39;&#39;&#39;Motion-based prediction is sufficient to solve the aperture problem.&#39;&#39;&#39; &#39;&#39;[[Publications/Perrinet12pred|Neural Computation]]&#39;&#39;, 2012.}, -- </description>
     </item>
     
     <item>
@@ -1491,6 +1644,15 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-cns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian modeling of dynamic motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
       <description></description>
     </item>
     
