@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Trends in programming language development and adoption point to Python as the high-level systems integration language of choice. Python leverages a vast developer-base external to the neuroscience community, and promises leaps in simulation complexity and maintainability to any neural simulator that adopts it. PyNN http://neuralensemble.org/PyNN strives to provide a uniform application programming interface (API) across neural simulators. Presently NEURON and NEST are supported, and support for other simulators and neuromorphic VLSI hardware is under development. With PyNN it is possible to write a simulation script once and run it without modification on any supported simulator. It is also possible to write a script that uses capabilities specific to a single simulator. While this sacrifices simulator-independence, it adds flexibility, and can be a useful step in porting models between simulators. The design goals of PyNN include allowing access to low-level details of a simulation where necessary, while providing the capability to model at a high level of abstraction, with concomitant gains in development speed and simulation maintainability. Another of our aims with PyNN is to increase the productivity of neuroscience modeling, by making it faster to develop models de novo, by promoting code sharing and reuse across simulator communities, and by making it much easier to debug, test and validate simulations by running them on more than one simulator. Modelers would then become free to devote more software development effort to innovation, building on the simulator core with new tools such as network topology databases, stimulus programming, analysis and visualization tools, and simulation accounting. The resulting, community-developed &#39;meta-simulator&#39; system would then represent a powerful tool for overcoming the so-called complexity bottleneck that is presently a major roadblock for neural modeling.">
+  <meta name="description" content="Researcher in Computational Neuroscience">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/publication/davison-07-cns/">
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/author/jens-kremkow/">
 
   
 
@@ -102,12 +102,15 @@
   
 
   
+  <link rel="alternate" href="/author/jens-kremkow/index.xml" type="application/rss+xml" title="Novel visual computations">
+  <link rel="feed" href="/author/jens-kremkow/index.xml" type="application/rss+xml" title="Novel visual computations">
+  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://laurentperrinet.github.io/publication/davison-07-cns/">
+  <link rel="canonical" href="https://laurentperrinet.github.io/author/jens-kremkow/">
 
   
   
@@ -122,21 +125,19 @@
   <meta property="twitter:creator" content="@laurentperrinet">
   
   <meta property="og:site_name" content="Novel visual computations">
-  <meta property="og:url" content="https://laurentperrinet.github.io/publication/davison-07-cns/">
-  <meta property="og:title" content="PyNN: towards a universal neural simulator API in Python | Novel visual computations">
-  <meta property="og:description" content="Trends in programming language development and adoption point to Python as the high-level systems integration language of choice. Python leverages a vast developer-base external to the neuroscience community, and promises leaps in simulation complexity and maintainability to any neural simulator that adopts it. PyNN http://neuralensemble.org/PyNN strives to provide a uniform application programming interface (API) across neural simulators. Presently NEURON and NEST are supported, and support for other simulators and neuromorphic VLSI hardware is under development. With PyNN it is possible to write a simulation script once and run it without modification on any supported simulator. It is also possible to write a script that uses capabilities specific to a single simulator. While this sacrifices simulator-independence, it adds flexibility, and can be a useful step in porting models between simulators. The design goals of PyNN include allowing access to low-level details of a simulation where necessary, while providing the capability to model at a high level of abstraction, with concomitant gains in development speed and simulation maintainability. Another of our aims with PyNN is to increase the productivity of neuroscience modeling, by making it faster to develop models de novo, by promoting code sharing and reuse across simulator communities, and by making it much easier to debug, test and validate simulations by running them on more than one simulator. Modelers would then become free to devote more software development effort to innovation, building on the simulator core with new tools such as network topology databases, stimulus programming, analysis and visualization tools, and simulation accounting. The resulting, community-developed &#39;meta-simulator&#39; system would then represent a powerful tool for overcoming the so-called complexity bottleneck that is presently a major roadblock for neural modeling."><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://laurentperrinet.github.io/author/jens-kremkow/">
+  <meta property="og:title" content=" | Novel visual computations">
+  <meta property="og:description" content="Researcher in Computational Neuroscience"><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2007-01-01T00:00:00&#43;01:00">
   
-  <meta property="article:modified_time" content="2019-03-03T23:39:03&#43;01:00">
   
 
   
 
   
 
-  <title>PyNN: towards a universal neural simulator API in Python | Novel visual computations</title>
+  <title> | Novel visual computations</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -362,321 +363,25 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
-
-  
 
 
 
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-<div class="article-container pt-3">
-  <h1 itemprop="name">PyNN: towards a universal neural simulator API in Python</h1>
-
-  
-
-  
-    
-
-
-
-<meta content="2007-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2019-03-03 23:39:03 &#43;0100 CET" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="/authors/andrew-p-davison/">Andrew P Davison</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="/authors/pierre-yger/">Pierre Yger</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      
-        <a href="/authors/jens-kremkow/">Jens Kremkow</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      
-        <a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span></span>, 
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        
-
-      
-      
-      <a href="/authors/eilif-muller/">Eilif Muller</a></span></span>
-  
-
-
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    <time>2007-01-01</time>
-  </span>
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-    
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=&amp;url="
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u="
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title="
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=&amp;title="
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=&amp;body=">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name"></h1>
 </div>
 
 
-  
-
-</div>
-
+<section id="about" class="pt-5">
+  <div class="container">
     
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
     
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="http://dx.doi.org/10.1186/1471-2202-8-S2-P2" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/davison-07-cns/davison-07-cns.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/facets/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1186/1471-2202-8-S2-P2" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-</div>
-
-
-  
-</div>
-
-
-
-  <div class="article-container">
-
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Trends in programming language development and adoption point to Python as the high-level systems integration language of choice. Python leverages a vast developer-base external to the neuroscience community, and promises leaps in simulation complexity and maintainability to any neural simulator that adopts it. PyNN <a href="http://neuralensemble.org/PyNN" target="_blank">http://neuralensemble.org/PyNN</a> strives to provide a uniform application programming interface (API) across neural simulators. Presently NEURON and NEST are supported, and support for other simulators and neuromorphic VLSI hardware is under development. With PyNN it is possible to write a simulation script once and run it without modification on any supported simulator. It is also possible to write a script that uses capabilities specific to a single simulator. While this sacrifices simulator-independence, it adds flexibility, and can be a useful step in porting models between simulators. The design goals of PyNN include allowing access to low-level details of a simulation where necessary, while providing the capability to model at a high level of abstraction, with concomitant gains in development speed and simulation maintainability. Another of our aims with PyNN is to increase the productivity of neuroscience modeling, by making it faster to develop models de novo, by promoting code sharing and reuse across simulator communities, and by making it much easier to debug, test and validate simulations by running them on more than one simulator. Modelers would then become free to devote more software development effort to innovation, building on the simulator core with new tools such as network topology databases, stimulus programming, analysis and visualization tools, and simulation accounting. The resulting, community-developed &lsquo;meta-simulator&rsquo; system would then represent a powerful tool for overcoming the so-called complexity bottleneck that is presently a major roadblock for neural modeling.</p>
     
 
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            
-
-            
-            
-            <a href="/publication/#1">
-              Conference paper
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
-
     
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">*Sixteenth Annual Computational Neuroscience Meeting: CNS<em>2007, Toronto, Canada. 7&ndash;12 July 2007</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
-
-    
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/pynn/">pynn</a>
-  
-</div>
-
-
-    
-
-
-
-
-
-
-  
-  
-    
-  
-  
-
-
-
-
-
-
-
-
-  </div>
-</div>
-
+</section>
 
 
 <div class="container">
