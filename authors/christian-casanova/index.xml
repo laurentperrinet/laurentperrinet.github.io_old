@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Novel visual computations</title>
-    <link>https://laurentperrinet.github.io/authors/hugo-ladret/</link>
-    <description>Recent content on Novel visual computations</description>
+    <title>Christian Casanova on Novel visual computations</title>
+    <link>https://laurentperrinet.github.io/authors/christian-casanova/</link>
+    <description>Recent content in Christian Casanova on Novel visual computations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://laurentperrinet.github.io/authors/hugo-ladret/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://laurentperrinet.github.io/authors/christian-casanova/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,24 +22,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       
       <guid>https://laurentperrinet.github.io/publication/ladret-19-sfn/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Selectivity to oriented patterns of different precisions</title>
-      <link>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</guid>
-      <description> poster présenté au GDR vision, Paris. program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf Poster (pdf) code : https://github.com/hugoladret/InternshipM1  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://laurentperrinet.github.io/authors/hugo-ladret/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/authors/hugo-ladret/</guid>
-      <description> master 2B (undergrad, 2019-01-12 / 2019-05-24) master 2A (undergrad, 2018-09-10 / 2019-01-11)  sujet (probable) : &amp;ldquo;Dynamiques d&amp;rsquo;apprentissage dans un modèle de microcircuit cortical&amp;rdquo; source code : https://github.com/hugoladret/InternshipM2  master 1 (undergrad, 2018-04 / 2018-06)  all material is available @ https://github.com/hugoladret/InternshipM1  </description>
     </item>
     
   </channel>
