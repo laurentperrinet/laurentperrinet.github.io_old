@@ -132,7 +132,7 @@
   
   <meta property="article:published_time" content="2017-01-26T00:00:00&#43;01:00">
   
-  <meta property="article:modified_time" content="2019-05-09T12:42:09&#43;02:00">
+  <meta property="article:modified_time" content="2019-05-27T12:29:25&#43;02:00">
   
 
   
@@ -497,7 +497,7 @@
 
 
 <meta content="2017-01-26 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2019-05-09 12:42:09 &#43;0200 CEST" itemprop="dateModified">
+<meta content="2019-05-27 12:29:25 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -691,7 +691,7 @@
 
 
 <meta content="2017-01-26 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2019-05-09 12:42:09 &#43;0200 CEST" itemprop="dateModified">
+<meta content="2019-05-27 12:29:25 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -937,14 +937,48 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Research: The Flash-Lag Effect as a Motion-Based Predictive Shift <a href="https://t.co/K3KWPO8l4a">https://t.co/K3KWPO8l4a</a> Khoei et al. <a href="https://twitter.com/hashtag/vision?src=hash&amp;ref_src=twsrc%5Etfw">#vision</a> <a href="https://twitter.com/hashtag/motion?src=hash&amp;ref_src=twsrc%5Etfw">#motion</a> <a href="https://twitter.com/hashtag/neuralnetworks?src=hash&amp;ref_src=twsrc%5Etfw">#neuralnetworks</a> <a href="https://t.co/RElm4Qqo58">pic.twitter.com/RElm4Qqo58</a></p>&mdash; PLOS Comp Biol (@PLOSCompBiol) <a href="https://twitter.com/PLOSCompBiol/status/829354100273745920?ref_src=twsrc%5Etfw">February 8, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Visual illusions are still popular: in a quasi-magical way, they can make objects appear where they are not expected&hellip; They are also excellent opportunities to question the constraints of our perceptual system. Many illusions are based on motion, such as the flash-lag effect. Observe a luminous dot that moves along a rectilinear trajectory. If a second light dot is flashed very briefly just above the first, the moving point will always be perceived in front of the flash while they are vertically aligned.
-Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
-The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
-Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &ldquo;hidden&rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &ldquo;simulation&rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &ldquo;science fiction&rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
+Visual illusions are still popular: in a quasi-magical way, they can make objects appear where they are not expected&hellip; They are also excellent opportunities to question the constraints of our perceptual system. Many illusions are based on motion, such as the flash-lag effect. Observe a luminous dot that moves along a rectilinear trajectory. If a second light dot is flashed very briefly just above the first, the moving point will always be perceived in front of the flash while they are vertically aligned.</p></li>
+</ul>
+
+
+
+
+<figure>
+
+<img src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=info:doi/10.1371/journal.pcbi.1005068.g002" width="80%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Fig 2. <em>Diagonal Markov chain.</em> In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. &copy; Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x + v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays.</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
+The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.</p>
+
+
+
+
+<figure>
+
+<img src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10.1371/journal.pcbi.1005068.g005" width="80%" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Fig 5. <em>Histogram of the estimated positions as a function of time for the dMBP model.</em> Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &ldquo;hidden&rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &ldquo;simulation&rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &ldquo;science fiction&rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New from Khoei et al. The Flash-Lag Effect as a <a href="https://twitter.com/hashtag/Motion?src=hash&amp;ref_src=twsrc%5Etfw">#Motion</a>-Based Predictive Shift <a href="https://t.co/K3KWPO8l4a">https://t.co/K3KWPO8l4a</a> <a href="https://twitter.com/hashtag/neuralnetworks?src=hash&amp;ref_src=twsrc%5Etfw">#neuralnetworks</a> <a href="https://t.co/iWsd9nK5qp">pic.twitter.com/iWsd9nK5qp</a></p>&mdash; PLOS Comp Biol (@PLOSCompBiol) <a href="https://twitter.com/PLOSCompBiol/status/829474896023474176?ref_src=twsrc%5Etfw">February 8, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p></li>
-</ul>
+</p>
 </div>
 
     
