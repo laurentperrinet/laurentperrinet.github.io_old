@@ -4,7 +4,7 @@
     <title>psychophysics on Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/psychophysics/</link>
     <description>Recent content in psychophysics on Novel visual computations</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
@@ -12,7 +12,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 </copyright>
     <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://laurentperrinet.github.io/tags/psychophysics/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://laurentperrinet.github.io/tags/psychophysics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,7 +30,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/motion-clouds/</guid>
-      <description>&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.</description>
+      <description>&lt;p&gt;Motion Clouds are random, textured dynamical stimuli synthesized such as to challenge spatio-temporal integration properties of the early visual system. Unlike classical low-entropy stimuli such as gratings, these stimuli are less susceptible to create interference patterns when mixed together. This is essential to study integrative and discriminative properties of the low-level sensory systems. Moreover, this pseudo-random stimulation protocol allows to make a trial-by-trial analysis locked to the stimulation onset. This allows to study experimentally trial-by-trial variability and relative importance between measurement noise and contextual uncertainty.&lt;/p&gt;
+
+&lt;p&gt;This is a first step before extending synthesis to probabilistic synthesis models of the texture&amp;rsquo;s geometric structure. The model will use geometrical multi-scale transformations extending the classical wavelet representation. For instance, these transformations synthesize the stimuli as randomized superposition of geometrical wavelets that match the spatio-temporal profile of association fields in V1. These will be implemented by computing evolutions of partial differential equations with randomized initial conditions. Finally, models are designed such that we explicitly tune the statistics of the generative model and thus control the structural complexity of the stimuli, such as different scales of smoothness in the spatio-temporal dynamics as displayed by natural scenes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.motionclouds.invibe.net&#34; target=&#34;_blank&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -75,7 +83,22 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/simoncini-12/</guid>
-      <description>Band-pass motion stimuli for perception and action tasks. (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples.</description>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. &amp;copy; For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>

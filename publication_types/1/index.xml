@@ -4,7 +4,7 @@
     <title>1 on Novel visual computations</title>
     <link>https://laurentperrinet.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Novel visual computations</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
@@ -12,7 +12,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 </copyright>
     <lastBuildDate>Fri, 05 Apr 2019 15:45:00 +0200</lastBuildDate>
     
-	<atom:link href="https://laurentperrinet.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://laurentperrinet.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,7 +21,13 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Fri, 05 Apr 2019 15:45:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/</guid>
-      <description> previous talk @ LAW, Lyon previous talk @ INVIBE FEST, Paris previous talk @ Brain workshop, Marseille previous talk @ LACONEU, Chile  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34; target=&#34;_blank&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34; target=&#34;_blank&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34; target=&#34;_blank&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34; target=&#34;_blank&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -84,7 +90,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</guid>
-      <description> accepted submission @ iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques, 21 - 23 November​, 2018 poster session scheduled on Thursday, November 22th, from 10h30 till 12h00. CIRM, Marseille, France.  get the full proceedings Poster as PDF check-out our preprint on SDPC  </description>
+      <description>&lt;ol&gt;
+&lt;li&gt;accepted submission @ &lt;a href=&#34;https://sites.google.com/view/itwist18&#34; target=&#34;_blank&#34;&gt;iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques&lt;/a&gt;, 21 - 23 November​, 2018&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/itwist18/program#h.p_9OOcrreKb--s&#34; target=&#34;_blank&#34;&gt;poster session&lt;/a&gt; scheduled on Thursday, November 22th, from 10h30 till 12h00.&lt;/li&gt;
+&lt;li&gt;CIRM, Marseille, France. &lt;span id=&#34;line-10&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;get the &lt;a href=&#34;https://arxiv.org/html/1812.00648&#34; target=&#34;_blank&#34;&gt;full proceedings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Poster as &lt;a href=&#34;https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&amp;amp;do=get&amp;amp;target=BoutinFranciosiniRuffierPerrinet18itwist.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;check-out our preprint on &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19/&#34; target=&#34;_blank&#34;&gt;SDPC&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -111,7 +125,13 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</guid>
-      <description> poster présenté au GDR vision, Paris. program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf Poster (pdf) code : https://github.com/hugoladret/InternshipM1  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;poster présenté au &lt;a href=&#34;https://gdrvision2018.sciencesconf.org&#34; target=&#34;_blank&#34;&gt;GDR vision, Paris&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;program : &lt;a href=&#34;https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf&#34; target=&#34;_blank&#34;&gt;https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf&#34; target=&#34;_blank&#34;&gt;Poster (pdf)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;code : &lt;a href=&#34;https://github.com/hugoladret/InternshipM1&#34; target=&#34;_blank&#34;&gt;https://github.com/hugoladret/InternshipM1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -138,7 +158,12 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</guid>
-      <description> This work is a followup of Perrinet, 2010, Neural Computation the poster (PDF) will be presented Thursday, May 18 @ NeuroFrance, Bordeaux. see a follow-up publication on BoutinRuffierPerrinet17spars  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf&#34; target=&#34;_blank&#34;&gt;poster (PDF)&lt;/a&gt; will be presented Thursday, May 18 @ &lt;a href=&#34;http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf&#34; target=&#34;_blank&#34;&gt;NeuroFrance, Bordeaux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;see a follow-up publication on &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/&#34; target=&#34;_blank&#34;&gt;BoutinRuffierPerrinet17spars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -147,7 +172,12 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
-      <description> This work is a followup of Perrinet, 2010, Neural Computation code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning the poster (PDF) will be presented Thursday, June 8 @ SPARS, Lisbon.  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;code is available @ &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&#34; target=&#34;_blank&#34;&gt;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&lt;/a&gt; and heavily uses &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning&#34; target=&#34;_blank&#34;&gt;https://github.com/bicv/SparseHebbianLearning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf&#34; target=&#34;_blank&#34;&gt;poster (PDF)&lt;/a&gt;  will be presented Thursday, June 8 @ &lt;a href=&#34;http://spars2017.lx.it.pt/index_files/SPARS2017_program.html&#34; target=&#34;_blank&#34;&gt;SPARS, Lisbon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -210,7 +240,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/taouali-15-vss/</guid>
-      <description> This is a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;This is a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -390,7 +423,26 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</guid>
-      <description>Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  Figure 4: Rasterplot of input and output spikes. The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation).</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Figure 4: &lt;em&gt;Rasterplot of input and output spikes.&lt;/em&gt; The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation). To decode such patterns of activity we used a maximum-likelihood estimation technique based on the tuning curve of the neurons.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -435,7 +487,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -471,7 +527,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/masson-12-areadne/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -489,7 +548,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-12-sfn/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -498,7 +561,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -507,7 +573,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -534,7 +604,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-10-tauc/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -552,7 +626,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -588,7 +665,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-09-gns/</guid>
-      <description> see this subsequent paper in the Journal of Computational Neuroscience  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -624,7 +704,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Mon, 27 Oct 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
-      <description> see this subsequent paper in the Journal of Computational Neuroscience  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -642,7 +725,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</guid>
-      <description> see this subsequent paper in the Journal of Computational Neuroscience  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -732,7 +818,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -777,7 +866,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -822,7 +914,22 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-esann/</guid>
-      <description>  Progressive reconstruction of a static image using spikes in a Laplacian pyramid.   </description>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;lena256pyr.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;em&gt;Progressive reconstruction of a static image using spikes in a Laplacian pyramid.&lt;/em&gt;&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>

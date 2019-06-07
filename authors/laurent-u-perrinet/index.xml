@@ -4,14 +4,14 @@
     <title>Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/laurent-u-perrinet/</link>
     <description>Recent content on Novel visual computations</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
     
-	<atom:link href="https://laurentperrinet.github.io/authors/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://laurentperrinet.github.io/authors/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,7 +20,12 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Thu, 23 May 2019 01:30:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/</guid>
-      <description> This is part of the Active Inference symposium @ NeuroFrance SYMPOSIUM, Room 7 23.05.2019, 11:00 &amp;ndash; 13:00 in french: Principes et psychophysique de l´Inférence Active dans l&amp;rsquo;estimation d&amp;rsquo;un biais dynamique et volatile de probabilité  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;This is part of the &lt;a href=&#34;https://laurentperrinet.github.io/post/2019-05-23-neurofrance/&#34; target=&#34;_blank&#34;&gt;Active Inference symposium&lt;/a&gt; @ &lt;a href=&#34;https://www.neurosciences.asso.fr/V2/colloques/SN19/&#34; target=&#34;_blank&#34;&gt;NeuroFrance&lt;/a&gt; SYMPOSIUM, Room 7
+23.05.2019, 11:00 &amp;ndash; 13:00&lt;/li&gt;
+&lt;li&gt;in french: Principes et psychophysique de l´Inférence Active dans l&amp;rsquo;estimation d&amp;rsquo;un biais dynamique et volatile de probabilité&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -29,7 +34,76 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Mon, 20 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/post/2019-05-23-neurofrance/</guid>
-      <description>We organize a Symposium at NeuroFrance 2019 entitled Active Inference: Bridging theoretical and experimental neurosciences. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society.</description>
+      <description>
+
+&lt;h2 id=&#34;active-inference-bridging-theoretical-and-experimental-neurosciences-inference-active-un-pont-entre-neurosciences-théoriques-et-expérimentales&#34;&gt;Active Inference: Bridging theoretical and experimental neurosciences. / Inference Active: Un pont entre neurosciences théoriques et expérimentales.&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.neurosciences.asso.fr/V2/colloques/SN19/index_en.php&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://neuro-marseille.org/wp-content/uploads/2018/07/capture-decran-2018-07-06-a-190423.png&#34; alt=&#34;Site NeuroFrance&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SYMPOSIUM S17&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;When: 23.05.2019 11:00-13:00h&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;When: Endoume 1+2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;s17-1-https-www-professionalabstracts-com-nf2019-iplanner-presentation-1397-active-inference-and-brain-computer-interfaces-inférence-active-et-interfaces-cerveau-machine&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1397&#34; target=&#34;_blank&#34;&gt;S17.1&lt;/a&gt;  Active inference and Brain-Computer Interfaces / Inférence active et interfaces cerveau-machine&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mattout J. (Lyon, France), Mladenovic J. (Lyon, France), Frey J. (Bordeaux, France)3, Joffily M. (Lyon, France), Maby E. (Lyon, France), Lotte F. (Lyon, France)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Brain-Computer Interfaces (BCIs) devices bypass natural pathways to connect the brain with a machine, directly. They may rely on invasive or non-invasive measures of brain activity and applications cover a large domain, mostly but not restricted to clinical ones. A major objective is to restore communication and autonomy in heavily motor impaired patients.
+However, no BCI has made its way to a routinely used clinical application yet. One lead for improvement is to endow the machine with learning abilities so that it can optimize its decisions and adapt to changes in the user signals over time1. Several approaches have been proposed but a generic framework is still lacking to foster the development of efficient adaptive BCIs2.
+Initially proposed to model perception, learning and action by the brain, the Active Inference (AI) framework offers great promises in that aim3. It rests on an explicit generative model of the environment. In BCI, from the machine&amp;rsquo;s point of view, brain signals play the role of sensory inputs on which the machine&amp;rsquo;s perception of mental states will be based. Furthermore, the machine builds up decisions and trades between different actions such as: go on observing, deciding to decide, correcting its previous action or moving on.
+In this talk, I will present an instantiation of AI in the context of the EEG-based P300-speller BCI for communication, showing it can flexibly combine complementary adaptive features pertaining to both perception and action, and yield significant improvements as shown on realistic simulations. We will discuss perspectives to further extend the current model and performance as well as the challenges ahead to implement this framework online.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Mattout, J. Brain-Computer Interfaces: A Neuroscience Paradigm of Social Interaction? A Matter of Perspective. Frontiers in Human Neuroscience 6, (2012).&lt;/li&gt;
+&lt;li&gt;Mladenovic, J., Mattout, J. &amp;amp; Lotte, F. A Generic Framework for Adaptive EEG-Based BCI Training and Operation. in Brain-computer interfaces handbook: technological and theoretical advances (eds. Nam, C. S., Nijholt, A. &amp;amp; Lotte, F.) Chapter 31 (Taylor &amp;amp; Francis, CRC Press, 2018).&lt;/li&gt;
+&lt;li&gt;Friston, K., Mattout, J. &amp;amp; Kilner, J. Action understanding and active inference. Biological Cybernetics 104, 137-160 (2011).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;s17-2-https-www-professionalabstracts-com-nf2019-iplanner-presentation-1398-comparing-active-inference-and-reinforcement-learning-models-of-a-go-nogo-task-and-their-relationships-to-striatal-dopamine-2-receptors-assessed-using-pet-comparaison-des-modèles-d-inférence-active-et-d-apprentissage-par-renforcement-dans-une-tâche-go-nogo-relation-avec-les-récepteurs-dopaminergiques-d2-striataux-évalués-par-tep&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398&#34; target=&#34;_blank&#34;&gt;S17.2&lt;/a&gt;  Comparing active inference and reinforcement learning models of a Go NoGo task and their relationships to striatal dopamine 2 receptors assessed using PET / Comparaison des modèles d&amp;rsquo;inférence active et d&amp;rsquo;apprentissage par renforcement dans une tâche Go / NoGo : relation avec les récepteurs dopaminergiques D2 striataux évalués par TEP&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;R. Adams (London)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398&#34; target=&#34;_blank&#34;&gt;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Adaptive behaviour includes the ability to choose actions that result in advantageous outcomes. It is key to survival and a fundamental function of nervous systems. Active inference (AI) and reinforcement learning (RL) are two influential models of how the brain might achieve this. A key AI parameter is the precision of beliefs about policies. Precision controls the stochasticity of action selection - similar to decision temperature in RL - and is thought to be encoded by striatal dopamine. 75 healthy subjects performed a &amp;lsquo;go/no-go&amp;rsquo; task, and we measured striatal dopamine &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; receptor (D2/3R) availability in a subset of 25 using [11C]-(+)-PHNO positron emission tomography. In behavioural model comparison, RL performed best across the whole group but AI performed best in accurate subjects. D2/3R availability in the limbic striatum correlated with AI policy precision and also with RL irreducible decision &amp;lsquo;noise&amp;rsquo;. Limbic striatal D2/3R availability also correlated with AI Pavlovian prior beliefs - i.e. the respective probabilities of making or withholding actions in rewarding or loss-avoiding contexts - and the RL learning rate. These findings are consistent with the notion that occupancy of inhibitory striatal D2/3Rs controls the variability of action selection.&lt;/p&gt;
+
+&lt;h3 id=&#34;s17-3-https-www-professionalabstracts-com-nf2019-iplanner-presentation-1399-principles-and-psychophysics-of-active-inference-in-anticipating-a-dynamic-switching-probabilistic-bias-principes-et-psychophysique-de-l-inférence-active-dans-l-estimation-d-un-biais-dynamique-et-volatile-de-probabilité&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1399&#34; target=&#34;_blank&#34;&gt;S17.3&lt;/a&gt;  Principles and psychophysics of active inference in anticipating a dynamic, switching probabilistic bias / Principes et psychophysique de l&amp;rsquo;inférence active dans l´estimation d&amp;rsquo;un biais dynamique et volatile de probabilité&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;L. Perrinet (Marseille)&lt;/li&gt;
+&lt;li&gt;see more info on this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/&#34; target=&#34;_blank&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;s17-4-https-www-professionalabstracts-com-nf2019-iplanner-presentation-1400-is-laziness-contagious-a-computational-approach-to-attitude-alignment-la-fainéantise-est-elle-contagieuse-une-approche-computationnelle-de-l-alignement-des-attitudes&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1400&#34; target=&#34;_blank&#34;&gt;S17.4&lt;/a&gt;  Is laziness contagious? A computational approach to attitude alignment / La fainéantise est-elle contagieuse? Une approche computationnelle de l´alignement des attitudes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;J. Daunizeau (Paris)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What do people learn from observing others´ attitudes, such as prudence, impatience or laziness? Rather than viewing these attitudes as examples of subjective and biologically entrenched personality traits, we assume that they derive from uncertain (and mostly implicit) beliefs about how to best weigh risks, delays and efforts in ensuing cost-benefit trade-offs. In this view, it is adaptive to update one´s belief after having observed others´ attitude, which provides valuable information regarding how to best behave in related difficult decision contexts. This is the starting point of our bayesian model of attitude alignment, which we derive in the light of recent neuroimaging findings. First, we disclose a few non-trivial predictions from this model. Second, we validate these predictions experimentally by profiling people´s prudence, impatience and laziness both before and after guessing a series of cost-benefit arbitrages performed by calibrated artificial agents (which are impersonating human individuals). Third, we extend these findings and assess attitude alignment in autistic individuals. Finally, we discuss the relevance and implications of this work, with a particular emphasis on the assessment of biases of social cognition.&lt;/p&gt;
+
+&lt;h3 id=&#34;s17-5-https-www-professionalabstracts-com-nf2019-iplanner-presentation-223-generative-bayesian-modeling-for-causal-inference-between-neural-activity-and-behavior-in-drosophila-larva&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/223&#34; target=&#34;_blank&#34;&gt;S17.5&lt;/a&gt;   Generative Bayesian modeling for causal inference between neural activity and behavior in Drosophila larva&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;C. Barre (Paris) (TBC)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A fundamental property of the central nervous system is its ability to select appropriate behavioral patterns or sequences of behavioral patterns in response to sensory cues, but what are the biological mechanisms underlying decision making? The Drosophila larva is an ideal animal model for reverse-engineering the neural processes underlying behavior. The full connectome of the larva brain has been imaged at the individual-synapse level using electron microscopy.
+The host of genetic techniques available for Drosophila allows us to optogenetically manipulate over 1,500 of its roughly 12,000 neurons individually in freely behaving larvae.
+This enables us to establish causal relationships between neural activity, and behavior at the fundamental level of individual neurons and neural connections.
+We have access to video record of the individual behavior of ~3,000,000 larvae. We have identified 6 stereotypical behavioral patterns using a combination of supervised and unsupervised machine learning. The behavioral identified for the larva: crawl, turn, stop, crawl backward, hunch (retract the head), and roll (lateral slide). Each realization of a behavioral pattern is characterized by a different duration, amplitude, and velocity.
+Here we present a generative model that extracts the behavior of wildtype larvae using Bayesian inference, and interprets behavioral changes following neuron activation or inactivation from large-scale experimental screens. Fig. shows the average behavior of 10,000 larvae over time in a screen where a single neuron is activated at t=30s. A clear change in behavior is seen following activation is seen which is well captured by the model, illustrating its accuracy.
+The generative model enables us to robustly detect behavioral modifications as significant deviations of the patterns in the larvae&amp;rsquo;s sequence of activities from their equilibrium behavior.&lt;/p&gt;
+
+&lt;h3 id=&#34;neurofrance-marseille-capitale-des-neurosciences&#34;&gt;NeuroFrance: Marseille, capitale des neurosciences&lt;/h3&gt;
+
+&lt;p&gt;Du  22 au 24 mai 2019 au Palais des congrès de Marseille (Parc Chanot), près de 1300 chercheurs, cliniciens et étudiants venus du monde entier partageront leurs travaux lors de NeuroFrance 2019, colloque international organisé par la Société des Neurosciences.Au total, 8 conférences plénières, 42 symposiums, 6 sessions spécialisées, 525 communications affichées, ainsi qu’une exposition avec 42 entreprises et sociétés de biotechnologies, feront de ce colloque un moment exceptionnel pour mettre en lumière les avancées majeures scientifiques et technologiques sur le fonctionnement du cerveau. Vous pourrez aussi découvrir le &amp;ldquo;Neurovillage&amp;rdquo; qui permettra de vous immerger au cœur des innovations neuroscientifiques marseillaises, ainsi que  l’exposition  « L’Art en tête », composée de cinq œuvres originales créées par des artistes et des scientifiques. Plusieurs événements seront également proposés autour du colloque pour le grand public comme pour les chercheurs.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,7 +112,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Thu, 18 Apr 2019 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2019-04-18-jnlf/</guid>
-      <description>Les objectifs sont : &amp;ndash; mieux comprendre la fonction de la perception visuelle en explorant certaines limites ; &amp;ndash; mieux comprendre l&amp;rsquo;importance de l&amp;rsquo;aspect dynamique de la perception ; &amp;ndash; mieux comprendre le rôle de l&amp;rsquo;action dans la perception.</description>
+      <description></description>
     </item>
     
     <item>
@@ -47,7 +121,13 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Fri, 05 Apr 2019 15:45:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/</guid>
-      <description> previous talk @ LAW, Lyon previous talk @ INVIBE FEST, Paris previous talk @ Brain workshop, Marseille previous talk @ LACONEU, Chile  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34; target=&#34;_blank&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34; target=&#34;_blank&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34; target=&#34;_blank&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34; target=&#34;_blank&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -65,7 +145,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Mon, 25 Mar 2019 14:30:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/</guid>
-      <description> check-out our preprint on SDPC  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;check-out our preprint on &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19/&#34; target=&#34;_blank&#34;&gt;SDPC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -74,7 +157,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/chemla-19/</guid>
-      <description>Traveling waves have recently been observed in different animal species, brain areas and behavioral states. However, it is still unclear what are their functional roles. In the case of cortical visual processing, waves propagate across retinotopic maps and can hereby generate interactions between spatially and temporally separated instances of feedforward driven activity. Such interactions could participate in processing long-range apparent motion stimuli, an illusion for which no clear neuronal mechanisms have yet been proposed. Using this paradigm in awake monkeys, we show that suppressive traveling waves produce to a spatio-temporal normalization of apparent motion stimuli. Our study suggests that cortical waves shape the representation of illusory moving stimulus within retinotopic maps for an straightforward read-out by downstream areas.</description>
+      <description></description>
     </item>
     
     <item>
@@ -83,7 +166,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19/</guid>
-      <description> presented during this talk  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34; target=&#34;_blank&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -92,8 +178,69 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/ravello-19/</guid>
-      <description>Press release
-Dès la rétine, le système visuel préfère des images naturelles Dans la rétine, au premier étage du traitement de l&amp;rsquo;image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l&amp;rsquo;image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l&amp;rsquo;utilisation d&amp;rsquo;un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.</description>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;dès-la-rétine-le-système-visuel-préfère-des-images-naturelles&#34;&gt;Dès la rétine, le système visuel préfère des images naturelles&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Dans la rétine, au premier étage du traitement de l&amp;rsquo;image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l&amp;rsquo;image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l&amp;rsquo;utilisation d&amp;rsquo;un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.&lt;/em&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;Travail collaboratif et multi-disciplinaire entre &lt;a href=&#34;https://twitter.com/cesarravello?ref_src=twsrc%5Etfw&#34;&gt;@cesarravello&lt;/a&gt; &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; María José Escobar et &lt;a href=&#34;https://twitter.com/APalacio_s?ref_src=twsrc%5Etfw&#34;&gt;@APalacio_s&lt;/a&gt; librement disponible sur &lt;a href=&#34;https://twitter.com/SciReports?ref_src=twsrc%5Etfw&#34;&gt;@SciReports&lt;/a&gt; - merci à  l&amp;#39;&lt;a href=&#34;https://twitter.com/AgenceRecherche?ref_src=twsrc%5Etfw&#34;&gt;@AgenceRecherche&lt;/a&gt; pour l&amp;#39;aide financière et à &lt;a href=&#34;https://twitter.com/CNRS?ref_src=twsrc%5Etfw&#34;&gt;@CNRS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CNRS_dr12?ref_src=twsrc%5Etfw&#34;&gt;@CNRS_dr12&lt;/a&gt; + &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; pour l&amp;#39;&lt;a href=&#34;https://twitter.com/hashtag/InstitutDeNeurosciencesDeLaTimone?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#InstitutDeNeurosciencesDeLaTimone&lt;/a&gt; &lt;a href=&#34;https://t.co/YixRfpCrT3&#34;&gt;https://t.co/YixRfpCrT3&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1092139540788244480?ref_src=twsrc%5Etfw&#34;&gt;February 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+La rétine est la première étape du traitement visuel, aux capacités étonnantes. À la différence d&amp;rsquo;un simple capteur comme ceux qu’on trouve dans les appareils photographiques numériques, ce mince tissu neuronal est un système complexe et encore largement méconnu. Une meilleure connaissance de cette structure est essentielle pour la construction de capteurs du futur efficaces et économes -par exemple ceux qui équiperont les futures voitures autonomes- mais aussi pour mieux comprendre des pathologies comme la Déficience Maculaire Liée à l&amp;rsquo;Age (DMLA). Une des facettes méconnues de la rétine est sa capacité à détecter des mouvements et cet article permet de mieux comprendre une partie des mécanismes en jeu.
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New study on speed selectivity in the &lt;a href=&#34;https://twitter.com/hashtag/retina?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#retina&lt;/a&gt; showing that a majority of neurons prefer natural-like stimuli. Collaborative and multi-disciplinary work with &lt;a href=&#34;https://twitter.com/cesarravello?ref_src=twsrc%5Etfw&#34;&gt;@cesarravello&lt;/a&gt; &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; María José Escobar and &lt;a href=&#34;https://twitter.com/APalacio_s?ref_src=twsrc%5Etfw&#34;&gt;@APalacio_s&lt;/a&gt; available with &lt;a href=&#34;https://twitter.com/SciReports?ref_src=twsrc%5Etfw&#34;&gt;@SciReports&lt;/a&gt; at &lt;a href=&#34;https://t.co/Vb7GoRxjoT&#34;&gt;https://t.co/Vb7GoRxjoT&lt;/a&gt;&lt;/p&gt;&amp;mdash; Adrian Palacios (@APalacio_s) &lt;a href=&#34;https://twitter.com/APalacio_s/status/1092200890377879552?ref_src=twsrc%5Etfw&#34;&gt;February 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Retinal cell preference for natural-like stimuli. Very elegant work by &lt;a href=&#34;https://twitter.com/APalacio_s?ref_src=twsrc%5Etfw&#34;&gt;@APalacio_s&lt;/a&gt; et al. &lt;a href=&#34;https://twitter.com/hashtag/retina?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#retina&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuroscience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuroscience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/decoding?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#decoding&lt;/a&gt; &lt;a href=&#34;https://t.co/3xNWaZd5x6&#34;&gt;https://t.co/3xNWaZd5x6&lt;/a&gt;&lt;/p&gt;&amp;mdash; Andres Canales-Johnson (@canalesjohnson) &lt;a href=&#34;https://twitter.com/canalesjohnson/status/1092211339311923201?ref_src=twsrc%5Etfw&#34;&gt;February 4, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+Conciliant modélisation et neurophysiologie, cette étude a permis de faire des prédictions sur le traitement de l&amp;rsquo;information rétinienne et en particulier de générer des textures synthétiques qui sont optimales pour ces modèles (voir film). Les enregistrements effectués sur la rétine de rongeurs diurnes Octodon degus ont ensuite permis de mesurer la sélectivité à la vitesse mais aussi de valider une nouvelle fois ces modèles en reconstruisant l&amp;rsquo;image d&amp;rsquo;entrée à partir de l&amp;rsquo;activité neurale.
+Le résultat le plus inattendu est la différence de sélectivité de certaines classes de neurones rétiniens par rapport à la complexité du stimulus présenté. En effet, la représentation de la vitesse est relativement peu précise si on utilise des réseaux de lignes (&amp;ldquo;Grating&amp;rdquo;), comme cela est d&amp;rsquo;habitude réalisé dans la plupart des expériences neurophysiologiques. Au contraire, elle devient plus précise si on utilise comme signaux visuels des textures artificielles ressemblant à des nuages en mouvement (&amp;ldquo;MC Narrow&amp;rdquo;). En particulier, plus cette texture est complexe, plus la représentation est précise (&amp;ldquo;MC Broad&amp;rdquo;).
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/R%C3%A9sultatScientifique?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RésultatScientifique&lt;/a&gt; 🔍| Dès la &lt;a href=&#34;https://twitter.com/hashtag/r%C3%A9tine?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rétine&lt;/a&gt;, le système &lt;a href=&#34;https://twitter.com/hashtag/visuel?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#visuel&lt;/a&gt; préfère des images naturelles&lt;br&gt;▶️ &lt;a href=&#34;https://t.co/BBY2IpGum6&#34;&gt;https://t.co/BBY2IpGum6&lt;/a&gt;&lt;br&gt;📕 &lt;a href=&#34;https://twitter.com/SciReports?ref_src=twsrc%5Etfw&#34;&gt;@SciReports&lt;/a&gt; | &lt;a href=&#34;https://t.co/5mULuWTp3N&#34;&gt;https://t.co/5mULuWTp3N&lt;/a&gt;&lt;br&gt;🤝 &lt;a href=&#34;https://twitter.com/CNRS?ref_src=twsrc%5Etfw&#34;&gt;@CNRS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CNRS_dr12?ref_src=twsrc%5Etfw&#34;&gt;@CNRS_dr12&lt;/a&gt; &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/InstitutDeNeurosciencesDeLaTimone?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#InstitutDeNeurosciencesDeLaTimone&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LaurentPerrinet?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LaurentPerrinet&lt;/a&gt; &lt;a href=&#34;https://t.co/34R1URHUic&#34;&gt;pic.twitter.com/34R1URHUic&lt;/a&gt;&lt;/p&gt;&amp;mdash; Biologie au CNRS (@INSB_CNRS) &lt;a href=&#34;https://twitter.com/INSB_CNRS/status/1091392027848294401?ref_src=twsrc%5Etfw&#34;&gt;February 1, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli. Beautiful article in Scientific Reports on an original animal model, the diurnal rodent Octodon degus. &lt;a href=&#34;https://t.co/BdzyzEVYnX&#34;&gt;https://t.co/BdzyzEVYnX&lt;/a&gt; (open access) &lt;a href=&#34;https://t.co/1UaoMYTFd2&#34;&gt;pic.twitter.com/1UaoMYTFd2&lt;/a&gt;&lt;/p&gt;&amp;mdash; Stéphane Deny (@StephaneDeny) &lt;a href=&#34;https://twitter.com/StephaneDeny/status/1090452532223045632?ref_src=twsrc%5Etfw&#34;&gt;January 30, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+Ces textures complexes sont plus proches des images naturellement observées et ces résultats montrent donc que dès la rétine, le système visuel est particulièrement adapté à des stimulations naturelles. Ce résultat devrait pouvoir s&amp;rsquo;étendre à des textures encore plus complexes et encore plus proches d&amp;rsquo;images naturelles, mais aussi pouvoir se généraliser à d&amp;rsquo;autres aires visuelles plus complexes, comme le cortex visuel primaire, et à d&amp;rsquo;autres espèces.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&amp;rsquo;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&amp;rsquo;autant plus précises que la stimulation est complexe. © Cesar Ravello&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;video_perrinet.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Cette vidéo montre les trois classes de stimulations utilisées dans cette étude. En plus des réseaux sinusoïdaux (“Grating”) qui sont classiquement utilisés en neurosciences, cette étude a utilisé des textures aléatoires (Motion Clouds (MC)) qui sont inspirées de modèles du traitement visuel. Ils permettent en particulier de manipuler des paramètres visuels critiques comme la variété de fréquences spatiales qui sont superposées: soit unique (“Grating”), fine (“MC Narrow”), soit plus large (“MC Broad”). Ces vidéos ont été directement projetées sur des rétines posées sur des grilles d’électrodes qui permettent de mesurer l’activité neurale (voir figure). © Laurent Perrinet / Cesar Ravello&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -102,7 +249,13 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
       <pubDate>Fri, 18 Jan 2019 10:45:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2019-01-18-laconeu/</guid>
-      <description> previous talk @ LAW, Lyon previous talk @ INVIBE FEST, Paris previous talk @ Brain workshop, Marseille next talk @ CAUSAL Kick-off, Marseille  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34; target=&#34;_blank&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34; target=&#34;_blank&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34; target=&#34;_blank&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34; target=&#34;_blank&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -174,7 +327,13 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
       <pubDate>Thu, 05 Apr 2018 14:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</guid>
-      <description> previous talk @ LAW, Lyon previous talk @ INVIBE FEST, Paris next talk @ LACONEU, Chile next talk @ CAUSAL Kick-off, Marseille  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34; target=&#34;_blank&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34; target=&#34;_blank&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34; target=&#34;_blank&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34; target=&#34;_blank&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -192,7 +351,13 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</guid>
-      <description> previous talk @ LAW, Lyon next talk @ Brain workshop, Marseille next talk @ LACONEU, Chile next talk @ CAUSAL Kick-off, Marseille  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34; target=&#34;_blank&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34; target=&#34;_blank&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34; target=&#34;_blank&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34; target=&#34;_blank&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -246,7 +411,15 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</guid>
-      <description> accepted submission @ iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques, 21 - 23 November​, 2018 poster session scheduled on Thursday, November 22th, from 10h30 till 12h00. CIRM, Marseille, France.  get the full proceedings Poster as PDF check-out our preprint on SDPC  </description>
+      <description>&lt;ol&gt;
+&lt;li&gt;accepted submission @ &lt;a href=&#34;https://sites.google.com/view/itwist18&#34; target=&#34;_blank&#34;&gt;iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques&lt;/a&gt;, 21 - 23 November​, 2018&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/itwist18/program#h.p_9OOcrreKb--s&#34; target=&#34;_blank&#34;&gt;poster session&lt;/a&gt; scheduled on Thursday, November 22th, from 10h30 till 12h00.&lt;/li&gt;
+&lt;li&gt;CIRM, Marseille, France. &lt;span id=&#34;line-10&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;get the &lt;a href=&#34;https://arxiv.org/html/1812.00648&#34; target=&#34;_blank&#34;&gt;full proceedings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Poster as &lt;a href=&#34;https://invibe.net/LaurentPerrinet/Publications/BoutinFranciosiniRuffierPerrinet18itwist?action=AttachFile&amp;amp;do=get&amp;amp;target=BoutinFranciosiniRuffierPerrinet18itwist.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;check-out our preprint on &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19/&#34; target=&#34;_blank&#34;&gt;SDPC&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -273,7 +446,13 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</guid>
-      <description> poster présenté au GDR vision, Paris. program : https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf Poster (pdf) code : https://github.com/hugoladret/InternshipM1  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;poster présenté au &lt;a href=&#34;https://gdrvision2018.sciencesconf.org&#34; target=&#34;_blank&#34;&gt;GDR vision, Paris&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;program : &lt;a href=&#34;https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf&#34; target=&#34;_blank&#34;&gt;https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf&#34; target=&#34;_blank&#34;&gt;Poster (pdf)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;code : &lt;a href=&#34;https://github.com/hugoladret/InternshipM1&#34; target=&#34;_blank&#34;&gt;https://github.com/hugoladret/InternshipM1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -336,8 +515,71 @@ Dès la rétine, le système visuel préfère des images naturelles Dans la rét
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/</guid>
-      <description>Press release
-Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash.</description>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;visual-illusions-their-origin-lies-in-prediction&#34;&gt;Visual illusions: their origin lies in prediction&lt;/h1&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;flash_lag.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;em&gt;Flash-Lag Effect.&lt;/em&gt; When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;strong&gt;Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.&lt;/strong&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New Research: The Flash-Lag Effect as a Motion-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; Khoei et al. &lt;a href=&#34;https://twitter.com/hashtag/vision?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#vision&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#motion&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/RElm4Qqo58&#34;&gt;pic.twitter.com/RElm4Qqo58&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829354100273745920?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+Visual illusions are still popular: in a quasi-magical way, they can make objects appear where they are not expected&amp;hellip; They are also excellent opportunities to question the constraints of our perceptual system. Many illusions are based on motion, such as the flash-lag effect. Observe a luminous dot that moves along a rectilinear trajectory. If a second light dot is flashed very briefly just above the first, the moving point will always be perceived in front of the flash while they are vertically aligned.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Fig 2. &lt;em&gt;Diagonal Markov chain.&lt;/em&gt; In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. &amp;copy; Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x + v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
+The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&amp;rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Fig 5. &lt;em&gt;Histogram of the estimated positions as a function of time for the dMBP model.&lt;/em&gt; Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &amp;ldquo;hidden&amp;rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &amp;ldquo;simulation&amp;rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &amp;ldquo;science fiction&amp;rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New from Khoei et al. The Flash-Lag Effect as a &lt;a href=&#34;https://twitter.com/hashtag/Motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Motion&lt;/a&gt;-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/iWsd9nK5qp&#34;&gt;pic.twitter.com/iWsd9nK5qp&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829474896023474176?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -373,7 +615,12 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</guid>
-      <description> This work is a followup of Perrinet, 2010, Neural Computation the poster (PDF) will be presented Thursday, May 18 @ NeuroFrance, Bordeaux. see a follow-up publication on BoutinRuffierPerrinet17spars  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf&#34; target=&#34;_blank&#34;&gt;poster (PDF)&lt;/a&gt; will be presented Thursday, May 18 @ &lt;a href=&#34;http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf&#34; target=&#34;_blank&#34;&gt;NeuroFrance, Bordeaux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;see a follow-up publication on &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/&#34; target=&#34;_blank&#34;&gt;BoutinRuffierPerrinet17spars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -382,7 +629,12 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
-      <description> This work is a followup of Perrinet, 2010, Neural Computation code is available @ https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars and heavily uses https://github.com/bicv/SparseHebbianLearning the poster (PDF) will be presented Thursday, June 8 @ SPARS, Lisbon.  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;code is available @ &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&#34; target=&#34;_blank&#34;&gt;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&lt;/a&gt; and heavily uses &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning&#34; target=&#34;_blank&#34;&gt;https://github.com/bicv/SparseHebbianLearning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf&#34; target=&#34;_blank&#34;&gt;poster (PDF)&lt;/a&gt;  will be presented Thursday, June 8 @ &lt;a href=&#34;http://spars2017.lx.it.pt/index_files/SPARS2017_program.html&#34; target=&#34;_blank&#34;&gt;SPARS, Lisbon&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -436,7 +688,11 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Thu, 03 Nov 2016 13:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2016-11-03-sigma/</guid>
-      <description> Based on Perrinet et al, 2012 and Khoei et al, 2013 See a followup in Khoei et al, 2017  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt; and &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -472,7 +728,10 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Wed, 26 Oct 2016 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -481,7 +740,13 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Thu, 13 Oct 2016 10:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2016-10-13-law/</guid>
-      <description> next talk @ INVIBE FEST, Paris next talk @ Brain workshop, Marseille next talk @ LACONEU, Chile next talk @ CAUSAL Kick-off, Marseille  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34; target=&#34;_blank&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34; target=&#34;_blank&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34; target=&#34;_blank&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34; target=&#34;_blank&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -499,7 +764,10 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Thu, 07 Jul 2016 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -508,7 +776,20 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/phd-icn/</guid>
-      <description>A grant from the Ph.D. program in Integrative and Clinical Neuroscience (PhD position, 2017 / 2021).</description>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://neuro-marseille.org/en/phd-program-en/&#34; target=&#34;_blank&#34;&gt;Ph.D. program in Integrative and Clinical Neuroscience&lt;/a&gt; (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the &amp;ldquo;Institut de Neurosciences de la Timone&amp;rdquo; (team &amp;ldquo;Inference and Visual Behavior&amp;rdquo;), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.&lt;/p&gt;
+
+&lt;p&gt;##Funding&lt;/p&gt;
+
+&lt;p&gt;This project is funded by the Aix-Marseille Université, which was awarded the prestigious status of &amp;ldquo;Excellence Initiative&amp;rdquo; (A*MIDEX) by the French Government and considering interdisciplinary studies as one of its main axes of growth. Within this program, the PhD fellow will sign a three-year work contract. They will enroll the ICN PhD program offering personalized follow-up to the students, a wide spectrum of scientific and professional training activities including specialized courses and career development activities and interactions with multi-disciplinary researchers at Aix-Marseille University and top world-wide visiting speakers, in a vibrant international community of students.&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
+
+&lt;p&gt;This work was supported by the Ph.D. program in Integrative and Clinical Neuroscience (formerly &amp;ldquo;Ph.D. program in Integrative and Clinical Neuroscience&amp;rdquo;). It received funding by the Aix-Marseille Université through the prestigious status of &amp;ldquo;Excellence Initiative&amp;rdquo; (A*MIDEX) awarded by the French Government.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -517,7 +798,388 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/post/etiennerey/</guid>
-      <description>Create a beautifully simple website or blog in under 10 minutes.</description>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
+
+&lt;p&gt;Follow our easy &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34;&gt;step by step guide&lt;/a&gt; to learn how to build your own free website with Academic. &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the personal demo&lt;/a&gt; or the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;business demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support development of Academic:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
+
+&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/post/etiennerey/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
+&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
+&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
+&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
+
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd My_Website
+git submodule update --init --recursive
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
+
+&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
+
+&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+
+&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+
+&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -526,7 +1188,192 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/post/proverbes-et-citations/</guid>
-      <description>Proverbes et citations glanés au cours des années</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;ldquo;You don’t see it because it’s there, it’s there because you see it.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Ni rire, ni pleurer, ni haïr, mais comprendre&amp;rdquo; (Baruch Spinoza)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo; (???, ???)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Je me suis endormie, ce matin/en pensant/sur tes lèvres.&amp;rdquo;  (Anonyme, sur les murs, Marseille, 2017)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;If you can look into the seeds of time, And say which grain will grow and which will not; Speak&amp;hellip;&amp;rdquo; (Shakespeare, Macbeth, Act I, Scene 3)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Here, too, the honorable finds its due, and there are tears for passing things; here, too, things mortal touch the mind.&amp;rdquo; (Virgil, Aeneid, 29-19 BC)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Man&amp;rsquo;s maturity is to have regained the seriousness that he had as a child at play.&amp;rdquo; (Friedrich Nietzsche)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;There are 10 types of people in the world. Those who understand binary, those who don&amp;rsquo;t, those who weren&amp;rsquo;t expecting a base 8 joke, and 5 other types of people.&amp;rdquo; &lt;a href=&#34;http://unix.stackexchange.com/questions/178162/why-does-bash-think-016-1-15&#34; target=&#34;_blank&#34;&gt;John Story&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Ce qui fut se refait; tout coule comme une eau / Et rien dessous le Ciel ne se voit de nouveau/ Mais la forme se change en une autre nouvelle/ Et ce changement-là. Vivre au monde s&amp;rsquo;appelle&amp;rdquo; - Ronsard, Hymnes.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Hanlon&amp;rsquo;s Razor: Never attribute to malice what is adequately explained by stupidity.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Essentially, all models are wrong, but some are useful.&amp;rdquo; &amp;mdash; Box, George E. P.; Norman R. Draper (1987). Empirical Model-Building and Response Surfaces, p. 424, Wiley. ISBN 0471810339&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Computers were around for 50 years before we figured out how to create the internet for example.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;In sum, the physicist can never subject an isolated hypothesis to experimental test, but only a whole group of hypotheses; when the experiment is in disagreement with his predictions, what he learns is that at least one of the hypotheses constituting this group is unacceptable and ought to be modified; but the experiment does not designate which one should be changed.&amp;rdquo; (P. Duhem, The Aim and Structure of Physical Theory, 1914)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Un bon maître a ce souci constant : enseigner à se passer de lui.&amp;rdquo; - André Gide&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;“Truth in science can be defined as the working hypothesis best suited to open the way to the next better one.”(Konrad Lorenz)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;“all motion is illusion” (Zeno of Elea, 490 BC )&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Be humble for you are made of dung. Be noble for you are made of stars.&amp;rdquo; (Serbian proverb)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;voir des objets ne consiste pas à en extraire des traits visuels, mais à guider visuellement l&amp;rsquo;action dirigée vers eux.&amp;rdquo;  (Francisco Varela in &amp;ldquo;L&amp;rsquo;inscription corporelle de l&amp;rsquo;esprit&amp;rdquo;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;la mémoire n’est pas faite pour se rappeler du passé mais pour prédire le futur.&amp;rdquo; (&lt;a href=&#34;http://dpea-archi.philo.over-blog.com/article-interview-de-alain-berthoz-par-thierry-paquot-61601814.html&#34; target=&#34;_blank&#34;&gt;Alain Berthoz&lt;/a&gt; , 2010)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the days when the Sussman was a novice, Minsky once came to him as he sat hacking at the PDP-6. &amp;ldquo;What are you doing?&amp;rdquo;, asked Minsky. &amp;ldquo;I am training a randomly wired neural net to play Tic-tac-toe&amp;rdquo;, Sussman replied. &amp;ldquo;Why is the net wired randomly?&amp;rdquo;, asked Minsky. &amp;ldquo;I do not want it to have any preconceptions of how to play&amp;rdquo;, Sussman said. Minsky then shut his eyes. &amp;ldquo;Why do you close your eyes?&amp;rdquo; Sussman asked his teacher. &amp;ldquo;So that the room will be empty.&amp;rdquo; At that moment, Sussman was enlightened.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;It doesn&amp;rsquo;t matter how beautiful your theory is, it doesn&amp;rsquo;t matter how smart you are. If it doesn&amp;rsquo;t agree with experiment, it&amp;rsquo;s wrong.&amp;rdquo; Richard P. Feynman&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Think of the image of the world in a convex mirror. &amp;hellip; A well-made convex mirror of moderate aperture represents the objects in front of it as apparently solid and in fixed positions behind its surface. But the images of the distant horizon and of the sun in the sky lie behind the mirror at a limited distance, equal to its focal length. Between these and the surface of the mirror are found the images of all the other objects before it, but the images are diminished and flattened in proportion to the distance of their objects from the mirror. &amp;hellip; Yet every straight line or plane in the outer world is represented by a straight line or plane in the image. The image of a man measuring with a rule a straight line from the mirror, would contract more and more the farther he went, but with his shrunken rule the man in the image would count out exactly the same results as in the outer world, all lines of sight in the mirror would be represented by straight lines of sight in the mirror. In short, I do not see how men in the mirror are to discover that their bodies are not rigid solids and their experiences good examples of the correctness of Euclidean axioms. But if they could look out upon our world as we look into theirs without overstepping the boundary, they must declare it to be a picture in a spherical mirror, and would speak of us just as we speak of them; and if two inhabitants of the different worlds could communicate with one another, neither, as far as I can see, would be able to convince the other that he had the true, the other the distorted, relation. Indeed I cannot see that such a question would have any meaning at all, so long as mechanical considerations are not mixed up with it.&amp;rdquo; — Hermann von Helmholtz In &amp;lsquo;On the Origin and Significance of Geometrical Axioms,&amp;rdquo; Popular Scientific Lectures&amp;lt; Second Series (1881), 57-59. In Robert  Moritz, Memorabilia Mathematica (1914), 357-358.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Whoever, in the pursuit of science, seeks after immediate practical utility, may generally rest assured that he will seek in vain.&amp;rdquo; — Hermann von Helmholtz, Edmund Atkinson (trans.), Popular Lectures on Scientific Subjects: First Series (1883), 29&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;« Au départ, l’art du puzzle semble un art bref, un art mince, tout entier contenu dans un maigre enseignement de la Gestalttheorie : l’objet visé — qu’il s’agisse d’un acte perceptif, d’un apprentissage, d’un système physiologique ou, dans le cas qui nous occupe, d’un puzzle en bois — n’est pas une somme d’éléments qu’il faudrait d’abord isoler et analyser, mais un ensemble, c’est à dire une forme, une structure : l’élément ne préexiste pas à l’ensemble, il n’est ni plus immédiat ni plus ancien, ce ne sont pas les éléments qui déterminent l’ensemble, mais l’ensemble qui détermine les éléments : la connaissance du tout et de ses lois, de l’ensemble et de sa structure, ne saurait être déduite de la connaissance séparée des parties qui le composent : cela veut dire qu’on peut regarder une pièce d’un puzzle pendant trois jours et croire tout savoir de sa configuration et de sa couleur sans avoir le moins du monde avancé : seule compte la possibilité de relier cette pièce à d’autres pièces et, en ce sens, il y a quelque chose de commun entre l’art du puzzle et l’art du go ; seules les pièces rassemblées prendront un caractère lisible, prendront un sens : considérée isolément, une pièce d’un puzzle ne veut rien dire ; elle est seulement question impossible, défi opaque ; mais à peine a-t-on réussi, au terme de plusieurs minutes d’essais et d’erreurs, ou en une demi-seconde prodigieusement inspirée, à la connecter à l’une de ses voisines, que la pièce disparaît, cesse d’exister en tant que pièce : l’intense difficulté qui a précédé ce rapprochement, et que le mot puzzle — énigme — désigne si bien en anglais, non seulement n’a plus de raison d’être, mais semble n’en avoir jamais eu, tant elle est devenue évidence : les deux pièces miraculeusement réunies n’en font plus qu’une, à son tour source d’erreur, d’hésitation, de désarroi et d’attente. » (PEREC Georges, La vie mode d’emploi, Éditions Hachette, 1978, pp. 235-236.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;there&amp;rsquo;s really a trend toward ATLs ( Acronyms of Three Letters).&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;In theory there is no difference between theory and practice. In practice there is.&amp;rdquo; Yogi Berra&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Les décorations, c&amp;rsquo;est comme les bombes, ça tombe toujours sur ceux qui ne les méritent pas&amp;rdquo; &lt;a href=&#34;http://www.lemonde.fr/societe/article/2010/03/22/proces-viguier-deux-hommes-en-colere_1322481_3224_1.html&#34; target=&#34;_blank&#34;&gt;Me Dupond-Moretti&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Science is what we understand well enough to explain to a computer. Art is everything else we do.&amp;rdquo; D. Knuth, foreword to &amp;ldquo;A=B&amp;rdquo; (1995)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;les cons ça ose tout et c&amp;rsquo;est même à ça qu&amp;rsquo;on les reconnaît&amp;rdquo; (Audiard)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;All generalisations are dangerous, including this one.&amp;rdquo; (Alexandre Dumas)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Il vaut mieux mobiliser son intelligence sur des conneries que mobiliser sa connerie sur des choses intelligentes.&amp;rdquo; Jacques Rouxel&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Nothing in biology makes sense except in the light of evolution&amp;rdquo;. (Theodosius Dobzhansky, 1900–1975)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Copy from one, it’s plagiarism; copy from two, it’s research.&amp;rdquo; (Wilson Mizner)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;In the past the man has been first, in the future the system must be first.&amp;rdquo; (F. Taylor)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;L&amp;rsquo;autorité n&amp;rsquo;admet que deux rôles : le bourreau et la victime, transforme les gens en poupées qui ne connaissent plus que peur et haine, tandis que la culture plonge dans les abysses. L&amp;rsquo;autorité déforme ses enfants et change leur amour en un combat de coq&amp;hellip; L&amp;rsquo;effondrement de l&amp;rsquo;autorité aura des répercussions sur le bureau, l&amp;rsquo;église et l&amp;rsquo;école. Tout est lié. L&amp;rsquo;égalité et la liberté ne sont pas des luxes que l&amp;rsquo;on écarte impunément. Sans ceux-ci, l&amp;rsquo;ordre ne peut survivre longtemps sans se rapprocher de profondeurs inimaginables.&amp;rdquo; Alan Moore, &lt;a href=&#34;http://fr.wikipedia.org/wiki/V_pour_Vendetta&#34; target=&#34;_blank&#34;&gt;V pour Vendetta&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;In a widely circulated joke [from the days of the first computer], a group of engineers assemble the most powerful computer that had ever been conceived and ask it the ultimate question: Is there a God? After several tense minutes of clicking and clacking and flashing of lights, a card pops out which reads: There is &amp;ldquo;now&amp;rdquo;.&amp;rdquo; (Alwyn Scott in &amp;ldquo;How Smart is a Neuron?&amp;rdquo; in A Review of Christof Kochs&amp;rsquo; &amp;ldquo;Biophysics of Computation&amp;rdquo; )&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Que les cons le restent!&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Those who can &amp;ndash; do. Those who can&amp;rsquo;t &amp;ndash; teach. (H.L. Mencken). Those who cannot teach &amp;ndash; administrate. (Martin)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Under capitalism, man exploits man. Under communism, it&amp;rsquo;s just the opposite. (John Kenneth Galbraith)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Love is the triumph of imagination over intelligence. (H. L. Mencken)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The power of accurate observation is commonly called cynicism by those who have not got it. (George Bernard Shaw)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Remember, beneath every cynic there lies a romantic, and probably an injured one. (Glenn Beck)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;If we see the light at the end of the tunnel, it&amp;rsquo;s the light of an oncoming train.&amp;rdquo; &amp;ndash; Robert Lowell&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius &amp;ndash; and a lot of courage &amp;ndash; to move in the opposite direction&amp;rdquo;  &amp;ndash; Albert Einstein&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Je sais ce que je crois. Je continuerais à exprimer ce que je crois, et ce que je crois&amp;hellip; je crois que ce que je crois est bien.&amp;rdquo;- GWB&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Soudain, je ne sais comment, le cas fut subit, je n&amp;rsquo;eus loisir de le considérer, Panurge, sans autre chose dire, jette en pleine mer son mouton criant et bêlant. Tous les autres moutons, criant et bêlant en pareille intonation, commencèrent à se jeter et à sauter en mer après, à la file. La foule était à qui le premier y sauterait après leur compagnon. Il n&amp;rsquo;était pas possible de les en empêcher, comme vous savez du mouton le naturel, toujours suivre le premier, quelque part qu&amp;rsquo;il aille.&amp;rdquo; Rabelais&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Personne ne peut dire dans quel but l&amp;rsquo;homme a été amené en ce monde, ni quelle sera la destinée de l&amp;rsquo;espèce. Cependant, il y a de grands esprits qui ne vivent pas pour leur bien-être présent mais en vue d&amp;rsquo;une fin impersonnelle, comme un coureur qui s&amp;rsquo;épuiserait dans une course de relais, pour un trophée qu&amp;rsquo;il ignore et qu&amp;rsquo;un autre remportera.&amp;rdquo; Charles Morgan, Essai sur l&amp;rsquo;unité de l&amp;rsquo;esprit.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Science sans conscience n&amp;rsquo;est que ruine de l&amp;rsquo;âme.&amp;rdquo;  (Rabelais, 1532)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;“Linux is only free if your time has no value.” (Jamie Zawinski)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Napoléon : Monsieur de Laplace, je ne trouve pas dans votre système mention de Dieu  ?    Laplace : Sire, je n&amp;rsquo;ai pas eu besoin de cette hypothèse. (d&amp;rsquo;autres savants ayant déploré que Laplace fasse l&amp;rsquo;économie d&amp;rsquo;une hypothèse qui avait justement &amp;ldquo;le mérite d&amp;rsquo;expliquer tout&amp;rdquo;, Laplace répondit cette fois-ci à l&amp;rsquo;Empereur :    Laplace : Cette hypothèse, Sire, explique en effet tout, mais ne permet de prédire rien. En tant que savant, je me dois de vous fournir des travaux permettant des prédictions &amp;ldquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;The supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience&amp;rdquo; often paraphrased as &amp;ldquo;Theories should be as simple as possible, but no simpler.&amp;rdquo; Albert Einstein (1933)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;The surest sign of the existence of extra- terrestrial intelligence is that they never bothered to come down here and visit us!&amp;rdquo; Calvin&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;«Si tu manges le fruit d&amp;rsquo;un grand arbre, n&amp;rsquo;oublie jamais de remercier le vent!» &amp;ldquo;tradition orale bambara au Mali&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Lorsque vous avez éliminé l’impossible, ce qui reste, si improbable soit-il, est nécessairement la vérité.&amp;rdquo; - Arthur Conan Doyle - &amp;ldquo;Le signe des Quatre&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;I have come to believe that the whole world is an enigma, a harmless enigma that is made terrible by our own mad attempt to interpret it as though it had an underlying truth.&amp;rdquo;  &amp;ndash; Umberto Eco&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nos idées doivent être aussi vastes que la nature pour pouvoir en rendre compte.&amp;rdquo; &lt;a href=&#34;http://www.evene.fr/citations/auteur.php?ida=813&amp;amp;celebrite=arthur-conan-doyle|&#34; target=&#34;_blank&#34;&gt;Arthur Conan Doyle&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Tout le monde savait que ce truc là était impossible a faire. Jusqu&amp;rsquo;au jour ou est arrivé quelqu&amp;rsquo;un qui ne le savait pas, et qui l&amp;rsquo;a fait.&amp;rdquo; Winston Churchill&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Ce proverbe, je l&amp;rsquo;ai sur le bout de la&amp;hellip; &amp;rdquo; &amp;ndash; Manu (2006-01-23T19:34:16Z)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;When you can measure what you are speaking about and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of the meager and unsatisfactory kind.&amp;rdquo; &amp;ldquo;Lord Kelvin&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I know you believe you understand what you think I said, but I am not sure you realize that what you heard is not what I meant. &amp;ldquo;Richard Nixon&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Try to understand everything, but believe nothing! &amp;ldquo;Unknown&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;George Walker Bush a propos de ses démentis sur la cocaïne, répond « I haven&amp;rsquo;t denied anything. »&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bayes maxim : &amp;ldquo;condition the joint probability on what we know and marginalize on what we don&amp;rsquo;t care&amp;rdquo; John Coughlan (in prob. models / kersten)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Monty Python&amp;rsquo;s &amp;ldquo;Life of Brian&amp;rdquo;: {{{(Brian)-&amp;ldquo;You are all individuals!&amp;rdquo; (crowd)-&amp;ldquo;We are all individuals!&amp;rdquo;(Brian)-&amp;ldquo;You have to be different!&amp;rdquo; (crowd)-&amp;ldquo;Yes, we are all different!&amp;rdquo; (loner)-&amp;ldquo;I&amp;rsquo;m not.&amp;rdquo;}}}&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Monty Python&amp;rsquo;s &amp;ldquo;Life of Brian&amp;rdquo;: (Brian:) &amp;ldquo;You have to work it out for yourselves!&amp;rdquo; (Crowd:) &amp;ldquo;Yes, we have to work it out for ourselves&amp;hellip; (silence) Tell us more!&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Combien d&amp;rsquo;autres corps célestes, outre ces comètes, se meuvent en secret sans jamais se montrer aux yeux des hommes. Dieu n&amp;rsquo;a pas fait toutes les choses pour l&amp;rsquo;homme.&amp;rdquo; Sénéque&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hawking&amp;rsquo;s principle for popularizations : &amp;ldquo;each math symbol reduces the potential readership by a factor r = &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Les ordinateurs sont trop fiables pour remplacer rellement les humains.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Prediction is very difficult, especially about the future. Niels Bohr&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On peut vous le faire :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;bien&lt;/li&gt;
+&lt;li&gt;vite&lt;/li&gt;
+&lt;li&gt;pour peu cher
+Ne choisissez pas plus de deux options.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;s. v..s p..v.z c.mpr.ndr. c.l. v..s p..v.z .tr. d.v.l.ppé&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Intelligence artificielle : art de programmer les ordinateurs de sorte qu&amp;rsquo;ils se comportent comme ils le font dans les films.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;hypoaristerolactothérapie : méthode de dépannage des machines par le coup de pied en bas à gauche.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Le peu que je sais , c&amp;rsquo;est à mon ignorance que je le dois .GUITRY , Sacha&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;TOULET , Paul-Jean &amp;ldquo;Apprends àte connaître : tu t&amp;rsquo;aimeras moins . Et à connaître les autres , tu ne les aimeras plus.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Occam&amp;rsquo;s razor : &amp;ldquo;Accept the simplest explanation that fits the data.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;On two occasions, I have been asked [by members of Parliament], &amp;lsquo;Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?&amp;rsquo; I am not able to rightly apprehend the kind of confusion of ideas that could provoke such a question.&amp;ldquo;&amp;ndash; Charles Babbage (1791-1871)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Reality is that which, when you stop believing in it, doesn&amp;rsquo;t go away&amp;rdquo;. Philip K. Dick&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Puisque ce désordre nous échappe, feignons d&amp;rsquo;en être l&amp;rsquo;organisateur. &amp;rdquo; Cocteau&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Non seulement la solution n&amp;rsquo;existe pas, mais en plus elle n&amp;rsquo;est pas unique.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Detection is, or ought to be, an exact science, and should be treated in the same cold and unemotional manner. You have attempted to tinge it with romanticism, which produces much the same effect as if you worked a love-story or an elopement into the fifth proposition of Euclid. &amp;ndash; SHERLOCK HOLMES &amp;ldquo;Sign of The Four&amp;rdquo;, Chapter 1
+*
+&amp;ldquo; Act without doing;
+work without effort.
+Think of the small as large
+and the few as many.
+Confront the difficult
+while it is still easy;
+accomplish the great task
+by a series of small acts. &amp;ldquo; Lao-Tze&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Les mathématiques ne sont pas une moindre immensité que la mer&amp;rdquo; V. Hugo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Le hasard n&amp;rsquo;est que la mesure de notre ignorance&amp;rdquo; Henri Poincaré, La science et l&amp;rsquo;hypothèse&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Je répugne toute religion qui ne se voit philosophe&amp;rdquo; Lolo Tseu&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -544,7 +1391,10 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/taouali-15-vss/</guid>
-      <description> This is a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;This is a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -616,7 +1466,22 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Fri, 27 Nov 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
-      <description>  Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.   </description>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;mindmap.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -661,7 +1526,53 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Wed, 07 Oct 2015 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</guid>
-      <description>Biologically Inspired Computer vision   Biologically Inspired Computer Vision As state-of-the-art imaging technologies becomes more and more advanced, yielding scientific data at unprecedented detail and volume, the need to process and interpret all the data has made image processing and computer vision also increasingly important. Sources of data that have to be routinely dealt with today applications include video transmission, wireless communication, automatic fingerprint processing, massive databanks, non-weary and accurate automatic airport screening, robust night vision to name a few.</description>
+      <description>
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;header.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Biologically Inspired Computer vision&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;biologically-inspired-computer-vision&#34;&gt;Biologically Inspired Computer Vision&lt;/h1&gt;
+
+&lt;p&gt;As state-of-the-art imaging technologies becomes more and more advanced, yielding scientific data at unprecedented detail and volume, the need to process and interpret all the data has made image processing and computer vision also increasingly important. Sources of data that have to be routinely dealt with today applications include video transmission, wireless communication, automatic fingerprint processing, massive databanks, non-weary and accurate automatic airport screening, robust night vision to name a few. Multidisciplinary inputs from other disciplines such as computational neuroscience, cognitive science, mathematics, physics and biology will have a fundamental impact in the progress of imaging and vision sciences. One of the advantages of the study of biological organisms is to devise very diﬀerent type of computational paradigms beyond the usual von Neumann e.g. by implementing a neural network with a high degree of local connectivity.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;header.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+This is a comprehensive and rigorous reference in the area of biologically motivated vision sensors. The study of biologically visual systems can be considered as a two way avenue. On the one hand, biological organisms can provide a source of inspiration for new computational efficient and robust vision models and on the other hand machine vision approaches can provide new insights for understanding biological visual systems. Along the different chapters, this book covers a wide range of topics from fundamental to more specialized topics, including visual analysis based on a computational level, hardware implementation, and the design of new more advanced vision sensors. The last two sections of the book provide an overview of a few representative applications and current state of the art of the research in this area. This makes it a valuable book for graduate, Master, PhD students and also researchers in the field.
+This book contains 17 chapters that have been organized in four different parts:
+ * Fundamentals
+ * Sensing
+ * Modeling
+ * Applications
+See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&gt;Table of contents&lt;/a&gt;.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;mindmap.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -733,8 +1644,106 @@ Visual illusions: their origin lies in prediction   Flash-Lag Effect. When a vis
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</guid>
-      <description>Press release communiqué de presse supplementary information supplementary material
-A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain. Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second. They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.</description>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html&#34; target=&#34;_blank&#34;&gt;communiqué de presse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf&#34; target=&#34;_blank&#34;&gt;supplementary information&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;hhttps://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&amp;amp;do=get&amp;amp;target=PerrinetBednar15supplementary.pdf&#34; target=&#34;_blank&#34;&gt;supplementary material&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;a-study-of-how-people-can-quickly-spot-animals-by-sight-is-helping-uncover-the-workings-of-the-human-brain&#34;&gt;A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.&lt;/h1&gt;
+
+&lt;p&gt;Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.
+They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.
+More complex parts of the brain are not required at this stage, contrary to what was previously thought.
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New info published on how the human brain processes visual information from &lt;a href=&#34;https://twitter.com/EdinburghUni?ref_src=twsrc%5Etfw&#34;&gt;@EdinburghUni&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/uniamu?ref_src=twsrc%5Etfw&#34;&gt;@uniamu&lt;/a&gt; stuidy &lt;a href=&#34;http://t.co/KUicugL8P7&#34;&gt;http://t.co/KUicugL8P7&lt;/a&gt;&lt;/p&gt;&amp;mdash; EdinUniNeuro (@EdinUniNeuro) &lt;a href=&#34;https://twitter.com/EdinUniNeuro/status/613011086829162497?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_model.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Edge co-occurrences &lt;strong&gt;(A)&lt;/strong&gt; An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. &lt;strong&gt;(B)&lt;/strong&gt; The relationship between a reference edge &lt;em&gt;A&lt;/em&gt; and another edge &lt;em&gt;B&lt;/em&gt; can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg&#34; target=&#34;_blank&#34;&gt;Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt;). This is used to compute the chevron map in Figure~2.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;動物か否かの見分け方。&lt;a href=&#34;http://t.co/TTY8MwZGoO&#34;&gt;http://t.co/TTY8MwZGoO&lt;/a&gt;　引用されてるけど、Thorpe (1996)の150msで区別されてるって話(なつかしい)と関係ありそう。&lt;/p&gt;&amp;mdash; Makito Oku (@okumakito) &lt;a href=&#34;https://twitter.com/okumakito/status/613128456637841408?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_chevrons.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&amp;rsquo; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;a href=&#34;http://t.co/NY9HapBx2S&#34;&gt;http://t.co/NY9HapBx2S&lt;/a&gt; &lt;a href=&#34;http://t.co/rKQ8I5i6Ty&#34;&gt;pic.twitter.com/rKQ8I5i6Ty&lt;/a&gt;&lt;/p&gt;&amp;mdash; Francis Villatoro (@emulenews) &lt;a href=&#34;https://twitter.com/emulenews/status/612988348400070656?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_chevrons2.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;As for Figure 2, we show the probability of edge configurations as chevron maps for two databases (man-made, animal). Here, we show the ratio of histogram counts relative to that of the non-animal natural image dataset. Deeper and deeper red circles indicate configurations that are more and more likely (and blue respectively less likely) with respect to the histogram computed for non-animal images. In the left plot, the animal images exhibit relatively more circular continuations and converging angles (red chevrons in the central vertical axis) relative to non-animal natural images, at the expense of co-linear, parallel, and orthogonal configurations (blue circles along the middle horizontal axis). The man-made images have strikingly more co-linear features (central circle), which reflects the prevalence of long, straight lines in the cage images in that dataset. We use this representation to categorize images from these different categories in Figure~4.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_results.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&amp;rsquo;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&amp;rsquo; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50\% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80\% for human observers and 82\% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_FA_humans.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;rsquo; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -770,7 +1779,27 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</guid>
-      <description>Active Inference, tracking eye movements and oculomotor delays Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future.</description>
+      <description>
+
+&lt;h1 id=&#34;active-inference-tracking-eye-movements-and-oculomotor-delays&#34;&gt;Active Inference, tracking eye movements and oculomotor delays&lt;/h1&gt;
+
+&lt;p&gt;Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future. The tracking eye movement system is however able to respond swiftly and even to anticipate repetitive movements (e.g. Barnes et al, 2000 – refs in manuscript). In that case, it means that information in a cortical area is both predicted from the past sensory information but also anticipated to give an optimal response in the future. Even if numerous models have been described to model different mechanisms to account for delays, no theoretical approach has tackled the whole problem explicitly. In several areas of vision research, authors have proposed models at different levels of abstractions from biomechanical models, to neurobiological implementations (e.g. Robinson, 1986) or Bayesian models. This study is both novel and important because – using a neurobiologically plausible hierarchical Bayesian model – it demonstrates that using generalized coordinates to finesse the prediction of a target&amp;rsquo;s motion, the model can reproduce characteristic properties of tracking eye movements in the presence of delays. Crucially, the different refinements to the model that we propose – pursuit initiation, smooth pursuit eye movements, and anticipatory response – are consistent with the different types of tracking eye movements that may be observed experimentally.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;featured.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;strong&gt;(A)&lt;/strong&gt; This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. &lt;strong&gt;(B)&lt;/strong&gt; This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -788,7 +1817,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -797,7 +1829,11 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-14-vss/</guid>
-      <description> Based on Perrinet et al, 2012 and Khoei et al, 2013 See a followup in Khoei et al, 2017  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt; and &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -887,7 +1923,26 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</guid>
-      <description>Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  Figure 4: Rasterplot of input and output spikes. The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation).</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Figure 4: &lt;em&gt;Rasterplot of input and output spikes.&lt;/em&gt; The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation). To decode such patterns of activity we used a maximum-likelihood estimation technique based on the tuning curve of the neurons.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -896,7 +1951,26 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Wed, 27 Nov 2013 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
-      <description>Based on Perrinet et al, 2012 See a followup in Khoei et al, 2017  Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory).</description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2017&lt;/a&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure1.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -914,7 +1988,11 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kaplan-13/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -923,7 +2001,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 05 Jul 2013 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -986,7 +2067,11 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1004,7 +2089,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Thu, 10 May 2012 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1058,7 +2146,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 24 Jan 2012 13:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1067,7 +2158,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Thu, 12 Jan 2012 17:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1112,7 +2206,22 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/simoncini-12/</guid>
-      <description>Band-pass motion stimuli for perception and action tasks. (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples.</description>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. &amp;copy; For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -1121,7 +2230,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/masson-12-areadne/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1130,7 +2242,85 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-12-pred/</guid>
-      <description>The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.</description>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;line_particles.gif&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure1.jpg&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Figure 1: &lt;em&gt;(A)&lt;/em&gt; The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the dotted circle) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Due to the limited size of receptive fields in sensory cortical areas (such as shown by the dotted white circle), such problem is faced by local populations of neurons that visually estimate the motion of objects. &lt;em&gt;(A-inset)&lt;/em&gt; On a polar representation of possible velocity vectors (the cross in the center corresponds to the null velocity, the outer circle corresponding to twice the amplitude of physical speed), we plot the empirical histogram of detected velocity vectors. This representation gives a quantification of the aperture problem in the velocity domain: At the onset of motion detection, information is concentrated along an elongated constraint line (white=high probability, black=zero probability). &lt;em&gt;(B)&lt;/em&gt; We use the prior knowledge that in natural scenes, motion as defined by its position and velocity is following smooth trajectories. Quantitatively, it means that velocity is approximately conserved and that position is transported according to the known velocity. We show here such a transition on position and velocity (respectively $x_t$ and $V_t$) from time t to t + dt with the perturbation modeling the smoothness of prediction in position and velocity (respectively $N_x$ and $N_V$). &lt;em&gt;&amp;copy;&lt;/em&gt; Applying such a prior on a dynamical system detecting motion, we show that motion converges to the physical motion after approximately one spatial period (the line moved by twice its height). &lt;em&gt;(C-Inset)&lt;/em&gt; The read-out of the system converged to the physical motion: Motion-based prediction is sufficient to resolve the aperture problem. &lt;em&gt;(D)&lt;/em&gt; As observed at the perceptual level [Castet et al., 1993, Pei et al., 2010], size and duration of the tracking angle bias decreased with respect to the height of the line. Height was measured relative to a spatial period (respectively 60%, 40% and 20%). Here we show the average tracking angle red-out from the probabilistic representation as a function of time, averaged over 20 trials (error bars show one standard deviation).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure2.jpg&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of &amp;copy; a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure3.jpg&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Figure 3: To explore the state-space of the dynamical system, we simulated motion-based prediction for a simple small dot (size 2.5% of a spatial period) moving horizontally from the left to the right of the screen. We tested different levels of sensory noise with respect to different levels of internal noise, that is, to different values of the strength of prediction. &lt;em&gt;(Right)&lt;/em&gt; Results show the emergence of different states for different prediction precisions: a regime when prediction is weak and which shows high tracking error and variability (No Tracking - NT), a phase for intermediate values of prediction strength (as in Figure 1) exhibiting a low tracking error and low variability in the tracking phase (True Tracking - TT) and finally a phase corresponding to higher precisions with relatively efficient mean detection but high variability (False Tracking - FT). We give 3 representative examples of the emerging states at one contrast level (C = 0.1) with starting (red) and ending (blue) points and respectively NT, TT and FT by showing inferred trajectories for each trial. &lt;em&gt;(Left)&lt;/em&gt; We define tracking error as the ratio between detected speed and target speed and we plot it with respect to the stimulus contrast as given by the inverse of sensory noise. Error bars give the variability in tracking error as averaged over 20 trials. As prediction strength increases, there is a transition from smooth contrast response function (NT) to more binary responses (TT and FT).&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure4.jpg&#34; width=&#34;80%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Figure 4: &lt;em&gt;(Top)&lt;/em&gt; Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. &lt;em&gt;(Bottom)&lt;/em&gt; Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -1148,7 +2338,22 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/friston-12/</guid>
-      <description>This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment. The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text).</description>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;strong&gt;This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.&lt;/strong&gt; The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -1157,7 +2362,11 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-12-sfn/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1166,7 +2375,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 15 Nov 2011 08:45:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1184,7 +2396,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Wed, 28 Sep 2011 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1202,7 +2417,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sat, 02 Jul 2011 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</guid>
-      <description>La finalité de cette manifestation est de permettre à nos chercheurs de se réunir en groupes de travail et en ateliers afin de découvrir la thématique des neurosciences et son interdisciplinarité. La manifestation se tient dans le cadre des activités du laboratoire LAMS, de ABC MATHINFO, du GDRI NeurO et du réseau méditerranéen NeuroMed. * related publication @ SPIE 2008 * see this more recent talk @ UCL, London</description>
+      <description>&lt;p&gt;La finalité de cette manifestation est de permettre à nos chercheurs de se réunir en groupes de travail et en ateliers afin de découvrir la thématique des neurosciences et son interdisciplinarité. La manifestation se tient dans le cadre des activités du laboratoire LAMS, de ABC MATHINFO, du GDRI NeurO et du réseau méditerranéen &lt;a href=&#34;http://www.neuromedproject.eu/&#34; target=&#34;_blank&#34;&gt;NeuroMed&lt;/a&gt;.
+* related publication @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-10-tauc/&#34; target=&#34;_blank&#34;&gt;SPIE 2008&lt;/a&gt;
+* see this more recent talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34; target=&#34;_blank&#34;&gt;UCL, London&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1211,7 +2429,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 22 Apr 2011 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/bogadhi-11/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1229,7 +2450,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1238,7 +2462,11 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1247,7 +2475,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</guid>
-      <description>An event ranging &amp;ldquo;From Mathematical Image Analysis to Neurogeometry of the Brain&amp;rdquo; LADISLAV TAUC &amp;amp; GDR MSPC NEUROSCIENCES CONFERENCE. * related publication from Mina Khoei @ TAUC 2012 * see this more recent talk @ UCL, London</description>
+      <description>&lt;p&gt;An event ranging &amp;ldquo;From Mathematical Image Analysis to Neurogeometry of the Brain&amp;rdquo; &lt;a href=&#34;http://www.conftauc.cnrs-gif.fr/programme.php&#34; target=&#34;_blank&#34;&gt;LADISLAV TAUC &amp;amp; GDR MSPC NEUROSCIENCES CONFERENCE&lt;/a&gt;.
+* related publication from Mina Khoei @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-10-tauc/&#34; target=&#34;_blank&#34;&gt;TAUC 2012&lt;/a&gt;
+* see this more recent talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34; target=&#34;_blank&#34;&gt;UCL, London&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1283,7 +2514,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 08 Jan 2010 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2010-01-08-facets/</guid>
-      <description> see this more recent talk @ UCL, London  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this more recent talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34; target=&#34;_blank&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1319,7 +2553,11 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/khoei-10-tauc/</guid>
-      <description> Based on Perrinet et al, 2012 See a followup in Khoei et al, 2013  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1346,7 +2584,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1355,7 +2596,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Mon, 30 Nov 2009 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2009-11-30-vss/</guid>
-      <description> see this more recent poster @ VSS  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this more recent poster @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-09-vss/&#34; target=&#34;_blank&#34;&gt;VSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1364,7 +2608,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sat, 18 Jul 2009 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</guid>
-      <description> see this subsequent paper in the Journal of Computational Neuroscience  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1373,7 +2620,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Wed, 01 Apr 2009 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2009-04-01-int/</guid>
-      <description> see this more recent talk @ UCL, London  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this more recent talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34; target=&#34;_blank&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1409,7 +2659,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-09-gns/</guid>
-      <description> see this subsequent paper in the Journal of Computational Neuroscience  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1445,7 +2698,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Mon, 27 Oct 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
-      <description> see this subsequent paper in the Journal of Computational Neuroscience  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1463,7 +2719,11 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jun 2008 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2008-06-01-ulm/</guid>
-      <description> related publications @ FENS 2006, @ NeuroComp 2008 and @ AREADNE 2008 see this more recent talk @ UCL, London  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;related publications  @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-06-fens/&#34; target=&#34;_blank&#34;&gt;FENS 2006&lt;/a&gt;,   @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/&#34; target=&#34;_blank&#34;&gt;NeuroComp 2008&lt;/a&gt; and   @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-areadne/&#34; target=&#34;_blank&#34;&gt;AREADNE 2008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;see this more recent talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34; target=&#34;_blank&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1490,7 +2750,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2008-02-01-toledo/</guid>
-      <description> related publications @ FENS 2006, @ NeuroComp 2008 and @ AREADNE 2008  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;related publications  @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-06-fens/&#34; target=&#34;_blank&#34;&gt;FENS 2006&lt;/a&gt;,   @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/&#34; target=&#34;_blank&#34;&gt;NeuroComp 2008&lt;/a&gt; and   @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-areadne/&#34; target=&#34;_blank&#34;&gt;AREADNE 2008&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1508,7 +2771,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</guid>
-      <description> see this subsequent paper in the Journal of Computational Neuroscience  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1580,7 +2846,8 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 27 Mar 2007 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
-      <description>Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions.</description>
+      <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1697,7 +2964,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1742,7 +3012,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
-      <description> See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1751,7 +3024,11 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2006-01-01-neurocomp/</guid>
-      <description> related publication @ SPIE 2008 See a followup in Perrinet et al, 2012  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;related publication @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-spie/&#34; target=&#34;_blank&#34;&gt;SPIE 2008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1805,7 +3082,22 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Mon, 27 Sep 2004 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
-      <description>  Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.   </description>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;v1_tiger.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -1877,7 +3169,22 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-esann/</guid>
-      <description>  Progressive reconstruction of a static image using spikes in a Laplacian pyramid.   </description>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;lena256pyr.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;&lt;em&gt;Progressive reconstruction of a static image using spikes in a Laplacian pyramid.&lt;/em&gt;&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -1931,7 +3238,8 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/authors/laurent-u-perrinet/</guid>
-      <description>Laurent Perrinet is a computational neuroscientist specialized in large scale neural network models of low-level vision, perception and action, currently at the &amp;ldquo;Institut de Neurosciences de la Timone&amp;rdquo; (France), a joint research unit (CNRS / Aix-Marseille Université). He co-authored more than 40 articles in computational neuroscience and computer vision. He graduated from the aeronautics engineering school SUPAERO, in Toulouse (France) with a signal processing and applied mathematics degree. He received a PhD in Cognitive Science in 2003 on the mathematical analysis of temporal spike coding of images by using a multi-scale and adaptive representation of natural scenes.</description>
+      <description>&lt;p&gt;Laurent Perrinet is a computational neuroscientist specialized in large scale neural network models of low-level vision, perception and action, currently at the &amp;ldquo;Institut de Neurosciences de la Timone&amp;rdquo; (France), a joint research unit (CNRS / Aix-Marseille Université). He co-authored more than 40 articles in computational neuroscience and computer vision. He graduated from the aeronautics engineering school SUPAERO, in Toulouse (France) with a signal processing and applied mathematics degree. He received a PhD in Cognitive Science in 2003 on the mathematical analysis of temporal spike coding of images by using a multi-scale and adaptive representation of natural scenes. His research program is focusing in bridging the complex dynamics of realistic, large-scale models of spiking neurons with functional models of low-level vision. In particular, as part of the FACETS and BrainScaleS consortia, he has developed experimental protocols in collaboration with neurophysiologists to characterize the response of population of neurons. Recently, he extended models of visual processing in the framework of predictive processing in collaboration with the team of Karl Friston at the University College of London. This method aims at characterizing the processing of dynamical flow of information as an active inference process. His current challenge within the &lt;a href=&#34;http://www.int.univ-amu.fr/spip.php?page=equipe&amp;equipe=NeOpTo&amp;lang=en&#34;&gt;NeOpTo team&lt;/a&gt; is to translate, or &lt;em&gt;compile&lt;/em&gt; in computer terminology, this mathematical formalism with the event-based nature of neural information with the aim of pushing forward the frontiers of Artificial Intelligence systems.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

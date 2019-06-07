@@ -4,14 +4,14 @@
     <title>Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/james-a.-bednar/</link>
     <description>Recent content on Novel visual computations</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
     
-	<atom:link href="https://laurentperrinet.github.io/authors/james-a.-bednar/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://laurentperrinet.github.io/authors/james-a.-bednar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,8 +29,106 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</guid>
-      <description>Press release communiqué de presse supplementary information supplementary material
-A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain. Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second. They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.</description>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html&#34; target=&#34;_blank&#34;&gt;Press release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html&#34; target=&#34;_blank&#34;&gt;communiqué de presse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf&#34; target=&#34;_blank&#34;&gt;supplementary information&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;hhttps://invibe.net/LaurentPerrinet/Publications/PerrinetBednar15?action=AttachFile&amp;amp;do=get&amp;amp;target=PerrinetBednar15supplementary.pdf&#34; target=&#34;_blank&#34;&gt;supplementary material&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;a-study-of-how-people-can-quickly-spot-animals-by-sight-is-helping-uncover-the-workings-of-the-human-brain&#34;&gt;A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.&lt;/h1&gt;
+
+&lt;p&gt;Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.
+They found that one of the first parts of the brain to process visual information - the primary visual cortex - can control this fast response.
+More complex parts of the brain are not required at this stage, contrary to what was previously thought.
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New info published on how the human brain processes visual information from &lt;a href=&#34;https://twitter.com/EdinburghUni?ref_src=twsrc%5Etfw&#34;&gt;@EdinburghUni&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/uniamu?ref_src=twsrc%5Etfw&#34;&gt;@uniamu&lt;/a&gt; stuidy &lt;a href=&#34;http://t.co/KUicugL8P7&#34;&gt;http://t.co/KUicugL8P7&lt;/a&gt;&lt;/p&gt;&amp;mdash; EdinUniNeuro (@EdinUniNeuro) &lt;a href=&#34;https://twitter.com/EdinUniNeuro/status/613011086829162497?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_model.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Edge co-occurrences &lt;strong&gt;(A)&lt;/strong&gt; An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. &lt;strong&gt;(B)&lt;/strong&gt; The relationship between a reference edge &lt;em&gt;A&lt;/em&gt; and another edge &lt;em&gt;B&lt;/em&gt; can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg&#34; target=&#34;_blank&#34;&gt;Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt;). This is used to compute the chevron map in Figure~2.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;動物か否かの見分け方。&lt;a href=&#34;http://t.co/TTY8MwZGoO&#34;&gt;http://t.co/TTY8MwZGoO&lt;/a&gt;　引用されてるけど、Thorpe (1996)の150msで区別されてるって話(なつかしい)と関係ありそう。&lt;/p&gt;&amp;mdash; Makito Oku (@okumakito) &lt;a href=&#34;https://twitter.com/okumakito/status/613128456637841408?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_chevrons.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&amp;rsquo; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;a href=&#34;http://t.co/NY9HapBx2S&#34;&gt;http://t.co/NY9HapBx2S&lt;/a&gt; &lt;a href=&#34;http://t.co/rKQ8I5i6Ty&#34;&gt;pic.twitter.com/rKQ8I5i6Ty&lt;/a&gt;&lt;/p&gt;&amp;mdash; Francis Villatoro (@emulenews) &lt;a href=&#34;https://twitter.com/emulenews/status/612988348400070656?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_chevrons2.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;As for Figure 2, we show the probability of edge configurations as chevron maps for two databases (man-made, animal). Here, we show the ratio of histogram counts relative to that of the non-animal natural image dataset. Deeper and deeper red circles indicate configurations that are more and more likely (and blue respectively less likely) with respect to the histogram computed for non-animal images. In the left plot, the animal images exhibit relatively more circular continuations and converging angles (red chevrons in the central vertical axis) relative to non-animal natural images, at the expense of co-linear, parallel, and orthogonal configurations (blue circles along the middle horizontal axis). The man-made images have strikingly more co-linear features (central circle), which reflects the prevalence of long, straight lines in the cage images in that dataset. We use this representation to categorize images from these different categories in Figure~4.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_results.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&amp;rsquo;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&amp;rsquo; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50\% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80\% for human observers and 82\% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;figure_FA_humans.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;rsquo; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -39,7 +137,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +158,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Fri, 05 Jul 2013 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -66,7 +170,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Thu, 10 May 2012 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -75,7 +182,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 24 Jan 2012 13:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -84,7 +194,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Tue, 15 Nov 2011 08:45:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -93,7 +206,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Wed, 28 Sep 2011 13:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -102,7 +218,10 @@ A study of how people can quickly spot animals by sight is helping uncover the w
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
       <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
-      <description> See a followup in Perrinet and Bednar, 2015  </description>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>

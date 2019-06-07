@@ -4,14 +4,14 @@
     <title>Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/nicole-voges/</link>
     <description>Recent content on Novel visual computations</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
 </copyright>
     
-	<atom:link href="https://laurentperrinet.github.io/authors/nicole-voges/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://laurentperrinet.github.io/authors/nicole-voges/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -92,7 +92,26 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurentperrinet.github.io/authors/nicole-voges/</guid>
-      <description>Complex dynamics in recurrent cortical networks based on spatially realistic connectivities (Post-Doc, 2008 / 2010) Description Most studies on the dynamics of recurrent cortical networks are either based on purely random wiring or neighborhood couplings. Neuronal cortical connectivity, however, shows a complex spatial pattern composed of local and remote patchy connections. We ask to what extent such geometric traits influence the &amp;ldquo;idle&amp;rdquo; dynamics of two-dimensional (2d) cortical network models composed of conductance-based integrate-and-fire (iaf) neurons.</description>
+      <description>
+
+&lt;h1 id=&#34;complex-dynamics-in-recurrent-cortical-networks-based-on-spatially-realistic-connectivities-post-doc-2008-2010&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities (Post-Doc, 2008 / 2010)&lt;/h1&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Most studies on the dynamics of recurrent cortical networks are either based on purely random wiring or neighborhood couplings. Neuronal cortical connectivity, however, shows a complex spatial pattern composed of local and remote patchy connections. We ask to what extent such geometric traits influence the &amp;ldquo;idle&amp;rdquo; dynamics of two-dimensional (2d) cortical network models composed of conductance-based integrate-and-fire (iaf) neurons. In contrast to the typical 1 mm2 used in most studies, we employ an enlarged spatial set-up of 25 mm2 to provide for long-range connections. Our models range from purely random to distance-dependent connectivities including patchy projections, i.e., spatially clustered synapses. Analyzing the characteristic measures for synchronicity and regularity in neuronal spiking, we explore and compare the phase spaces and activity patterns of our simulation results. Depending on the input parameters, different dynamical states appear, similar to the known synchronous regular (SR) or asynchronous irregular (AI) firing in random networks. Our structured networks, however, exhibit shifted and sharper transitions, as well as more complex activity patterns. Distance-dependent connectivity structures induce a spatio-temporal spread of activity, e.g., propagating waves, that random networks cannot account for. Spatially and temporally restricted activity injections reveal that a high amount of local coupling induces rather unstable AI dynamics. We find that the amount of local versus long-range connections is an important parameter, whereas the structurally advantageous wiring cost optimization of patchy networks has little bearing on the phase space.&lt;/p&gt;
+
+&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reynaud A., Masson G. S. and Chavane F. &lt;a href=&#34;http://www.jneurosci.org/content/32/36/12558.abstract&#34; target=&#34;_blank&#34;&gt;Dynamics of Local Input Normalization Result from Balanced Short- and Long-Range Intracortical Interactions in Area V1&lt;/a&gt; Journal of Neuroscience, 2012, 32(36): 12558-12569&lt;/li&gt;
+&lt;li&gt;Reynaud A., Takerkart S, Masson G. S. and Chavane F. &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S1053811910011237&#34; target=&#34;_blank&#34;&gt;Linear model decomposition for voltage-sensitive dye imaging signals: Application in awake behaving monkey.&lt;/a&gt; Neuroimage, 2011, 54(2), 1196–1210&lt;/li&gt;
+&lt;li&gt;Perrinet, L. and Masson G. &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt; Neural Computation, 2012&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
