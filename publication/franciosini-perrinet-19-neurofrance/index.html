@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Sparse coding holds the idea that signals can be concisely described as a linear mixture of few components (called atoms) picked from a bigger set of primary kernels (called dictionary). This framework has long been used to model the strategy employed by mammals´ primary visual cortex (V1) to detect low-level features, in particular, oriented edges in natural scenes. Differently, predictive coding is a prominent tool used to model hierarchical neural dynamics: high-level cortical layers predict at best the activity of lower-level ones and this prediction is sent back through of a feedback connection between the layers. This defines a recursive loop in which prediction error is integrated to the sensory input and fed forward to refine the quality of the prediction. We propose a Sparse Deep Predictive Coding algorithm (SDPC) that exploits convolutional dictionaries and a feedback information flow for meaningful, hierarchical feature learning in static images. The proposed architecture allows us to add arbitrary non-linear spatial transformation stages between each layer of the hierarchical sparse representations, such as Max-Pooling or Spatial Transformer layers. SPDC consists of a dynamical system in the form of a convolutional neural network, analogous to the model proposed by Rao and Ballard, 1999. The state variables are sparse feature maps encoding the input and the feedback signals while the parameters of the system are convolutional dictionaries optimized through Hebbian learning. We observed that varying the strength of the feedback modulates the overall sparsity of low-level representations (lower feedback scales correspond to a less sparse activity), but without changing the exponential shape of the distribution of the sparse prior. This model could shed light on the role of sparsity and feedback modulation in hierarchical feature learning with important applications in signal processing (data compression), computer vision (by extending it to dynamic scenes) and computational neuroscience, notably by using more complex priors like group sparsity to model topological organization in the brain cortex.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/publication/franciosini-perrinet-19-neurofrance/">
@@ -128,13 +128,13 @@
   
   <meta property="og:site_name" content="Novel visual computations">
   <meta property="og:url" content="https://laurentperrinet.github.io/publication/franciosini-perrinet-19-neurofrance/">
-  <meta property="og:title" content="Modelling Complex Cells of Early Visual Cortex using Predictive Coding | Novel visual computations">
-  <meta property="og:description" content=""><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
+  <meta property="og:title" content="A hierarchical, multi-layer convolutional sparse coding algorithm based on predictive coding | Novel visual computations">
+  <meta property="og:description" content="Sparse coding holds the idea that signals can be concisely described as a linear mixture of few components (called atoms) picked from a bigger set of primary kernels (called dictionary). This framework has long been used to model the strategy employed by mammals´ primary visual cortex (V1) to detect low-level features, in particular, oriented edges in natural scenes. Differently, predictive coding is a prominent tool used to model hierarchical neural dynamics: high-level cortical layers predict at best the activity of lower-level ones and this prediction is sent back through of a feedback connection between the layers. This defines a recursive loop in which prediction error is integrated to the sensory input and fed forward to refine the quality of the prediction. We propose a Sparse Deep Predictive Coding algorithm (SDPC) that exploits convolutional dictionaries and a feedback information flow for meaningful, hierarchical feature learning in static images. The proposed architecture allows us to add arbitrary non-linear spatial transformation stages between each layer of the hierarchical sparse representations, such as Max-Pooling or Spatial Transformer layers. SPDC consists of a dynamical system in the form of a convolutional neural network, analogous to the model proposed by Rao and Ballard, 1999. The state variables are sparse feature maps encoding the input and the feedback signals while the parameters of the system are convolutional dictionaries optimized through Hebbian learning. We observed that varying the strength of the feedback modulates the overall sparsity of low-level representations (lower feedback scales correspond to a less sparse activity), but without changing the exponential shape of the distribution of the sparse prior. This model could shed light on the role of sparsity and feedback modulation in hierarchical feature learning with important applications in signal processing (data compression), computer vision (by extending it to dynamic scenes) and computational neuroscience, notably by using more complex priors like group sparsity to model topological organization in the brain cortex."><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-01-01T00:00:00&#43;01:00">
   
-  <meta property="article:modified_time" content="2019-06-17T18:19:39&#43;02:00">
+  <meta property="article:modified_time" content="2019-06-17T18:26:24&#43;02:00">
   
 
   
@@ -146,7 +146,7 @@
 
 
 
-  <title>Modelling Complex Cells of Early Visual Cortex using Predictive Coding | Novel visual computations</title>
+  <title>A hierarchical, multi-layer convolutional sparse coding algorithm based on predictive coding | Novel visual computations</title>
 
 </head>
 
@@ -450,7 +450,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Modelling Complex Cells of Early Visual Cortex using Predictive Coding</h1>
+  <h1 itemprop="name">A hierarchical, multi-layer convolutional sparse coding algorithm based on predictive coding</h1>
 
   
 
@@ -460,7 +460,7 @@
 
 
 <meta content="2019-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2019-06-17 18:19:39 &#43;0200 CEST" itemprop="dateModified">
+<meta content="2019-06-17 18:26:24 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -473,7 +473,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </div>
   
@@ -505,7 +505,7 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Modelling%20Complex%20Cells%20of%20Early%20Visual%20Cortex%20using%20Predictive%20Coding&amp;url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2ffranciosini-perrinet-19-neurofrance%2f"
+         href="https://twitter.com/intent/tweet?text=A%20hierarchical%2c%20multi-layer%20convolutional%20sparse%20coding%20algorithm%20based%20on%20predictive%20coding&amp;url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2ffranciosini-perrinet-19-neurofrance%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
@@ -519,21 +519,21 @@
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2ffranciosini-perrinet-19-neurofrance%2f&amp;title=Modelling%20Complex%20Cells%20of%20Early%20Visual%20Cortex%20using%20Predictive%20Coding"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2ffranciosini-perrinet-19-neurofrance%2f&amp;title=A%20hierarchical%2c%20multi-layer%20convolutional%20sparse%20coding%20algorithm%20based%20on%20predictive%20coding"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2ffranciosini-perrinet-19-neurofrance%2f&amp;title=Modelling%20Complex%20Cells%20of%20Early%20Visual%20Cortex%20using%20Predictive%20Coding"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2ffranciosini-perrinet-19-neurofrance%2f&amp;title=A%20hierarchical%2c%20multi-layer%20convolutional%20sparse%20coding%20algorithm%20based%20on%20predictive%20coding"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Modelling%20Complex%20Cells%20of%20Early%20Visual%20Cortex%20using%20Predictive%20Coding&amp;body=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2ffranciosini-perrinet-19-neurofrance%2f">
+         href="mailto:?subject=A%20hierarchical%2c%20multi-layer%20convolutional%20sparse%20coding%20algorithm%20based%20on%20predictive%20coding&amp;body=https%3a%2f%2flaurentperrinet.github.io%2fpublication%2ffranciosini-perrinet-19-neurofrance%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -625,6 +625,9 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Sparse coding holds the idea that signals can be concisely described as a linear mixture of few components (called atoms) picked from a bigger set of primary kernels (called dictionary). This framework has long been used to model the strategy employed by mammals´ primary visual cortex (V1) to detect low-level features, in particular, oriented edges in natural scenes. Differently, predictive coding is a prominent tool used to model hierarchical neural dynamics: high-level cortical layers predict at best the activity of lower-level ones and this prediction is sent back through of a feedback connection between the layers. This defines a recursive loop in which prediction error is integrated to the sensory input and fed forward to refine the quality of the prediction. We propose a Sparse Deep Predictive Coding algorithm (SDPC) that exploits convolutional dictionaries and a feedback information flow for meaningful, hierarchical feature learning in static images. The proposed architecture allows us to add arbitrary non-linear spatial transformation stages between each layer of the hierarchical sparse representations, such as Max-Pooling or Spatial Transformer layers. SPDC consists of a dynamical system in the form of a convolutional neural network, analogous to the model proposed by Rao and Ballard, 1999. The state variables are sparse feature maps encoding the input and the feedback signals while the parameters of the system are convolutional dictionaries optimized through Hebbian learning. We observed that varying the strength of the feedback modulates the overall sparsity of low-level representations (lower feedback scales correspond to a less sparse activity), but without changing the exponential shape of the distribution of the sparse prior. This model could shed light on the role of sparsity and feedback modulation in hierarchical feature learning with important applications in signal processing (data compression), computer vision (by extending it to dynamic scenes) and computational neuroscience, notably by using more complex priors like group sparsity to model topological organization in the brain cortex.</p>
     
 
     
