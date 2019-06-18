@@ -9,14 +9,8 @@
   </url>
   
   <url>
-    <loc>https://laurentperrinet.github.io/tags/active-inference/</loc>
-    <lastmod>2019-06-18T11:53:23+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://laurentperrinet.github.io/authors/</loc>
-    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,7 +33,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/</loc>
-    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,13 +51,13 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/publication_types/</loc>
-    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://laurentperrinet.github.io/tags/</loc>
-    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,6 +69,12 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/tags/visuomotor-control/</loc>
+    <lastmod>2019-06-18T11:53:23+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/tags/active-inference/</loc>
     <lastmod>2019-06-18T11:53:23+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -151,7 +151,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/publication_types/2/</loc>
-    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,7 +198,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/authors/franck-ruffier/</loc>
-    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -209,12 +209,12 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-neurips/</loc>
-    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://laurentperrinet.github.io/tags/sparse-coding/</loc>
-    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -237,6 +237,12 @@
   </url>
   
   <url>
+    <loc>https://laurentperrinet.github.io/tags/retina/</loc>
+    <lastmod>2019-06-18T10:10:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://laurentperrinet.github.io/publication/ravello-19/</loc>
     <lastmod>2019-03-11T09:44:50+01:00</lastmod>
   </url>
@@ -249,12 +255,6 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/tags/motion-clouds/</loc>
-    <lastmod>2019-06-18T10:10:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://laurentperrinet.github.io/tags/retina/</loc>
     <lastmod>2019-06-18T10:10:43+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -761,35 +761,6 @@
   </url>
   
   <url>
-    <loc>https://laurentperrinet.github.io/authors/giacomo-benvenuti/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://laurentperrinet.github.io/authors/pascal-wallisch/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://laurentperrinet.github.io/publication/taouali-16/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laurentperrinet.github.io/tags/coding-decoding/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://laurentperrinet.github.io/tags/spike/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://laurentperrinet.github.io/publication/taouali-15-vss/</loc>
     <lastmod>2019-06-18T12:49:35+02:00</lastmod>
   </url>
@@ -814,6 +785,12 @@
   <url>
     <loc>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</loc>
     <lastmod>2019-03-22T10:22:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/authors/giacomo-benvenuti/</loc>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -856,6 +833,12 @@
   <url>
     <loc>https://laurentperrinet.github.io/authors/yves-fr%C3%A9gnac/</loc>
     <lastmod>2019-05-09T12:42:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/tags/coding-decoding/</loc>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -920,8 +903,20 @@
   </url>
   
   <url>
-    <loc>https://laurentperrinet.github.io/publication/taouali-15/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
+    <loc>https://laurentperrinet.github.io/authors/pascal-wallisch/</loc>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/publication/taouali-16/</loc>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/tags/spike/</loc>
+    <lastmod>2019-06-18T15:19:26+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
