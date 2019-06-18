@@ -10,7 +10,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/authors/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
+    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -33,7 +33,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
+    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,13 +51,13 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/publication_types/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
+    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://laurentperrinet.github.io/tags/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
+    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -151,7 +151,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/publication_types/2/</loc>
-    <lastmod>2019-06-18T12:49:35+02:00</lastmod>
+    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,7 +198,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/authors/franck-ruffier/</loc>
-    <lastmod>2019-06-17T18:07:38+02:00</lastmod>
+    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,8 +208,13 @@
   </url>
   
   <url>
+    <loc>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-neurips/</loc>
+    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://laurentperrinet.github.io/tags/sparse-coding/</loc>
-    <lastmod>2019-06-18T10:10:43+02:00</lastmod>
+    <lastmod>2019-06-18T13:56:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1332,6 +1337,12 @@
   </url>
   
   <url>
+    <loc>https://laurentperrinet.github.io/tags/aperture-problem/</loc>
+    <lastmod>2019-06-17T18:07:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://laurentperrinet.github.io/publication/voges-12/</loc>
     <lastmod>2019-03-11T09:33:48+01:00</lastmod>
   </url>
@@ -1380,12 +1391,6 @@
   <url>
     <loc>https://laurentperrinet.github.io/publication/khoei-12-sfn/</loc>
     <lastmod>2019-05-27T12:54:25+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laurentperrinet.github.io/tags/aperture-problem/</loc>
-    <lastmod>2019-06-17T18:07:38+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1560,12 +1565,6 @@
   </url>
   
   <url>
-    <loc>https://laurentperrinet.github.io/tags/visual-perception/</loc>
-    <lastmod>2019-06-18T10:10:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://laurentperrinet.github.io/tags/computational-neuroscience/</loc>
     <lastmod>2019-06-18T10:10:43+02:00</lastmod>
     <priority>0</priority>
@@ -1574,6 +1573,12 @@
   <url>
     <loc>https://laurentperrinet.github.io/tags/tracking-eye-movements/</loc>
     <lastmod>2019-06-17T18:07:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/tags/visual-perception/</loc>
+    <lastmod>2019-06-18T10:10:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
