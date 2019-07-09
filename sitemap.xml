@@ -4,19 +4,13 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/publication_types/1/</loc>
-    <lastmod>2019-07-09T13:13:11+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://laurentperrinet.github.io/tags/active-inference/</loc>
-    <lastmod>2019-06-18T15:33:04+02:00</lastmod>
+    <lastmod>2019-07-09T13:20:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://laurentperrinet.github.io/authors/</loc>
-    <lastmod>2019-07-09T13:13:11+02:00</lastmod>
+    <lastmod>2019-07-09T13:20:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,7 +33,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/</loc>
-    <lastmod>2019-07-09T13:13:11+02:00</lastmod>
+    <lastmod>2019-07-09T13:20:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,7 +51,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/publication_types/</loc>
-    <lastmod>2019-07-09T13:13:11+02:00</lastmod>
+    <lastmod>2019-07-09T13:20:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,6 +70,12 @@
   <url>
     <loc>https://laurentperrinet.github.io/tags/visuomotor-control/</loc>
     <lastmod>2019-06-18T11:53:23+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/tags/active-inference/</loc>
+    <lastmod>2019-06-18T15:33:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -237,12 +237,6 @@
   </url>
   
   <url>
-    <loc>https://laurentperrinet.github.io/tags/retina/</loc>
-    <lastmod>2019-07-08T15:10:02+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://laurentperrinet.github.io/publication/ravello-19/</loc>
     <lastmod>2019-03-11T09:44:50+01:00</lastmod>
   </url>
@@ -256,6 +250,12 @@
   <url>
     <loc>https://laurentperrinet.github.io/tags/motion-clouds/</loc>
     <lastmod>2019-07-09T13:08:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/tags/retina/</loc>
+    <lastmod>2019-07-08T15:10:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -281,7 +281,7 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/</loc>
-    <lastmod>2019-07-09T13:08:57+02:00</lastmod>
+    <lastmod>2019-07-09T13:20:17+02:00</lastmod>
   </url>
   
   <url>
@@ -358,12 +358,12 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/talk/2018-10-11-bio-morphisme/</loc>
-    <lastmod>2019-07-09T12:58:43+02:00</lastmod>
+    <lastmod>2019-07-09T13:20:17+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/</loc>
-    <lastmod>2019-07-09T13:13:11+02:00</lastmod>
+    <lastmod>2019-07-09T13:15:38+02:00</lastmod>
   </url>
   
   <url>
@@ -1403,6 +1403,12 @@
   </url>
   
   <url>
+    <loc>https://laurentperrinet.github.io/tags/aperture-problem/</loc>
+    <lastmod>2019-07-09T12:58:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://laurentperrinet.github.io/publication/voges-12/</loc>
     <lastmod>2019-03-11T09:33:48+01:00</lastmod>
   </url>
@@ -1451,12 +1457,6 @@
   <url>
     <loc>https://laurentperrinet.github.io/publication/khoei-12-sfn/</loc>
     <lastmod>2019-05-27T12:54:25+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laurentperrinet.github.io/tags/aperture-problem/</loc>
-    <lastmod>2019-07-09T12:58:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1647,12 +1647,6 @@
   </url>
   
   <url>
-    <loc>https://laurentperrinet.github.io/tags/visual-perception/</loc>
-    <lastmod>2019-07-09T13:08:57+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://laurentperrinet.github.io/tags/computational-neuroscience/</loc>
     <lastmod>2019-07-08T15:10:02+02:00</lastmod>
     <priority>0</priority>
@@ -1660,6 +1654,12 @@
   
   <url>
     <loc>https://laurentperrinet.github.io/tags/tracking-eye-movements/</loc>
+    <lastmod>2019-07-09T13:08:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laurentperrinet.github.io/tags/visual-perception/</loc>
     <lastmod>2019-07-09T13:08:57+02:00</lastmod>
     <priority>0</priority>
   </url>
