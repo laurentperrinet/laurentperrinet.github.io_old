@@ -1549,7 +1549,21 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://laurentperrinet.github.io/project/anr-rem/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; target=&#34;_blank&#34;&gt;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&lt;/a&gt;&lt;/p&gt;
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;We were open :-)&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
 
 &lt;p&gt;Reinforcement learning theory provides a general conceptual framework to account for behavioral changes. Recently the idea that reinforcement may be used to explain learning in motor responses has emerged. In particular, there is a growing interest in studying the effects of reinforcement learning in arm movements trajectories (Dam, Kording, &amp;amp; Wei, 2013), pointing movements (Trommershauser, Landy, &amp;amp; Maloney, 2006), or eye movements (Madelain, Champrenaut, &amp;amp; Chauvin, 2007; Madelain &amp;amp; Krauzlis, 2003b; Madelain, Paeye, &amp;amp; Wallman, 2011; Sugrue, Corrado, &amp;amp; Newsome, 2004; Takikawa, Kawagoe, Itoh, Nakahara, &amp;amp; Hikosaka, 2002; Xu-Wilson, Zee, &amp;amp; Shadmehr, 2009). However, and despite these few seminal studies, much is still unknown about both the details of the effects of reward on motor control and the underlying mechanisms. &lt;strong&gt;This proposal aims at a better understanding of how skilled motor responses are learned focusing on voluntary eye movements.&lt;/strong&gt;&lt;/p&gt;
 
