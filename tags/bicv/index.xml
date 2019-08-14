@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bicv on Novel visual computations</title>
+    <link>https://laurentperrinet.github.io/tags/bicv/</link>
+    <description>Recent content in bicv on Novel visual computations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
+Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
+</copyright>
+    <lastBuildDate>Wed, 26 Oct 2016 00:00:00 +0300</lastBuildDate>
+    
+	    <atom:link href="https://laurentperrinet.github.io/tags/bicv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2016-10-26 : EUVIP BICV</title>
+      <link>https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/</guid>
+      <description>
+
+&lt;h1 id=&#34;2016-10-26-euvip-special-session-on-biologically-inspired-computer-vision&#34;&gt;2016-10-26 : EUVIP Special Session on &lt;em&gt;Biologically Inspired Computer Vision&lt;/em&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;description-of-the-session&#34;&gt;description of the session&lt;/h2&gt;
+
+&lt;p&gt;Recent advances in imaging technologies have yielded scientific data at
+unprecedented detail and volume, leading to the need of a shift of
+paradigm in image processing and computer vision. Beyond the usual
+classical von Neumann architecture, one strategy that is emerging in
+order to process and interpret this amount of data follows from the
+architecture of biological organisms and shows for instance
+computational paradigms implementing asynchronous communication with a
+high degree of local connectivity in sensors or brain tissues. This
+session aims at bringing together researchers from different fields of
+Biologically Inspired Computer Vision to present latest results in the
+field, from fundamental to more specialized topics, including visual
+analysis based on a computational level, hardware implementation, and
+the design of new more advanced vision sensors. It is expected to
+provide a comprehensive overview in the computer area of biologically
+motivated vision. On the one hand, biological organisms can provide a
+source of inspiration for new computationally efficient and robust
+vision models and on the other hand machine vision approaches can
+provide new insights for understanding biological visual systems. This
+session covers a wide range of topics from fundamental to more
+specialized topics, including visual analysis based on a computational
+level, hardware implementation, and the design of new more advanced
+vision sensors. In particular, we expect to provide an overview of a few
+representative applications and current state of the art of the research
+in this area.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;URL
+&lt;a href=&#34;http://www-l2ti.univ-paris13.fr/euvip2016/index.php/86-euvip2016/129-tentative-technical-program-in-detail&#34; target=&#34;_blank&#34;&gt;http://www-l2ti.univ-paris13.fr/euvip2016/index.php/86-euvip2016/129-tentative-technical-program-in-detail&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;date
+October 26th, 2016&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Location
+Ecole Centrale Marseille&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Address
+&lt;a href=&#34;https://www.centrale-marseille.fr/fr/acces-0&#34; target=&#34;_blank&#34;&gt;38 rue Frédéric Joliot-Curie 13013 Marseille,
+France&lt;/a&gt; Phone : +33
+(0)4 91 05 45 45&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Programme&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;13.50  &lt;a href=&#34;http://ieeexplore.ieee.org/document/7764586/&#34; target=&#34;_blank&#34;&gt;Visual System Inspired Algorithm For Contours, Corner And T Junction Detection&lt;/a&gt;, Antoni Buades, &lt;em&gt;Rafael Grompone Von Gioi&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;13.50  &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/&#34; target=&#34;_blank&#34;&gt;Biologically-inspired characterization of sparseness in natural images&lt;/a&gt;, &lt;em&gt;Laurent Perrinet&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14.10 &lt;a href=&#34;http://david.alleysson.free.fr/Publications/JIST0224reprint.pdf&#34; target=&#34;_blank&#34;&gt;Color filter array imitating the random nature of color arrangement in the human cone mosaic&lt;/a&gt;, Prakhar Amba, &lt;em&gt;David Alleysson&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14.30 &lt;a href=&#34;http://ieeexplore.ieee.org/document/7764601/&#34; target=&#34;_blank&#34;&gt;An Illuminant-Independent Analysis Of Reflectance As Sensed By Humans, And Its Applicability To Computer Vision&lt;/a&gt;, Alban Flachot, Phelma, J.Kevin O&amp;rsquo;Regan, &lt;em&gt;Edoardo Provenzi&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14.50 &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/&#34; target=&#34;_blank&#34;&gt;Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor&lt;/a&gt;, Lionel Fillatre, Michel Barlaud, &lt;em&gt;Laurent Perrinet&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

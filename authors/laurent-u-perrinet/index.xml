@@ -518,6 +518,8 @@ chercheur.
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Retinal computations&amp;rdquo; : The retina is part of the nervous system and consists in well-organized layers of different cell types and functions. Those cells have been vastly studied in various animal models, and also the circuits conveying to different functional categories. All these different types of either physiological properties or computation equivalents revealed the retina as not a single light to electricity encoder but a pre-processing layer, which is in charge to extract relevant visual signals from the environment that are critical for animal survival. During this seminar, we describe some of the computations performed by the retina, and how this knowledge can be applied to solve engineering problems, such as image processing and robot controllers.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.int.univ-amu.fr/IMG/200x130xsiteon0.png,q1331299836.pagespeed.ic.IKYGzK4Zu8.png&#34; alt=&#34;Sponsored by&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1343,6 +1345,71 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
       <guid>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016-10-26 : EUVIP BICV</title>
+      <link>https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/</guid>
+      <description>
+
+&lt;h1 id=&#34;2016-10-26-euvip-special-session-on-biologically-inspired-computer-vision&#34;&gt;2016-10-26 : EUVIP Special Session on &lt;em&gt;Biologically Inspired Computer Vision&lt;/em&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;description-of-the-session&#34;&gt;description of the session&lt;/h2&gt;
+
+&lt;p&gt;Recent advances in imaging technologies have yielded scientific data at
+unprecedented detail and volume, leading to the need of a shift of
+paradigm in image processing and computer vision. Beyond the usual
+classical von Neumann architecture, one strategy that is emerging in
+order to process and interpret this amount of data follows from the
+architecture of biological organisms and shows for instance
+computational paradigms implementing asynchronous communication with a
+high degree of local connectivity in sensors or brain tissues. This
+session aims at bringing together researchers from different fields of
+Biologically Inspired Computer Vision to present latest results in the
+field, from fundamental to more specialized topics, including visual
+analysis based on a computational level, hardware implementation, and
+the design of new more advanced vision sensors. It is expected to
+provide a comprehensive overview in the computer area of biologically
+motivated vision. On the one hand, biological organisms can provide a
+source of inspiration for new computationally efficient and robust
+vision models and on the other hand machine vision approaches can
+provide new insights for understanding biological visual systems. This
+session covers a wide range of topics from fundamental to more
+specialized topics, including visual analysis based on a computational
+level, hardware implementation, and the design of new more advanced
+vision sensors. In particular, we expect to provide an overview of a few
+representative applications and current state of the art of the research
+in this area.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;URL
+&lt;a href=&#34;http://www-l2ti.univ-paris13.fr/euvip2016/index.php/86-euvip2016/129-tentative-technical-program-in-detail&#34; target=&#34;_blank&#34;&gt;http://www-l2ti.univ-paris13.fr/euvip2016/index.php/86-euvip2016/129-tentative-technical-program-in-detail&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;date
+October 26th, 2016&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Location
+Ecole Centrale Marseille&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Address
+&lt;a href=&#34;https://www.centrale-marseille.fr/fr/acces-0&#34; target=&#34;_blank&#34;&gt;38 rue Frédéric Joliot-Curie 13013 Marseille,
+France&lt;/a&gt; Phone : +33
+(0)4 91 05 45 45&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Programme&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;13.50  &lt;a href=&#34;http://ieeexplore.ieee.org/document/7764586/&#34; target=&#34;_blank&#34;&gt;Visual System Inspired Algorithm For Contours, Corner And T Junction Detection&lt;/a&gt;, Antoni Buades, &lt;em&gt;Rafael Grompone Von Gioi&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;13.50  &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/&#34; target=&#34;_blank&#34;&gt;Biologically-inspired characterization of sparseness in natural images&lt;/a&gt;, &lt;em&gt;Laurent Perrinet&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14.10 &lt;a href=&#34;http://david.alleysson.free.fr/Publications/JIST0224reprint.pdf&#34; target=&#34;_blank&#34;&gt;Color filter array imitating the random nature of color arrangement in the human cone mosaic&lt;/a&gt;, Prakhar Amba, &lt;em&gt;David Alleysson&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14.30 &lt;a href=&#34;http://ieeexplore.ieee.org/document/7764601/&#34; target=&#34;_blank&#34;&gt;An Illuminant-Independent Analysis Of Reflectance As Sensed By Humans, And Its Applicability To Computer Vision&lt;/a&gt;, Alban Flachot, Phelma, J.Kevin O&amp;rsquo;Regan, &lt;em&gt;Edoardo Provenzi&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;14.50 &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/&#34; target=&#34;_blank&#34;&gt;Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor&lt;/a&gt;, Lionel Fillatre, Michel Barlaud, &lt;em&gt;Laurent Perrinet&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -3492,6 +3559,8 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Les actes de la conférence regroupant les 68 contributions sont disponibles sur le &lt;a href=&#34;http://hal.archives-ouvertes.fr/NEUROCOMP08&#34; target=&#34;_blank&#34;&gt;serveur HAL dédié&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Affiche&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
