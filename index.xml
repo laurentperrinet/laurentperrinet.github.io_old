@@ -3672,7 +3672,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     </item>
     
     <item>
-      <title>2010-06-22_CodeJamNr4</title>
+      <title>2010-06-22 : CodeJamNr4</title>
       <link>https://laurentperrinet.github.io/post/2010-06-22_codejam-nr4/</link>
       <pubDate>Tue, 22 Jun 2010 00:00:00 +0300</pubDate>
       
@@ -3680,16 +3680,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <description>
 
 &lt;h1 id=&#34;facets-code-jam-workshop-4&#34;&gt;FACETS Code Jam Workshop #4&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://laurentperrinet.github.io/cgi-bin/index.cgi/Events/2010-06-22_CodeJamNr4?action=AttachFile&amp;amp;do=get&amp;amp;target=FACETS_CJ%234.png&#34; alt=&#34;Progressive reconstruction of an image using
-spikes&#34; title=&#34;Progressive reconstruction of an image using spikes&#34; /&gt;{.attachment
-width=&amp;ldquo;100%&amp;rdquo;}&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;
-:::
-:::&lt;/p&gt;
-
-&lt;p&gt;[]{#line-6 .anchor}&lt;/p&gt;
 
 &lt;p&gt;We held a CodeJam 22nd-24th June 2010, in Marseille.&lt;/p&gt;
 
@@ -3701,27 +3691,23 @@ width=&amp;ldquo;100%&amp;rdquo;}&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The goal of the FACETS CodeJam workshops is to catalyze open-source, collaborative software development in computational and systems neuroscience and neuroinformatics, by bringing together researchers, students and engineers to share ideas, present their work, and write code together. The general format of the workshops is to dedicate the mornings to invited and contributed talks, leaving the afternoons free for discussions and code sprints.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;pre&gt;&lt;code&gt;For the 4th FACETS CodeJam, the main theme of the meeting will be workflows: what are the best practices for combining different tools (simulators, analysis tools, visualization tools, databases etc.) to ensure the efficient and reproducible flow of data and information from experiment conception to publication and archiving?
 
 (...)
 
 The meeting organizers gratefully acknowledge the support of the European Union through the FACETS Project (grant no. IST-2005-15879), and the International Neuroinformatics Co-ordinating Facility (INCF). We also wish to express our great appreciation to the DyVA team at the Institut de Neurosciences Cognitives de la Méditerranée for providing us with a great location and much assistance.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/blockquote&gt;&lt;/li&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://neuralensemble.org/meetings/CodeJam4.html&#34; target=&#34;_blank&#34;&gt;http://neuralensemble.org/meetings/CodeJam4.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://neuralensemble.org/meetings/CJ4_Program_v2.pdf&#34; target=&#34;_blank&#34;&gt;http://neuralensemble.org/meetings/CJ4_Program_v2.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://facets.kip.uni-heidelberg.de/internal/jss/AttendMeeting?mI=73&#34; target=&#34;_blank&#34;&gt;FACETS code jam #4&lt;/a&gt;{.https}&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;see the presentation of an &lt;a href=&#34;https://laurentperrinet.github.io/LaurentPerrinet/Presentations/2010-06-24_CodeJamNr4&#34;&gt;interactive neural
-demo&lt;/a&gt;.
-[]{#line-22 .anchor}[]{#line-23 .anchor}&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;Affiche&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;Affiche&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
