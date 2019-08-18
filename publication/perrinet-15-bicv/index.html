@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
 
   
 
@@ -78,13 +78,13 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.a9a796b4dba28c78fc94d2550173437e.css">
+  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
 
   
 
@@ -99,7 +99,7 @@
       ga('require', 'urlChangeTracker');
       ga('send', 'pageview');
     </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
     
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
     
@@ -108,8 +108,8 @@
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://laurentperrinet.github.io/publication/perrinet-15-bicv/">
@@ -121,6 +121,7 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@laurentperrinet">
@@ -129,12 +130,13 @@
   <meta property="og:site_name" content="Novel visual computations">
   <meta property="og:url" content="https://laurentperrinet.github.io/publication/perrinet-15-bicv/">
   <meta property="og:title" content="Sparse Models for Computer Vision | Novel visual computations">
-  <meta property="og:description" content="The representation of images in the brain is known to be sparse. That is, as neural activity is recorded in a visual area ---for instance the primary visual cortex of primates--- only a few neurons are active at a given time with respect to the whole population. It is believed that such a property reflects the efficient match of the representation with the statistics of natural scenes. Applying such a paradigm to computer vision therefore seems a promising approach towards more biomimetic algorithms. Herein, we will describe a biologically-inspired approach to this problem. First, we will describe an unsupervised learning paradigm which is particularly adapted to the efficient coding of image patches. Then, we will outline a complete multi-scale framework ---SparseLets--- implementing a biologically inspired sparse representation of natural images. Finally, we will propose novel methods for integrating prior information into these algorithms and provide some preliminary experimental results. We will conclude by giving some perspective on applying such algorithms to computer vision. More specifically, we will propose that bio-inspired approaches may be applied to computer vision using predictive coding schemes, sparse models being one simple and efficient instance of such schemes."><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="og:description" content="The representation of images in the brain is known to be sparse. That is, as neural activity is recorded in a visual area ---for instance the primary visual cortex of primates--- only a few neurons are active at a given time with respect to the whole population. It is believed that such a property reflects the efficient match of the representation with the statistics of natural scenes. Applying such a paradigm to computer vision therefore seems a promising approach towards more biomimetic algorithms. Herein, we will describe a biologically-inspired approach to this problem. First, we will describe an unsupervised learning paradigm which is particularly adapted to the efficient coding of image patches. Then, we will outline a complete multi-scale framework ---SparseLets--- implementing a biologically inspired sparse representation of natural images. Finally, we will propose novel methods for integrating prior information into these algorithms and provide some preliminary experimental results. We will conclude by giving some perspective on applying such algorithms to computer vision. More specifically, we will propose that bio-inspired approaches may be applied to computer vision using predictive coding schemes, sparse models being one simple and efficient instance of such schemes."><meta property="og:image" content="https://laurentperrinet.github.io/img/hulk.png">
+  <meta property="twitter:image" content="https://laurentperrinet.github.io/img/hulk.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2015-11-14T00:00:00&#43;01:00">
-  
-  <meta property="article:modified_time" content="2019-08-14T18:21:21&#43;03:00">
+    
+      <meta property="article:published_time" content="2015-11-18T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-08-18T12:35:39&#43;02:00">
   
 
   
@@ -150,8 +152,7 @@
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -169,7 +170,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -186,7 +187,7 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -483,8 +484,8 @@
 
 
 
-<meta content="2015-11-14 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2019-08-14 18:21:21 &#43;0300 &#43;0300" itemprop="dateModified">
+<meta content="2015-11-18 00:00:00 &#43;0100 CET" itemprop="datePublished">
+<meta content="2019-08-18 12:35:39 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -509,7 +510,7 @@
     
       
     
-    <time>2015-11-14</time>
+    <time>2015-11-18</time>
   </span>
   
 
@@ -517,6 +518,7 @@
 
   
 
+  
   
   
 
@@ -626,8 +628,6 @@
 
 
 
-  
-
 
 
 <div class="btn-links mb-3">
@@ -660,11 +660,6 @@
 </a>
 
 
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/perrinet-15-bicv/perrinet-15-bicv.bib">
-  Cite
-</button>
 
 
   
@@ -863,6 +858,9 @@
 
 
 
+    
+
+
   </div>
 </div>
 
@@ -901,10 +899,6 @@
     
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
-    
-
-    
-    
     
 
     
@@ -959,6 +953,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -971,7 +968,7 @@
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
 
     
 

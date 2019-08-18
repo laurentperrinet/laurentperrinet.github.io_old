@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
 
   
 
@@ -78,13 +78,13 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.a9a796b4dba28c78fc94d2550173437e.css">
+  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
 
   
 
@@ -99,7 +99,7 @@
       ga('require', 'urlChangeTracker');
       ga('send', 'pageview');
     </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
     
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
     
@@ -108,8 +108,8 @@
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://laurentperrinet.github.io/publication/perrinet-04/">
@@ -121,6 +121,7 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@laurentperrinet">
@@ -129,12 +130,13 @@
   <meta property="og:site_name" content="Novel visual computations">
   <meta property="og:url" content="https://laurentperrinet.github.io/publication/perrinet-04/">
   <meta property="og:title" content="Finding Independent Components using spikes : a natural result of hebbian learning in a sparse spike coding scheme | Novel visual computations">
-  <meta property="og:description" content="To understand possible strategies of temporal spike coding in the central nervous system, we study functional neuromimetic models of visual processing for static images. We will first present the retinal model which was introduced by Van Rullen and Thorpe [1] and which represents the multi- scale contrast values of the image using an orthonormal wavelet transform. These analog values activate a set of spiking neurons which each fire once to produce an asynchronous wave of spikes. According to this model, the image may be progressively reconstructed from this spike wave thanks to regularities in the statistics of the coefficients determined with natural images. Here, we study mathematically how the quality of information transmission carried by this temporal representation varies over time. In particular, we study how these regularities can be used to optimize information transmission by using a form of temporal cooperation of neurons to code analog values. The original model used wavelet transforms that are close to orthogonal. However, the selectivity of realistic neurons overlap, and we propose an extension of the previous model by adding a spatial cooperation between filters. This model extends the previous scheme for arbitrary ---and possibly non-orthogonal--- representations of features in the images. In particular, we compared the perfor- mance of increasingly over-complete representations in the retina. Results show that this algorithm provides an efficient spike coding strategy for low-level visual processing which may adapt to the complexity of the visual input."><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="og:description" content="To understand possible strategies of temporal spike coding in the central nervous system, we study functional neuromimetic models of visual processing for static images. We will first present the retinal model which was introduced by Van Rullen and Thorpe [1] and which represents the multi- scale contrast values of the image using an orthonormal wavelet transform. These analog values activate a set of spiking neurons which each fire once to produce an asynchronous wave of spikes. According to this model, the image may be progressively reconstructed from this spike wave thanks to regularities in the statistics of the coefficients determined with natural images. Here, we study mathematically how the quality of information transmission carried by this temporal representation varies over time. In particular, we study how these regularities can be used to optimize information transmission by using a form of temporal cooperation of neurons to code analog values. The original model used wavelet transforms that are close to orthogonal. However, the selectivity of realistic neurons overlap, and we propose an extension of the previous model by adding a spatial cooperation between filters. This model extends the previous scheme for arbitrary ---and possibly non-orthogonal--- representations of features in the images. In particular, we compared the perfor- mance of increasingly over-complete representations in the retina. Results show that this algorithm provides an efficient spike coding strategy for low-level visual processing which may adapt to the complexity of the visual input."><meta property="og:image" content="https://laurentperrinet.github.io/img/hulk.png">
+  <meta property="twitter:image" content="https://laurentperrinet.github.io/img/hulk.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2004-01-14T00:00:00&#43;01:00">
-  
-  <meta property="article:modified_time" content="2019-08-14T18:21:21&#43;03:00">
+    
+      <meta property="article:published_time" content="2004-01-18T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-08-18T12:35:39&#43;02:00">
   
 
   
@@ -150,8 +152,7 @@
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -169,7 +170,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -186,7 +187,7 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -483,8 +484,8 @@
 
 
 
-<meta content="2004-01-14 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2019-08-14 18:21:21 &#43;0300 &#43;0300" itemprop="dateModified">
+<meta content="2004-01-18 00:00:00 &#43;0100 CET" itemprop="datePublished">
+<meta content="2019-08-18 12:35:39 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -509,7 +510,7 @@
     
       
     
-    <time>2004-01-14</time>
+    <time>2004-01-18</time>
   </span>
   
 
@@ -517,6 +518,7 @@
 
   
 
+  
   
   
 
@@ -626,8 +628,6 @@
 
 
 
-  
-
 
 
 <div class="btn-links mb-3">
@@ -652,11 +652,6 @@
 </a>
 
 
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/perrinet-04/perrinet-04.bib">
-  Cite
-</button>
 
 
 
@@ -853,6 +848,9 @@
 
 
 
+    
+
+
   </div>
 </div>
 
@@ -891,10 +889,6 @@
     
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
-    
-
-    
-    
     
 
     
@@ -949,6 +943,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -961,7 +958,7 @@
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
 
     
 

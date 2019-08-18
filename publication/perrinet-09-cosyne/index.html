@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
 
   
 
@@ -78,13 +78,13 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.a9a796b4dba28c78fc94d2550173437e.css">
+  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
 
   
 
@@ -99,7 +99,7 @@
       ga('require', 'urlChangeTracker');
       ga('send', 'pageview');
     </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
     
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
     
@@ -108,8 +108,8 @@
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://laurentperrinet.github.io/publication/perrinet-09-cosyne/">
@@ -121,6 +121,7 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@laurentperrinet">
@@ -129,12 +130,13 @@
   <meta property="og:site_name" content="Novel visual computations">
   <meta property="og:url" content="https://laurentperrinet.github.io/publication/perrinet-09-cosyne/">
   <meta property="og:title" content="Decoding center-surround interactions in population of neurons for the ocular following response | Novel visual computations">
-  <meta property="og:description" content="Short presentation of a large moving pattern elicits an Ocular Following Response (OFR) that exhibits many of the properties attributed to low-level motion processing such as spatial and temporal integration, contrast gain control and divisive interaction between competing motions. Similar mechanisms have been demonstrated in V1 cortical activity in response to center-surround gratings patterns measured with real-time optical imaging in awake monkeys. More recent experiments of OFR have used disk gratings and bipartite stimuli which are optimized to study the dynamics of center-surround integration. We quantified two main characteristics of the global spatial integration of motion from an intermediate map of possible local translation velocities: (i) a finite optimal stimulus size for driving OFR, surrounded by an antagonistic modulation and (ii) a direction selective suppressive effect of the surround on the contrast gain control of the central stimuli [Barthelemy06,Barthelemy07]. In fact, the machinery behind the visual perception of motion and the subsequent sensorimotor transformation is confronted to uncertainties which are efficiently resolved in the primate&#39;s visual system. We may understand this response as an ideal observer in a probabilistic framework by using Bayesian theory [Weiss02] and we extended in the dynamical domain the ideal observer model to simulate the spatial integration of the different local motion cues within a probabilistic representation. We proved that this model is successfully adapted to model the OFR for the different experiments [Perrinet07neurocomp], that is for different levels of noise with full field gratings, with disks of various sizes and also for the effect of a flickering surround. However, another emphad hoc inhibitory mechanism has to be added in this model to account for suppressive effects of the surround. We explore here an hypothesis where this could be understood as the effect of a recurrent prediction of information in the velocity map. In fact, in previous models, the integration step assumes independence of the local information while natural scenes are very predictable: Due to the rigidity and inertia of physical objects in visual space, neighboring local spatiotemporal information is redundant and one may introduce this empha priori knowledge of the statistics of the input in the ideal observer model. We implement this in a realistic model of a layer representing velocities in a map of cortical columns, where predictions are implemented by lateral interactions within the cortical area. First, raw velocities are estimated locally from images and are propagated to this area in a feed-forward manner. Using this velocity map, we progressively learn the dependance of local velocities in a second layer of the model. This algorithm is cyclic since the prediction is using the local velocities which are themselves using both the feed-forward input and the prediction: We control the convergence of this process by measuring results for different learning rate. Results show that this simple model is sufficient to disambiguate characteristic patterns such as the Barber-Pole illusion. Due to the recursive network which is modulating the velocity map, it also explains that the representation may exhibit some memory, such as when an object suddenly disappears or when presenting a dot followed by a line (line-motion illusion). Finally, we applied this model that was tuned over a set of natural scenes to gratings of increasing sizes. We observed first that the feed-forward response as tuned to neurophysiological data gave lower responses at higher eccentricities, and that this effect was greater for higher grating frequencies. Then, we observed that depending on the size of the disk and on its spatial frequency, the recurrent network of lateral interactions Lastly, we explore how a surrounding velocity non congruous with the central excitation information shunts the ocular response and how it is topographically represented in the cortical activity."><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Short presentation of a large moving pattern elicits an Ocular Following Response (OFR) that exhibits many of the properties attributed to low-level motion processing such as spatial and temporal integration, contrast gain control and divisive interaction between competing motions. Similar mechanisms have been demonstrated in V1 cortical activity in response to center-surround gratings patterns measured with real-time optical imaging in awake monkeys. More recent experiments of OFR have used disk gratings and bipartite stimuli which are optimized to study the dynamics of center-surround integration. We quantified two main characteristics of the global spatial integration of motion from an intermediate map of possible local translation velocities: (i) a finite optimal stimulus size for driving OFR, surrounded by an antagonistic modulation and (ii) a direction selective suppressive effect of the surround on the contrast gain control of the central stimuli [Barthelemy06,Barthelemy07]. In fact, the machinery behind the visual perception of motion and the subsequent sensorimotor transformation is confronted to uncertainties which are efficiently resolved in the primate&#39;s visual system. We may understand this response as an ideal observer in a probabilistic framework by using Bayesian theory [Weiss02] and we extended in the dynamical domain the ideal observer model to simulate the spatial integration of the different local motion cues within a probabilistic representation. We proved that this model is successfully adapted to model the OFR for the different experiments [Perrinet07neurocomp], that is for different levels of noise with full field gratings, with disks of various sizes and also for the effect of a flickering surround. However, another emphad hoc inhibitory mechanism has to be added in this model to account for suppressive effects of the surround. We explore here an hypothesis where this could be understood as the effect of a recurrent prediction of information in the velocity map. In fact, in previous models, the integration step assumes independence of the local information while natural scenes are very predictable: Due to the rigidity and inertia of physical objects in visual space, neighboring local spatiotemporal information is redundant and one may introduce this empha priori knowledge of the statistics of the input in the ideal observer model. We implement this in a realistic model of a layer representing velocities in a map of cortical columns, where predictions are implemented by lateral interactions within the cortical area. First, raw velocities are estimated locally from images and are propagated to this area in a feed-forward manner. Using this velocity map, we progressively learn the dependance of local velocities in a second layer of the model. This algorithm is cyclic since the prediction is using the local velocities which are themselves using both the feed-forward input and the prediction: We control the convergence of this process by measuring results for different learning rate. Results show that this simple model is sufficient to disambiguate characteristic patterns such as the Barber-Pole illusion. Due to the recursive network which is modulating the velocity map, it also explains that the representation may exhibit some memory, such as when an object suddenly disappears or when presenting a dot followed by a line (line-motion illusion). Finally, we applied this model that was tuned over a set of natural scenes to gratings of increasing sizes. We observed first that the feed-forward response as tuned to neurophysiological data gave lower responses at higher eccentricities, and that this effect was greater for higher grating frequencies. Then, we observed that depending on the size of the disk and on its spatial frequency, the recurrent network of lateral interactions Lastly, we explore how a surrounding velocity non congruous with the central excitation information shunts the ocular response and how it is topographically represented in the cortical activity."><meta property="og:image" content="https://laurentperrinet.github.io/img/hulk.png">
+  <meta property="twitter:image" content="https://laurentperrinet.github.io/img/hulk.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2009-01-01T00:00:00&#43;01:00">
-  
-  <meta property="article:modified_time" content="2019-03-11T09:33:48&#43;01:00">
+    
+      <meta property="article:published_time" content="2009-01-01T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-03-11T09:33:48&#43;01:00">
   
 
   
@@ -150,8 +152,7 @@
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -169,7 +170,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -186,7 +187,7 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -519,6 +520,7 @@
 
   
   
+  
 
   
   
@@ -626,8 +628,6 @@
 
 
 
-  
-
 
 
 <div class="btn-links mb-3">
@@ -646,11 +646,6 @@
 
 
 
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/perrinet-09-cosyne/perrinet-09-cosyne.bib">
-  Cite
-</button>
 
 
 
@@ -855,6 +850,9 @@
 
 
 
+    
+
+
   </div>
 </div>
 
@@ -893,10 +891,6 @@
     
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
-    
-
-    
-    
     
 
     
@@ -951,6 +945,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -963,7 +960,7 @@
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
 
     
 

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.1">
+  <meta name="generator" content="Source Themes Academic 4.4.0">
 
   
 
@@ -78,13 +78,13 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.a9a796b4dba28c78fc94d2550173437e.css">
+  <link rel="stylesheet" href="/css/academic.min.dd629241ea9333c62c071f4a25f829ff.css">
 
   
 
@@ -99,7 +99,7 @@
       ga('require', 'urlChangeTracker');
       ga('send', 'pageview');
     </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
     
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
     
@@ -108,8 +108,8 @@
 
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://laurentperrinet.github.io/publication/fischer-05/">
@@ -121,6 +121,7 @@
     
     
   
+  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@laurentperrinet">
@@ -129,12 +130,13 @@
   <meta property="og:site_name" content="Novel visual computations">
   <meta property="og:url" content="https://laurentperrinet.github.io/publication/fischer-05/">
   <meta property="og:title" content="Efficient representation of natural images using local cooperation | Novel visual computations">
-  <meta property="og:description" content="Low-level perceptual computations may be understood in terms of efficient codes (Simoncelli and Olshausen, 2001, Annual Review of Neuroscience 24 1193-216). Following this argument, we explore models of representation for natural static images as a way to understand the processing of information in the primary visual cortex. This representation is here based on a generative linear model of the synthesis of images using an over-complete multi-resolution dictionary of edges. This transform is implemented using log-Gabor filters and permits an exact reconstruction of any image. However, this linear representation is redundant and since to any image may correspond different representations, we explore more efficient representations of the image. The problem is stated as an ill-posed inverse problem and we compare first different known strategies by computing the efficiency of the solutions given by Matching Pursuit (Perrinet, 2004, IEEE Trans. Neural Networks 15 1164-75) and sparse edge coding (Fischer, in press, Trans. Image Processing) with classical representation methods such as JPEG. This comparison allows us to provide a synthesized approach using a probabilistic representation which would progressively construct the neural representation by using lateral cooperations. We propose an algorithm which dynamically diffuses information to correlated filters so as to yield a progressively disambiguated representation. This approach takes advantage of the computational properties of spiking neurons such as Integrate-and-Fire neurons and provides an efficient yet simple model for the representation of natural images. This representation is directly linked with the edge content of natural images and we show applications of this method to edge extraction, denoising and compression. We also show that this dynamical approach fits with neuro-physiological observations and may explain the non-linear interactions between neighboring neurons which may be observed in the cortex."><meta property="og:image" content="https://laurentperrinet.github.io/img/icon-192.png">
-  <meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Low-level perceptual computations may be understood in terms of efficient codes (Simoncelli and Olshausen, 2001, Annual Review of Neuroscience 24 1193-216). Following this argument, we explore models of representation for natural static images as a way to understand the processing of information in the primary visual cortex. This representation is here based on a generative linear model of the synthesis of images using an over-complete multi-resolution dictionary of edges. This transform is implemented using log-Gabor filters and permits an exact reconstruction of any image. However, this linear representation is redundant and since to any image may correspond different representations, we explore more efficient representations of the image. The problem is stated as an ill-posed inverse problem and we compare first different known strategies by computing the efficiency of the solutions given by Matching Pursuit (Perrinet, 2004, IEEE Trans. Neural Networks 15 1164-75) and sparse edge coding (Fischer, in press, Trans. Image Processing) with classical representation methods such as JPEG. This comparison allows us to provide a synthesized approach using a probabilistic representation which would progressively construct the neural representation by using lateral cooperations. We propose an algorithm which dynamically diffuses information to correlated filters so as to yield a progressively disambiguated representation. This approach takes advantage of the computational properties of spiking neurons such as Integrate-and-Fire neurons and provides an efficient yet simple model for the representation of natural images. This representation is directly linked with the edge content of natural images and we show applications of this method to edge extraction, denoising and compression. We also show that this dynamical approach fits with neuro-physiological observations and may explain the non-linear interactions between neighboring neurons which may be observed in the cortex."><meta property="og:image" content="https://laurentperrinet.github.io/img/hulk.png">
+  <meta property="twitter:image" content="https://laurentperrinet.github.io/img/hulk.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2005-01-01T00:00:00&#43;01:00">
-  
-  <meta property="article:modified_time" content="2019-03-04T16:36:05&#43;01:00">
+    
+      <meta property="article:published_time" content="2005-01-01T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-03-04T16:36:05&#43;01:00">
   
 
   
@@ -150,8 +152,7 @@
 
 </head>
 
-
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -169,7 +170,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -186,7 +187,7 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -519,6 +520,7 @@
 
   
   
+  
 
   
   
@@ -626,47 +628,7 @@
 
 
 
-  
 
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/fischer-05/fischer-05.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
 
 
   
@@ -770,6 +732,9 @@
 
 
 
+    
+
+
   </div>
 </div>
 
@@ -808,10 +773,6 @@
     
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
-    
-
-    
-    
     
 
     
@@ -866,6 +827,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -878,7 +842,7 @@
     
     
     
-    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
+    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
 
     
 
