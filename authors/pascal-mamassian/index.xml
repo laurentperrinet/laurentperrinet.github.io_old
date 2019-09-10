@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pascal Mamassian on Novel visual computations</title>
+    <title>Pascal Mamassian | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/pascal-mamassian/</link>
-    <description>Recent content in Pascal Mamassian on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/authors/pascal-mamassian/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/authors/pascal-mamassian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pascal Mamassian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Pascal Mamassian</title>
+      <link>https://laurentperrinet.github.io/authors/pascal-mamassian/</link>
+    </image>
     
     <item>
       <title>Speed uncertainty and motion perception with naturalistic random textures</title>
       <link>https://laurentperrinet.github.io/publication/mansour-18-vss/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-18-vss/</guid>
       <description></description>
     </item>
@@ -28,7 +25,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-coding/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12-coding/</guid>
       <description></description>
     </item>
@@ -37,15 +33,19 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>More is not always better: dissociation between perception and action explained by adaptive gain control</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;grating.gif&#34; &gt;
 
+&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -54,6 +54,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -61,7 +62,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
       <description></description>
     </item>
@@ -70,7 +70,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</link>
       <pubDate>Fri, 23 Sep 2011 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</guid>
       <description></description>
     </item>
@@ -79,7 +78,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference</title>
       <link>https://laurentperrinet.github.io/publication/bogadhi-11/</link>
       <pubDate>Fri, 22 Apr 2011 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/bogadhi-11/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -91,7 +89,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>A recurrent Bayesian model of dynamic motion integration for smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</guid>
       <description></description>
     </item>
@@ -100,7 +97,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-10-vss/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-10-vss/</guid>
       <description></description>
     </item>
@@ -108,8 +104,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
-      <pubDate>Sun, 14 Jan 2007 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description></description>
     </item>
@@ -118,7 +113,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Dynamic inference for motion tracking</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07-a/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-07-a/</guid>
       <description></description>
     </item>
@@ -127,7 +121,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Visual tracking of ambiguous moving objects: A recursive Bayesian model</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07-b/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-07-b/</guid>
       <description></description>
     </item>
@@ -136,7 +129,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;

@@ -3,22 +3,20 @@
   <channel>
     <title>Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/manuel-samuelides/</link>
-    <description>Recent content on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    
-	    <atom:link href="https://laurentperrinet.github.io/authors/manuel-samuelides/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/authors/manuel-samuelides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Novel visual computations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sat, 10 Mar 2007 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Novel visual computations</title>
+      <link>https://laurentperrinet.github.io/authors/manuel-samuelides/</link>
+    </image>
     
     <item>
-      <title>Introduction</title>
+      <title>Introduction to Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07-a/</link>
-      <pubDate>Wed, 14 Mar 2007 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 10 Mar 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07-a/</guid>
       <description></description>
     </item>
@@ -26,8 +24,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07/</link>
-      <pubDate>Wed, 14 Mar 2007 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 10 Mar 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07/</guid>
       <description></description>
     </item>
@@ -35,16 +32,20 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Tue, 14 Sep 2004 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 10 Sep 2004 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;v1_tiger.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;v1_tiger.gif&#34; &gt;
 
+&lt;img src=&#34;v1_tiger.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -53,14 +54,14 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
-      <pubDate>Sun, 14 Mar 2004 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 10 Mar 2004 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>
@@ -69,7 +70,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Emergence of filters from natural scenes in a sparse spike coding scheme</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-03/</guid>
       <description></description>
     </item>
@@ -78,7 +78,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Coherence detection in a spiking neuron via hebbian learning</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</guid>
       <description></description>
     </item>
@@ -87,15 +86,19 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Sparse Image Coding Using an Asynchronous Spiking Neural Network</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-esann/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-esann/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;lena256pyr.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;lena256pyr.gif&#34; &gt;
 
+&lt;img src=&#34;lena256pyr.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -104,6 +107,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -111,7 +115,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Visual Strategies for Sparse Spike Coding</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</guid>
       <description></description>
     </item>
@@ -120,7 +123,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Network of integrate-and-fire neurons using Rank Order Coding A: how to implement spike timing dependant plasticity</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-01/</guid>
       <description></description>
     </item>
@@ -129,7 +131,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Network of integrate-and-fire neurons using Rank Order Coding B: spike timing dependant plasticity and emergence of orientation selectivity</title>
       <link>https://laurentperrinet.github.io/publication/delorme-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/delorme-01/</guid>
       <description></description>
     </item>
@@ -138,17 +139,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>A generative model for Spike Time Dependent Hebbian Plasticity</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-00/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://laurentperrinet.github.io/authors/manuel-samuelides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/authors/manuel-samuelides/</guid>
       <description></description>
     </item>
     

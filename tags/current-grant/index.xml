@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>current-grant on Novel visual computations</title>
+    <title>current-grant | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/current-grant/</link>
-    <description>Recent content in current-grant on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Mon, 15 Apr 2019 10:00:00 +0200</lastBuildDate>
+      <atom:link href="https://laurentperrinet.github.io/tags/current-grant/index.xml" rel="self" type="application/rss+xml" />
+    <description>current-grant</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 10 Sep 2019 10:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>current-grant</title>
+      <link>https://laurentperrinet.github.io/tags/current-grant/</link>
+    </image>
     
-	    <atom:link href="https://laurentperrinet.github.io/tags/current-grant/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>APROVIS3D: Analog PROcessing of bioinspired Vision Sensors for 3D reconstruction (2019/2023)</title>
+      <link>https://laurentperrinet.github.io/project/aprovis-3-d/</link>
+      <pubDate>Tue, 10 Sep 2019 10:00:00 +0200</pubDate>
+      <guid>https://laurentperrinet.github.io/project/aprovis-3-d/</guid>
+      <description>
+
+&lt;h1 id=&#34;analog-processing-of-bioinspired-vision-sensors-for-3d-reconstruction&#34;&gt;Analog PROcessing of bioinspired Vision Sensors for 3D reconstruction&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Le projet APROVIS3D est lauréat de l&amp;rsquo;&lt;a href=&#34;http://www.chistera.eu/projects/aprovis3d&#34; target=&#34;_blank&#34;&gt;appel à projets 2018 &lt;em&gt;CHIST-ERA&lt;/em&gt;&lt;/a&gt; :&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;APROVIS3D project targets analog computing for artificial intelligence in the form of Spiking Neural Networks (SNNs) on a mixed analog and digital architecture. The project includes including field programmable analog array (FPAA) and SpiNNaker applied to a stereopsis system dedicated to coastal surveillance using an aerial robot. Computer vision systems widely rely on artificial intelligence and especially neural network based machine learning, which recently gained huge visibility. The training stage for deep convolutional neural networks is both time and energy consuming. In contrast, the human brain has the ability to perform visual tasks with unrivalled computational and energy efficiency. It is believed that one major factor of this efficiency is the fact that information is vastly represented by short pulses (spikes) at analog – not discrete – times. However, computer vision algorithms using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power, end-to-end analog sensing and processing architecture of 3D visual scenes, running on analog devices, without a central clock and aims to validate them in real-life situations. More specifically, the project will develop new paradigms for biologically inspired vision, from sensing to processing, in order to help machines such as Unmanned Autonomous Vehicles (UAV), autonomous vehicles, or robots gain high-level understanding from visual scenes. The ambitious long-term vision of the project is to develop the next generation AI paradigm that will eventually compete with deep learning. We believe that neuromorphic computing, mainly studied in EU countries, will be a key technology in the next decade. It is therefore both a scientific and strategic challenge for the EU to foster this technological breakthrough. The consortium from four EU countries offers a unique combination of expertise that the project requires. SNNs specialists from various fields, such as visual sensors (IMSE, Spain), neural network architecture and computer vision (Uni. of Lille, France) and computational neuroscience (INT, France) will team up with robotics and automatic control specialists (NTUA, Greece), and low power integrated systems designers (ETHZ, Switzerland) to help geoinformatics researchers (UNIWA, Greece) build a demonstrator UAV for coastal surveillance (TRL5). Adding up to the shared interest regarding analog based computing and computer vision, all team members have a lot to offer given their different and complementary points of view and expertise. Key challenges of this project will be end-to-end analog system design (from sensing to AI-based control of the UAV and 3D coastal volumetric reconstruction), energy efficiency, and practical usability in real conditions. We aim to show that such a bioinspired analog design will bring large benefits in terms of power efficiency, adaptability and efficiency needed to make coastal surveillance with UAVs practical and more efficient than digital approaches.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SpikeAI: laureat du Défi Biomimétisme (2019)</title>
       <link>https://laurentperrinet.github.io/project/spikeai/</link>
       <pubDate>Mon, 15 Apr 2019 10:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/spikeai/</guid>
       <description>
 
@@ -41,7 +55,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>ANR CausaL (2018/2022)</title>
       <link>https://laurentperrinet.github.io/project/anr-causal/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/anr-causal/</guid>
       <description>&lt;p&gt;Humans have an extraordinary capacity to infer cause-effect relations. In particular, we excel in forming ​beliefs ​about the ​causal effect of actions​. Causal learning provides the basis for rational decision-making and allows people to engage in meaningful life and social interactions. Causal learning is a form of goal-directed learning, defined as the capacity to rapidly learn the consequence of actions and to select behaviours according to goals and motivational state. This ability is based on internal models of the consequence of our behaviors​ and relies on learning rules determined by the​ contingency between actions and outcomes​. At a first approximation, contingency Δ​P ​is operationalized as the difference between two conditional probabilities: i) P(O|A), the probability of outcome O given action A; ii) P(O|¬A), the probability of the outcome when the action is withheld. In everyday life, people perceive their actions as causing a given outcome if the contingency is positive, whereas they perceive them as preventing​ ​it​ ​if​ ​negative;​ ​when​ ​P(O|A)​ ​and​ ​P(O|¬A)​ ​are​ ​equal,​ ​people​ ​report​ ​no​ ​causal​ ​effect​​ ​. Despite the centrality of causal learning, a clear understanding of both the internal computations and neural substrates (the so-called ​cognitive architectures​) is currently missing. ​Our project will therefore address​ ​two​ ​key​ ​questions:&lt;/p&gt;
 
@@ -62,7 +75,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>ANR Horizontal-V1 (2017/2021)</title>
       <link>https://laurentperrinet.github.io/project/anr-horizontal-v1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/anr-horizontal-v1/</guid>
       <description>
 
@@ -105,7 +117,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>ANR PredictEye (2018/2022)</title>
       <link>https://laurentperrinet.github.io/project/anr-predicteye/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/anr-predicteye/</guid>
       <description>&lt;p&gt;The objectives of PREDICTEYE is to rigorously test and define the functional and neurophysiological grounds of probabilistic oculomotor internal models by investigating the multiple timescales at which the trajectory of a moving target is learned and represented in a probabilistic framework (Aim #1). Second, we will investigate the role of (pre)frontal oculomotor networks in building such probabilistic representations and their impact upon two of their downstream neural targets of the brainstem premotor centers (superior colliculus for saccades; NRTP for pursuit) (Aim #2). Our third objective is to model and simulate the dynamics of target motion prediction and eye movement performance. A key question is to unveil how probabilistic information about target timing and motion (i.e. direction and speed) is sampled over trial history by neuronal populations and integrated with Prior knowledge (i.e. sequence properties and rules of conditional probabilities) in order to coordinate saccades and pursuit and optimize their precisions (Aim #3).&lt;/p&gt;
 
@@ -120,7 +131,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>DOC2AMU (2016/2019)</title>
       <link>https://laurentperrinet.github.io/project/doc-2-amu/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/doc-2-amu/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://doc2amu.univ-amu.fr/en&#34; target=&#34;_blank&#34;&gt;DOC2AMU&lt;/a&gt; is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.&lt;/p&gt;
 
@@ -136,7 +146,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>PhD ICN (2017 / 2021)</title>
       <link>https://laurentperrinet.github.io/project/phd-icn/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/phd-icn/</guid>
       <description>
 

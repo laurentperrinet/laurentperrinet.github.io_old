@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>motion prediction on Novel visual computations</title>
+    <title>motion prediction | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/motion-prediction/</link>
-    <description>Recent content in motion prediction on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Thu, 26 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/tags/motion-prediction/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/tags/motion-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>motion prediction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 26 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>motion prediction</title>
+      <link>https://laurentperrinet.github.io/tags/motion-prediction/</link>
+    </image>
     
     <item>
       <title>The flash-lag effect as a motion-based predictive shift</title>
       <link>https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/</link>
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/</guid>
       <description>
 
@@ -31,10 +28,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;p&gt;
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;flash_lag.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;flash_lag.gif&#34; &gt;
 
+&lt;img src=&#34;flash_lag.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -43,6 +45,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 &lt;strong&gt;Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.&lt;/strong&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New Research: The Flash-Lag Effect as a Motion-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; Khoei et al. &lt;a href=&#34;https://twitter.com/hashtag/vision?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#vision&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#motion&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/RElm4Qqo58&#34;&gt;pic.twitter.com/RElm4Qqo58&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829354100273745920?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -51,10 +54,15 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; &gt;
 
+&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -63,15 +71,21 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
 The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&amp;rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; &gt;
 
+&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -80,6 +94,7 @@ The researchers show that this hypothesis also makes it possible to explain the 
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &amp;ldquo;hidden&amp;rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &amp;ldquo;simulation&amp;rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &amp;ldquo;science fiction&amp;rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New from Khoei et al. The Flash-Lag Effect as a &lt;a href=&#34;https://twitter.com/hashtag/Motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Motion&lt;/a&gt;-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/iWsd9nK5qp&#34;&gt;pic.twitter.com/iWsd9nK5qp&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829474896023474176?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -92,7 +107,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Motion-based prediction model for flash lag effect</title>
       <link>https://laurentperrinet.github.io/publication/khoei-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-14-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt; and &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
@@ -105,7 +119,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</title>
       <link>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -113,10 +126,15 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; &gt;
 
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -124,7 +142,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/li&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -132,8 +151,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     <item>
       <title>Motion-based prediction explains the role of tracking in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-jpp/</link>
-      <pubDate>Thu, 14 Nov 2013 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -141,10 +159,15 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure1.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; &gt;
 
+&lt;img src=&#34;figure1.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -152,7 +175,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/li&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -161,7 +185,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Anisotropic connectivity implements motion-based prediction in a spiking neural network</title>
       <link>https://laurentperrinet.github.io/publication/kaplan-13/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kaplan-13/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -174,7 +197,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Motion-based prediction and development of the response to an &#39;on the way&#39; stimulus</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-cns/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -187,7 +209,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Motion-based prediction is sufficient to solve the aperture problem</title>
       <link>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</link>
       <pubDate>Thu, 12 Jan 2012 17:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -199,7 +220,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Motion-based prediction is sufficient to solve the aperture problem</title>
       <link>https://laurentperrinet.github.io/publication/masson-12-areadne/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/masson-12-areadne/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -211,15 +231,19 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Motion-based prediction is sufficient to solve the aperture problem</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-12-pred/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-12-pred/</guid>
       <description>&lt;p&gt;
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;line_particles.gif&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;line_particles.gif&#34; &gt;
 
+&lt;img src=&#34;line_particles.gif&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -231,10 +255,16 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure1.jpg&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; &gt;
 
+&lt;img src=&#34;figure1.jpg&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -246,10 +276,16 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure2.jpg&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure2.jpg&#34; &gt;
 
+&lt;img src=&#34;figure2.jpg&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -261,10 +297,16 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure3.jpg&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure3.jpg&#34; &gt;
 
+&lt;img src=&#34;figure3.jpg&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -276,10 +318,16 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure4.jpg&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure4.jpg&#34; &gt;
 
+&lt;img src=&#34;figure4.jpg&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -287,7 +335,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -295,7 +344,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Role of motion-based prediction in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-12-sfn/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-12-sfn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -308,7 +356,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Propriétés émergentes d&#39;un modèle de prédiction probabiliste utilisant un champ neural</title>
       <link>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</link>
       <pubDate>Sat, 02 Jul 2011 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</guid>
       <description>&lt;p&gt;La finalité de cette manifestation est de permettre à nos chercheurs de se réunir en groupes de travail et en ateliers afin de découvrir la thématique des neurosciences et son interdisciplinarité. La manifestation se tient dans le cadre des activités du laboratoire LAMS, de ABC MATHINFO, du GDRI NeurO et du réseau méditerranéen &lt;a href=&#34;http://www.neuromedproject.eu/&#34; target=&#34;_blank&#34;&gt;NeuroMed&lt;/a&gt;.
 * related publication @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-10-tauc/&#34; target=&#34;_blank&#34;&gt;SPIE 2008&lt;/a&gt;
@@ -320,7 +367,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Role of motion inertia in dynamic motion integration for smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -333,7 +379,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
       <link>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</link>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</guid>
       <description>&lt;p&gt;An event ranging &amp;ldquo;From Mathematical Image Analysis to Neurogeometry of the Brain&amp;rdquo; &lt;a href=&#34;http://www.conftauc.cnrs-gif.fr/programme.php&#34; target=&#34;_blank&#34;&gt;LADISLAV TAUC &amp;amp; GDR MSPC NEUROSCIENCES CONFERENCE&lt;/a&gt;.
 * related publication from Mina Khoei @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-10-tauc/&#34; target=&#34;_blank&#34;&gt;TAUC 2012&lt;/a&gt;
@@ -345,7 +390,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Models of low-level vision: linking probabilistic models and neural masses</title>
       <link>https://laurentperrinet.github.io/talk/2010-01-08-facets/</link>
       <pubDate>Fri, 08 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2010-01-08-facets/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this more recent talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34; target=&#34;_blank&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
@@ -357,7 +401,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Dynamical emergence of a neural solution for motion integration</title>
       <link>https://laurentperrinet.github.io/publication/khoei-10-tauc/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-10-tauc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -370,7 +413,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Dynamical emergence of a neural solution for motion integration</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</guid>
       <description></description>
     </item>

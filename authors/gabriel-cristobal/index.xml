@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gabriel Cristóbal on Novel visual computations</title>
+    <title>Gabriel Cristóbal | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/gabriel-cristobal/</link>
-    <description>Recent content in Gabriel Cristóbal on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Sat, 14 Nov 2015 00:00:00 +0100</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/authors/gabriel-cristobal/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/authors/gabriel-cristobal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriel Cristóbal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 10 Nov 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Gabriel Cristóbal</title>
+      <link>https://laurentperrinet.github.io/authors/gabriel-cristobal/</link>
+    </image>
     
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Sat, 14 Nov 2015 00:00:00 +0100</pubDate>
-      
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;mindmap.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; &gt;
 
+&lt;img src=&#34;mindmap.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -36,6 +38,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -43,17 +46,21 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Biologically Inspired Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</link>
       <pubDate>Wed, 07 Oct 2015 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</guid>
       <description>
 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;header.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;header.jpg&#34; &gt;
 
+&lt;img src=&#34;header.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -63,18 +70,25 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
 &lt;/figure&gt;
 
+
 &lt;h1 id=&#34;biologically-inspired-computer-vision&#34;&gt;Biologically Inspired Computer Vision&lt;/h1&gt;
 
 &lt;p&gt;As state-of-the-art imaging technologies becomes more and more advanced, yielding scientific data at unprecedented detail and volume, the need to process and interpret all the data has made image processing and computer vision also increasingly important. Sources of data that have to be routinely dealt with today applications include video transmission, wireless communication, automatic fingerprint processing, massive databanks, non-weary and accurate automatic airport screening, robust night vision to name a few. Multidisciplinary inputs from other disciplines such as computational neuroscience, cognitive science, mathematics, physics and biology will have a fundamental impact in the progress of imaging and vision sciences. One of the advantages of the study of biological organisms is to devise very diﬀerent type of computational paradigms beyond the usual von Neumann e.g. by implementing a neural network with a high degree of local connectivity.
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;header.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;header.jpg&#34; &gt;
 
+&lt;img src=&#34;header.jpg&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 This is a comprehensive and rigorous reference in the area of biologically motivated vision sensors. The study of biologically visual systems can be considered as a two way avenue. On the one hand, biological organisms can provide a source of inspiration for new computational efficient and robust vision models and on the other hand machine vision approaches can provide new insights for understanding biological visual systems. Along the different chapters, this book covers a wide range of topics from fundamental to more specialized topics, including visual analysis based on a computational level, hardware implementation, and the design of new more advanced vision sensors. The last two sections of the book provide an overview of a few representative applications and current state of the art of the research in this area. This makes it a valuable book for graduate, Master, PhD students and also researchers in the field.
 This book contains 17 chapters that have been organized in four different parts:
  * Fundamentals
@@ -85,12 +99,18 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;mindmap.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; &gt;
 
+&lt;img src=&#34;mindmap.png&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -98,7 +118,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Advances in Texture Analysis for Emphysema Classification</title>
       <link>https://laurentperrinet.github.io/publication/nava-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/nava-13/</guid>
       <description></description>
     </item>
@@ -107,7 +126,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Self-Invertible 2D Log-Gabor Wavelets</title>
       <link>https://laurentperrinet.github.io/publication/fischer-07-cv/</link>
       <pubDate>Sat, 13 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-07-cv/</guid>
       <description></description>
     </item>
@@ -116,7 +134,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
       <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
       <description></description>
     </item>
@@ -124,8 +141,7 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
     <item>
       <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
       <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
-      <pubDate>Sun, 14 Aug 2005 00:00:00 +0200</pubDate>
-      
+      <pubDate>Wed, 10 Aug 2005 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
       <description></description>
     </item>
@@ -134,7 +150,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Sparse Gabor wavelets by local operations</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05-a/</link>
       <pubDate>Wed, 29 Jun 2005 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-05-a/</guid>
       <description></description>
     </item>
@@ -143,7 +158,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Efficient representation of natural images using local cooperation</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
       <description></description>
     </item>

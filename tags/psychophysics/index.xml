@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>psychophysics on Novel visual computations</title>
+    <title>psychophysics | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/psychophysics/</link>
-    <description>Recent content in psychophysics on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0100</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/tags/psychophysics/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/tags/psychophysics/index.xml" rel="self" type="application/rss+xml" />
+    <description>psychophysics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>psychophysics</title>
+      <link>https://laurentperrinet.github.io/tags/psychophysics/</link>
+    </image>
     
     <item>
       <title>Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</title>
       <link>https://laurentperrinet.github.io/publication/vacher-16/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/vacher-16/</guid>
       <description></description>
     </item>
@@ -28,7 +25,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Motion Clouds</title>
       <link>https://laurentperrinet.github.io/project/motion-clouds/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/motion-clouds/</guid>
       <description>&lt;p&gt;Motion Clouds are random, textured dynamical stimuli synthesized such as to challenge spatio-temporal integration properties of the early visual system. Unlike classical low-entropy stimuli such as gratings, these stimuli are less susceptible to create interference patterns when mixed together. This is essential to study integrative and discriminative properties of the low-level sensory systems. Moreover, this pseudo-random stimulation protocol allows to make a trial-by-trial analysis locked to the stimulation onset. This allows to study experimentally trial-by-trial variability and relative importance between measurement noise and contextual uncertainty.&lt;/p&gt;
 
@@ -45,7 +41,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-14-vss/</guid>
       <description></description>
     </item>
@@ -54,7 +49,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-13-vss/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-13-vss/</guid>
       <description></description>
     </item>
@@ -63,7 +57,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Effect of image statistics on fixational eye movements</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
       <description></description>
     </item>
@@ -72,7 +65,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-coding/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12-coding/</guid>
       <description></description>
     </item>
@@ -81,15 +73,19 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>More is not always better: dissociation between perception and action explained by adaptive gain control</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;grating.gif&#34; &gt;
 
+&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -98,6 +94,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -105,7 +102,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
       <description></description>
     </item>
@@ -114,7 +110,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</link>
       <pubDate>Fri, 23 Sep 2011 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</guid>
       <description></description>
     </item>
@@ -123,7 +118,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-10-vss/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-10-vss/</guid>
       <description></description>
     </item>

@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>matching pursuit on Novel visual computations</title>
+    <title>matching pursuit | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/matching-pursuit/</link>
-    <description>Recent content in matching pursuit on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Sat, 17 Jul 2010 00:00:00 +0200</lastBuildDate>
+      <atom:link href="https://laurentperrinet.github.io/tags/matching-pursuit/index.xml" rel="self" type="application/rss+xml" />
+    <description>matching pursuit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>matching pursuit</title>
+      <link>https://laurentperrinet.github.io/tags/matching-pursuit/</link>
+    </image>
     
-	    <atom:link href="https://laurentperrinet.github.io/tags/matching-pursuit/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>An adaptive homeostatic algorithm for the unsupervised learning of visual features</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Role of homeostasis in learning sparse representations</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-10-shl/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-shl/</guid>
       <description></description>
     </item>
@@ -28,7 +33,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-spie/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-spie/</guid>
       <description></description>
     </item>
@@ -36,8 +40,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Wed, 14 Mar 2007 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 10 Mar 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>
@@ -47,7 +50,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -59,7 +61,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Efficient representation of natural images using local cooperation</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
       <description></description>
     </item>
@@ -67,16 +68,20 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Tue, 14 Sep 2004 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 10 Sep 2004 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;v1_tiger.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;v1_tiger.gif&#34; &gt;
 
+&lt;img src=&#34;v1_tiger.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -85,14 +90,14 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
       <title>Feature detection using spikes : the greedy approach</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
-      <pubDate>Wed, 14 Jul 2004 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 10 Jul 2004 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
       <description></description>
     </item>
@@ -100,8 +105,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
-      <pubDate>Sun, 14 Mar 2004 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 10 Mar 2004 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>

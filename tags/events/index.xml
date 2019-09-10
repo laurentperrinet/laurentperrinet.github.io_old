@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>events on Novel visual computations</title>
+    <title>events | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/events/</link>
-    <description>Recent content in events on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0200</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/tags/events/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>events</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 20 May 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>events</title>
+      <link>https://laurentperrinet.github.io/tags/events/</link>
+    </image>
     
     <item>
       <title>2019-05-20: Symposium on Active Inference at NeuroFrance 2019</title>
       <link>https://laurentperrinet.github.io/post/2019-05-23-neurofrance/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/post/2019-05-23-neurofrance/</guid>
       <description>
 
@@ -97,7 +94,6 @@ The generative model enables us to robustly detect behavioral modifications as s
       <title>2018-11-09 : Retinal computations</title>
       <link>https://laurentperrinet.github.io/post/2018-11-09_seminaire-escobar/</link>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/post/2018-11-09_seminaire-escobar/</guid>
       <description>
 
@@ -117,7 +113,6 @@ The generative model enables us to robustly detect behavioral modifications as s
       <title>2018-04-05 : *Probabilities and Optimal Inference to understand the Brain* Workshop</title>
       <link>https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/</guid>
       <description>
 
@@ -149,10 +144,160 @@ Laurent Perrinet&lt;/p&gt;&lt;/dd&gt;
     </item>
     
     <item>
+      <title>2018-03-26 : PhD Program: course in Computational Neuroscience</title>
+      <link>https://laurentperrinet.github.io/post/2018-03-26-cours-neuro-comp-fep/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      <guid>https://laurentperrinet.github.io/post/2018-03-26-cours-neuro-comp-fep/</guid>
+      <description>
+
+&lt;h1 id=&#34;phd-program-course-in-computational-neuroscience&#34;&gt;PhD Program: course in Computational Neuroscience&lt;/h1&gt;
+
+&lt;p&gt;Context&lt;/p&gt;
+
+&lt;p&gt;Computational neuroscience is an expending field that is proving to be essential in neurosciences. The aim of this course will be to provide a common solid background in computational neurosciences. The course will comprise historical recall of the field and a description of the different modelling approaches that are currently developed, including details about their specificities, limits and advantages.&lt;/p&gt;
+
+&lt;p&gt;Objective&lt;/p&gt;
+
+&lt;p&gt;The course aims at introducing students with the major tools that will be necessary during their thesis to model or analyze their neuroscientific results. While it will start by a short, generic introduction, we will then explore different systems at different scales. On the first day, we will study the different possible regimes in which a single neuron can behave, while progressively introducing the theory of dynamical systems to understand these more globally. Then, during the second day, we will introduce methods to analyze neuroscientific data in general, such as Bayesian methods and information theory. This will be implemented by simple practical examples.&lt;/p&gt;
+
+&lt;p&gt;Language of intervention&lt;/p&gt;
+
+&lt;p&gt;English&lt;/p&gt;
+
+&lt;p&gt;Number of hours&lt;/p&gt;
+
+&lt;p&gt;~20 hours (session 1=7 + session 2=7 + session 3=4)&lt;/p&gt;
+
+&lt;p&gt;Max participants&lt;/p&gt;
+
+&lt;p&gt;15 for the practical sessions (afternoon Day 2 and Day 3), unlimited for theoretical courses&lt;/p&gt;
+
+&lt;p&gt;Public priority&lt;/p&gt;
+
+&lt;p&gt;PhD students&lt;/p&gt;
+
+&lt;p&gt;Public concerned&lt;/p&gt;
+
+&lt;p&gt;PhD students, interested M2 students and postdocs&lt;/p&gt;
+
+&lt;p&gt;Location&lt;/p&gt;
+
+&lt;p&gt;Institut des Neurosciences de la Timone (INT)&lt;/p&gt;
+
+&lt;p&gt;Keywords&lt;/p&gt;
+
+&lt;p&gt;neuronal modelling, neural circuit modelling, information theory, decoding and encoding&lt;/p&gt;
+
+&lt;p&gt;Targets&lt;/p&gt;
+
+&lt;p&gt;Understanding how computational modelling can be used to formulate and solve neuroscience problems at different spatial and temporal scales; learning the formal notions of information, encoding and decoding and experimenting their use on toy datasets&lt;/p&gt;
+
+&lt;p&gt;Program&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;First session:&lt;/em&gt; Introduction to modeling single neurons (morning); An introduction to neural masses: modeling assemblies of neurons up to capturing collective oscillations and resting state dynamics in a mean-field model - presentation of the Virtual Brain software (afternoon) - &lt;em&gt;Second session:&lt;/em&gt; An overview on &amp;ldquo;What is encoding?&amp;rdquo; &amp;ldquo;What is decoding?&amp;rdquo;: formalization of the notion of information in neural activity; shared and transferred information; integration, segregation and complexity (morning). Bayesian probabilities, the Free-energy principle and Active Inference, with practical demonstrations in python (afternoon). &lt;em&gt;Third session:&lt;/em&gt; the problem of information estimation in practice. Practical exercices in Matlab: estimating entropy and stimulus decodability from spike trains; comparing coding hypotheses (morning).&lt;/p&gt;
+
+&lt;p&gt;Pre-required&lt;/p&gt;
+
+&lt;p&gt;Basic knowledge of statistics and probability and calculus (differential equations,&amp;hellip;) is useful, but steps will be explained and complex math avoided as much as possible. Practical exercises are in python and/or MATLAB, so basic knowledge of these environments is a plus.&lt;/p&gt;
+
+&lt;h2 id=&#34;program&#34;&gt;program&lt;/h2&gt;
+
+&lt;h3 id=&#34;day-1-2018-03-26-an-introduction-to-computational-neuroscience&#34;&gt;day 1 : 2018-03-26 : an introduction to Computational Neuroscience&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;09:30-12:30 = &lt;a href=&#34;http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&amp;amp;do=view&amp;amp;target=2017-03-06_LaurentPezard.pdf&#34; title=&#34;Introduction to modeling single neurons&#34; target=&#34;_blank&#34;&gt;Introduction to modeling single neurons&lt;/a&gt; (LaP)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;14:00-17:00 = &lt;a href=&#34;http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&amp;amp;do=view&amp;amp;target=2017-Lecture_INT_MeanField_to_TVB.pdf&#34; title=&#34;An introduction to neural masses: modeling assemblies of neurons up to capturing resting state dynamics in a mean-field model - presentation of the Virtual Brain software&#34; target=&#34;_blank&#34;&gt;An introduction to neural masses: modeling assemblies of neurons up to capturing resting state dynamics in a mean-field model - presentation of the Virtual Brain software&lt;/a&gt; (DaB)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-2-2018-03-27-information-theory-bayesian-models&#34;&gt;day 2 : 2018-03-27 : Information theory / bayesian models&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;09:15-10:30 = &lt;a href=&#34;http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&amp;amp;do=view&amp;amp;target=2017-Lecture_INT_InfoTheory.pdf&#34; title=&#34;An overview on &amp;quot;What is encoding?&amp;quot; &amp;quot;What is decoding?&amp;quot;: formalization of the notion of information in neural activity&#34; target=&#34;_blank&#34;&gt;An overview on &amp;ldquo;What is encoding?&amp;rdquo; &amp;ldquo;What is decoding?&amp;rdquo;: formalization of the notion of information in neural activity&lt;/a&gt; (DaB)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;11:00-12:15 = (&amp;hellip;continued after the coffee break: ) Live information! From sharing information to transferring information (and a glimpse into the zoo of higher-order friends) (DaB)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;14:00-17:10 = &lt;a href=&#34;http://invibe.net/LaurentPerrinet/Presentations/2018-03-26_cours-NeuroComp_FEP&#34; target=&#34;_blank&#34;&gt;Probabilities, the Free-energy principle and Active Inference&lt;/a&gt; (LuP).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-3-2018-03-28-practical-course-on-information-theory&#34;&gt;day 3 : 2018-03-28 : Practical course on Information theory&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;09:30-12:30 = Practical course on Information theory (DaB)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-material-related-to-the-course&#34;&gt;More material related to the course&lt;/h2&gt;
+
+&lt;h3 id=&#34;day-1-morning-the-single-neuron&#34;&gt;day 1 - morning : the single neuron&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;site du livre de Gerstner et al &amp;ldquo;Neuronal Dynamics&amp;rdquo;: &lt;a href=&#34;http://neuronaldynamics.epfl.ch/&#34; target=&#34;_blank&#34;&gt;http://neuronaldynamics.epfl.ch/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A (longer) introduction to the Hodgkin-Huxley model in three steps by Dr Stefano Luccioli&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://neuro.fi.isc.cnr.it/uploads/TALKS/lez1.pdf&#34; target=&#34;_blank&#34;&gt;http://neuro.fi.isc.cnr.it/uploads/TALKS/lez1.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://neuro.fi.isc.cnr.it/uploads/TALKS/lez2.pdf&#34; target=&#34;_blank&#34;&gt;http://neuro.fi.isc.cnr.it/uploads/TALKS/lez2.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://neuro.fi.isc.cnr.it/uploads/TALKS/lez3.pdf&#34; target=&#34;_blank&#34;&gt;http://neuro.fi.isc.cnr.it/uploads/TALKS/lez3.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An interactive course with Wulfram Gerstner &lt;a href=&#34;https://www.edx.org/course/neuronal-dynamics-computational-epflx-bio465-1x&#34; target=&#34;_blank&#34;&gt;https://www.edx.org/course/neuronal-dynamics-computational-epflx-bio465-1x&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;His book ONLINE &lt;a href=&#34;http://cn.epfl.ch/~gerstner/NeuronalDynamics-MOOC1.html&#34; target=&#34;_blank&#34;&gt;http://cn.epfl.ch/~gerstner/NeuronalDynamics-MOOC1.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-1-afternoon-neural-mass-models&#34;&gt;day 1 - afternoon : neural mass models&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Another interactive course @ Washington University &lt;a href=&#34;https://www.coursera.org/course/compneuro&#34; target=&#34;_blank&#34;&gt;https://www.coursera.org/course/compneuro&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Collection of didactic material for the EU FP7 ITN Neural Engineering Transformative Technology &lt;a href=&#34;http://www.neural-engineering.eu/training/index.html&#34; target=&#34;_blank&#34;&gt;http://www.neural-engineering.eu/training/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Didactic material from Lab in Computational Neuroscience &lt;a href=&#34;http://neuro.fi.isc.cnr.it/index.php?page=didactic-material&#34; target=&#34;_blank&#34;&gt;http://neuro.fi.isc.cnr.it/index.php?page=didactic-material&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A open source simulator of a whole brain which runs on your laptop, &amp;ldquo;The Virtual Brain&amp;rdquo;: &lt;a href=&#34;http://thevirtualbrain.org&#34; target=&#34;_blank&#34;&gt;http://thevirtualbrain.org&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-2-morning-information-theory&#34;&gt;day 2 - morning : information theory&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The best book on information theory and decoding, freely available directly from the author: &lt;a href=&#34;http://www.inference.phy.cam.ac.uk/itprnn/book.html&#34; target=&#34;_blank&#34;&gt;http://www.inference.phy.cam.ac.uk/itprnn/book.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a gentle introduction to bayesian methods : &lt;a href=&#34;https://homepages.inf.ed.ac.uk/pseries/Peg_files/Chapter9_SotiropoulosSeries.pdf&#34; target=&#34;_blank&#34;&gt;https://homepages.inf.ed.ac.uk/pseries/Peg_files/Chapter9_SotiropoulosSeries.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;day-2-afternoon-bayesian-models&#34;&gt;day 2 - afternoon : bayesian models&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;an interesting read : &lt;a href=&#34;http://cognitrn.psych.indiana.edu/busey/q551/PDFs/PredictivCodingRaoBallard.pdf&#34; target=&#34;_blank&#34;&gt;http://cognitrn.psych.indiana.edu/busey/q551/PDFs/PredictivCodingRaoBallard.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;a tutorial on free-energy : some exercises : &lt;a href=&#34;http://www.sciencedirect.com/science/article/pii/S0022249615000759&#34; target=&#34;_blank&#34;&gt;http://www.sciencedirect.com/science/article/pii/S0022249615000759&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;solutions to the tutorial : &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2017-01-15-bogacz-2017-a-tutorial-on-free-energy.html&#34; target=&#34;_blank&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2017-01-15-bogacz-2017-a-tutorial-on-free-energy.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contacts&#34;&gt;contacts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;LaP: Laurent Pezard &amp;lt;&lt;a href=&#34;mailto:Laurent.Pezard@univ-amu.fr&#34; target=&#34;_blank&#34;&gt;Laurent.Pezard@univ-amu.fr&lt;/a&gt;&amp;gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;DaB: Demian Battaglia &amp;lt;&lt;a href=&#34;mailto:demian.battaglia@univ-amu.fr&#34; target=&#34;_blank&#34;&gt;demian.battaglia@univ-amu.fr&lt;/a&gt;&amp;gt;, INS&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;LuP: Laurent Udo Perrinet &amp;lt;&lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34; target=&#34;_blank&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&amp;gt;, INT&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;PhD program: Nicole Malfait &amp;lt;&lt;a href=&#34;mailto:Nicole.Malfait@univ-amu.fr&#34; target=&#34;_blank&#34;&gt;Nicole.Malfait@univ-amu.fr&lt;/a&gt;&amp;gt;, Anna Montagnini &amp;lt;&lt;a href=&#34;mailto:anna.montagnini@univ-amu.fr&#34; target=&#34;_blank&#34;&gt;anna.montagnini@univ-amu.fr&lt;/a&gt;&amp;gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.int.univ-amu.fr/IMG/200x130xsiteon0.png,q1331299836.pagespeed.ic.IKYGzK4Zu8.png&#34; alt=&#34;Sponsored by&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2016-10-26 : EUVIP BICV</title>
       <link>https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/</link>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/</guid>
       <description>
 
@@ -217,7 +362,6 @@ France&lt;/a&gt; Phone : +33
       <title>2010-06-22 : CodeJamNr4</title>
       <link>https://laurentperrinet.github.io/post/2010-06-22_codejam-nr4/</link>
       <pubDate>Tue, 22 Jun 2010 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/post/2010-06-22_codejam-nr4/</guid>
       <description>
 
@@ -253,7 +397,6 @@ France&lt;/a&gt; Phone : +33
       <title>2010-05-27 : Neurocomp08</title>
       <link>https://laurentperrinet.github.io/post/2008-10-08_neurocomp/</link>
       <pubDate>Thu, 27 May 2010 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/post/2008-10-08_neurocomp/</guid>
       <description>
 
@@ -273,7 +416,6 @@ France&lt;/a&gt; Phone : +33
       <title>Computational Neuroscience: From Representations to Behavior</title>
       <link>https://laurentperrinet.github.io/post/2010-05-27_neurocomp-marseille-workshop/</link>
       <pubDate>Wed, 08 Oct 2008 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/post/2010-05-27_neurocomp-marseille-workshop/</guid>
       <description>
 

@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Novel visual computations</title>
+    <title>1 | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Mon, 15 Jul 2019 12:20:00 +0200</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 15 Jul 2019 12:20:00 +0200</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>1</title>
+      <link>https://laurentperrinet.github.io/publication_types/1/</link>
+    </image>
     
     <item>
       <title>Learning where to look: a foveated visuomotor control model</title>
       <link>https://laurentperrinet.github.io/talk/2019-07-15-cns/</link>
       <pubDate>Mon, 15 Jul 2019 12:20:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2019-07-15-cns/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;download a &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf&#34; target=&#34;_blank&#34;&gt;preliminary PDF&lt;/a&gt;
@@ -29,10 +26,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; &gt;
 
+&lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -44,10 +46,16 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; &gt;
 
+&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -59,10 +67,16 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; &gt;
 
+&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -74,10 +88,16 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; &gt;
 
+&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -85,7 +105,8 @@ Please note that multiple distribution, publication or commercial usage of copyr
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/li&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -94,7 +115,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Should I stay or should I go? Adaption of human observers to the volatility of visual inputs</title>
       <link>https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/</link>
       <pubDate>Fri, 05 Apr 2019 15:45:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;previous talk @ &lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34; target=&#34;_blank&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
@@ -109,7 +129,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>From the retina to action: Understanding visual processing</title>
       <link>https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/</link>
       <pubDate>Wed, 03 Apr 2019 16:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/</guid>
       <description></description>
     </item>
@@ -118,7 +137,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Rencontre avec les collégiens marseillais</title>
       <link>https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/</link>
       <pubDate>Thu, 10 Jan 2019 09:30:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/</guid>
       <description>
 
@@ -154,7 +172,6 @@ chercheur.
       <title>A hierarchical, multi-layer convolutional sparse coding algorithm based on predictive coding</title>
       <link>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-neurofrance/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-neurofrance/</guid>
       <description></description>
     </item>
@@ -163,7 +180,6 @@ chercheur.
       <title>Modelling Complex Cells of Early Visual Cortex using Predictive Coding</title>
       <link>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-cns/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-cns/</guid>
       <description></description>
     </item>
@@ -172,7 +188,6 @@ chercheur.
       <title>Orientation selectivity to synthetic natural patterns in a cortical-like model of the cat primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/ladret-19-sfn/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ladret-19-sfn/</guid>
       <description></description>
     </item>
@@ -181,7 +196,6 @@ chercheur.
       <title>Sparse Deep Predictive Coding To Model Visual Object Recognition</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/</guid>
       <description></description>
     </item>
@@ -190,7 +204,6 @@ chercheur.
       <title>Top-down connection in Hierarchical Sparse Coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-gdr-robotics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-gdr-robotics/</guid>
       <description></description>
     </item>
@@ -199,7 +212,6 @@ chercheur.
       <title>La modélisation biomorphique de la perception visuelle</title>
       <link>https://laurentperrinet.github.io/talk/2018-10-11-bio-morphisme/</link>
       <pubDate>Thu, 11 Oct 2018 18:30:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2018-10-11-bio-morphisme/</guid>
       <description>
 
@@ -289,7 +301,6 @@ art cinétique ; science ; vision ; perception ; modèle interne&lt;/li&
       <title>Intervention fête de la science 2018</title>
       <link>https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/</link>
       <pubDate>Wed, 10 Oct 2018 18:30:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/</guid>
       <description>
 
@@ -335,7 +346,6 @@ Une occasion aussi de parler du métier de chercheur.
       <title>A low-cost, accessible eye tracking framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-18-gdr/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-18-gdr/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;poster presented @ [[&lt;a href=&#34;https://gdrvision2018.sciencesconf.org/|GDR&#34; target=&#34;_blank&#34;&gt;https://gdrvision2018.sciencesconf.org/|GDR&lt;/a&gt; vision, Paris]].&lt;/li&gt;
@@ -351,25 +361,32 @@ Une occasion aussi de parler du métier de chercheur.
       <title>ANEMO: Quantitative tools for the ANalysis of Eye MOvements</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-18-anemo/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-18-anemo/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;as presented at &lt;a href=&#34;https://eyemovements.sciencesconf.org/&#34; target=&#34;_blank&#34;&gt;https://eyemovements.sciencesconf.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;get the [[&lt;a href=&#34;https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenobe/Pasturel_etal2018_grenoble.pdf|poster]&#34; target=&#34;_blank&#34;&gt;https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenobe/Pasturel_etal2018_grenoble.pdf|poster]&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;code : &lt;a href=&#34;https://github.com/invibe/ANEMO/&#34; target=&#34;_blank&#34;&gt;https://github.com/invibe/ANEMO/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-18-grenoble/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-18-grenoble/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;as presented at &lt;a href=&#34;https://eyemovements.sciencesconf.org/&#34; target=&#34;_blank&#34;&gt;https://eyemovements.sciencesconf.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;get the [[&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf|poster]&#34; target=&#34;_blank&#34;&gt;https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf|poster]&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;code : &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/&#34; target=&#34;_blank&#34;&gt;https://github.com/chloepasturel/AnticipatorySPEM/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-18/</guid>
       <description></description>
     </item>
@@ -378,7 +395,6 @@ Une occasion aussi de parler du métier de chercheur.
       <title>From biological vision to unsupervised hierarchical sparse coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;accepted submission @ &lt;a href=&#34;https://sites.google.com/view/itwist18&#34; target=&#34;_blank&#34;&gt;iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques&lt;/a&gt;, 21 - 23 November​, 2018&lt;/li&gt;
@@ -395,7 +411,6 @@ Une occasion aussi de parler du métier de chercheur.
       <title>M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation</title>
       <link>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</guid>
       <description></description>
     </item>
@@ -404,7 +419,6 @@ Une occasion aussi de parler du métier de chercheur.
       <title>On the Origins of Hierarchy in Visual Processing</title>
       <link>https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/</guid>
       <description></description>
     </item>
@@ -413,7 +427,6 @@ Une occasion aussi de parler du métier de chercheur.
       <title>Selectivity to oriented patterns of different precisions</title>
       <link>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;poster présenté au &lt;a href=&#34;https://gdrvision2018.sciencesconf.org&#34; target=&#34;_blank&#34;&gt;GDR vision, Paris&lt;/a&gt;.&lt;/li&gt;
@@ -428,7 +441,6 @@ Une occasion aussi de parler du métier de chercheur.
       <title>Speed uncertainty and motion perception with naturalistic random textures</title>
       <link>https://laurentperrinet.github.io/publication/mansour-18-vss/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-18-vss/</guid>
       <description></description>
     </item>
@@ -437,16 +449,14 @@ Une occasion aussi de parler du métier de chercheur.
       <title>Unsupervised Hierarchical Sparse Coding algorithm inspired by Biological Vision</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-doctoral-day/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-doctoral-day/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Participation au jury du FESTIVAL INTERFÉRENCES​</title>
+      <title>Participation au jury</title>
       <link>https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/</link>
       <pubDate>Fri, 17 Nov 2017 18:30:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/</guid>
       <description>
 
@@ -470,20 +480,18 @@ aussi de parler du métier de chercheur.
     </item>
     
     <item>
-      <title>Dynamic modulation of volatility by reward contingencies: effects on anticipatory smooth eye movement</title>
-      <link>https://laurentperrinet.github.io/publication/damasse-17-vss/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/damasse-17-vss/</guid>
+      <title>Controlling an aerial robot with human gestures using bio-inspired algorithm</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-17-doctoral-day/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-17-doctoral-day/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Controlling an aerial robot with human gestures using bio-inspired algorithm</title>
-      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-17-doctoral-day/</link>
+      <title>Dynamic modulation of volatility by reward contingencies: effects on anticipatory smooth eye movement</title>
+      <link>https://laurentperrinet.github.io/publication/damasse-17-vss/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-17-doctoral-day/</guid>
+      <guid>https://laurentperrinet.github.io/publication/damasse-17-vss/</guid>
       <description></description>
     </item>
     
@@ -491,7 +499,6 @@ aussi de parler du métier de chercheur.
       <title>Efficient learning of sparse image representations using homeostatic regulation</title>
       <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
@@ -505,7 +512,6 @@ aussi de parler du métier de chercheur.
       <title>Efficient learning of sparse image representations using homeostatic regulation</title>
       <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
@@ -519,7 +525,6 @@ aussi de parler du métier de chercheur.
       <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-17-gdr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-17-gdr/</guid>
       <description></description>
     </item>
@@ -528,7 +533,6 @@ aussi de parler du métier de chercheur.
       <title>Expériences autour de la perception de la forme en art et science</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-17-gdr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-17-gdr/</guid>
       <description>
 
@@ -552,7 +556,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>How the dynamics of human smooth pursuit is influenced by speed uncertainty</title>
       <link>https://laurentperrinet.github.io/publication/mansour-17-ecvp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-17-ecvp/</guid>
       <description></description>
     </item>
@@ -561,7 +564,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-17-gdr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-17-gdr/</guid>
       <description></description>
     </item>
@@ -570,7 +572,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Participation au jury et entretien avec Clara Delmon</title>
       <link>https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/</link>
       <pubDate>Sun, 20 Nov 2016 09:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/</guid>
       <description>
 
@@ -743,8 +744,7 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Fri, 14 Oct 2016 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
@@ -752,8 +752,7 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
     <item>
       <title>Operant reinforcement versus reward expectancy: effects on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-vss/</link>
-      <pubDate>Wed, 14 Sep 2016 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/damasse-16-vss/</guid>
       <description></description>
     </item>
@@ -762,7 +761,6 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
       <title>Les illusions visuelles, un révélateur du fonctionnement de notre cerveau</title>
       <link>https://laurentperrinet.github.io/talk/2016-04-28-mejanes/</link>
       <pubDate>Thu, 28 Apr 2016 18:30:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2016-04-28-mejanes/</guid>
       <description>
 
@@ -784,7 +782,6 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
       <title>Les illusions visuelles, un révélateur du fonctionnement de notre cerveau</title>
       <link>https://laurentperrinet.github.io/talk/2016-04-25-polly-maggoo/</link>
       <pubDate>Mon, 25 Apr 2016 09:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2016-04-25-polly-maggoo/</guid>
       <description>
 
@@ -813,7 +810,6 @@ scientifique en direction des publics scolaires.
       <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/taouali-15-vss/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/taouali-15-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This is a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -822,10 +818,17 @@ scientifique en direction des publics scolaires.
     </item>
     
     <item>
+      <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-16-areadne/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-16-areadne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Compensation of oculomotor delays in the visual system&#39;s network</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-networks/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-networks/</guid>
       <description></description>
     </item>
@@ -834,7 +837,6 @@ scientifique en direction des publics scolaires.
       <title>Effects of motion predictability on anticipatory and visually-guided eye movements: a common prior for sensory processing and motor control?</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</guid>
       <description></description>
     </item>
@@ -843,7 +845,6 @@ scientifique en direction des publics scolaires.
       <title>Modeling the effect of dynamic contingencies on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-ecvp/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-16-ecvp/</guid>
       <description></description>
     </item>
@@ -852,7 +853,6 @@ scientifique en direction des publics scolaires.
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-ecvp/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-16-ecvp/</guid>
       <description></description>
     </item>
@@ -861,7 +861,6 @@ scientifique en direction des publics scolaires.
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-gdr/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-16-gdr/</guid>
       <description></description>
     </item>
@@ -870,7 +869,6 @@ scientifique en direction des publics scolaires.
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-sfn/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-16-sfn/</guid>
       <description></description>
     </item>
@@ -878,8 +876,7 @@ scientifique en direction des publics scolaires.
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Fri, 14 Aug 2015 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -888,7 +885,6 @@ scientifique en direction des publics scolaires.
       <title>A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception</title>
       <link>https://laurentperrinet.github.io/publication/vacher-15-icms/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/vacher-15-icms/</guid>
       <description></description>
     </item>
@@ -897,7 +893,6 @@ scientifique en direction des publics scolaires.
       <title>Anticipating a moving target: role of vision and reinforcement</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-sfn/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-sfn/</guid>
       <description></description>
     </item>
@@ -906,7 +901,6 @@ scientifique en direction des publics scolaires.
       <title>Anticipatory smooth eye movements and reinforcement</title>
       <link>https://laurentperrinet.github.io/publication/damasse-15-vss/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-15-vss/</guid>
       <description></description>
     </item>
@@ -915,7 +909,6 @@ scientifique en direction des publics scolaires.
       <title>Anticipatory smooth eye movements as operant behavior</title>
       <link>https://laurentperrinet.github.io/publication/damasse-15-gdr/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-15-gdr/</guid>
       <description></description>
     </item>
@@ -924,7 +917,6 @@ scientifique en direction des publics scolaires.
       <title>Eye tracking a self-moved target with complex hand-target dynamics</title>
       <link>https://laurentperrinet.github.io/publication/danion-15-sfn/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/danion-15-sfn/</guid>
       <description></description>
     </item>
@@ -933,7 +925,6 @@ scientifique en direction des publics scolaires.
       <title>On overdispersion in neuronal evoked activity</title>
       <link>https://laurentperrinet.github.io/publication/taouali-15-icmns/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/taouali-15-icmns/</guid>
       <description></description>
     </item>
@@ -942,7 +933,6 @@ scientifique en direction des publics scolaires.
       <title>Spatiotemporal tuning of retinal ganglion cells dependent on the context of signal presentation</title>
       <link>https://laurentperrinet.github.io/publication/ravello-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ravello-15/</guid>
       <description></description>
     </item>
@@ -951,7 +941,6 @@ scientifique en direction des publics scolaires.
       <title>Beyond simply faster and slower: exploring paradoxes in speed perception</title>
       <link>https://laurentperrinet.github.io/publication/meso-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/meso-14-vss/</guid>
       <description></description>
     </item>
@@ -960,7 +949,6 @@ scientifique en direction des publics scolaires.
       <title>Edge co-occurrences are sufficient to categorize natural versus animal images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
@@ -972,7 +960,6 @@ scientifique en direction des publics scolaires.
       <title>Motion-based prediction model for flash lag effect</title>
       <link>https://laurentperrinet.github.io/publication/khoei-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-14-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt; and &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
@@ -985,7 +972,6 @@ scientifique en direction des publics scolaires.
       <title>The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-14-vss/</guid>
       <description></description>
     </item>
@@ -994,7 +980,6 @@ scientifique en direction des publics scolaires.
       <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
       <link>https://laurentperrinet.github.io/publication/taouali-14-areadne/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/taouali-14-areadne/</guid>
       <description></description>
     </item>
@@ -1003,7 +988,6 @@ scientifique en direction des publics scolaires.
       <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
       <link>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</guid>
       <description></description>
     </item>
@@ -1012,7 +996,6 @@ scientifique en direction des publics scolaires.
       <title>Dynamic Textures For Probing Motion Perception</title>
       <link>https://laurentperrinet.github.io/publication/vacher-14-ihp/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
       <description></description>
     </item>
@@ -1021,7 +1004,6 @@ scientifique en direction des publics scolaires.
       <title>On the nature of anticipatory eye movements and the factors affecting them</title>
       <link>https://laurentperrinet.github.io/publication/damasse-14-gdr/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-14-gdr/</guid>
       <description></description>
     </item>
@@ -1030,7 +1012,6 @@ scientifique en direction des publics scolaires.
       <title>Relationship between natural image statistics and lateral connectivity in the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</guid>
       <description></description>
     </item>
@@ -1039,7 +1020,6 @@ scientifique en direction des publics scolaires.
       <title>Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</title>
       <link>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1047,10 +1027,15 @@ scientifique en direction des publics scolaires.
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; &gt;
 
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1058,7 +1043,8 @@ scientifique en direction des publics scolaires.
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/li&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1067,7 +1053,6 @@ scientifique en direction des publics scolaires.
       <title>Active inference, eye movements and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-13-cns/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-13-cns/</guid>
       <description></description>
     </item>
@@ -1076,7 +1061,6 @@ scientifique en direction des publics scolaires.
       <title>Active inference, eye movements and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-13-jffos/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-13-jffos/</guid>
       <description></description>
     </item>
@@ -1085,7 +1069,6 @@ scientifique en direction des publics scolaires.
       <title>How and why do image frequency properties influence perceived speed?</title>
       <link>https://laurentperrinet.github.io/publication/meso-13-vss/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/meso-13-vss/</guid>
       <description></description>
     </item>
@@ -1094,7 +1077,6 @@ scientifique en direction des publics scolaires.
       <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-13-vss/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-13-vss/</guid>
       <description></description>
     </item>
@@ -1103,7 +1085,6 @@ scientifique en direction des publics scolaires.
       <title>Motion-based prediction and development of the response to an &#39;on the way&#39; stimulus</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-cns/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1116,7 +1097,6 @@ scientifique en direction des publics scolaires.
       <title>Active inference, smooth pursuit and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-12-areadne/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-12-areadne/</guid>
       <description></description>
     </item>
@@ -1125,7 +1105,6 @@ scientifique en direction des publics scolaires.
       <title>Effect of image statistics on fixational eye movements</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
       <description></description>
     </item>
@@ -1134,7 +1113,6 @@ scientifique en direction des publics scolaires.
       <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-coding/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12-coding/</guid>
       <description></description>
     </item>
@@ -1143,7 +1121,6 @@ scientifique en direction des publics scolaires.
       <title>Motion-based prediction is sufficient to solve the aperture problem</title>
       <link>https://laurentperrinet.github.io/publication/masson-12-areadne/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/masson-12-areadne/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1155,7 +1132,6 @@ scientifique en direction des publics scolaires.
       <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
       <description></description>
     </item>
@@ -1164,7 +1140,6 @@ scientifique en direction des publics scolaires.
       <title>Role of motion-based prediction in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-12-sfn/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-12-sfn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1177,7 +1152,6 @@ scientifique en direction des publics scolaires.
       <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</link>
       <pubDate>Fri, 23 Sep 2011 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</guid>
       <description></description>
     </item>
@@ -1186,7 +1160,6 @@ scientifique en direction des publics scolaires.
       <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
@@ -1198,7 +1171,6 @@ scientifique en direction des publics scolaires.
       <title>Role of motion inertia in dynamic motion integration for smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1211,7 +1183,6 @@ scientifique en direction des publics scolaires.
       <title>Diffraction monochromatique, spectre audiographique</title>
       <link>https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/</link>
       <pubDate>Wed, 14 Apr 2010 19:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/</guid>
       <description>
 
@@ -1341,7 +1312,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>A recurrent Bayesian model of dynamic motion integration for smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</guid>
       <description></description>
     </item>
@@ -1350,7 +1320,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-10-vss/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-10-vss/</guid>
       <description></description>
     </item>
@@ -1359,7 +1328,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamical emergence of a neural solution for motion integration</title>
       <link>https://laurentperrinet.github.io/publication/khoei-10-tauc/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-10-tauc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1372,7 +1340,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamical emergence of a neural solution for motion integration</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</guid>
       <description></description>
     </item>
@@ -1381,7 +1348,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1390,10 +1356,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Peut-on parler d’intelligence mécanique?</title>
+      <title>Peut-on parler d&#39;intelligence mécanique?</title>
       <link>https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/</link>
       <pubDate>Tue, 24 Nov 2009 18:30:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/</guid>
       <description>&lt;p&gt;Nous parlerons de cette partie &amp;ldquo;mécanique&amp;rdquo; du cerveau animal ou humain qui permet de percevoir les mouvements et de &amp;hellip; survivre au sein de l&amp;rsquo;environnement. On verra, par exemple, que notre cerveau peut-être &lt;a href=&#34;http://interstices.info/classificateur&#34; target=&#34;_blank&#34;&gt;plus rapide que nous&lt;/a&gt;, qu&amp;rsquo;il y a des solutions &amp;ldquo;stupides&amp;rdquo; qui marchent remarquablement bien pour &lt;a href=&#34;http://interstices.info/generation-trajectoires&#34; target=&#34;_blank&#34;&gt;sortir d&amp;rsquo;un labyrinthe&lt;/a&gt;, et qui si la grenouille sait &lt;a href=&#34;http://interstices.info/grenouille&#34; target=&#34;_blank&#34;&gt;gober une mouche bien mieux qu&amp;rsquo;un robot&lt;/a&gt; &amp;hellip; elle n&amp;rsquo;est pas plus maligne ! Parce que ce qu&amp;rsquo;il ne faut pas confondre ici c&amp;rsquo;est &lt;a href=&#34;https://interstices.info/calculer-penser/&#34; target=&#34;_blank&#34;&gt;la différence entre calculer et penser&lt;/a&gt;, entre &lt;a href=&#34;http://interstices.info/algo-mode-emploi&#34; target=&#34;_blank&#34;&gt;intelligence et algorithmes&lt;/a&gt;. En comprenant cela, avec &lt;a href=&#34;http://fr.wikipedia.org/wiki/Alan_Turing&#34; target=&#34;_blank&#34;&gt;Alan Mathison Turing&lt;/a&gt;, le Gutenberg du XXème siècle, l&amp;rsquo;humanité a basculé des temps modernes à l&amp;rsquo;ère du numérique.
  * (!) visitez le &lt;a href=&#34;https://interstices.info/&#34; target=&#34;_blank&#34;&gt;site d&amp;rsquo;interstices&lt;/a&gt;!&lt;/p&gt;
@@ -1404,7 +1369,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Decoding center-surround interactions in population of neurons for the ocular following response</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</guid>
       <description></description>
     </item>
@@ -1413,7 +1377,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamical state spaces of cortical networks representing various horizontal connectivities</title>
       <link>https://laurentperrinet.github.io/publication/voges-09-cosyne/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-09-cosyne/</guid>
       <description></description>
     </item>
@@ -1422,7 +1385,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamics of cortical networks including long-range patchy connections</title>
       <link>https://laurentperrinet.github.io/publication/voges-09-gns/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-09-gns/</guid>
       <description></description>
     </item>
@@ -1431,7 +1393,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Functional consequences of correlated excitation and inhibition on single neuron integration and signal propagation through synfire chains</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-09-gns/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kremkow-09-gns/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -1443,7 +1404,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Inferring monkey ocular following responses from V1 population dynamics using a probabilistic model of motion integration</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-09-vss/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-09-vss/</guid>
       <description></description>
     </item>
@@ -1452,7 +1412,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>NeuralEnsemble: Towards a meta-environment for network modeling and data analysis</title>
       <link>https://laurentperrinet.github.io/publication/yger-09-gns/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/yger-09-gns/</guid>
       <description></description>
     </item>
@@ -1460,8 +1419,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
     <item>
       <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
       <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
-      <pubDate>Tue, 14 Oct 2008 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 10 Oct 2008 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
       <description></description>
     </item>
@@ -1469,8 +1427,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
     <item>
       <title>Functional properties of feed-forward inhibition</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
-      <pubDate>Tue, 14 Oct 2008 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 10 Oct 2008 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -1482,7 +1439,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-spie/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-spie/</guid>
       <description></description>
     </item>
@@ -1491,7 +1447,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input: a V1 network modelling study</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -1503,7 +1458,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Decoding the population dynamics underlying ocular following response using a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</guid>
       <description></description>
     </item>
@@ -1512,7 +1466,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamics of cortical networks based on patchy connectivity patterns</title>
       <link>https://laurentperrinet.github.io/publication/voges-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-08/</guid>
       <description></description>
     </item>
@@ -1521,7 +1474,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Modeling spatial integration in the ocular following response to center-surround stimulation using a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-a/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-a/</guid>
       <description></description>
     </item>
@@ -1530,7 +1482,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>What adaptive code for efficient spiking representations? A model for the formation of receptive fields of simple cells</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08/</guid>
       <description></description>
     </item>
@@ -1539,7 +1490,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamic inference for motion tracking</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07-a/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-07-a/</guid>
       <description></description>
     </item>
@@ -1548,7 +1498,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Neural Codes for Adaptive Sparse Representations of Natural Images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07-mipm/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-07-mipm/</guid>
       <description></description>
     </item>
@@ -1557,7 +1506,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>On efficient sparse spike coding schemes for learning natural scenes in the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07-cns/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-07-cns/</guid>
       <description></description>
     </item>
@@ -1566,7 +1514,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>PyNN: towards a universal neural simulator API in Python</title>
       <link>https://laurentperrinet.github.io/publication/davison-07-cns/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/davison-07-cns/</guid>
       <description></description>
     </item>
@@ -1575,7 +1522,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>An efficiency razor for model selection and adaptation in the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-cns/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-cns/</guid>
       <description></description>
     </item>
@@ -1584,7 +1530,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1596,7 +1541,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Contrast sensitivity adaptation in a virtual spiking retina and its adequation with mammalians retinas</title>
       <link>https://laurentperrinet.github.io/publication/wohrer-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/wohrer-06/</guid>
       <description></description>
     </item>
@@ -1605,7 +1549,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</guid>
       <description></description>
     </item>
@@ -1614,7 +1557,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-fab/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-fab/</guid>
       <description></description>
     </item>
@@ -1623,7 +1565,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-fens/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-fens/</guid>
       <description></description>
     </item>
@@ -1632,7 +1573,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1643,8 +1583,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
     <item>
       <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
       <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
-      <pubDate>Sun, 14 Aug 2005 00:00:00 +0200</pubDate>
-      
+      <pubDate>Wed, 10 Aug 2005 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
       <description></description>
     </item>
@@ -1653,7 +1592,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Sparse Gabor wavelets by local operations</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05-a/</link>
       <pubDate>Wed, 29 Jun 2005 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-05-a/</guid>
       <description></description>
     </item>
@@ -1662,7 +1600,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Dynamics of motion representation in short-latency ocular following: A two-pathways Bayesian model</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-05-a/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-05-a/</guid>
       <description></description>
     </item>
@@ -1671,7 +1608,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Efficient representation of natural images using local cooperation</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
       <description></description>
     </item>
@@ -1680,15 +1616,19 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Sparse Image Coding Using an Asynchronous Spiking Neural Network</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-esann/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-esann/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;lena256pyr.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;lena256pyr.gif&#34; &gt;
 
+&lt;img src=&#34;lena256pyr.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1697,6 +1637,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -1704,7 +1645,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>Visual Strategies for Sparse Spike Coding</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</guid>
       <description></description>
     </item>
@@ -1713,7 +1653,6 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/p&gt;
       <title>A generative model for Spike Time Dependent Hebbian Plasticity</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-00/</guid>
       <description></description>
     </item>

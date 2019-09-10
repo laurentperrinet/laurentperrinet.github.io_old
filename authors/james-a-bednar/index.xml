@@ -3,22 +3,20 @@
   <channel>
     <title>Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/james-a-bednar/</link>
-    <description>Recent content on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    
-	    <atom:link href="https://laurentperrinet.github.io/authors/james-a-bednar/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/authors/james-a-bednar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Novel visual computations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 10 Aug 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Novel visual computations</title>
+      <link>https://laurentperrinet.github.io/authors/james-a-bednar/</link>
+    </image>
     
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Fri, 14 Aug 2015 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -27,7 +25,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Edge co-occurrences can account for rapid categorization of natural versus animal images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</guid>
       <description>
 
@@ -49,10 +46,15 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_model.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_model.jpg&#34; &gt;
 
+&lt;img src=&#34;figure_model.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -61,16 +63,22 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;動物か否かの見分け方。&lt;a href=&#34;http://t.co/TTY8MwZGoO&#34;&gt;http://t.co/TTY8MwZGoO&lt;/a&gt;　引用されてるけど、Thorpe (1996)の150msで区別されてるって話(なつかしい)と関係ありそう。&lt;/p&gt;&amp;mdash; Makito Oku (@okumakito) &lt;a href=&#34;https://twitter.com/okumakito/status/613128456637841408?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_chevrons.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_chevrons.png&#34; &gt;
 
+&lt;img src=&#34;figure_chevrons.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -79,16 +87,22 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;a href=&#34;http://t.co/NY9HapBx2S&#34;&gt;http://t.co/NY9HapBx2S&lt;/a&gt; &lt;a href=&#34;http://t.co/rKQ8I5i6Ty&#34;&gt;pic.twitter.com/rKQ8I5i6Ty&lt;/a&gt;&lt;/p&gt;&amp;mdash; Francis Villatoro (@emulenews) &lt;a href=&#34;https://twitter.com/emulenews/status/612988348400070656?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_chevrons2.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_chevrons2.png&#34; &gt;
 
+&lt;img src=&#34;figure_chevrons2.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -100,10 +114,16 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_results.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_results.png&#34; &gt;
 
+&lt;img src=&#34;figure_results.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -115,10 +135,16 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_FA_humans.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_FA_humans.png&#34; &gt;
 
+&lt;img src=&#34;figure_FA_humans.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -126,7 +152,8 @@ More complex parts of the brain are not required at this stage, contrary to what
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/figure&gt;
+&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -135,7 +162,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Edge co-occurrences are sufficient to categorize natural versus animal images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
@@ -147,7 +173,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Relationship between natural image statistics and lateral connectivity in the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</guid>
       <description></description>
     </item>
@@ -156,21 +181,11 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://laurentperrinet.github.io/authors/james-a-bednar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/authors/james-a-bednar/</guid>
-      <description></description>
     </item>
     
   </channel>

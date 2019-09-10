@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Novel visual computations</title>
+    <title>Publications | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/publication/</link>
-    <description>Recent content in Publications on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    
-	    <atom:link href="https://laurentperrinet.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Publications</title>
+      <link>https://laurentperrinet.github.io/publication/</link>
+    </image>
     
     <item>
       <title>Suppressive waves disambiguate the representation of long-range apparent motion in awake monkey V1</title>
       <link>https://laurentperrinet.github.io/publication/chemla-19/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/chemla-19/</guid>
       <description></description>
     </item>
@@ -27,7 +25,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Meaningful representations emerge from Sparse Deep Predictive Coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34; target=&#34;_blank&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
@@ -37,10 +34,9 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     <item>
       <title>Top-down feedback in Hierarchical Sparse Coding</title>
-      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-neurips/</link>
+      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-feedback/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-neurips/</guid>
+      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-feedback/</guid>
       <description></description>
     </item>
     
@@ -48,7 +44,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli</title>
       <link>https://laurentperrinet.github.io/publication/ravello-19/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ravello-19/</guid>
       <description>
 
@@ -80,10 +75,15 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;featured.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
 
+&lt;img src=&#34;featured.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -92,6 +92,7 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 
 
 
@@ -119,7 +120,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>A dual foveal-peripheral visual processing model implements efficient saccade selection</title>
       <link>https://laurentperrinet.github.io/publication/dauce-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/dauce-19/</guid>
       <description></description>
     </item>
@@ -128,8 +128,15 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>A hierarchical, multi-layer convolutional sparse coding algorithm based on predictive coding</title>
       <link>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-neurofrance/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-neurofrance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive homeostatic algorithm for the unsupervised learning of visual features</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</guid>
       <description></description>
     </item>
     
@@ -137,8 +144,15 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Humans adapt their eye movements to the volatility of visual motion properties, and know about it</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illusions et hallucinations visuelles : une porte sur la perception</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-19-illusions/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-19-illusions/</guid>
       <description></description>
     </item>
     
@@ -146,7 +160,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Modelling Complex Cells of Early Visual Cortex using Predictive Coding</title>
       <link>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-cns/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-cns/</guid>
       <description></description>
     </item>
@@ -155,7 +168,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Orientation selectivity to synthetic natural patterns in a cortical-like model of the cat primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/ladret-19-sfn/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ladret-19-sfn/</guid>
       <description></description>
     </item>
@@ -164,8 +176,15 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Sparse Deep Predictive Coding To Model Visual Object Recognition</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-sfn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Philosophy and Science of Predictive Processing</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-19/</guid>
       <description></description>
     </item>
     
@@ -173,7 +192,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Top-down connection in Hierarchical Sparse Coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-gdr-robotics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-19-gdr-robotics/</guid>
       <description></description>
     </item>
@@ -182,7 +200,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</title>
       <link>https://laurentperrinet.github.io/publication/vacher-16/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/vacher-16/</guid>
       <description></description>
     </item>
@@ -191,7 +208,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Reinforcement effects in anticipatory smooth eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-18/</guid>
       <description></description>
     </item>
@@ -200,7 +216,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>A low-cost, accessible eye tracking framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-18-gdr/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-18-gdr/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;poster presented @ [[&lt;a href=&#34;https://gdrvision2018.sciencesconf.org/|GDR&#34; target=&#34;_blank&#34;&gt;https://gdrvision2018.sciencesconf.org/|GDR&lt;/a&gt; vision, Paris]].&lt;/li&gt;
@@ -216,25 +231,32 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>ANEMO: Quantitative tools for the ANalysis of Eye MOvements</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-18-anemo/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-18-anemo/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;as presented at &lt;a href=&#34;https://eyemovements.sciencesconf.org/&#34; target=&#34;_blank&#34;&gt;https://eyemovements.sciencesconf.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;get the [[&lt;a href=&#34;https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenobe/Pasturel_etal2018_grenoble.pdf|poster]&#34; target=&#34;_blank&#34;&gt;https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenobe/Pasturel_etal2018_grenoble.pdf|poster]&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;code : &lt;a href=&#34;https://github.com/invibe/ANEMO/&#34; target=&#34;_blank&#34;&gt;https://github.com/invibe/ANEMO/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-18-grenoble/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-18-grenoble/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;as presented at &lt;a href=&#34;https://eyemovements.sciencesconf.org/&#34; target=&#34;_blank&#34;&gt;https://eyemovements.sciencesconf.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;get the [[&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf|poster]&#34; target=&#34;_blank&#34;&gt;https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf|poster]&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;code : &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/&#34; target=&#34;_blank&#34;&gt;https://github.com/chloepasturel/AnticipatorySPEM/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-18/</guid>
       <description></description>
     </item>
@@ -243,7 +265,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>From biological vision to unsupervised hierarchical sparse coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-itwist/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;accepted submission @ &lt;a href=&#34;https://sites.google.com/view/itwist18&#34; target=&#34;_blank&#34;&gt;iTWIST: international Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques&lt;/a&gt;, 21 - 23 November​, 2018&lt;/li&gt;
@@ -260,7 +281,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation</title>
       <link>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</guid>
       <description></description>
     </item>
@@ -269,7 +289,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>On the Origins of Hierarchy in Visual Processing</title>
       <link>https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/</guid>
       <description></description>
     </item>
@@ -278,7 +297,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Selectivity to oriented patterns of different precisions</title>
       <link>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ladret-perrinet-18-gdr/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;poster présenté au &lt;a href=&#34;https://gdrvision2018.sciencesconf.org&#34; target=&#34;_blank&#34;&gt;GDR vision, Paris&lt;/a&gt;.&lt;/li&gt;
@@ -293,7 +311,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Speed uncertainty and motion perception with naturalistic random textures</title>
       <link>https://laurentperrinet.github.io/publication/mansour-18-vss/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-18-vss/</guid>
       <description></description>
     </item>
@@ -302,17 +319,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Unsupervised Hierarchical Sparse Coding algorithm inspired by Biological Vision</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-doctoral-day/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-18-doctoral-day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic modulation of volatility by reward contingencies: effects on anticipatory smooth eye movement</title>
-      <link>https://laurentperrinet.github.io/publication/damasse-17-vss/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/damasse-17-vss/</guid>
       <description></description>
     </item>
     
@@ -320,7 +327,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>The flash-lag effect as a motion-based predictive shift</title>
       <link>https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/</link>
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/</guid>
       <description>
 
@@ -332,10 +338,15 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;p&gt;
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;flash_lag.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;flash_lag.gif&#34; &gt;
 
+&lt;img src=&#34;flash_lag.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -344,6 +355,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 &lt;strong&gt;Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.&lt;/strong&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New Research: The Flash-Lag Effect as a Motion-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; Khoei et al. &lt;a href=&#34;https://twitter.com/hashtag/vision?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#vision&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#motion&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/RElm4Qqo58&#34;&gt;pic.twitter.com/RElm4Qqo58&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829354100273745920?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -352,10 +364,15 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; &gt;
 
+&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -364,15 +381,21 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
 The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&amp;rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; &gt;
 
+&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -381,6 +404,7 @@ The researchers show that this hypothesis also makes it possible to explain the 
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &amp;ldquo;hidden&amp;rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &amp;ldquo;simulation&amp;rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &amp;ldquo;science fiction&amp;rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New from Khoei et al. The Flash-Lag Effect as a &lt;a href=&#34;https://twitter.com/hashtag/Motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Motion&lt;/a&gt;-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/iWsd9nK5qp&#34;&gt;pic.twitter.com/iWsd9nK5qp&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829474896023474176?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -393,8 +417,15 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Controlling an aerial robot with human gestures using bio-inspired algorithm</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-17-doctoral-day/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-17-doctoral-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic modulation of volatility by reward contingencies: effects on anticipatory smooth eye movement</title>
+      <link>https://laurentperrinet.github.io/publication/damasse-17-vss/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/damasse-17-vss/</guid>
       <description></description>
     </item>
     
@@ -402,7 +433,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Efficient learning of sparse image representations using homeostatic regulation</title>
       <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
@@ -416,7 +446,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Efficient learning of sparse image representations using homeostatic regulation</title>
       <link>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
@@ -430,7 +459,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
       <link>https://laurentperrinet.github.io/publication/pasturel-17-gdr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/pasturel-17-gdr/</guid>
       <description></description>
     </item>
@@ -439,7 +467,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <title>Expériences autour de la perception de la forme en art et science</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-17-gdr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-17-gdr/</guid>
       <description>
 
@@ -463,7 +490,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>How the dynamics of human smooth pursuit is influenced by speed uncertainty</title>
       <link>https://laurentperrinet.github.io/publication/mansour-17-ecvp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-17-ecvp/</guid>
       <description></description>
     </item>
@@ -472,7 +498,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-17-gdr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-17-gdr/</guid>
       <description></description>
     </item>
@@ -480,8 +505,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Mon, 14 Nov 2016 00:00:00 +0100</pubDate>
-      
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
     </item>
@@ -489,8 +513,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Fri, 14 Oct 2016 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 10 Oct 2016 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
@@ -498,9 +521,16 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Operant reinforcement versus reward expectancy: effects on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-vss/</link>
-      <pubDate>Wed, 14 Sep 2016 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 10 Sep 2016 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/damasse-16-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing the odds of inherent vs. observed overdispersion in neural spike counts</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-16/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-16/</guid>
       <description></description>
     </item>
     
@@ -508,7 +538,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/taouali-15-vss/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/taouali-15-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This is a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -517,10 +546,17 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     </item>
     
     <item>
+      <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-16-areadne/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-16-areadne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Compensation of oculomotor delays in the visual system&#39;s network</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-networks/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-networks/</guid>
       <description></description>
     </item>
@@ -529,7 +565,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Effects of motion predictability on anticipatory and visually-guided eye movements: a common prior for sensory processing and motor control?</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-16-ecvp/</guid>
       <description></description>
     </item>
@@ -538,7 +573,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Modeling the effect of dynamic contingencies on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-ecvp/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-16-ecvp/</guid>
       <description></description>
     </item>
@@ -547,7 +581,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Push-Pull Receptive Field Organization and Synaptic Depression: Mechanisms for Reliably Encoding Naturalistic Stimuli in V1</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kremkow-16/</guid>
       <description></description>
     </item>
@@ -556,7 +589,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-ecvp/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-16-ecvp/</guid>
       <description></description>
     </item>
@@ -565,7 +597,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-gdr/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-16-gdr/</guid>
       <description></description>
     </item>
@@ -574,7 +605,6 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/mansour-16-sfn/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/mansour-16-sfn/</guid>
       <description></description>
     </item>
@@ -582,16 +612,20 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Sat, 14 Nov 2015 00:00:00 +0100</pubDate>
-      
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;mindmap.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; &gt;
 
+&lt;img src=&#34;mindmap.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -600,14 +634,14 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Sat, 14 Nov 2015 00:00:00 +0100</pubDate>
-      
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -615,8 +649,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Sat, 14 Nov 2015 00:00:00 +0100</pubDate>
-      
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -625,17 +658,21 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
       <title>Biologically Inspired Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</link>
       <pubDate>Wed, 07 Oct 2015 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</guid>
       <description>
 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;header.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;header.jpg&#34; &gt;
 
+&lt;img src=&#34;header.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -645,18 +682,25 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
 
 &lt;/figure&gt;
 
+
 &lt;h1 id=&#34;biologically-inspired-computer-vision&#34;&gt;Biologically Inspired Computer Vision&lt;/h1&gt;
 
 &lt;p&gt;As state-of-the-art imaging technologies becomes more and more advanced, yielding scientific data at unprecedented detail and volume, the need to process and interpret all the data has made image processing and computer vision also increasingly important. Sources of data that have to be routinely dealt with today applications include video transmission, wireless communication, automatic fingerprint processing, massive databanks, non-weary and accurate automatic airport screening, robust night vision to name a few. Multidisciplinary inputs from other disciplines such as computational neuroscience, cognitive science, mathematics, physics and biology will have a fundamental impact in the progress of imaging and vision sciences. One of the advantages of the study of biological organisms is to devise very diﬀerent type of computational paradigms beyond the usual von Neumann e.g. by implementing a neural network with a high degree of local connectivity.
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;header.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;header.jpg&#34; &gt;
 
+&lt;img src=&#34;header.jpg&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 This is a comprehensive and rigorous reference in the area of biologically motivated vision sensors. The study of biologically visual systems can be considered as a two way avenue. On the one hand, biological organisms can provide a source of inspiration for new computational efficient and robust vision models and on the other hand machine vision approaches can provide new insights for understanding biological visual systems. Along the different chapters, this book covers a wide range of topics from fundamental to more specialized topics, including visual analysis based on a computational level, hardware implementation, and the design of new more advanced vision sensors. The last two sections of the book provide an overview of a few representative applications and current state of the art of the research in this area. This makes it a valuable book for graduate, Master, PhD students and also researchers in the field.
 This book contains 17 chapters that have been organized in four different parts:
  * Fundamentals
@@ -667,29 +711,25 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;mindmap.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; &gt;
 
+&lt;img src=&#34;mindmap.png&#34; &gt;
+&lt;/a&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Testing the odds of inherent vs. observed overdispersion in neural spike counts</title>
-      <link>https://laurentperrinet.github.io/publication/taouali-16/</link>
-      <pubDate>Wed, 07 Oct 2015 00:00:00 +0200</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/taouali-16/</guid>
-      <description></description>
     </item>
     
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Fri, 14 Aug 2015 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -698,7 +738,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception</title>
       <link>https://laurentperrinet.github.io/publication/vacher-15-icms/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/vacher-15-icms/</guid>
       <description></description>
     </item>
@@ -707,7 +746,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Anticipating a moving target: role of vision and reinforcement</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-sfn/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-sfn/</guid>
       <description></description>
     </item>
@@ -716,7 +754,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Anticipatory smooth eye movements and reinforcement</title>
       <link>https://laurentperrinet.github.io/publication/damasse-15-vss/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-15-vss/</guid>
       <description></description>
     </item>
@@ -725,7 +762,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Anticipatory smooth eye movements as operant behavior</title>
       <link>https://laurentperrinet.github.io/publication/damasse-15-gdr/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-15-gdr/</guid>
       <description></description>
     </item>
@@ -734,7 +770,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Biologically Inspired Dynamic Textures for Probing Motion Perception</title>
       <link>https://laurentperrinet.github.io/publication/vacher-15-nips/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/vacher-15-nips/</guid>
       <description></description>
     </item>
@@ -743,7 +778,6 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
       <title>Edge co-occurrences can account for rapid categorization of natural versus animal images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</guid>
       <description>
 
@@ -765,10 +799,15 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_model.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_model.jpg&#34; &gt;
 
+&lt;img src=&#34;figure_model.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -777,16 +816,22 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;動物か否かの見分け方。&lt;a href=&#34;http://t.co/TTY8MwZGoO&#34;&gt;http://t.co/TTY8MwZGoO&lt;/a&gt;　引用されてるけど、Thorpe (1996)の150msで区別されてるって話(なつかしい)と関係ありそう。&lt;/p&gt;&amp;mdash; Makito Oku (@okumakito) &lt;a href=&#34;https://twitter.com/okumakito/status/613128456637841408?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_chevrons.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_chevrons.png&#34; &gt;
 
+&lt;img src=&#34;figure_chevrons.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -795,16 +840,22 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;a href=&#34;http://t.co/NY9HapBx2S&#34;&gt;http://t.co/NY9HapBx2S&lt;/a&gt; &lt;a href=&#34;http://t.co/rKQ8I5i6Ty&#34;&gt;pic.twitter.com/rKQ8I5i6Ty&lt;/a&gt;&lt;/p&gt;&amp;mdash; Francis Villatoro (@emulenews) &lt;a href=&#34;https://twitter.com/emulenews/status/612988348400070656?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_chevrons2.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_chevrons2.png&#34; &gt;
 
+&lt;img src=&#34;figure_chevrons2.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -816,10 +867,16 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_results.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_results.png&#34; &gt;
 
+&lt;img src=&#34;figure_results.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -831,10 +888,16 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure_FA_humans.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_FA_humans.png&#34; &gt;
 
+&lt;img src=&#34;figure_FA_humans.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
@@ -842,7 +905,8 @@ More complex parts of the brain are not required at this stage, contrary to what
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/figure&gt;
+&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -851,7 +915,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Eye tracking a self-moved target with complex hand-target dynamics</title>
       <link>https://laurentperrinet.github.io/publication/danion-15-sfn/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/danion-15-sfn/</guid>
       <description></description>
     </item>
@@ -860,7 +923,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>On overdispersion in neuronal evoked activity</title>
       <link>https://laurentperrinet.github.io/publication/taouali-15-icmns/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/taouali-15-icmns/</guid>
       <description></description>
     </item>
@@ -869,7 +931,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Spatiotemporal tuning of retinal ganglion cells dependent on the context of signal presentation</title>
       <link>https://laurentperrinet.github.io/publication/ravello-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ravello-15/</guid>
       <description></description>
     </item>
@@ -878,7 +939,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Active inference, eye movements and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</link>
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</guid>
       <description>
 
@@ -888,10 +948,15 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;featured.png&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
+&lt;img src=&#34;featured.png&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -899,7 +964,8 @@ More complex parts of the brain are not required at this stage, contrary to what
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -907,7 +973,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Beyond simply faster and slower: exploring paradoxes in speed perception</title>
       <link>https://laurentperrinet.github.io/publication/meso-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/meso-14-vss/</guid>
       <description></description>
     </item>
@@ -916,7 +981,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Edge co-occurrences are sufficient to categorize natural versus animal images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
@@ -928,7 +992,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Motion-based prediction model for flash lag effect</title>
       <link>https://laurentperrinet.github.io/publication/khoei-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-14-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt; and &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34; target=&#34;_blank&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
@@ -941,7 +1004,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-14-vss/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-14-vss/</guid>
       <description></description>
     </item>
@@ -950,7 +1012,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
       <link>https://laurentperrinet.github.io/publication/taouali-14-areadne/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/taouali-14-areadne/</guid>
       <description></description>
     </item>
@@ -959,7 +1020,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
       <link>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</guid>
       <description></description>
     </item>
@@ -968,7 +1028,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Dynamic Textures For Probing Motion Perception</title>
       <link>https://laurentperrinet.github.io/publication/vacher-14-ihp/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
       <description></description>
     </item>
@@ -977,7 +1036,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>On the nature of anticipatory eye movements and the factors affecting them</title>
       <link>https://laurentperrinet.github.io/publication/damasse-14-gdr/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/damasse-14-gdr/</guid>
       <description></description>
     </item>
@@ -986,7 +1044,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Relationship between natural image statistics and lateral connectivity in the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</guid>
       <description></description>
     </item>
@@ -995,7 +1052,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</title>
       <link>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1003,10 +1059,15 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; &gt;
 
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1014,7 +1075,8 @@ More complex parts of the brain are not required at this stage, contrary to what
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/li&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1022,8 +1084,7 @@ More complex parts of the brain are not required at this stage, contrary to what
     <item>
       <title>Motion-based prediction explains the role of tracking in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-jpp/</link>
-      <pubDate>Thu, 14 Nov 2013 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sun, 10 Nov 2013 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1031,10 +1092,15 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure1.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; &gt;
 
+&lt;img src=&#34;figure1.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1042,7 +1108,8 @@ More complex parts of the brain are not required at this stage, contrary to what
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/li&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1051,7 +1118,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Anisotropic connectivity implements motion-based prediction in a spiking neural network</title>
       <link>https://laurentperrinet.github.io/publication/kaplan-13/</link>
       <pubDate>Tue, 17 Sep 2013 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kaplan-13/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1064,7 +1130,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Active inference, eye movements and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-13-cns/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-13-cns/</guid>
       <description></description>
     </item>
@@ -1073,7 +1138,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Active inference, eye movements and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-13-jffos/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-13-jffos/</guid>
       <description></description>
     </item>
@@ -1082,7 +1146,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Advances in Texture Analysis for Emphysema Classification</title>
       <link>https://laurentperrinet.github.io/publication/nava-13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/nava-13/</guid>
       <description></description>
     </item>
@@ -1091,7 +1154,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>How and why do image frequency properties influence perceived speed?</title>
       <link>https://laurentperrinet.github.io/publication/meso-13-vss/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/meso-13-vss/</guid>
       <description></description>
     </item>
@@ -1100,7 +1162,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-13-vss/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-13-vss/</guid>
       <description></description>
     </item>
@@ -1109,7 +1170,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Motion-based prediction and development of the response to an &#39;on the way&#39; stimulus</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-cns/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1122,7 +1182,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control in Schizophrenia</title>
       <link>https://laurentperrinet.github.io/publication/adams-12/</link>
       <pubDate>Fri, 26 Oct 2012 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/adams-12/</guid>
       <description></description>
     </item>
@@ -1131,7 +1190,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>The behavioral receptive field underlying motion integration for primate tracking eye movements</title>
       <link>https://laurentperrinet.github.io/publication/masson-12/</link>
       <pubDate>Wed, 21 Mar 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/masson-12/</guid>
       <description></description>
     </item>
@@ -1140,7 +1198,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</title>
       <link>https://laurentperrinet.github.io/publication/sanz-12/</link>
       <pubDate>Wed, 14 Mar 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/sanz-12/</guid>
       <description></description>
     </item>
@@ -1149,7 +1206,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Active inference, smooth pursuit and oculomotor delays</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-12-areadne/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-12-areadne/</guid>
       <description></description>
     </item>
@@ -1158,7 +1214,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Complex dynamics in recurrent cortical networks based on spatially realistic connectivities</title>
       <link>https://laurentperrinet.github.io/publication/voges-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-12/</guid>
       <description></description>
     </item>
@@ -1167,7 +1222,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Effect of image statistics on fixational eye movements</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12-vss/</guid>
       <description></description>
     </item>
@@ -1176,7 +1230,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-coding/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12-coding/</guid>
       <description></description>
     </item>
@@ -1185,15 +1238,19 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>More is not always better: dissociation between perception and action explained by adaptive gain control</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-12/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;grating.gif&#34; &gt;
 
+&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1202,6 +1259,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -1209,7 +1267,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Motion-based prediction is sufficient to solve the aperture problem</title>
       <link>https://laurentperrinet.github.io/publication/masson-12-areadne/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/masson-12-areadne/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1221,15 +1278,19 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Motion-based prediction is sufficient to solve the aperture problem</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-12-pred/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-12-pred/</guid>
       <description>&lt;p&gt;
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;line_particles.gif&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;line_particles.gif&#34; &gt;
 
+&lt;img src=&#34;line_particles.gif&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1241,10 +1302,16 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure1.jpg&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; &gt;
 
+&lt;img src=&#34;figure1.jpg&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1256,10 +1323,16 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure2.jpg&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure2.jpg&#34; &gt;
 
+&lt;img src=&#34;figure2.jpg&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1271,10 +1344,16 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure3.jpg&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure3.jpg&#34; &gt;
 
+&lt;img src=&#34;figure3.jpg&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1286,10 +1365,16 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;figure4.jpg&#34; width=&#34;80%&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure4.jpg&#34; &gt;
 
+&lt;img src=&#34;figure4.jpg&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1297,7 +1382,8 @@ More complex parts of the brain are not required at this stage, contrary to what
   
 &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -1305,7 +1391,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
       <description></description>
     </item>
@@ -1314,15 +1399,19 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Perceptions as Hypotheses: Saccades as Experiments</title>
       <link>https://laurentperrinet.github.io/publication/friston-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/friston-12/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; &gt;
 
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1331,6 +1420,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -1338,7 +1428,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Role of motion-based prediction in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-12-sfn/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-12-sfn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1351,7 +1440,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</link>
       <pubDate>Fri, 23 Sep 2011 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-2011-pattern/</guid>
       <description></description>
     </item>
@@ -1360,7 +1448,6 @@ More complex parts of the brain are not required at this stage, contrary to what
       <title>Qui créera le premier ordinateur intelligent?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-10-doc-sciences/</link>
       <pubDate>Mon, 20 Jun 2011 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-doc-sciences/</guid>
       <description>
 
@@ -1377,7 +1464,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference</title>
       <link>https://laurentperrinet.github.io/publication/bogadhi-11/</link>
       <pubDate>Fri, 22 Apr 2011 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/bogadhi-11/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1389,7 +1475,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Saccadic foveation of a moving visual target in the rhesus monkey</title>
       <link>https://laurentperrinet.github.io/publication/fleuriet-11/</link>
       <pubDate>Tue, 01 Feb 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fleuriet-11/</guid>
       <description></description>
     </item>
@@ -1398,7 +1483,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-11-sfn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
@@ -1410,7 +1494,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Role of motion inertia in dynamic motion integration for smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-11-ecvp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1423,7 +1506,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Phase space analysis of networks based on biologically realistic parameters</title>
       <link>https://laurentperrinet.github.io/publication/voges-10-jpp/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-10-jpp/</guid>
       <description></description>
     </item>
@@ -1432,7 +1514,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Role of homeostasis in learning sparse representations</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-10-shl/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-shl/</guid>
       <description></description>
     </item>
@@ -1440,8 +1521,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Functional consequences of correlated excitatory and inhibitory conductances in cortical networks</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</link>
-      <pubDate>Mon, 14 Jun 2010 00:00:00 +0200</pubDate>
-      
+      <pubDate>Thu, 10 Jun 2010 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</guid>
       <description></description>
     </item>
@@ -1450,7 +1530,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>A recurrent Bayesian model of dynamic motion integration for smooth pursuit</title>
       <link>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/bogadhi-10-vss/</guid>
       <description></description>
     </item>
@@ -1459,7 +1538,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Computational Neuroscience, from Multiple Levels to Multi-level</title>
       <link>https://laurentperrinet.github.io/publication/dauce-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/dauce-10/</guid>
       <description></description>
     </item>
@@ -1468,7 +1546,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-10-vss/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/simoncini-10-vss/</guid>
       <description></description>
     </item>
@@ -1477,7 +1554,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamical emergence of a neural solution for motion integration</title>
       <link>https://laurentperrinet.github.io/publication/khoei-10-tauc/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/khoei-10-tauc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1490,7 +1566,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamical emergence of a neural solution for motion integration</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-areadne/</guid>
       <description></description>
     </item>
@@ -1499,7 +1574,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Phase space analysis of networks based on biologically realistic parameters</title>
       <link>https://laurentperrinet.github.io/publication/voges-10-neurocomp/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-10-neurocomp/</guid>
       <description></description>
     </item>
@@ -1508,7 +1582,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-tauc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1520,7 +1593,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Decoding center-surround interactions in population of neurons for the ocular following response</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-09-cosyne/</guid>
       <description></description>
     </item>
@@ -1529,7 +1601,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamical state spaces of cortical networks representing various horizontal connectivities</title>
       <link>https://laurentperrinet.github.io/publication/voges-09-cosyne/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-09-cosyne/</guid>
       <description></description>
     </item>
@@ -1538,7 +1609,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamics of cortical networks including long-range patchy connections</title>
       <link>https://laurentperrinet.github.io/publication/voges-09-gns/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-09-gns/</guid>
       <description></description>
     </item>
@@ -1547,7 +1617,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Functional consequences of correlated excitation and inhibition on single neuron integration and signal propagation through synfire chains</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-09-gns/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kremkow-09-gns/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -1559,7 +1628,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Inferring monkey ocular following responses from V1 population dynamics using a probabilistic model of motion integration</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-09-vss/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-09-vss/</guid>
       <description></description>
     </item>
@@ -1568,7 +1636,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>NeuralEnsemble: Towards a meta-environment for network modeling and data analysis</title>
       <link>https://laurentperrinet.github.io/publication/yger-09-gns/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/yger-09-gns/</guid>
       <description></description>
     </item>
@@ -1576,8 +1643,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
       <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
-      <pubDate>Tue, 14 Oct 2008 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 10 Oct 2008 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
       <description></description>
     </item>
@@ -1585,8 +1651,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Functional properties of feed-forward inhibition</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
-      <pubDate>Tue, 14 Oct 2008 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 10 Oct 2008 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -1597,8 +1662,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Proceedings of the second french conference on Computational Neuroscience, Marseille</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</link>
-      <pubDate>Tue, 14 Oct 2008 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 10 Oct 2008 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</guid>
       <description></description>
     </item>
@@ -1606,8 +1670,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
-      <pubDate>Thu, 14 Feb 2008 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sun, 10 Feb 2008 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
       <description></description>
     </item>
@@ -1616,7 +1679,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Adaptive Sparse Spike Coding : applications of Neuroscience to the compression of natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-spie/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-spie/</guid>
       <description></description>
     </item>
@@ -1625,7 +1687,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input: a V1 network modelling study</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-sfn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34; target=&#34;_blank&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -1637,7 +1698,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Decoding the population dynamics underlying ocular following response using a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-areadne/</guid>
       <description></description>
     </item>
@@ -1646,7 +1706,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamics of cortical networks based on patchy connectivity patterns</title>
       <link>https://laurentperrinet.github.io/publication/voges-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/voges-08/</guid>
       <description></description>
     </item>
@@ -1655,7 +1714,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Modeling spatial integration in the ocular following response to center-surround stimulation using a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-a/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-a/</guid>
       <description></description>
     </item>
@@ -1664,7 +1722,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>PyNN: A Common Interface for Neuronal Network Simulators</title>
       <link>https://laurentperrinet.github.io/publication/davison-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/davison-08/</guid>
       <description></description>
     </item>
@@ -1673,7 +1730,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>What adaptive code for efficient spiking representations? A model for the formation of receptive fields of simple cells</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-08/</guid>
       <description></description>
     </item>
@@ -1681,18 +1737,16 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Wed, 14 Mar 2007 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 10 Mar 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Introduction</title>
+      <title>Introduction to Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07-a/</link>
-      <pubDate>Wed, 14 Mar 2007 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 10 Mar 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07-a/</guid>
       <description></description>
     </item>
@@ -1700,18 +1754,8 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07/</link>
-      <pubDate>Wed, 14 Mar 2007 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 10 Mar 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian modeling of dynamic motion integration</title>
-      <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
-      <pubDate>Sun, 14 Jan 2007 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description></description>
     </item>
     
@@ -1719,8 +1763,15 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Self-Invertible 2D Log-Gabor Wavelets</title>
       <link>https://laurentperrinet.github.io/publication/fischer-07-cv/</link>
       <pubDate>Sat, 13 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-07-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian modeling of dynamic motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description></description>
     </item>
     
@@ -1728,7 +1779,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamic inference for motion tracking</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07-a/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-07-a/</guid>
       <description></description>
     </item>
@@ -1737,7 +1787,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Modeling spatial integration in the ocular following response using a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</guid>
       <description></description>
     </item>
@@ -1746,7 +1795,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Neural Codes for Adaptive Sparse Representations of Natural Images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07-mipm/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-07-mipm/</guid>
       <description></description>
     </item>
@@ -1755,7 +1803,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>On efficient sparse spike coding schemes for learning natural scenes in the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07-cns/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-07-cns/</guid>
       <description></description>
     </item>
@@ -1764,7 +1811,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>PyNN: towards a universal neural simulator API in Python</title>
       <link>https://laurentperrinet.github.io/publication/davison-07-cns/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/davison-07-cns/</guid>
       <description></description>
     </item>
@@ -1773,7 +1819,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
       <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
       <description></description>
     </item>
@@ -1782,7 +1827,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Visual tracking of ambiguous moving objects: A recursive Bayesian model</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07-b/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-07-b/</guid>
       <description></description>
     </item>
@@ -1791,7 +1835,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>An efficiency razor for model selection and adaptation in the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-cns/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-cns/</guid>
       <description></description>
     </item>
@@ -1800,7 +1843,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1812,7 +1854,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Contrast sensitivity adaptation in a virtual spiking retina and its adequation with mammalians retinas</title>
       <link>https://laurentperrinet.github.io/publication/wohrer-06/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/wohrer-06/</guid>
       <description></description>
     </item>
@@ -1821,7 +1862,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-ciotat/</guid>
       <description></description>
     </item>
@@ -1830,7 +1870,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-fab/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-fab/</guid>
       <description></description>
     </item>
@@ -1839,7 +1878,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-fens/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-fens/</guid>
       <description></description>
     </item>
@@ -1848,7 +1886,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -1859,8 +1896,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
       <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
-      <pubDate>Sun, 14 Aug 2005 00:00:00 +0200</pubDate>
-      
+      <pubDate>Wed, 10 Aug 2005 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
       <description></description>
     </item>
@@ -1869,7 +1905,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Sparse Gabor wavelets by local operations</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05-a/</link>
       <pubDate>Wed, 29 Jun 2005 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-05-a/</guid>
       <description></description>
     </item>
@@ -1878,17 +1913,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Dynamics of motion representation in short-latency ocular following: A two-pathways Bayesian model</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-05-a/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-05-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Source Detection Using Integrate-and-Fire Neurons</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      
-      <guid>https://laurentperrinet.github.io/publication/perrinet-05/</guid>
       <description></description>
     </item>
     
@@ -1896,24 +1921,35 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Efficient representation of natural images using local cooperation</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Source Detection Using Integrate-and-Fire Neurons</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-05/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Tue, 14 Sep 2004 00:00:00 +0200</pubDate>
-      
+      <pubDate>Fri, 10 Sep 2004 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;v1_tiger.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;v1_tiger.gif&#34; &gt;
 
+&lt;img src=&#34;v1_tiger.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -1922,14 +1958,14 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
       <title>Feature detection using spikes : the greedy approach</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
-      <pubDate>Wed, 14 Jul 2004 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 10 Jul 2004 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
       <description></description>
     </item>
@@ -1937,8 +1973,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
-      <pubDate>Sun, 14 Mar 2004 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 10 Mar 2004 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>
@@ -1946,8 +1981,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Finding Independent Components using spikes : a natural result of hebbian learning in a sparse spike coding scheme</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04/</link>
-      <pubDate>Wed, 14 Jan 2004 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sat, 10 Jan 2004 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04/</guid>
       <description></description>
     </item>
@@ -1956,7 +1990,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Comment déchiffrer le code impulsionnel de la vision ? Étude du flux parallèle, asynchrone et épars dans le traitement visuel ultra-rapide</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-these/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-these/</guid>
       <description></description>
     </item>
@@ -1965,7 +1998,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Emergence of filters from natural scenes in a sparse spike coding scheme</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-03/</guid>
       <description></description>
     </item>
@@ -1973,8 +2005,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Coherence detection in a spiking neuron via Hebbian learning</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02/</link>
-      <pubDate>Fri, 14 Jun 2002 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 10 Jun 2002 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02/</guid>
       <description></description>
     </item>
@@ -1983,7 +2014,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Coherence detection in a spiking neuron via hebbian learning</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</guid>
       <description></description>
     </item>
@@ -1992,15 +2022,19 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Sparse Image Coding Using an Asynchronous Spiking Neural Network</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-esann/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-esann/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;lena256pyr.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;lena256pyr.gif&#34; &gt;
 
+&lt;img src=&#34;lena256pyr.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -2009,6 +2043,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 </description>
     </item>
     
@@ -2016,7 +2051,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Visual Strategies for Sparse Spike Coding</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-nsi/</guid>
       <description></description>
     </item>
@@ -2025,7 +2059,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Network of integrate-and-fire neurons using Rank Order Coding A: how to implement spike timing dependant plasticity</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-01/</guid>
       <description></description>
     </item>
@@ -2034,7 +2067,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Network of integrate-and-fire neurons using Rank Order Coding B: spike timing dependant plasticity and emergence of orientation selectivity</title>
       <link>https://laurentperrinet.github.io/publication/delorme-01/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/delorme-01/</guid>
       <description></description>
     </item>
@@ -2043,7 +2075,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>A generative model for Spike Time Dependent Hebbian Plasticity</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-00/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-00/</guid>
       <description></description>
     </item>
@@ -2052,7 +2083,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title>Apprentissage hebbien d&#39;un reseau de neurones asynchrone a codage par rang</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-99/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-99/</guid>
       <description></description>
     </item>
@@ -2061,7 +2091,6 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <title></title>
       <link>https://laurentperrinet.github.io/publication/kremkow-07-cns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/kremkow-07-cns/</guid>
       <description>&lt;p&gt;kremkow-10-jcns+++
 title = &amp;ldquo;Synchrony in thalamic inputs enhances propagation of activity through cortical layers&amp;rdquo;

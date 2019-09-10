@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>past-grant on Novel visual computations</title>
+    <title>past-grant | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tags/past-grant/</link>
-    <description>Recent content in past-grant on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/tags/past-grant/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/tags/past-grant/index.xml" rel="self" type="application/rss+xml" />
+    <description>past-grant</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>past-grant</title>
+      <link>https://laurentperrinet.github.io/tags/past-grant/</link>
+    </image>
     
     <item>
       <title>ANR BalaV1 (2013/2016)</title>
       <link>https://laurentperrinet.github.io/project/anr-bala-v1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/anr-bala-v1/</guid>
       <description>
 
@@ -44,17 +41,22 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>ANR REM (2013/2016)</title>
       <link>https://laurentperrinet.github.io/project/anr-rem/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/anr-rem/</guid>
       <description>
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; alt=&#34;We were open :-)&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; &gt;
 
+&lt;img src=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; alt=&#34;We were open :-)&#34; &gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;Reinforcement learning theory provides a general conceptual framework to account for behavioral changes. Recently the idea that reinforcement may be used to explain learning in motor responses has emerged. In particular, there is a growing interest in studying the effects of reinforcement learning in arm movements trajectories (Dam, Kording, &amp;amp; Wei, 2013), pointing movements (Trommershauser, Landy, &amp;amp; Maloney, 2006), or eye movements (Madelain, Champrenaut, &amp;amp; Chauvin, 2007; Madelain &amp;amp; Krauzlis, 2003b; Madelain, Paeye, &amp;amp; Wallman, 2011; Sugrue, Corrado, &amp;amp; Newsome, 2004; Takikawa, Kawagoe, Itoh, Nakahara, &amp;amp; Hikosaka, 2002; Xu-Wilson, Zee, &amp;amp; Shadmehr, 2009). However, and despite these few seminal studies, much is still unknown about both the details of the effects of reward on motor control and the underlying mechanisms. &lt;strong&gt;This proposal aims at a better understanding of how skilled motor responses are learned focusing on voluntary eye movements.&lt;/strong&gt;&lt;/p&gt;
 
@@ -73,7 +75,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>ANR SPEED (2013/2016)</title>
       <link>https://laurentperrinet.github.io/project/anr-speed/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/anr-speed/</guid>
       <description>&lt;p&gt;Measuring speed and direction of moving objects is an essential computational step in order to move our eyes, hands or other body parts with respect to the environment. Whereas encoding and decoding of direction information is now largely understood in various neuronal systems, how the human brain accurately represents speed information remains largely unknown. Speed tuned neurons have been identified in several early cortical visual areas in monkeys. However, how such speed tuning emerges is not yet understood. A working hypothesis is that speed tuned neurons nonlinearly combine motion information extracted at different spatial and temporal scales, taking advantage of the statistical spatiotemporal properties of natural scenes. However, such pooling of information must be context dependent, varying with the spatial perceptual organization of the visual scenes. Furthermore, the population code underlying perceived speed is not elucidated either and therefore we are still far from understanding how speed information is decoded to drive and control motor responses or perceptual judgments.&lt;/p&gt;
 
@@ -92,7 +93,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>ANR TRAJECTORY (2016/2019)</title>
       <link>https://laurentperrinet.github.io/project/anr-trajectory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/anr-trajectory/</guid>
       <description>
 
@@ -125,10 +125,15 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;http://invibe.net/cgi-bin/index.cgi/Presentations/2012-04-16_InriaIntMeeting?action=AttachFile&amp;amp;do=get&amp;amp;target=sequence_ABCD.gif&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://invibe.net/cgi-bin/index.cgi/Presentations/2012-04-16_InriaIntMeeting?action=AttachFile&amp;amp;do=get&amp;amp;target=sequence_ABCD.gif&#34; &gt;
 
+&lt;img src=&#34;http://invibe.net/cgi-bin/index.cgi/Presentations/2012-04-16_InriaIntMeeting?action=AttachFile&amp;amp;do=get&amp;amp;target=sequence_ABCD.gif&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -137,6 +142,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 
 &lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
 
@@ -148,7 +154,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>BrainScaleS (2011/2014) </title>
       <link>https://laurentperrinet.github.io/project/brain-scales/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/brain-scales/</guid>
       <description>&lt;p&gt;List of publications that were funded by European Union&amp;rsquo;s project Number FP7-269921, &amp;ldquo;&lt;a href=&#34;http://brainscales.kip.uni-heidelberg.de/&#34; target=&#34;_blank&#34;&gt;BrainScales&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
 
@@ -172,7 +177,6 @@ on January 1st, 2011.&lt;/p&gt;&lt;/li&gt;
       <title>CODDE (2008/2012)</title>
       <link>https://laurentperrinet.github.io/project/codde/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/codde/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://www.optimaldecisions.org/&#34; target=&#34;_blank&#34;&gt;CODDE&lt;/a&gt; network studies the links between sensory input, brain activity and motor output. It does this by combining behavioural techniques, brain imaging, movement recording and computational modelling.&lt;/p&gt;
 </description>
@@ -182,7 +186,6 @@ on January 1st, 2011.&lt;/p&gt;&lt;/li&gt;
       <title>FACETS (2006/2010)</title>
       <link>https://laurentperrinet.github.io/project/facets/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/facets/</guid>
       <description>&lt;p&gt;List of publications that were funded by the
 &lt;a href=&#34;http://facets.kip.uni-heidelberg.de/&#34; class=&#34;http&#34;&gt;FACETS&lt;/a&gt;
@@ -214,7 +217,6 @@ on January 1st, 2011.&lt;/p&gt;&lt;/li&gt;
       <title>FACETS-ITN (2010/2013)</title>
       <link>https://laurentperrinet.github.io/project/facets-itn/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/facets-itn/</guid>
       <description>
 
@@ -253,7 +255,6 @@ on January 1st, 2011.&lt;/p&gt;&lt;/li&gt;
       <title>PACE-ITN (2015/2019)</title>
       <link>https://laurentperrinet.github.io/project/pace-itn/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
-      
       <guid>https://laurentperrinet.github.io/project/pace-itn/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://itn-pace.eu/&#34; target=&#34;_blank&#34;&gt;PACE ITN&lt;/a&gt; project involves over 50 researchers spread across 10 full and 5 associated partners, from academia and the private sector, established in 7 different European and Associated countries, the PACE network gathers a broad range of expertise from experimental psychology, cognitive neurosciences, brain imaging, technology and clinical sciences.&lt;/p&gt;
 

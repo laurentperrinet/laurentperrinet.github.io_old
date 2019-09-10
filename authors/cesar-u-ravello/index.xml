@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cesar U Ravello on Novel visual computations</title>
+    <title>Cesar U Ravello | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/cesar-u-ravello/</link>
-    <description>Recent content in Cesar U Ravello on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0100</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/authors/cesar-u-ravello/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/authors/cesar-u-ravello/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cesar U Ravello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Cesar U Ravello</title>
+      <link>https://laurentperrinet.github.io/authors/cesar-u-ravello/</link>
+    </image>
     
     <item>
       <title>Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli</title>
       <link>https://laurentperrinet.github.io/publication/ravello-19/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ravello-19/</guid>
       <description>
 
@@ -51,10 +48,15 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
 
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;featured.jpg&#34; /&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
 
+&lt;img src=&#34;featured.jpg&#34; &gt;
+&lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
@@ -63,6 +65,7 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
 
 
 
@@ -89,8 +92,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Mon, 14 Nov 2016 00:00:00 +0100</pubDate>
-      
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
     </item>
@@ -99,7 +101,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <title>Spatiotemporal tuning of retinal ganglion cells dependent on the context of signal presentation</title>
       <link>https://laurentperrinet.github.io/publication/ravello-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/ravello-15/</guid>
       <description></description>
     </item>

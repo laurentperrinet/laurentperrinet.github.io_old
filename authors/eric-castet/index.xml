@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eric Castet on Novel visual computations</title>
+    <title>Eric Castet | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/eric-castet/</link>
-    <description>Recent content in Eric Castet on Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License&lt;/a&gt;
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-</copyright>
-    <lastBuildDate>Thu, 14 Feb 2008 00:00:00 +0100</lastBuildDate>
-    
-	    <atom:link href="https://laurentperrinet.github.io/authors/eric-castet/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://laurentperrinet.github.io/authors/eric-castet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Castet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 10 Feb 2008 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Eric Castet</title>
+      <link>https://laurentperrinet.github.io/authors/eric-castet/</link>
+    </image>
     
     <item>
       <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
-      <pubDate>Thu, 14 Feb 2008 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sun, 10 Feb 2008 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
       <description></description>
     </item>
@@ -27,8 +24,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     <item>
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
-      <pubDate>Sun, 14 Jan 2007 00:00:00 +0100</pubDate>
-      
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description></description>
     </item>
@@ -37,7 +33,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Dynamic inference for motion tracking</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07-a/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-07-a/</guid>
       <description></description>
     </item>
@@ -46,7 +41,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -58,7 +52,6 @@ Please note that multiple distribution, publication or commercial usage of copyr
       <title>Dynamics of motion representation in short-latency ocular following: A two-pathways Bayesian model</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-05-a/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      
       <guid>https://laurentperrinet.github.io/publication/perrinet-05-a/</guid>
       <description></description>
     </item>
