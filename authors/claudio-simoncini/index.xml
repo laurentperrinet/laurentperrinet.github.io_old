@@ -72,18 +72,26 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;grating.gif&#34; &gt;
 
-&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;grating.gif&#34; data-caption=&#34;Band-pass motion stimuli for perception and action tasks. (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. &amp;copy; For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.&#34;&gt;
+&lt;img src=&#34;grating.gif&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;&lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. &amp;copy; For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. &amp;copy; For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 

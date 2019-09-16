@@ -27,18 +27,26 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; &gt;
 
-&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; data-caption=&#34;Figure 4: Rasterplot of input and output spikes. The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation). To decode such patterns of activity we used a maximum-likelihood estimation technique based on the tuning curve of the neurons.&#34;&gt;
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/53894/fncom-07-00112-r2/image_m/fncom-07-00112-g003.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Figure 4: &lt;em&gt;Rasterplot of input and output spikes.&lt;/em&gt; The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation). To decode such patterns of activity we used a maximum-likelihood estimation technique based on the tuning curve of the neurons.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Figure 4: &lt;em&gt;Rasterplot of input and output spikes.&lt;/em&gt; The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation). To decode such patterns of activity we used a maximum-likelihood estimation technique based on the tuning curve of the neurons.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 &lt;/li&gt;

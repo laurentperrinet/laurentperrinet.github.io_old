@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -35,10 +35,6 @@
 
   
 
-
-
-
-  
 
   
   
@@ -80,13 +76,14 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.04a87a1cb9027e3c50f566322527c56f.css">
+  <link rel="stylesheet" href="/css/academic.min.54abc5f3f1ddc380a34d4103fd11d77a.css">
 
   
 
@@ -140,6 +137,56 @@
     
     <meta property="article:modified_time" content="2019-09-01T17:25:26&#43;03:00">
   
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://laurentperrinet.github.io/publication/franciosini-perrinet-18-cs/"
+  },
+  "headline": "On the Origins of Hierarchy in Visual Processing",
+  
+  "datePublished": "2018-01-01T00:00:00+01:00",
+  "dateModified": "2019-09-01T17:25:26+03:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Angelo Franciosini"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Novel visual computations",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://laurentperrinet.github.io/img/hulk.png"
+    }
+  },
+  "description": " It is widely assumed that visual processing follows a forward sequence of processing steps along a hierarchy of laminar sub-populations of the neural system. Taking the example of the early visual system of mammals, most models are consequently organized in layers from the retina to visual cortical areas, until a decision is taken using the representation that is formed in the highest layer. Typically, features of higher complexity (position, orientation, size, curvature, ...) are successively extracted in distinct layers (Carandini, 2012). This is prevalent in most deep learning algorithms and stems from a long history of feed-forward architectures. Though this proved to be highly successful, the origin of such architectures is not known i̧teSerre07. Using a generic unsupervised learning algorithm, we first trained a simple one-layer convolutional neural network on a seta of natural images with a growing number of neurons. By doing this, we could quantitatively manipulate the complexity of the representation that emerges from such learning and analyze if sub-populations within the layer could be grouped by their similarity, hence justifying the emergence of a hierarchical processing. As shown in previous studies (Olshausen, 1996), such an algorithm converges to a weight matrix that has strong analogies with the receptive fields of simple cells located in the Primary Visual Cortex of mammals (V1).  This result extends naturally to a cortical representation of the input image that encodes second-order features (edges) as neural responses arranged in a three-dimensional space, where the third dimension can be seen as a model of hyper-columns of the Primary Visual Cortex. From this bio-inspired encoding, we were able to define contours in images as simple smooth trajectories in a cortical representation space. This simple model shows that hierarchical processing may originate from the neural encoding of different visual transformations within natural images: respectively translation, rotations and zooms, which correspond to rigid translation in the cortical space. The model can be further extended to reproduce the effect of complex cells in V1 (max pooling) and feedback signals from higher cortical areas. We predict that invariance to more complex transformation like shearing (perspective) and viewpoint changes (looming) will emerge as these additional steps in sensory processing are taken into account.  Indeed, a higher level of complexity can be introduced as the cortical representation is extended from smooth trajectories (space domain) to smooth surfaces (space-time domain). As such, this justifies the extension of a simple sparse network formalism to translation invariant neural networks (such as the convolutional neural networks used in deep learning) that is able to generalize geometrical transformations, such as translation, rotations, and zooms, in an invariant bio-inspired representation (Perrinet, 2015). This should provide some key insights into higher-order features such as co-occurrences, but also to novel categorization architectures. Indeed, such features were recently found to be sufficient to allow the categorization of images containing an animal (Perrinet and Bednar, 2015). Crucially, as the geometrical transformations develop in time, we expect that the detection of these features is made robust by dynamical processes."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -486,7 +533,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub">
 
   
 
@@ -507,7 +554,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">On the Origins of Hierarchy in Visual Processing</h1>
+  <h1>On the Origins of Hierarchy in Visual Processing</h1>
 
   
 
@@ -515,9 +562,6 @@
     
 
 
-
-<meta content="2018-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2019-09-01 17:25:26 &#43;0300 &#43;0300" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -530,7 +574,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </div>
   
@@ -542,7 +586,7 @@
     
       
     
-    <time>2018-01-01</time>
+    2018-01-01
   </span>
   
 
@@ -723,7 +767,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">It is widely assumed that visual processing follows a forward sequence of processing steps along a hierarchy of laminar sub-populations of the neural system. Taking the example of the early visual system of mammals, most models are consequently organized in layers from the retina to visual cortical areas, until a decision is taken using the representation that is formed in the highest layer. Typically, features of higher complexity (position, orientation, size, curvature, &hellip;) are successively extracted in distinct layers (Carandini, 2012). This is prevalent in most deep learning algorithms and stems from a long history of feed-forward architectures. Though this proved to be highly successful, the origin of such architectures is not known i̧teSerre07. Using a generic unsupervised learning algorithm, we first trained a simple one-layer convolutional neural network on a seta of natural images with a growing number of neurons. By doing this, we could quantitatively manipulate the complexity of the representation that emerges from such learning and analyze if sub-populations within the layer could be grouped by their similarity, hence justifying the emergence of a hierarchical processing. As shown in previous studies (Olshausen, 1996), such an algorithm converges to a weight matrix that has strong analogies with the receptive fields of simple cells located in the Primary Visual Cortex of mammals (V1).  This result extends naturally to a cortical representation of the input image that encodes second-order features (edges) as neural responses arranged in a three-dimensional space, where the third dimension can be seen as a model of hyper-columns of the Primary Visual Cortex. From this bio-inspired encoding, we were able to define contours in images as simple smooth trajectories in a cortical representation space. This simple model shows that hierarchical processing may originate from the neural encoding of different visual transformations within natural images: respectively translation, rotations and zooms, which correspond to rigid translation in the cortical space. The model can be further extended to reproduce the effect of complex cells in V1 (max pooling) and feedback signals from higher cortical areas. We predict that invariance to more complex transformation like shearing (perspective) and viewpoint changes (looming) will emerge as these additional steps in sensory processing are taken into account.  Indeed, a higher level of complexity can be introduced as the cortical representation is extended from smooth trajectories (space domain) to smooth surfaces (space-time domain). As such, this justifies the extension of a simple sparse network formalism to translation invariant neural networks (such as the convolutional neural networks used in deep learning) that is able to generalize geometrical transformations, such as translation, rotations, and zooms, in an invariant bio-inspired representation (Perrinet, 2015). This should provide some key insights into higher-order features such as co-occurrences, but also to novel categorization architectures. Indeed, such features were recently found to be sufficient to allow the categorization of images containing an animal (Perrinet and Bednar, 2015). Crucially, as the geometrical transformations develop in time, we expect that the detection of these features is made robust by dynamical processes.</p>
+    <p class="pub-abstract">It is widely assumed that visual processing follows a forward sequence of processing steps along a hierarchy of laminar sub-populations of the neural system. Taking the example of the early visual system of mammals, most models are consequently organized in layers from the retina to visual cortical areas, until a decision is taken using the representation that is formed in the highest layer. Typically, features of higher complexity (position, orientation, size, curvature, &hellip;) are successively extracted in distinct layers (Carandini, 2012). This is prevalent in most deep learning algorithms and stems from a long history of feed-forward architectures. Though this proved to be highly successful, the origin of such architectures is not known i̧teSerre07. Using a generic unsupervised learning algorithm, we first trained a simple one-layer convolutional neural network on a seta of natural images with a growing number of neurons. By doing this, we could quantitatively manipulate the complexity of the representation that emerges from such learning and analyze if sub-populations within the layer could be grouped by their similarity, hence justifying the emergence of a hierarchical processing. As shown in previous studies (Olshausen, 1996), such an algorithm converges to a weight matrix that has strong analogies with the receptive fields of simple cells located in the Primary Visual Cortex of mammals (V1).  This result extends naturally to a cortical representation of the input image that encodes second-order features (edges) as neural responses arranged in a three-dimensional space, where the third dimension can be seen as a model of hyper-columns of the Primary Visual Cortex. From this bio-inspired encoding, we were able to define contours in images as simple smooth trajectories in a cortical representation space. This simple model shows that hierarchical processing may originate from the neural encoding of different visual transformations within natural images: respectively translation, rotations and zooms, which correspond to rigid translation in the cortical space. The model can be further extended to reproduce the effect of complex cells in V1 (max pooling) and feedback signals from higher cortical areas. We predict that invariance to more complex transformation like shearing (perspective) and viewpoint changes (looming) will emerge as these additional steps in sensory processing are taken into account.  Indeed, a higher level of complexity can be introduced as the cortical representation is extended from smooth trajectories (space domain) to smooth surfaces (space-time domain). As such, this justifies the extension of a simple sparse network formalism to translation invariant neural networks (such as the convolutional neural networks used in deep learning) that is able to generalize geometrical transformations, such as translation, rotations, and zooms, in an invariant bio-inspired representation (Perrinet, 2015). This should provide some key insights into higher-order features such as co-occurrences, but also to novel categorization architectures. Indeed, such features were recently found to be sufficient to allow the categorization of images containing an animal (Perrinet and Bednar, 2015). Crucially, as the geometrical transformations develop in time, we expect that the detection of these features is made robust by dynamical processes.</p>
     
 
     
@@ -793,20 +837,21 @@
 
 
 
+
   
   
   
   
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  <div class="media author-card">
     
       
-      <img class="portrait mr-3" src="/authors/angelo-franciosini/avatar_huf20cb217f6bf92656c2488dfbefe1a2d_4587_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/angelo-franciosini/avatar_huf20cb217f6bf92656c2488dfbefe1a2d_4587_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></h5>
+      <h5 class="card-title"><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></h5>
       <h6 class="card-subtitle">Phd candidate in Computational Neuroscience</h6>
-      <p class="card-text" itemprop="description">During my PhD, I focused on predictive coding in a bio-inspired neural network.</p>
+      <p class="card-text">During my PhD, I focused on predictive coding in a bio-inspired neural network.</p>
       <ul class="network-icon" aria-hidden="true">
         
           
@@ -821,7 +866,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://github.com/AngeloFranciosini" target="_blank" rel="noopener">
+            <a href="https://github.com/AngeloFranciosini" target="_blank" rel="noopener">
               <i class="fab fa-github"></i>
             </a>
           </li>
@@ -836,7 +881,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://www.researchgate.net/profile/Angelo_Franciosini" target="_blank" rel="noopener">
+            <a href="https://www.researchgate.net/profile/Angelo_Franciosini" target="_blank" rel="noopener">
               <i class="ai ai-researchgate"></i>
             </a>
           </li>
@@ -853,7 +898,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://twitter.com/RaguDellaNonna" target="_blank" rel="noopener">
+            <a href="https://twitter.com/RaguDellaNonna" target="_blank" rel="noopener">
               <i class="fab fa-twitter"></i>
             </a>
           </li>
@@ -870,7 +915,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://www.linkedin.com/in/angelo-franciosini-325900132" target="_blank" rel="noopener">
+            <a href="https://www.linkedin.com/in/angelo-franciosini-325900132" target="_blank" rel="noopener">
               <i class="fab fa-linkedin"></i>
             </a>
           </li>
@@ -994,7 +1039,7 @@
     
     
     
-    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
 
     
 

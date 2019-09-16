@@ -556,18 +556,26 @@ To verify this assessment, I designed a 2-outcome discriminative psychophysics t
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://brainscales.kip.uni-heidelberg.de/images/thumb/e/e2/Public--BrainScalesLogo.svg/100px-Public--BrainScalesLogo.svg.png&#34; &gt;
 
-&lt;img src=&#34;https://brainscales.kip.uni-heidelberg.de/images/thumb/e/e2/Public--BrainScalesLogo.svg/100px-Public--BrainScalesLogo.svg.png&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://brainscales.kip.uni-heidelberg.de/images/thumb/e/e2/Public--BrainScalesLogo.svg/100px-Public--BrainScalesLogo.svg.png&#34; data-caption=&#34;This grant was funded by a large European integrated project called BrainScales whose aim is to understand brain information processing at multiple spatial and temporal scales. The successful applicants will have the opportunity to interact with a large and exciting consortium composed of 18 europeans teams working in biology, modeling and hardware.&#34;&gt;
+&lt;img src=&#34;https://brainscales.kip.uni-heidelberg.de/images/thumb/e/e2/Public--BrainScalesLogo.svg/100px-Public--BrainScalesLogo.svg.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;This grant was funded by a large European integrated project called &lt;a href=&#34;https://brainscales.kip.uni-heidelberg.de/index.html&#34; target=&#34;_blank&#34;&gt;BrainScales&lt;/a&gt; whose aim is to understand brain information processing at multiple spatial and temporal scales. The successful applicants will have the opportunity to interact with a large and exciting consortium composed of 18 europeans teams working in biology, modeling and hardware.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    This grant was funded by a large European integrated project called &lt;a href=&#34;https://brainscales.kip.uni-heidelberg.de/index.html&#34; target=&#34;_blank&#34;&gt;BrainScales&lt;/a&gt; whose aim is to understand brain information processing at multiple spatial and temporal scales. The successful applicants will have the opportunity to interact with a large and exciting consortium composed of 18 europeans teams working in biology, modeling and hardware.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 

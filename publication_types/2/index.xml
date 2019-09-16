@@ -86,18 +86,26 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; &gt;
 
-&lt;img src=&#34;featured.jpg&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; data-caption=&#34;Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&amp;rsquo;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&amp;rsquo;autant plus précises que la stimulation est complexe. © Cesar Ravello&#34;&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&amp;rsquo;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&amp;rsquo;autant plus précises que la stimulation est complexe. © Cesar Ravello&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&amp;rsquo;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&amp;rsquo;autant plus précises que la stimulation est complexe. © Cesar Ravello
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -182,18 +190,26 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;flash_lag.gif&#34; &gt;
 
-&lt;img src=&#34;flash_lag.gif&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;flash_lag.gif&#34; data-caption=&#34;Flash-Lag Effect. When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&#34;&gt;
+&lt;img src=&#34;flash_lag.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;&lt;em&gt;Flash-Lag Effect.&lt;/em&gt; When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Flash-Lag Effect.&lt;/em&gt; When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -208,18 +224,26 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; &gt;
 
-&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; data-caption=&#34;Fig 2. Diagonal Markov chain. In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. &amp;copy; Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x &amp;#43; v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays.&#34;&gt;
+&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=info:doi/10.1371/journal.pcbi.1005068.g002&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Fig 2. &lt;em&gt;Diagonal Markov chain.&lt;/em&gt; In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. &amp;copy; Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x + v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Fig 2. &lt;em&gt;Diagonal Markov chain.&lt;/em&gt; In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. &amp;copy; Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x + v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -231,18 +255,26 @@ The researchers show that this hypothesis also makes it possible to explain the 
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; &gt;
 
-&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; data-caption=&#34;Fig 5. Histogram of the estimated positions as a function of time for the dMBP model. Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.&#34;&gt;
+&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g005&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Fig 5. &lt;em&gt;Histogram of the estimated positions as a function of time for the dMBP model.&lt;/em&gt; Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Fig 5. &lt;em&gt;Histogram of the estimated positions as a function of time for the dMBP model.&lt;/em&gt; Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -298,18 +330,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_model.jpg&#34; &gt;
 
-&lt;img src=&#34;figure_model.jpg&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_model.jpg&#34; data-caption=&#34;Edge co-occurrences (A) An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. (B) The relationship between a reference edge A and another edge B can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license). This is used to compute the chevron map in Figure~2.&#34;&gt;
+&lt;img src=&#34;figure_model.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;Edge co-occurrences &lt;strong&gt;(A)&lt;/strong&gt; An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. &lt;strong&gt;(B)&lt;/strong&gt; The relationship between a reference edge &lt;em&gt;A&lt;/em&gt; and another edge &lt;em&gt;B&lt;/em&gt; can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg&#34; target=&#34;_blank&#34;&gt;Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt;). This is used to compute the chevron map in Figure~2.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Edge co-occurrences &lt;strong&gt;(A)&lt;/strong&gt; An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. &lt;strong&gt;(B)&lt;/strong&gt; The relationship between a reference edge &lt;em&gt;A&lt;/em&gt; and another edge &lt;em&gt;B&lt;/em&gt; can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg&#34; target=&#34;_blank&#34;&gt;Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt;). This is used to compute the chevron map in Figure~2.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -322,18 +362,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_chevrons.png&#34; &gt;
 
-&lt;img src=&#34;figure_chevrons.png&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_chevrons.png&#34; data-caption=&#34;The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&amp;rsquo; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.&#34;&gt;
+&lt;img src=&#34;figure_chevrons.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&amp;rsquo; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&amp;rsquo; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -346,18 +394,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_chevrons2.png&#34; &gt;
 
-&lt;img src=&#34;figure_chevrons2.png&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_chevrons2.png&#34; data-caption=&#34;As for Figure 2, we show the probability of edge configurations as chevron maps for two databases (man-made, animal). Here, we show the ratio of histogram counts relative to that of the non-animal natural image dataset. Deeper and deeper red circles indicate configurations that are more and more likely (and blue respectively less likely) with respect to the histogram computed for non-animal images. In the left plot, the animal images exhibit relatively more circular continuations and converging angles (red chevrons in the central vertical axis) relative to non-animal natural images, at the expense of co-linear, parallel, and orthogonal configurations (blue circles along the middle horizontal axis). The man-made images have strikingly more co-linear features (central circle), which reflects the prevalence of long, straight lines in the cage images in that dataset. We use this representation to categorize images from these different categories in Figure~4.&#34;&gt;
+&lt;img src=&#34;figure_chevrons2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;As for Figure 2, we show the probability of edge configurations as chevron maps for two databases (man-made, animal). Here, we show the ratio of histogram counts relative to that of the non-animal natural image dataset. Deeper and deeper red circles indicate configurations that are more and more likely (and blue respectively less likely) with respect to the histogram computed for non-animal images. In the left plot, the animal images exhibit relatively more circular continuations and converging angles (red chevrons in the central vertical axis) relative to non-animal natural images, at the expense of co-linear, parallel, and orthogonal configurations (blue circles along the middle horizontal axis). The man-made images have strikingly more co-linear features (central circle), which reflects the prevalence of long, straight lines in the cage images in that dataset. We use this representation to categorize images from these different categories in Figure~4.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    As for Figure 2, we show the probability of edge configurations as chevron maps for two databases (man-made, animal). Here, we show the ratio of histogram counts relative to that of the non-animal natural image dataset. Deeper and deeper red circles indicate configurations that are more and more likely (and blue respectively less likely) with respect to the histogram computed for non-animal images. In the left plot, the animal images exhibit relatively more circular continuations and converging angles (red chevrons in the central vertical axis) relative to non-animal natural images, at the expense of co-linear, parallel, and orthogonal configurations (blue circles along the middle horizontal axis). The man-made images have strikingly more co-linear features (central circle), which reflects the prevalence of long, straight lines in the cage images in that dataset. We use this representation to categorize images from these different categories in Figure~4.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -367,18 +423,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_results.png&#34; &gt;
 
-&lt;img src=&#34;figure_results.png&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_results.png&#34; data-caption=&#34;Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&amp;rsquo;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&amp;rsquo; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50\% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80\% for human observers and 82\% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.&#34;&gt;
+&lt;img src=&#34;figure_results.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&amp;rsquo;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&amp;rsquo; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50\% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80\% for human observers and 82\% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&amp;rsquo;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&amp;rsquo; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50\% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80\% for human observers and 82\% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -388,18 +452,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_FA_humans.png&#34; &gt;
 
-&lt;img src=&#34;figure_FA_humans.png&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure_FA_humans.png&#34; data-caption=&#34;To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;rsquo; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.&#34;&gt;
+&lt;img src=&#34;figure_FA_humans.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;rsquo; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;rsquo; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 &lt;/p&gt;&lt;/li&gt;
@@ -423,18 +495,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; &gt;
 
-&lt;img src=&#34;featured.png&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;featured.png&#34; data-caption=&#34;(A) This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. (B) This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34;&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;&lt;strong&gt;(A)&lt;/strong&gt; This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. &lt;strong&gt;(B)&lt;/strong&gt; This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;(A)&lt;/strong&gt; This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. &lt;strong&gt;(B)&lt;/strong&gt; This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -455,18 +535,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; &gt;
 
-&lt;img src=&#34;figure1.jpg&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; data-caption=&#34;Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985).&#34;&gt;
+&lt;img src=&#34;figure1.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985).&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985).
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 &lt;/li&gt;
@@ -529,18 +617,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;grating.gif&#34; &gt;
 
-&lt;img src=&#34;grating.gif&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;grating.gif&#34; data-caption=&#34;Band-pass motion stimuli for perception and action tasks. (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. &amp;copy; For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.&#34;&gt;
+&lt;img src=&#34;grating.gif&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;&lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. &amp;copy; For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. &amp;copy; For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -558,18 +654,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;line_particles.gif&#34; &gt;
 
-&lt;img src=&#34;line_particles.gif&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;line_particles.gif&#34; data-caption=&#34;The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.&#34;&gt;
+&lt;img src=&#34;line_particles.gif&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -579,18 +683,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; &gt;
 
-&lt;img src=&#34;figure1.jpg&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; data-caption=&#34;Figure 1: (A) The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the dotted circle) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Due to the limited size of receptive fields in sensory cortical areas (such as shown by the dotted white circle), such problem is faced by local populations of neurons that visually estimate the motion of objects. (A-inset) On a polar representation of possible velocity vectors (the cross in the center corresponds to the null velocity, the outer circle corresponding to twice the amplitude of physical speed), we plot the empirical histogram of detected velocity vectors. This representation gives a quantification of the aperture problem in the velocity domain: At the onset of motion detection, information is concentrated along an elongated constraint line (white=high probability, black=zero probability). (B) We use the prior knowledge that in natural scenes, motion as defined by its position and velocity is following smooth trajectories. Quantitatively, it means that velocity is approximately conserved and that position is transported according to the known velocity. We show here such a transition on position and velocity (respectively $x_t$ and $V_t$) from time t to t &amp;#43; dt with the perturbation modeling the smoothness of prediction in position and velocity (respectively $N_x$ and $N_V$). &amp;copy; Applying such a prior on a dynamical system detecting motion, we show that motion converges to the physical motion after approximately one spatial period (the line moved by twice its height). (C-Inset) The read-out of the system converged to the physical motion: Motion-based prediction is sufficient to resolve the aperture problem. (D) As observed at the perceptual level [Castet et al., 1993, Pei et al., 2010], size and duration of the tracking angle bias decreased with respect to the height of the line. Height was measured relative to a spatial period (respectively 60%, 40% and 20%). Here we show the average tracking angle red-out from the probabilistic representation as a function of time, averaged over 20 trials (error bars show one standard deviation).&#34;&gt;
+&lt;img src=&#34;figure1.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Figure 1: &lt;em&gt;(A)&lt;/em&gt; The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the dotted circle) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Due to the limited size of receptive fields in sensory cortical areas (such as shown by the dotted white circle), such problem is faced by local populations of neurons that visually estimate the motion of objects. &lt;em&gt;(A-inset)&lt;/em&gt; On a polar representation of possible velocity vectors (the cross in the center corresponds to the null velocity, the outer circle corresponding to twice the amplitude of physical speed), we plot the empirical histogram of detected velocity vectors. This representation gives a quantification of the aperture problem in the velocity domain: At the onset of motion detection, information is concentrated along an elongated constraint line (white=high probability, black=zero probability). &lt;em&gt;(B)&lt;/em&gt; We use the prior knowledge that in natural scenes, motion as defined by its position and velocity is following smooth trajectories. Quantitatively, it means that velocity is approximately conserved and that position is transported according to the known velocity. We show here such a transition on position and velocity (respectively $x_t$ and $V_t$) from time t to t + dt with the perturbation modeling the smoothness of prediction in position and velocity (respectively $N_x$ and $N_V$). &lt;em&gt;&amp;copy;&lt;/em&gt; Applying such a prior on a dynamical system detecting motion, we show that motion converges to the physical motion after approximately one spatial period (the line moved by twice its height). &lt;em&gt;(C-Inset)&lt;/em&gt; The read-out of the system converged to the physical motion: Motion-based prediction is sufficient to resolve the aperture problem. &lt;em&gt;(D)&lt;/em&gt; As observed at the perceptual level [Castet et al., 1993, Pei et al., 2010], size and duration of the tracking angle bias decreased with respect to the height of the line. Height was measured relative to a spatial period (respectively 60%, 40% and 20%). Here we show the average tracking angle red-out from the probabilistic representation as a function of time, averaged over 20 trials (error bars show one standard deviation).&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Figure 1: &lt;em&gt;(A)&lt;/em&gt; The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the dotted circle) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Due to the limited size of receptive fields in sensory cortical areas (such as shown by the dotted white circle), such problem is faced by local populations of neurons that visually estimate the motion of objects. &lt;em&gt;(A-inset)&lt;/em&gt; On a polar representation of possible velocity vectors (the cross in the center corresponds to the null velocity, the outer circle corresponding to twice the amplitude of physical speed), we plot the empirical histogram of detected velocity vectors. This representation gives a quantification of the aperture problem in the velocity domain: At the onset of motion detection, information is concentrated along an elongated constraint line (white=high probability, black=zero probability). &lt;em&gt;(B)&lt;/em&gt; We use the prior knowledge that in natural scenes, motion as defined by its position and velocity is following smooth trajectories. Quantitatively, it means that velocity is approximately conserved and that position is transported according to the known velocity. We show here such a transition on position and velocity (respectively $x_t$ and $V_t$) from time t to t + dt with the perturbation modeling the smoothness of prediction in position and velocity (respectively $N_x$ and $N_V$). &lt;em&gt;&amp;copy;&lt;/em&gt; Applying such a prior on a dynamical system detecting motion, we show that motion converges to the physical motion after approximately one spatial period (the line moved by twice its height). &lt;em&gt;(C-Inset)&lt;/em&gt; The read-out of the system converged to the physical motion: Motion-based prediction is sufficient to resolve the aperture problem. &lt;em&gt;(D)&lt;/em&gt; As observed at the perceptual level [Castet et al., 1993, Pei et al., 2010], size and duration of the tracking angle bias decreased with respect to the height of the line. Height was measured relative to a spatial period (respectively 60%, 40% and 20%). Here we show the average tracking angle red-out from the probabilistic representation as a function of time, averaged over 20 trials (error bars show one standard deviation).
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -600,18 +712,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure2.jpg&#34; &gt;
 
-&lt;img src=&#34;figure2.jpg&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure2.jpg&#34; data-caption=&#34;Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of &amp;copy; a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).&#34;&gt;
+&lt;img src=&#34;figure2.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of &amp;copy; a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of &amp;copy; a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -621,18 +741,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure3.jpg&#34; &gt;
 
-&lt;img src=&#34;figure3.jpg&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure3.jpg&#34; data-caption=&#34;Figure 3: To explore the state-space of the dynamical system, we simulated motion-based prediction for a simple small dot (size 2.5% of a spatial period) moving horizontally from the left to the right of the screen. We tested different levels of sensory noise with respect to different levels of internal noise, that is, to different values of the strength of prediction. (Right) Results show the emergence of different states for different prediction precisions: a regime when prediction is weak and which shows high tracking error and variability (No Tracking - NT), a phase for intermediate values of prediction strength (as in Figure 1) exhibiting a low tracking error and low variability in the tracking phase (True Tracking - TT) and finally a phase corresponding to higher precisions with relatively efficient mean detection but high variability (False Tracking - FT). We give 3 representative examples of the emerging states at one contrast level (C = 0.1) with starting (red) and ending (blue) points and respectively NT, TT and FT by showing inferred trajectories for each trial. (Left) We define tracking error as the ratio between detected speed and target speed and we plot it with respect to the stimulus contrast as given by the inverse of sensory noise. Error bars give the variability in tracking error as averaged over 20 trials. As prediction strength increases, there is a transition from smooth contrast response function (NT) to more binary responses (TT and FT).&#34;&gt;
+&lt;img src=&#34;figure3.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Figure 3: To explore the state-space of the dynamical system, we simulated motion-based prediction for a simple small dot (size 2.5% of a spatial period) moving horizontally from the left to the right of the screen. We tested different levels of sensory noise with respect to different levels of internal noise, that is, to different values of the strength of prediction. &lt;em&gt;(Right)&lt;/em&gt; Results show the emergence of different states for different prediction precisions: a regime when prediction is weak and which shows high tracking error and variability (No Tracking - NT), a phase for intermediate values of prediction strength (as in Figure 1) exhibiting a low tracking error and low variability in the tracking phase (True Tracking - TT) and finally a phase corresponding to higher precisions with relatively efficient mean detection but high variability (False Tracking - FT). We give 3 representative examples of the emerging states at one contrast level (C = 0.1) with starting (red) and ending (blue) points and respectively NT, TT and FT by showing inferred trajectories for each trial. &lt;em&gt;(Left)&lt;/em&gt; We define tracking error as the ratio between detected speed and target speed and we plot it with respect to the stimulus contrast as given by the inverse of sensory noise. Error bars give the variability in tracking error as averaged over 20 trials. As prediction strength increases, there is a transition from smooth contrast response function (NT) to more binary responses (TT and FT).&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Figure 3: To explore the state-space of the dynamical system, we simulated motion-based prediction for a simple small dot (size 2.5% of a spatial period) moving horizontally from the left to the right of the screen. We tested different levels of sensory noise with respect to different levels of internal noise, that is, to different values of the strength of prediction. &lt;em&gt;(Right)&lt;/em&gt; Results show the emergence of different states for different prediction precisions: a regime when prediction is weak and which shows high tracking error and variability (No Tracking - NT), a phase for intermediate values of prediction strength (as in Figure 1) exhibiting a low tracking error and low variability in the tracking phase (True Tracking - TT) and finally a phase corresponding to higher precisions with relatively efficient mean detection but high variability (False Tracking - FT). We give 3 representative examples of the emerging states at one contrast level (C = 0.1) with starting (red) and ending (blue) points and respectively NT, TT and FT by showing inferred trajectories for each trial. &lt;em&gt;(Left)&lt;/em&gt; We define tracking error as the ratio between detected speed and target speed and we plot it with respect to the stimulus contrast as given by the inverse of sensory noise. Error bars give the variability in tracking error as averaged over 20 trials. As prediction strength increases, there is a transition from smooth contrast response function (NT) to more binary responses (TT and FT).
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -642,18 +770,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure4.jpg&#34; &gt;
 
-&lt;img src=&#34;figure4.jpg&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure4.jpg&#34; data-caption=&#34;Figure 4: (Top) Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. (Bottom) Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.&#34;&gt;
+&lt;img src=&#34;figure4.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Figure 4: &lt;em&gt;(Top)&lt;/em&gt; Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. &lt;em&gt;(Bottom)&lt;/em&gt; Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Figure 4: &lt;em&gt;(Top)&lt;/em&gt; Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. &lt;em&gt;(Bottom)&lt;/em&gt; Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -671,18 +807,26 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; &gt;
 
-&lt;img src=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; data-caption=&#34;This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment. The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.&#34;&gt;
+&lt;img src=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;&lt;strong&gt;This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.&lt;/strong&gt; The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.&lt;/strong&gt; The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -839,18 +983,26 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;v1_tiger.gif&#34; &gt;
 
-&lt;img src=&#34;v1_tiger.gif&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;v1_tiger.gif&#34; data-caption=&#34;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&#34;&gt;
+&lt;img src=&#34;v1_tiger.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;&lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 

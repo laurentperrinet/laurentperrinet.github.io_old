@@ -24,18 +24,26 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; &gt;
 
-&lt;img src=&#34;mindmap.png&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; data-caption=&#34;Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.&#34;&gt;
+&lt;img src=&#34;mindmap.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -55,18 +63,26 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;header.jpg&#34; &gt;
 
-&lt;img src=&#34;header.jpg&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;header.jpg&#34; data-caption=&#34;Biologically Inspired Computer vision&#34;&gt;
+&lt;img src=&#34;header.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Biologically Inspired Computer vision&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Biologically Inspired Computer vision
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -80,12 +96,20 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;header.jpg&#34; &gt;
 
-&lt;img src=&#34;header.jpg&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;header.jpg&#34; &gt;
+&lt;img src=&#34;header.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -102,12 +126,20 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34;&
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; &gt;
 
-&lt;img src=&#34;mindmap.png&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; &gt;
+&lt;img src=&#34;mindmap.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;

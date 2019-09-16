@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -35,10 +35,6 @@
 
   
 
-
-
-
-  
 
   
   
@@ -80,13 +76,14 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.04a87a1cb9027e3c50f566322527c56f.css">
+  <link rel="stylesheet" href="/css/academic.min.54abc5f3f1ddc380a34d4103fd11d77a.css">
 
   
 
@@ -140,6 +137,56 @@
     
     <meta property="article:modified_time" content="2019-03-03T23:39:03&#43;01:00">
   
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/"
+  },
+  "headline": "Efficient learning of sparse image representations using homeostatic regulation",
+  
+  "datePublished": "2017-01-01T00:00:00+01:00",
+  "dateModified": "2019-03-03T23:39:03+01:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Victor Boutin"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Novel visual computations",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://laurentperrinet.github.io/img/hulk.png"
+    }
+  },
+  "description": "One core advantage of sparse representations is the efficient coding of complex signals using compact codes. For instance, it allows for the representation of any image as a combination of few elements drawn from a large dictionary of basis functions. In the context of the efficient processing of natural images, we propose here that such codes can be optimized by designing proper homeostatic rules between the elements of the dictionary. Indeed, a common design for unsupervised learning rules relies on a gradient descent over a cost measuring representation quality with respect to sparseness. The sparseness constraint introduces a competition which can be optimized by ensuring that each item in the dictionary is selected as often as others. We implemented this rule by introducing a gain normalization similar to what is observed in a balanced neural network. We validated this theoretical insight by challenging different sparse coding algorithms with the same learning rule but with or without homeostasis. The different sparse coding algorithms were chosen for their efficiency and generality. They include least-angle regression, orthogonal matching pursuit and basis pursuit. Simulations show that for a given homeostasis rule, gradient descent performed similarly the learning of a dataset of image patches. While the coding algorithm did not matter much, including homeostasis changed qualitatively the learned features. In particular, homeostasis results in a more homogeneous set of orientation selective filters, which is closer to what is found in the visual cortex of mammals. To further validate these results, we applied this algorithm to the optimization of a visual system embedded in an aerial robot. As a consequence, this biologically-inspired learning rule demonstrates that principles observed in neural computations can help improve real-life machine learning algorithms."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -486,7 +533,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub">
 
   
 
@@ -507,7 +554,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Efficient learning of sparse image representations using homeostatic regulation</h1>
+  <h1>Efficient learning of sparse image representations using homeostatic regulation</h1>
 
   
 
@@ -515,9 +562,6 @@
     
 
 
-
-<meta content="2017-01-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2019-03-03 23:39:03 &#43;0100 CET" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -530,7 +574,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </div>
   
@@ -542,7 +586,7 @@
     
       
     
-    <time>2017-01-01</time>
+    2017-01-01
   </span>
   
 
@@ -711,7 +755,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">One core advantage of sparse representations is the efficient coding of complex signals using compact codes. For instance, it allows for the representation of any image as a combination of few elements drawn from a large dictionary of basis functions. In the context of the efficient processing of natural images, we propose here that such codes can be optimized by designing proper homeostatic rules between the elements of the dictionary. Indeed, a common design for unsupervised learning rules relies on a gradient descent over a cost measuring representation quality with respect to sparseness. The sparseness constraint introduces a competition which can be optimized by ensuring that each item in the dictionary is selected as often as others. We implemented this rule by introducing a gain normalization similar to what is observed in a balanced neural network. We validated this theoretical insight by challenging different sparse coding algorithms with the same learning rule but with or without homeostasis. The different sparse coding algorithms were chosen for their efficiency and generality. They include least-angle regression, orthogonal matching pursuit and basis pursuit. Simulations show that for a given homeostasis rule, gradient descent performed similarly the learning of a dataset of image patches. While the coding algorithm did not matter much, including homeostasis changed qualitatively the learned features. In particular, homeostasis results in a more homogeneous set of orientation selective filters, which is closer to what is found in the visual cortex of mammals. To further validate these results, we applied this algorithm to the optimization of a visual system embedded in an aerial robot. As a consequence, this biologically-inspired learning rule demonstrates that principles observed in neural computations can help improve real-life machine learning algorithms.</p>
+    <p class="pub-abstract">One core advantage of sparse representations is the efficient coding of complex signals using compact codes. For instance, it allows for the representation of any image as a combination of few elements drawn from a large dictionary of basis functions. In the context of the efficient processing of natural images, we propose here that such codes can be optimized by designing proper homeostatic rules between the elements of the dictionary. Indeed, a common design for unsupervised learning rules relies on a gradient descent over a cost measuring representation quality with respect to sparseness. The sparseness constraint introduces a competition which can be optimized by ensuring that each item in the dictionary is selected as often as others. We implemented this rule by introducing a gain normalization similar to what is observed in a balanced neural network. We validated this theoretical insight by challenging different sparse coding algorithms with the same learning rule but with or without homeostasis. The different sparse coding algorithms were chosen for their efficiency and generality. They include least-angle regression, orthogonal matching pursuit and basis pursuit. Simulations show that for a given homeostasis rule, gradient descent performed similarly the learning of a dataset of image patches. While the coding algorithm did not matter much, including homeostasis changed qualitatively the learned features. In particular, homeostasis results in a more homogeneous set of orientation selective filters, which is closer to what is found in the visual cortex of mammals. To further validate these results, we applied this algorithm to the optimization of a visual system embedded in an aerial robot. As a consequence, this biologically-inspired learning rule demonstrates that principles observed in neural computations can help improve real-life machine learning algorithms.</p>
     
 
     
@@ -786,20 +830,21 @@
 
 
 
+
   
   
   
   
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  <div class="media author-card">
     
       
-      <img class="portrait mr-3" src="/authors/victor-boutin/avatar_hu3fa49e0179d9ac667ca756a6cc8acac7_5641_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/victor-boutin/avatar_hu3fa49e0179d9ac667ca756a6cc8acac7_5641_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/victor-boutin/">Victor Boutin</a></h5>
+      <h5 class="card-title"><a href="/authors/victor-boutin/">Victor Boutin</a></h5>
       <h6 class="card-subtitle">Phd candidate in Computational Neuroscience</h6>
-      <p class="card-text" itemprop="description">During my PhD, I focused on predictive coding in a bio-inspired neural network.</p>
+      <p class="card-text">During my PhD, I focused on predictive coding in a bio-inspired neural network.</p>
       <ul class="network-icon" aria-hidden="true">
         
           
@@ -814,7 +859,7 @@
             
           
           <li>
-            <a itemprop="sameAs" href="https://github.com/VictorBoutin" target="_blank" rel="noopener">
+            <a href="https://github.com/VictorBoutin" target="_blank" rel="noopener">
               <i class="fab fa-github"></i>
             </a>
           </li>
@@ -938,7 +983,7 @@
     
     
     
-    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
 
     
 

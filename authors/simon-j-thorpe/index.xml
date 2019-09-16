@@ -24,18 +24,26 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;v1_tiger.gif&#34; &gt;
 
-&lt;img src=&#34;v1_tiger.gif&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;v1_tiger.gif&#34; data-caption=&#34;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&#34;&gt;
+&lt;img src=&#34;v1_tiger.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;&lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
