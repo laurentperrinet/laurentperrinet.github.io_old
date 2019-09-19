@@ -23,9 +23,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     
     <item>
       <title>Motion Clouds</title>
-      <link>https://laurentperrinet.github.io/project/motion-clouds/</link>
+      <link>https://laurentperrinet.github.io/grant/motion-clouds/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>https://laurentperrinet.github.io/project/motion-clouds/</guid>
+      <guid>https://laurentperrinet.github.io/grant/motion-clouds/</guid>
       <description>&lt;p&gt;Motion Clouds are random, textured dynamical stimuli synthesized such as to challenge spatio-temporal integration properties of the early visual system. Unlike classical low-entropy stimuli such as gratings, these stimuli are less susceptible to create interference patterns when mixed together. This is essential to study integrative and discriminative properties of the low-level sensory systems. Moreover, this pseudo-random stimulation protocol allows to make a trial-by-trial analysis locked to the stimulation onset. This allows to study experimentally trial-by-trial variability and relative importance between measurement noise and contextual uncertainty.&lt;/p&gt;
 
 &lt;p&gt;This is a first step before extending synthesis to probabilistic synthesis models of the texture&amp;rsquo;s geometric structure. The model will use geometrical multi-scale transformations extending the classical wavelet representation. For instance, these transformations synthesize the stimuli as randomized superposition of geometrical wavelets that match the spatio-temporal profile of association fields in V1. These will be implemented by computing evolutions of partial differential equations with randomized initial conditions. Finally, models are designed such that we explicitly tune the statistics of the generative model and thus control the structural complexity of the stimuli, such as different scales of smoothness in the spatio-temporal dynamics as displayed by natural scenes.&lt;/p&gt;
