@@ -6,7 +6,7 @@
       <atom:link href="https://laurentperrinet.github.io/authors/hugo-ladret/index.xml" rel="self" type="application/rss+xml" />
     <description>Novel visual computations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
     <image>
       <url>https://laurentperrinet.github.io/img/hulk.png</url>
       <title>Novel visual computations</title>
@@ -31,6 +31,63 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;li&gt;program : &lt;a href=&#34;https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf&#34; target=&#34;_blank&#34;&gt;https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf&#34; target=&#34;_blank&#34;&gt;Poster (pdf)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code : &lt;a href=&#34;https://github.com/hugoladret/InternshipM1&#34; target=&#34;_blank&#34;&gt;https://github.com/hugoladret/InternshipM1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://laurentperrinet.github.io/authors/hugo-ladret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/authors/hugo-ladret/</guid>
+      <description>
+
+&lt;h1 id=&#34;phd-student-2019-09-2013-11-a-multiscale-cortical-model-to-account-for-orientation-selectivity-in-natural-like-stimulations&#34;&gt;PhD Student (2019-09 / 2013-11): A multiscale cortical model to account for orientation selectivity in natural-like stimulations&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Aix-Marseille Université, Institut des Neurosciences de la Timone&lt;/li&gt;
+&lt;li&gt;Université de Montréal, Laboratoire des Neurosciences de la Vision&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;master-2b-undergrad-2019-01-12-2019-05-24&#34;&gt;master 2B (undergrad, 2019-01-12 / 2019-05-24)&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Université de Montréal, Laboratoire des Neurosciences de la Vision&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;master-2a-undergrad-2018-09-10-2019-01-11-learning-temporal-integrations-in-a-visual-spiking-neural-network&#34;&gt;master 2A (undergrad, 2018-09-10 / 2019-01-11) : Learning temporal integrations in a visual spiking neural network&lt;/h1&gt;
+
+&lt;p&gt;Building upon our previous work, we are investigating how recurrent neural networks learn to integrate temporal information, a dimension which is absent in most deep learning networks but provides a wealth of information in biological neural networks.&lt;/p&gt;
+
+&lt;p&gt;To be able to generalize our findings, I created a model of the early visual pathway (retina and thalamus) that generates neural activity from any natural image, based on data gathered in biological systems for the past several decades.
+The output from this early visual pathway is then processed by a recurrent spiking neural network whose dynamics match that of the primary visual cortex.&lt;/p&gt;
+
+&lt;p&gt;We showed that Spike Timing Dependant Plasticity (STDP) and recurrence are key components that allow spiking neural networks to extract patterns from noisy input and build strong internal representations. Such representations not only correctlt predict spatial informations (for example the organization of a visual scene) but also predict temporal structure underlying such informations.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;source code : &lt;a href=&#34;https://github.com/hugoladret/InternshipM2&#34; target=&#34;_blank&#34;&gt;https://github.com/hugoladret/InternshipM2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;neuroscience-specialist-for-artistic-creation-2018-07-2018-09&#34;&gt;Neuroscience Specialist for Artistic Creation (2018-07 / 2018-09)&lt;/h1&gt;
+
+&lt;p&gt;I developed computational neuroscience and computational physics models, in collaboration with well-known contemporary artist Etienne Rey at Friche la Belle de Mai (Marseille) and AI researcher Laurent Perrinet. The idea behind our project was to create works of art by distributing particles in a constrained, semi-stable space, thereby creating discrete illusory perceptions.&lt;/p&gt;
+
+&lt;p&gt;To dive into more technical details, my work included the implementation of a Boltzmann lattice for computational fluid dynamics (D2Q9 structure), as well as various electro-magnetic interaction models. On the neuroscience side, I used Deep Convoluted Generative Adverserial Networks (DCGAN), Kohonen maps and Canny edge detectors to generate triangulated graphs with a hidden underlying structure.
+In order to facilitate collaboration between the three of us, I also developed a GUI and multi-threading support that allowed us to work efficiently and use at best each our respective skill set.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;source code : &lt;a href=&#34;https://github.com/NaturalPatterns/&#34; target=&#34;_blank&#34;&gt;https://github.com/NaturalPatterns/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;master-1-undergrad-2018-04-2018-06-orientation-selectivity-in-a-ring-model-of-the-primary-visual-cortex&#34;&gt;master 1 (undergrad, 2018-04 / 2018-06): Orientation selectivity in a ring model of the primary visual cortex&lt;/h1&gt;
+
+&lt;p&gt;I created a ring model that performs orientation discrimination tasks, using an hybrid model of convolutionnal and recurrent networks. This work was, to our knowledge, the first visual ring model based on deep learning techniques.&lt;/p&gt;
+
+&lt;p&gt;The recurrence in the network plays a role akin to that of lateral interactions within the primary visual cortex. We have shown in this work that these lateral interactions provide robustness to noisy inputs in the model, which we infer to also be the  the case in the brain.
+To verify this assessment, I designed a 2-outcome discriminative psychophysics task (2AFC) and compared various metrics for human and model trials. The results showed that the lateral interactions allowed human-like performance, which is a strong qualitative argument in favor of the biological plausiblity of this model.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;all material is available @ &lt;a href=&#34;https://github.com/hugoladret/InternshipM1&#34; target=&#34;_blank&#34;&gt;https://github.com/hugoladret/InternshipM1&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
