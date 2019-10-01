@@ -6,7 +6,7 @@
       <atom:link href="https://laurentperrinet.github.io/authors/victor-boutin/index.xml" rel="self" type="application/rss+xml" />
     <description>Novel visual computations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 25 Mar 2019 14:30:00 +0100</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/img/hulk.png</url>
       <title>Novel visual computations</title>
@@ -146,89 +146,6 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;li&gt;code is available @ &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&#34; target=&#34;_blank&#34;&gt;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&lt;/a&gt; and heavily uses &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning&#34; target=&#34;_blank&#34;&gt;https://github.com/bicv/SparseHebbianLearning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf&#34; target=&#34;_blank&#34;&gt;poster (PDF)&lt;/a&gt;  will be presented Thursday, June 8 @ &lt;a href=&#34;http://spars2017.lx.it.pt/index_files/SPARS2017_program.html&#34; target=&#34;_blank&#34;&gt;SPARS, Lisbon&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://laurentperrinet.github.io/authors/victor-boutin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/authors/victor-boutin/</guid>
-      <description>
-
-&lt;h1 id=&#34;controlling-an-aerial-robot-by-human-semaphore-gestures-using-a-bio-inspired-neural-network-phd-12-2016-02-2020&#34;&gt;Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, &lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;-02/2020)&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Venue: Aix-Marseille University &lt;a href=&#34;https://doc2amu.univ-amu.fr/fr/victor-boutin-doctorant-promotion-2016&#34; target=&#34;_blank&#34;&gt;DOC2AMU&lt;/a&gt; is an innovative H2020-MSCA-COFUND&lt;/li&gt;
-&lt;li&gt;Keywords: Aerial Robots, Vision, Neural Networks, Bio-Inspired Computer Vision, Gaze orientation, learning&lt;/li&gt;
-&lt;li&gt;Thesis director: Dr. Laurent PERRINET, Director&amp;rsquo;s research unit: Institut de Neurosciences de la Timone (INT)&lt;/li&gt;
-&lt;li&gt;Thesis co-supervisition: Dr. Franck RUFFIER Co-director&amp;rsquo;s research unit: Institut des Sciences du Mouvement (ISM)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;description-of-the-phd-thesis-project&#34;&gt;Description of the PHD thesis project&lt;/h2&gt;
-
-&lt;p&gt;Robotics is a rapidly evolving technology that allows for fast, low-risk
-and low-cost tasks with a worldwide market of over 80 billion dollars
-over the next few years. In particular, aerial robots, also known as
-drones, provide a breakthrough to easily image and access all sorts of
-terrains and situations and are useful for instance in surveillance and
-forensics, emergency industrial inspection or a search and rescue
-operation. A major difficulty for their global acceptance is the
-difficulty for controlling their flight and interacting with them.&lt;/p&gt;
-
-&lt;p&gt;Indeed, aerial robots are generally operated using a (central) ground
-station which is not compatible with the time pressure required by
-emergency conditions, for instance when
-rescuing a person out of reach with the ground station. This PhD project
-aims at concealing such obstacles and construct an aerial robot which is
-able to be autonomously and interactively controlled by simple human
-gestures, for instance that of a rescuer. The main scientific challenges
-are (i) to embed in the aerial robot all the electronics for the visual
-system from the retina to the control signals to the propellers, (ii) to
-very quickly recognize a variety of simple gestures on-board using a
-neuromimetic architecture and (iii) to make the robot react in real time
-to these gestures. As such, this project is inter-disciplinary by
-positively combining advanced algorithms from event-based bio-inspired
-computer vision and the latest technology in aerial robots.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;R. Benosman , S.-H. Leng , C. Clercq , C. Bartolozzi &amp;amp; M. Srinivasan (2012) “Asynchronous frameless event-based optical flow”, Neural Networks - Elsevier&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;S.-C. Liu &amp;amp; T. Delbruck (2010) “Neuromorphic sensory systems”, Current opinion in neurobiology - Elsevier&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;J. Nagi, A. Giusti, G. A. Di Caro, L. M. Gambardella (2014) “HRI in the Sky, Controlling UAVs using Face Poses and Hand Gestures”, HRI&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;3i-dimensions-and-other-aspects-of-the-project&#34;&gt;3I dimensions and other aspects of the project&lt;/h2&gt;
-
-&lt;p&gt;The present PhD proposal is at the crossroad between various
- disciplines. It first concerns biology and neuroscience because its
- event-based approach is strongly inspired from the neuronal network
- observed in animals such as insects to primates and used for navigation,
- obstacle avoidance, and sensori-motor control. It is also covering
- electronics, aerial robotics and signal processing as the main project
- achievement is to create a working spike-based electronic architecture
- able to recognize body movement, and to use it to control the robot.
- Such an oucome will have beneficial outcomes with respects to the SRI-S3
- regional strategy, in particular with respect to “risks, security and
- safety”.&lt;/p&gt;
-
-&lt;p&gt;This project is a partnership between two different doctoral schools
- based in Marseille: the EDSMH at ISM for the robotic part, and the EDSVS
- at INT concerning visual processing and spike-based processing methods.
- This partnership will provide the ESR with the best resources to achieve
- his goals. In particular, the ISM owns a brand new flying arena (funded
- by Robotex project, www.marseilles-flying-arena.eu) equipped with
- high-tech motion capture tools (Vicon) and the INT has a entire
- technological platform dedicated for high-performance computing and
- measurement tool prototyping.&lt;/p&gt;
-
-&lt;p&gt;Combining neuroscience and robotics to design novel electronic
- architectures is an innovative and a valuable approach in Robotics. The
- doctoral student selected for this project will acquire experience in
- bio-inspired hardware architectures, which is going to be valuable in
- his career as there is a need to adapt actual electronic architecture to
- for instance spike-based visual processing.&lt;/p&gt;
 </description>
     </item>
     

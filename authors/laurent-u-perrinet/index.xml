@@ -6,7 +6,7 @@
       <atom:link href="https://laurentperrinet.github.io/authors/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
     <description>Novel visual computations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/img/hulk.png</url>
       <title>Novel visual computations</title>
@@ -49,7 +49,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/post/2019-10-10_gdrvision-atelier/</link>
       <pubDate>Mon, 16 Sep 2019 17:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/post/2019-10-10_gdrvision-atelier/</guid>
-      <description>&lt;ul&gt;
+      <description>&lt;p&gt;Date : jeudi 10 octobre de 9h30 à 12h30&lt;/p&gt;
+
+&lt;p&gt;Intervenants : Laurent Perrinet et Chloé Pasturel&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://gdrvision2019.sciencesconf.org/resource/page/id/2&#34; target=&#34;_blank&#34;&gt;programme&lt;/a&gt;: Nous proposons dans cet atelier pratique de présenter les nouveaux enjeux apportés par l&amp;rsquo;apprentissage profond et plus généralement par l&amp;rsquo;apprentissage machine. L&amp;rsquo;objectif est de montrer sous forme de simples exercises pratiques comment ces nouveaux outils permettent 1) de catégoriser des images 2) d&amp;rsquo;apprendre un tel modèles 3) de générer de nouvelles images à partir d&amp;rsquo;une base existante.&lt;/p&gt;&lt;/li&gt;
+
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/SpikeAI/2019-10-10_ML-tutorial&#34; target=&#34;_blank&#34;&gt;https://github.com/SpikeAI/2019-10-10_ML-tutorial&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Atelier concocté en collaboration avec &lt;a href=&#34;https://github.com/chloepasturel&#34; target=&#34;_blank&#34;&gt;Chloé Pasturel&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
@@ -1899,7 +1905,7 @@ Par principe de réflexion, la pièce absorbe l&amp;rsquo;image de l&amp;rsquo;e
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/150813922&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/150813922&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
@@ -1913,7 +1919,7 @@ Par principe de réflexion, la pièce absorbe l&amp;rsquo;image de l&amp;rsquo;e
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/UvE3ysXieSk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UvE3ysXieSk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -2198,7 +2204,7 @@ by a series of small acts. &amp;ldquo; Lao-Tze&lt;/p&gt;&lt;/li&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/317504725&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/317504725&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
@@ -2312,7 +2318,7 @@ Véronique Baton&lt;/p&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/191830797&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/191830797&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
@@ -2341,7 +2347,7 @@ Véronique Baton&lt;/p&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/66161665&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/66161665&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
@@ -2367,7 +2373,7 @@ Véronique Baton&lt;/p&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/33718945&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/33718945&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
@@ -2385,7 +2391,7 @@ Véronique Baton&lt;/p&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/56198653&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/56198653&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
@@ -2397,7 +2403,7 @@ Véronique Baton&lt;/p&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/z8328z2WO-w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/z8328z2WO-w&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -2409,7 +2415,7 @@ Installation &lt;a href=&#34;http://ondesparalleles.org/projets/tropique-7/&#34;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/lA2bovigzLg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/lA2bovigzLg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -4778,18 +4784,18 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Efficient Source Detection Using Integrate-and-Fire Neurons</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-05/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/perrinet-05/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Efficient representation of natural images using local cooperation</title>
       <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Source Detection Using Integrate-and-Fire Neurons</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-05/</guid>
       <description></description>
     </item>
     
@@ -4963,15 +4969,6 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-99/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://laurentperrinet.github.io/authors/laurent-u-perrinet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/authors/laurent-u-perrinet/</guid>
-      <description>&lt;p&gt;Laurent Perrinet is a computational neuroscientist specialized in large scale neural network models of low-level vision, perception and action, currently at the &amp;ldquo;Institut de Neurosciences de la Timone&amp;rdquo; (France), a joint research unit (CNRS / Aix-Marseille Université). He co-authored more than 40 articles in computational neuroscience and computer vision. He graduated from the aeronautics engineering school SUPAERO, in Toulouse (France) with a signal processing and applied mathematics degree. He received a PhD in Cognitive Science in 2003 on the mathematical analysis of temporal spike coding of images by using a multi-scale and adaptive representation of natural scenes. His research program is focusing in bridging the complex dynamics of realistic, large-scale models of spiking neurons with functional models of low-level vision. In particular, as part of the FACETS and BrainScaleS consortia, he has developed experimental protocols in collaboration with neurophysiologists to characterize the response of population of neurons. Recently, he extended models of visual processing in the framework of predictive processing in collaboration with the team of Karl Friston at the University College of London. This method aims at characterizing the processing of dynamical flow of information as an active inference process. His current challenge within the &lt;a href=&#34;http://www.int.univ-amu.fr/spip.php?page=equipe&amp;equipe=NeOpTo&amp;lang=en&#34;&gt;NeOpTo team&lt;/a&gt; is to translate, or &lt;em&gt;compile&lt;/em&gt; in computer terminology, this mathematical formalism with the event-based nature of neural information with the aim of pushing forward the frontiers of Artificial Intelligence systems.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
