@@ -47,7 +47,7 @@ between traditional CNNs and biological visual systems.&lt;/p&gt;
 
 &lt;p&gt;In this post-doctoral project, we propose to address these major
 limitations by incorporating a new dynamical feature of cortical
-circuits: *sensory-evoked traveling waves* (&lt;a href=&#34;#muller2018cortical&#34;&gt;Muller el al, 2018&lt;/a&gt;). Indeed,
+circuits: ** sensory-evoked traveling waves ** (&lt;a href=&#34;#muller2018cortical&#34;&gt;Muller el al, 2018&lt;/a&gt;). Indeed,
 the architecture of primary visual cortex (V1) contains dense local
 connectivity with sparse long-range connections (&lt;a href=&#34;#Voges12&#34;&gt;Voges and Perrinet, 2012&lt;/a&gt;). Such
 connections add to the traditional convolutional kernel a novel
