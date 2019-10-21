@@ -28,7 +28,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;p&gt;The project will be coordinated by Laurent Perrinet. For more information visit &lt;a href=&#34;https://laurentperrinet.github.io/post/2019-10-21_postdoc-position&#34; target=&#34;_blank&#34;&gt;https://laurentperrinet.github.io/post/2019-10-21_postdoc-position&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: &lt;a href=&#34;mailto:Laurent.Perrinet@univ-amu.fr&#34; target=&#34;_blank&#34;&gt;Laurent.Perrinet@univ-amu.fr&lt;/a&gt; . The appointment is for 18 month. The starting date is set to January 6th, 2020 but can be flexibly extended.  Applications are welcome immediately and until the end of year 2019.&lt;/p&gt;
+&lt;p&gt;To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: &lt;a href=&#34;mailto:Laurent.Perrinet@univ-amu.fr&#34; target=&#34;_blank&#34;&gt;Laurent.Perrinet@univ-amu.fr&lt;/a&gt; . The appointment is for 18 month. The starting date is set to January 6th, 2020 but can be flexibly extended. Applications are welcome immediately and until the end of year 2019.&lt;/p&gt;
 
 &lt;p&gt;Thanks for distributing this announcement to potential candidates!&lt;/p&gt;
 
@@ -43,8 +43,9 @@ integration of contextual information. Such feats are fundamental
 features of human visual behavior. Is is clear today that nonlinear,
 recurrent interactions are key to this efficiency [@Kietzmann19]. We
 will use inspiration from neurophysiology to resolve this apparent gap
-between traditional CNNs and biological visual systems.&lt;br /&gt;
-In this post-doctoral project, we propose to address these major
+between traditional CNNs and biological visual systems.&lt;/p&gt;
+
+&lt;p&gt;In this post-doctoral project, we propose to address these major
 limitations by incorporating a new dynamical feature of cortical
 circuits: sensory-evoked traveling waves &lt;a href=&#34;http://dx.doi.org/10.1371/journal.pmed.0020124&#34; title=&#34;Ioannidis JPA. Why Most Published Research Findings Are False. PLoS Medicine. Public Library of Science; 2005;2(8):e124. Available from: http://dx.doi.org/10.1371/journal.pmed.0020124&#34; target=&#34;_blank&#34;&gt;@muller2018cortical&lt;/a&gt;. Indeed,
 the architecture of primary visual cortex (V1) contains dense local
@@ -54,21 +55,22 @@ interaction kernel within a single layer (across positions and
 channels). This introduces a recurrent network architecture which
 integrates sensory input and current activity. Coupled with the
 continuous time dynamics of cortical circuits, this architecture
-provides the necessary conditions for generating travelling waves.
+provides the necessary conditions for generating traveling waves.
 Inspired by recent work in neuroscience uncovering the ubiquity of these
 waves during visual processing, we aim to design a self-supervised CNN
 that will exploit these dynamics for new applications in computer
-vision.&lt;br /&gt;
-We first expect to extend results of self-supervised learning that we
+vision.&lt;/p&gt;
+
+&lt;p&gt;We first expect to extend results of self-supervised learning that we
 have obtained on complex static
 images [@BoutinFranciosiniChavaneRuffierPerrinet19] and which
-phenomenologically correspond to an \&amp;ldquo;association field\&amp;ldquo;. Such
+phenomenologically correspond to an &amp;ldquo;association field&amp;rdquo;. Such
 processes have a huge importance in the dynamics of visual processing.
 In particular, we will disentangle the different forms of interactions
-in form and motion [@gerard2016synaptic; @Chavane2000]. Analysing the
+in form and motion [@gerard2016synaptic; @Chavane2000]. Analyzing the
 activity of the network using tools from
 neurophysiology [@muller2014stimulus; @Chemla2018], we will analyze the
-role of observed travelling waves in forming efficient representations
+role of observed traveling waves in forming efficient representations
 of the visual world. Lastly, we will analyze how those algorithms scale
 to the learning of the processing of representations invariant to common
 geometrical transforms as is believed to be implemented in biological
@@ -78,16 +80,18 @@ visual systems.&lt;/p&gt;
 
 &lt;p&gt;Candidates should have at least a PhD degree in the domain of
 computational neuroscience, physics or engineering, and a solid training
-in machine learning and computer vision.&lt;br /&gt;
-Good command of programming tools (Python scripting) is required.
+in machine learning and computer vision.&lt;/p&gt;
+
+&lt;p&gt;Good command of programming tools (Python scripting) is required.
 Multidisciplinary background would be strongly appreciated and in
 particular an advanced knowledge in mathematics, for a deep
 understanding of signal processing methods, along with strong
 computational skills. The candidate needs to show a keen interest in
 neuroscience. Moreover the candidate will have to be curious about
 neuronal networks in general and neuro-mimetic approaches to robotics in
-particular even if this specific knowledge is not mandatory.&lt;br /&gt;
-The candidate has to fluently speak English to understand publications
+particular even if this specific knowledge is not mandatory.&lt;/p&gt;
+
+&lt;p&gt;The candidate has to fluently speak English to understand publications
 and to attend international conferences and workshops. The candidate has
 to show good skills in computer science (programming skills,
 architecture understanding&amp;hellip;), and in image processing methods. The
