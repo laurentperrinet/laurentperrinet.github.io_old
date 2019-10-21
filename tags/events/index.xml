@@ -34,122 +34,44 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;h1 id=&#34;detailed-description-visual-computations-using-traveling-waves&#34;&gt;Detailed description: Visual computations using Traveling Waves&lt;/h1&gt;
 
-&lt;p&gt;Biological vision is surprisingly efficient. To understand this
-efficiency, Deep learning and convolutional neural networks (CNNs) have
-recently produced great advances in computer. However, these algorithms
-now face multiple challenges: learned architectures are often not
-interpretable, disproportionally energy greedy, and often lack the
-integration of contextual information. Such feats are fundamental
-features of human visual behavior. It is clear today that nonlinear,
-recurrent interactions are key to this efficiency (&lt;a href=&#34;#Kietzmann19&#34;&gt;Kietzmann el al, 2019&lt;/a&gt;). We
-will use inspiration from neurophysiology to resolve this apparent gap
-between traditional CNNs and biological visual systems.&lt;/p&gt;
+&lt;p&gt;Biological vision is surprisingly efficient. To understand this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in computer. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information. Such feats are fundamental features of human visual behavior. It is clear today that nonlinear, recurrent interactions are key to this efficiency (&lt;a href=&#34;#Kietzmann19&#34;&gt;Kietzmann el al, 2019&lt;/a&gt;). We will use inspiration from neurophysiology to resolve this apparent gap between traditional CNNs and biological visual systems.&lt;/p&gt;
 
-&lt;p&gt;In this post-doctoral project, we propose to address these major
-limitations by incorporating a new dynamical feature of cortical
-circuits: ** sensory-evoked traveling waves ** (&lt;a href=&#34;#muller2018cortical&#34;&gt;Muller el al, 2018&lt;/a&gt;). Indeed,
-the architecture of primary visual cortex (V1) contains dense local
-connectivity with sparse long-range connections (&lt;a href=&#34;#Voges12&#34;&gt;Voges and Perrinet, 2012&lt;/a&gt;). Such
-connections add to the traditional convolutional kernel a novel
-interaction kernel within a single layer (across positions and
-channels). This introduces a recurrent network architecture which
-integrates sensory input and current activity. Coupled with the
-continuous time dynamics of cortical circuits, this architecture
-provides the necessary conditions for generating traveling waves.
-Inspired by recent work in neuroscience uncovering the ubiquity of these
-waves during visual processing, we aim to design a self-supervised CNN
-that will exploit these dynamics for new applications in computer
-vision.&lt;/p&gt;
+&lt;p&gt;In this post-doctoral project, we propose to address these major limitations by incorporating a new dynamical feature of cortical circuits: *sensory-evoked traveling waves * (&lt;a href=&#34;#muller2018cortical&#34;&gt;Muller el al, 2018&lt;/a&gt;). Indeed, the architecture of primary visual cortex (V1) contains dense local connectivity with sparse long-range connections (&lt;a href=&#34;#Voges12&#34;&gt;Voges and Perrinet, 2012&lt;/a&gt;). Such connections add to the traditional convolutional kernel a novel interaction kernel within a single layer (across positions and channels). This introduces a recurrent network architecture which integrates sensory input and current activity. Coupled with the continuous time dynamics of cortical circuits, this architecture provides the necessary conditions for generating traveling waves. Inspired by recent work in neuroscience uncovering the ubiquity of these waves during visual processing, we aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.&lt;/p&gt;
 
-&lt;p&gt;We first expect to extend results of self-supervised learning that we
-have obtained on complex static
-images (&lt;a href=&#34;#BoutinFranciosiniChavaneRuffierPerrinet19&#34;&gt;Boutin el al, 2019&lt;/a&gt;) and which
-phenomenologically correspond to an &amp;ldquo;association field&amp;rdquo;. Such
-processes have a huge importance in the dynamics of visual processing.
-In particular, we will disentangle the different forms of interactions
-in form and motion (&lt;a href=&#34;#gerard2016synaptic&#34;&gt;Gerard-Mercier el al, 2016&lt;/a&gt;; &lt;a href=&#34;#Chavane2000&#34;&gt;Chavane el al, 2000&lt;/a&gt;)). Analyzing the
-activity of the network using tools from
-neurophysiology (&lt;a href=&#34;#muller2014stimulus&#34;&gt;Muller el al, 2014&lt;/a&gt;; &lt;a href=&#34;#Chemla2018&#34;&gt;Chemla el al, 2019&lt;/a&gt;), we will analyze the
-role of observed traveling waves in forming efficient representations
-of the visual world. Lastly, we will analyze how those algorithms scale
-to the learning of the processing of representations invariant to common
-geometrical transforms as is believed to be implemented in biological
-visual systems.&lt;/p&gt;
+&lt;p&gt;We first expect to extend results of self-supervised learning that we have obtained on complex static images (&lt;a href=&#34;#BoutinFranciosiniChavaneRuffierPerrinet19&#34;&gt;Boutin el al, 2019&lt;/a&gt;) and which phenomenologically correspond to an &amp;ldquo;association field&amp;rdquo;. Such processes have a huge importance in the dynamics of visual processing. In particular, we will disentangle the different forms of interactions in form and motion (&lt;a href=&#34;#gerard2016synaptic&#34;&gt;Gerard-Mercier el al, 2016&lt;/a&gt;; &lt;a href=&#34;#Chavane2000&#34;&gt;Chavane el al, 2000&lt;/a&gt;)). Analyzing the activity of the network using tools from neurophysiology (&lt;a href=&#34;#muller2014stimulus&#34;&gt;Muller el al, 2014&lt;/a&gt;; &lt;a href=&#34;#Chemla2018&#34;&gt;Chemla el al, 2019&lt;/a&gt;), we will analyze the role of observed traveling waves in forming efficient representations of the visual world. Lastly, we will analyze how those algorithms scale to the learning of the processing of representations invariant to common geometrical transforms as is believed to be implemented in biological visual systems.&lt;/p&gt;
 
 &lt;h2 id=&#34;expected-profile-of-the-candidate&#34;&gt;Expected profile of the candidate&lt;/h2&gt;
 
-&lt;p&gt;Candidates should have at least a PhD degree in the domain of
-computational neuroscience, physics or engineering, and a solid training
-in machine learning and computer vision.&lt;/p&gt;
+&lt;p&gt;Candidates should have at least a PhD degree in the domain of computational neuroscience, physics or engineering, and a solid training in machine learning and computer vision.&lt;/p&gt;
 
-&lt;p&gt;Good command of programming tools (Python scripting) is required.
-Multidisciplinary background would be strongly appreciated and in
-particular an advanced knowledge in mathematics, for a deep
-understanding of signal processing methods, along with strong
-computational skills. The candidate needs to show a keen interest in
-neuroscience. Moreover the candidate will have to be curious about
-neuronal networks in general and neuro-mimetic approaches to robotics in
-particular even if this specific knowledge is not mandatory.&lt;/p&gt;
+&lt;p&gt;The candidate has to show good skills in computer science (programming skills, architecture understanding, &amp;hellip;), and in image processing methods. Good command of programming tools (Python scripting) is required. Multidisciplinary background would be strongly appreciated and in particular an advanced knowledge in mathematics, for a deep understanding of signal processing methods, along with strong computational skills. The candidate needs to show a keen interest in neuroscience. Moreover the candidate will have to be curious about neuronal networks in general and neuro-mimetic approaches to robotics in particular even if this specific knowledge is not mandatory.&lt;/p&gt;
 
-&lt;p&gt;The candidate has to fluently speak English to understand publications
-and to attend international conferences and workshops. The candidate has
-to show good skills in computer science (programming skills,
-architecture understanding&amp;hellip;), and in image processing methods. The
-preferred candidate will have the ability to work autonomously, and
-needs to be flexible to comply with the working method of the
-supervisors.&lt;/p&gt;
+&lt;p&gt;The candidate has to fluently speak English to understand publications and to attend international conferences and workshops. The preferred candidate will have the ability to work autonomously, and needs to be flexible to comply with the working method of the supervisors.&lt;/p&gt;
 
 &lt;h2 id=&#34;research-context&#34;&gt;Research context&lt;/h2&gt;
 
-&lt;p&gt;This project is financed by the &lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-horizontal-v1/&#34; target=&#34;_blank&#34;&gt;ANR Horizontal
-V1&lt;/a&gt; grant
-which aims at understanding the emergence of sensory predictions linking
-local shape attributes (orientation, contour) to global indices of
-movement (direction, speed, trajectory) at the earliest stage of
-cortical processing (primary visual cortex, i.e. V1). The cross-talk
-between physiological and theoretical approaches will be fostered by the
-close collaboration with the teams of Frédéric Chavane and Yves Fregnac.
-The theoretical work will be performed in close collaboration with &lt;a href=&#34;https://www.mullerlab.ca/&#34; target=&#34;_blank&#34;&gt;Lyle
-Muller&lt;/a&gt; (Western U). The project is hosted at
-the &lt;a href=&#34;http://www.int.univ-amu.fr/?lang=en&#34; target=&#34;_blank&#34;&gt;Institut de Neurosciences de la
-Timone&lt;/a&gt; in
-&lt;a href=&#34;https://en.wikipedia.org/wiki/Marseille&#34; target=&#34;_blank&#34;&gt;Marseille&lt;/a&gt;, a lively town by
-the Mediterranean sea in the south of France.&lt;/p&gt;
+&lt;p&gt;This project is financed by the &lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-horizontal-v1/&#34; target=&#34;_blank&#34;&gt;ANR Horizontal V1&lt;/a&gt; grant which aims at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). The cross-talk between physiological and theoretical approaches will be fostered by the close collaboration with the teams of Frédéric Chavane and Yves Fregnac. The theoretical work will be performed in close collaboration with &lt;a href=&#34;https://www.mullerlab.ca/&#34; target=&#34;_blank&#34;&gt;Lyle Muller&lt;/a&gt; (Western U). The project is hosted at the &lt;a href=&#34;http://www.int.univ-amu.fr/?lang=en&#34; target=&#34;_blank&#34;&gt;Institut de Neurosciences de la Timone&lt;/a&gt; in &lt;a href=&#34;https://en.wikipedia.org/wiki/Marseille&#34; target=&#34;_blank&#34;&gt;Marseille&lt;/a&gt;, a lively town by the Mediterranean sea in the south of France.&lt;/p&gt;
 
 &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
 
-&lt;p&gt;&lt;a name=&#34;BoutinFranciosiniChavaneRuffierPerrinet19&#34;&gt;
-Boutin, Victor, Angelo Franciosini, Frédéric Y Chavane, Franck Ruffier,
-and Laurent U Perrinet. 2019. &lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.&lt;/a&gt;&amp;ldquo;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;BoutinFranciosiniChavaneRuffierPerrinet19&#34;&gt; Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. 2019. &lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.&lt;/a&gt;&amp;ldquo;&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a name=&#34;Chavane2000&#34;&gt;
-Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J.
-Lorenceau, and Y. Frégnac. 2000. &lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1016/S0928-4257(00)01096-2&#34; target=&#34;_blank&#34;&gt;The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?&lt;/a&gt;&amp;rdquo; &lt;em&gt;Journal of Physiology Paris&lt;/em&gt; 94 (5-6): 333&amp;ndash;42.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;Chavane2000&#34;&gt; Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J. Lorenceau, and Y. Frégnac. 2000. &lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1016/S0928-4257(00)01096-2&#34; target=&#34;_blank&#34;&gt;The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?&lt;/a&gt;&amp;rdquo; &lt;em&gt;Journal of Physiology Paris&lt;/em&gt; 94 (5-6): 333&amp;ndash;42.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a name=&#34;Chemla2018&#34;&gt;
-Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut,
-Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. &lt;/a&gt; 2018.
-&amp;ldquo;&lt;a href=&#34;https://doi.org/10.1101/372763&#34; target=&#34;_blank&#34;&gt;Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1&lt;/a&gt;&amp;rdquo;&amp;ldquo;.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;Chemla2018&#34;&gt; Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut, Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. &lt;/a&gt; 2018. &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1101/372763&#34; target=&#34;_blank&#34;&gt;Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1&lt;/a&gt;&amp;rdquo;&amp;ldquo;.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a name=&#34;gerard2016synaptic&#34;&gt;
-Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G
-Troncoso, and Yves Frégnac. 2016. &lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://www.jneurosci.org/content/36/14/3925&#34; target=&#34;_blank&#34;&gt;Synaptic Correlates of Low-Level Perception in V1&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of Neuroscience&lt;/em&gt; 36 (14): 3925&amp;ndash;42.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;gerard2016synaptic&#34;&gt; Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. 2016. &lt;/a&gt; &amp;ldquo;&lt;a href=&#34;https://www.jneurosci.org/content/36/14/3925&#34; target=&#34;_blank&#34;&gt;Synaptic Correlates of Low-Level Perception in V1&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Journal of Neuroscience&lt;/em&gt; 36 (14): 3925&amp;ndash;42.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a name=&#34;Kietzmann19&#34;&gt;
-Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. &lt;/a&gt; 2019. &amp;ldquo;&lt;a href=&#34;https://doi.org/10/gf9j2t&#34; target=&#34;_blank&#34;&gt;Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;,
-October, 201905544.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;Kietzmann19&#34;&gt;Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. &lt;/a&gt; 2019. &amp;ldquo;&lt;a href=&#34;https://doi.org/10/gf9j2t&#34; target=&#34;_blank&#34;&gt;Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;,
+October, 201905544.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a name=&#34;muller2014stimulus&#34;&gt;
-Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe.
-&lt;/a&gt; 2014. &amp;ldquo;&lt;a href=&#34;http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf&#34; target=&#34;_blank&#34;&gt;The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Nature Communications&lt;/em&gt; 5: 3675.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;muller2014stimulus&#34;&gt;Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe. &lt;/a&gt; 2014. &amp;ldquo;&lt;a href=&#34;http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf&#34; target=&#34;_blank&#34;&gt;The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Nature Communications&lt;/em&gt; 5: 3675.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a name=&#34;muller2018cortical&#34;&gt;
-Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski.
-&lt;/a&gt; 2018. &amp;ldquo;&lt;a href=&#34;https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf&#34; target=&#34;_blank&#34;&gt;Cortical Travelling Waves: Mechanisms and Computational
-Principles&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Nature Reviews Neuroscience&lt;/em&gt; 19 (5): 255.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;muller2018cortical&#34;&gt; Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. &lt;/a&gt; 2018. &amp;ldquo;&lt;a href=&#34;https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf&#34; target=&#34;_blank&#34;&gt;Cortical Travelling Waves: Mechanisms and Computational Principles&lt;/a&gt;.&amp;rdquo; &lt;em&gt;Nature Reviews Neuroscience&lt;/em&gt; 19 (5): 255.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;&lt;a name=&#34;Voges12&#34;&gt;
-Voges, Nicole, and Laurent U Perrinet.&lt;/a&gt; 2012. &amp;ldquo;&lt;a href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34;&gt;Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Frontiers in Computational Neuroscience&lt;/em&gt; 6.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;Voges12&#34;&gt; Voges, Nicole, and Laurent U Perrinet.&lt;/a&gt; 2012. &amp;ldquo;&lt;a href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34;&gt;Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Frontiers in Computational Neuroscience&lt;/em&gt; 6.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
