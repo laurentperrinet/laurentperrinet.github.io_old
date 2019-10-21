@@ -40,7 +40,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Italics with &lt;em&gt;unde sensory-evoked traveling waves rscores&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In this post-doctoral project, we propose to address these major limitations by incorporating a new dynamical feature of cortical circuits: &lt;em&gt;unde sensory-evoked traveling waves rscores&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In this post-doctoral project, we propose to address these major limitations by incorporating a new dynamical feature of cortical circuits: &lt;em&gt;sensory-evoked traveling waves&lt;/em&gt;.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In this post-doctoral project, we propose to address these major limitations by incorporating a new dynamical feature of cortical circuits: &lt;it&gt;sensory-evoked traveling waves&amp;lt;\it&amp;gt; (&lt;a href=&#34;#muller2018cortical&#34;&gt;Muller el al, 2018&lt;/a&gt;). Indeed, the architecture of primary visual cortex (V1) contains dense local connectivity with sparse long-range connections (&lt;a href=&#34;#Voges12&#34;&gt;Voges and Perrinet, 2012&lt;/a&gt;). Such connections add to the traditional convolutional kernel a novel interaction kernel within a single layer (across positions and channels). This introduces a recurrent network architecture which integrates sensory input and current activity. Coupled with the continuous time dynamics of cortical circuits, this architecture provides the necessary conditions for generating traveling waves. Inspired by recent work in neuroscience uncovering the ubiquity of these waves during visual processing, we aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.&lt;/p&gt;
 
