@@ -1,0 +1,17 @@
+@inproceedings{FranciosiniPerrinet19neurofrance,
+ abstract = {Sparse coding holds the idea that signals can be concisely described as a linear mixture of few components (called atoms) picked from a bigger set of primary kernels (called dictionary). This framework has long been used to model the strategy employed by mammals´ primary visual cortex (V1) to detect low-level features, in particular, oriented edges in natural scenes.
+Differently, predictive coding is a prominent tool used to model hierarchical neural dynamics: high-level cortical layers predict at best the activity of lower-level ones and this prediction is sent back through of a feedback connection between the layers. This defines a recursive loop in which prediction error is integrated to the sensory input and fed forward to refine the quality of the prediction. We propose a Sparse Deep Predictive Coding algorithm (SDPC) that exploits convolutional dictionaries and a feedback information flow for meaningful, hierarchical feature learning in static images. The proposed architecture allows us to add arbitrary non-linear spatial transformation stages between each layer of the hierarchical sparse representations, such as Max-Pooling or Spatial Transformer layers.
+SPDC consists of a dynamical system in the form of a convolutional neural network, analogous to the model proposed by Rao and Ballard, 1999. The state variables are sparse feature maps encoding the input and the feedback signals while the parameters of the system are convolutional dictionaries optimized through Hebbian learning. We observed that varying the strength of the feedback modulates the overall sparsity of low-level representations (lower feedback scales correspond to a less sparse activity), but without changing the exponential shape of the distribution of the sparse prior.
+This model could shed light on the role of sparsity and feedback modulation in hierarchical feature learning with important applications in signal processing (data compression), computer vision (by extending it to dynamic scenes) and computational neuroscience, notably by using more complex priors like group sparsity to model topological organization in the brain cortex.},
+ author = {Franciosini, Angelo and Boutin, Victor and Perrinet, Laurent U},
+ bdsk-url-1 = {https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790},
+ booktitle = {NeuroFrance 2019, International Conference from the Société des Neurosciences, Marseille, France},
+ date-added = {2019-06-17 18:01:18 +0200},
+ date-modified = {2019-09-19 11:57:06 +0200},
+ grants = {doc-2-amu,phd-icn,mesocentre},
+ keywords = {Deep Learning},
+ title = {A hierarchical, multi-layer convolutional sparse coding algorithm based on predictive coding},
+ url = {https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/790},
+ year = {2019}
+}
+
