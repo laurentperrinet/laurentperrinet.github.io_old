@@ -48,8 +48,8 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -60,14 +60,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -83,27 +83,52 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.82936fefd6d50005ef2d16e485a17a90.css">
+  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-140381649-1', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-140381649-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-  
+
 
   
 
@@ -596,7 +621,6 @@
     
 
 
-
 <div class="article-metadata">
 
   
@@ -623,8 +647,67 @@
   
   
 
-  
+</div>
+
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><p>kremkow-10-jcns+++
+title = &ldquo;Synchrony in thalamic inputs enhances propagation of activity through cortical layers&rdquo;
+date = 2007-01-01
+authors = [ &ldquo;Jens Kremkow&rdquo;, &ldquo;Laurent U Perrinet&rdquo;, &ldquo;Arvind Kumar&rdquo;, &ldquo;Ad M Aertsen&rdquo;, &ldquo;Guillaume S Masson&rdquo;,]
+publication_types = [ &ldquo;2&rdquo;,]
+abstract = &ldquo;Sensory input enters the cortex via the thalamocortical (TC) projection, where it elicits large postsynaptic potentials in layer 4 neurons [1]. Interestingly, the TC connections account for only ̃15% of synapses onto these neurons. It has been therefore controversially discussed how thalamic input can drive the cortex. Strong TC synapses have been one suggestion to ensure the strength of the TC projection (s̈trong-synapse model̈̇ Another possibility is that the excitation from single thalamic fibers are weak but get amplified by recurrent excitatory feedback in layer 4 (p̈̈lifier modelB̈̈runo and Sakmann [2] recently provided new evidence that individual TC synapses in vivo are weak and only produce small excitatory postsynaptic potentials. However, they suggested that thalamic input can activate the cortex due to the synchronous firing and that cortical amplification is not required. This would support the ̈̈ö̈ny models̈̈̈ed by correlation analysis [3]. Here, we studied the effect of correlation in the TC input, with weak synapses, to the responses of a layered cortical network model. The connectivity of the layered network was taken from Binzegger et al. 2004 [4]. The network was simulated using NEST [5] with the Python interface PyNN [6] to enable interoperability with different simulators. The sensory input to layer 4 was modelled by a simple retino-geniculate model of the transformation of light into spike trains [7], which was implemented by leaky integrate-and-fire model neurons. We found that introducing correlation into TC inputs enhanced the likelihood to produce responses in layer 4 and improved the activity propagation across layers. In addition, we compared the response of the cortical network to different noise conditions and obtained contrast response functions which were in accordance with neurophysiological observations. This Work is supported by the 6th RFP of the EU (grant no. 15879-FACETS) and by the BMBF grant 01GQ0420 to the BCCN Freiburg. 1. Chung S, Ferster D: Strength and orientation tuning of the thalamic input to simple cells revealed by electrically evoked cortical suppression. Neuron 1998, 20:1177-1189. 2. Bruno M, Sakmann B: Cortex is driven by weak but synchronously active thalamocortical synpases. Science 2006, 312:1622-1627. 3. Alonso JM, Usrey WM, Reid RC: Precisely correlated firing in cells of the lateral geniculate nucleus. Nature 1996, 383:815-819. 4. Binzegger T, Douglas RJ, Martin KAC: A quantitative map of the circuit of the cat primary visual cortex. J Neurosci 2004, 24:8441-8453. 5. NEST <a href="http://www.nest-initiative.org" target="_blank">http://www.nest-initiative.org</a> 6. PyNN <a href="http://pynn.gforge.inria.fr" target="_blank">http://pynn.gforge.inria.fr</a> 7. Gazeres N, Borg-Graham LJ, Frégnac Y: A phenomenological model of visually evoked spike trains in cat geniculate nonlagged X-cells. Vis Neurosci 1998, 15:1157-1174.&rdquo;
+featured = false
+publication = &ldquo;<em>BMC Neuroscience</em>&ldquo;
+tags = [ &ldquo;pynn&rdquo;,]
+url_pdf = &ldquo;<a href="http://dx.doi.org/10.1186/1471-2202-8-S2-P180&quot;" target="_blank">http://dx.doi.org/10.1186/1471-2202-8-S2-P180&quot;</a>
+doi = &ldquo;10.<sup>1186</sup>&frasl;<sub>1471</sub>-2202-8-S2-P180&rdquo;
+projects = []
+publishDate = &ldquo;2019-09-17&rdquo;
+grants = [ &ldquo;facets&rdquo;,]
++++</p>
+
+<ul>
+<li>see this subsequent paper in the <a href="https://laurentperrinet.github.io/publication/kremkow-10-jcns/" target="_blank">Journal of Computational Neuroscience</a></li>
+</ul>
+</div>
+
+    
+
+
+
+
+
+
+
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     
@@ -650,7 +733,7 @@
       
       <li>
         <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/publication/kremkow-07-cns/&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-facebook"></i>
         </a>
       </li>
     
@@ -710,65 +793,8 @@
 </div>
 
 
-  
-
-</div>
-
-    
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-</div>
-
-
-
-  <div class="article-container">
-
-    
-
-    
-
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"><p>kremkow-10-jcns+++
-title = &ldquo;Synchrony in thalamic inputs enhances propagation of activity through cortical layers&rdquo;
-date = 2007-01-01
-authors = [ &ldquo;Jens Kremkow&rdquo;, &ldquo;Laurent U Perrinet&rdquo;, &ldquo;Arvind Kumar&rdquo;, &ldquo;Ad M Aertsen&rdquo;, &ldquo;Guillaume S Masson&rdquo;,]
-publication_types = [ &ldquo;2&rdquo;,]
-abstract = &ldquo;Sensory input enters the cortex via the thalamocortical (TC) projection, where it elicits large postsynaptic potentials in layer 4 neurons [1]. Interestingly, the TC connections account for only ̃15% of synapses onto these neurons. It has been therefore controversially discussed how thalamic input can drive the cortex. Strong TC synapses have been one suggestion to ensure the strength of the TC projection (s̈trong-synapse model̈̇ Another possibility is that the excitation from single thalamic fibers are weak but get amplified by recurrent excitatory feedback in layer 4 (p̈̈lifier modelB̈̈runo and Sakmann [2] recently provided new evidence that individual TC synapses in vivo are weak and only produce small excitatory postsynaptic potentials. However, they suggested that thalamic input can activate the cortex due to the synchronous firing and that cortical amplification is not required. This would support the ̈̈ö̈ny models̈̈̈ed by correlation analysis [3]. Here, we studied the effect of correlation in the TC input, with weak synapses, to the responses of a layered cortical network model. The connectivity of the layered network was taken from Binzegger et al. 2004 [4]. The network was simulated using NEST [5] with the Python interface PyNN [6] to enable interoperability with different simulators. The sensory input to layer 4 was modelled by a simple retino-geniculate model of the transformation of light into spike trains [7], which was implemented by leaky integrate-and-fire model neurons. We found that introducing correlation into TC inputs enhanced the likelihood to produce responses in layer 4 and improved the activity propagation across layers. In addition, we compared the response of the cortical network to different noise conditions and obtained contrast response functions which were in accordance with neurophysiological observations. This Work is supported by the 6th RFP of the EU (grant no. 15879-FACETS) and by the BMBF grant 01GQ0420 to the BCCN Freiburg. 1. Chung S, Ferster D: Strength and orientation tuning of the thalamic input to simple cells revealed by electrically evoked cortical suppression. Neuron 1998, 20:1177-1189. 2. Bruno M, Sakmann B: Cortex is driven by weak but synchronously active thalamocortical synpases. Science 2006, 312:1622-1627. 3. Alonso JM, Usrey WM, Reid RC: Precisely correlated firing in cells of the lateral geniculate nucleus. Nature 1996, 383:815-819. 4. Binzegger T, Douglas RJ, Martin KAC: A quantitative map of the circuit of the cat primary visual cortex. J Neurosci 2004, 24:8441-8453. 5. NEST <a href="http://www.nest-initiative.org" target="_blank">http://www.nest-initiative.org</a> 6. PyNN <a href="http://pynn.gforge.inria.fr" target="_blank">http://pynn.gforge.inria.fr</a> 7. Gazeres N, Borg-Graham LJ, Frégnac Y: A phenomenological model of visually evoked spike trains in cat geniculate nonlagged X-cells. Vis Neurosci 1998, 15:1157-1174.&rdquo;
-featured = false
-publication = &ldquo;<em>BMC Neuroscience</em>&ldquo;
-tags = [ &ldquo;pynn&rdquo;,]
-url_pdf = &ldquo;<a href="http://dx.doi.org/10.1186/1471-2202-8-S2-P180&quot;" target="_blank">http://dx.doi.org/10.1186/1471-2202-8-S2-P180&quot;</a>
-doi = &ldquo;10.<sup>1186</sup>&frasl;<sub>1471</sub>-2202-8-S2-P180&rdquo;
-projects = []
-publishDate = &ldquo;2019-09-17&rdquo;
-grants = [ &ldquo;facets&rdquo;,]
-+++</p>
-
-<ul>
-<li>see this subsequent paper in the <a href="https://laurentperrinet.github.io/publication/kremkow-10-jcns/" target="_blank">Journal of Computational Neuroscience</a></li>
-</ul>
-</div>
-
-    
-
-
-    
 
 
 
@@ -790,7 +816,7 @@ grants = [ &ldquo;facets&rdquo;,]
     
   
   
-  <div class="media author-card">
+  <div class="media author-card content-widget-hr">
     
       
       <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
@@ -801,104 +827,110 @@ grants = [ &ldquo;facets&rdquo;,]
       <h6 class="card-subtitle">Researcher in Computational Neuroscience</h6>
       <p class="card-text">My research interests include Machine Learning and computational neuroscience applied to Vision.</p>
       <ul class="network-icon" aria-hidden="true">
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="/#contact" >
-              <i class="fas fa-envelope"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://twitter.com/laurentperrinet" target="_blank" rel="noopener">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://github.com/laurentperrinet" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://www.instagram.com/laurentperrinet/" target="_blank" rel="noopener">
-              <i class="fab fa-instagram"></i>
-            </a>
-          </li>
-        
-      </ul>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.instagram.com/laurentperrinet/" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+  
+</ul>
+
     </div>
   </div>
 
 
 
 
-    
+
+
+
+
+
+  
+  
+
 
 
   </div>
 </div>
-
-
 
       
 
@@ -914,27 +946,27 @@ grants = [ &ldquo;facets&rdquo;,]
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -944,13 +976,13 @@ grants = [ &ldquo;facets&rdquo;,]
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -1004,7 +1036,7 @@ grants = [ &ldquo;facets&rdquo;,]
     
     
     
-    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
     
 
@@ -1013,6 +1045,7 @@ grants = [ &ldquo;facets&rdquo;,]
 
 
 
+  
   
   <div class="container">
     <footer class="site-footer">
@@ -1029,7 +1062,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
     
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+      <a href="#" class="back-to-top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>

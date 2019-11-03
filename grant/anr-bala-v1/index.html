@@ -48,8 +48,8 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -60,14 +60,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -83,27 +83,52 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.82936fefd6d50005ef2d16e485a17a90.css">
+  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-140381649-1', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-140381649-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-  
+
 
   
 
@@ -560,7 +585,6 @@
   
 
 
-
 <div class="article-metadata">
 
   
@@ -589,8 +613,73 @@
   
   
 
+</div>
+
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 395px; max-height: 172px;">
+  <div style="position: relative">
+    <img src="/grant/anr-bala-v1/featured.png" alt="" class="featured-image">
     
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+<h1 id="anr-balav1-balanced-states-in-area-v1-2013-2016">ANR BalaV1: Balanced states in area V1 (<sup>2013</sup>&frasl;<sub>2016</sub>)</h1>
+
+<ul>
+<li><a href="http://www.agence-nationale-recherche.fr/Project-ANR-13-BSV4-0014" target="_blank">Official website</a></li>
+</ul>
+
+<p>In carnivores and primates the orientation selectivity (OS) of the cells in the primary visual cortex (V1) is organized in maps in which preferred orientations (POs) of the cells change gradually except near “pin- wheels”, around which all orientations are present. Over the last half-century the mechanism for OS has been hotly debated. However the theories that purport to explain OS have almost all considered cortical networks in which the neurons receive input preferentially from cells with similar PO. Such theories certainly capture the connectivity for neurons in orientation domains where neurons are surrounded by other cells with similar PO. However this does not necessarily hold near pinwheels: because of the discontinuous change in orientation preference at the pinwheel, neurons in this area are surrounded by cells of all preferred orientations. Thus if the probability of connection is solely dependent on anatomical distance, the inputs that these neurons receive should represent all orientations by roughly the same amount. Thus one may expect that the response of the cells near pinwheels should hardly vary with orientation, in contrast to experimental data. As a result, the common belief is that, at least near pinwheels, the connectivity depends also on the differences between preferred orientation. The situation near pinwheels in V1 of carnivores and primates is similar to that in the whole of V1 of rodents. In these species, neurons in V1 are OS but the network does not exhibit an orientation map and the surround of the cells represents all orientations roughly equally. In a recent theoretical paper (Hansel and van Vreeswijk 2012) we have demonstrated that in this situation, the response of the cells can still be orientation selective provided that the network operates in the balanced regime. Here we hypothesize that V1 with an orientation map operates in the balanced regime and therefore neurons can exhibit OS near pinwheels even in the absence of functional specific connectivity. The goal of this interdisciplinary project is to investigate whether the “balance hypothesis” holds for layer <sup>2</sup>&frasl;<sub>3</sub> in V1 of primate and carnivore and whether the functional organization observed in that layer can be accounted for without feature specific connectivity. We will combine modeling and experiments to investigate how the response of the neurons – the mean firing, the mean voltage, the inhibitory and excitatory conductances and importantly, the power spectrum of their fluctuations – vary with the location in the map, and also how a population of neurons – LFP, voltage-sensitive dye imaging or 2 photons – is affected by the various para- meters used to test the system. Whether V1 indeed operates in the balanced regime in more realistic conditions will be further investigated by determining how the local network responds to visual stimuli beyond the classical receptive field. We will investigate this issue in models of layer <sup>2</sup>&frasl;<sub>3</sub> representing multiple hyper- columns to characterize center-surround interactions and their dependence on the long-range connectivity. This will provide us with predictions for center-surround interactions for cells near pinwheels and in orientation domains. These predictions will be tested experimentally.</p>
+
+<p>The proposed project is new and ambitious. It aims at building a comprehensive and coherent understand- ing of the physiology of V1 layer <sup>2</sup>&frasl;<sub>3</sub> on several spatial scales from single cells to several hypercolumns and to account for this in mechanistic models. To accomplish these ambitious aims, we propose a combination of experimental and computational studies that take advantage of the unique strengths and the complementarity of expertise of 3 research teams. The Paris team has extensive experience in large-scale modeling of V1. The Toulouse and Marseille teams master both intra- and extracellular electrophysiology. In addition, the Marseille team is expert in microscopic and mesoscopic imaging techniques in V1.</p>
+
+<p>Acknowledgement</p>
+
+<pre><code>This work was supported by ANR project &quot;BalaV1&quot; N° ANR-13-BSV4-0014-02.  
+</code></pre>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/grant/">grant</a>
+  
+  <a class="badge badge-light" href="/tags/past-grant/">past-grant</a>
+  
+</div>
+
+
+
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     
@@ -616,7 +705,7 @@
       
       <li>
         <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/grant/anr-bala-v1/&amp;t=ANR%20BalaV1%20%282013/2016%29" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-facebook"></i>
         </a>
       </li>
     
@@ -676,76 +765,8 @@
 </div>
 
 
-  
-
-</div>
-
-  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 395px; max-height: 172px;">
-  <div style="position: relative">
-    <img src="/grant/anr-bala-v1/featured.png" alt="" class="featured-image">
-    
-  </div>
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style">
-      
-
-<h1 id="anr-balav1-balanced-states-in-area-v1-2013-2016">ANR BalaV1: Balanced states in area V1 (<sup>2013</sup>&frasl;<sub>2016</sub>)</h1>
-
-<ul>
-<li><a href="http://www.agence-nationale-recherche.fr/Project-ANR-13-BSV4-0014" target="_blank">Official website</a></li>
-</ul>
-
-<p>In carnivores and primates the orientation selectivity (OS) of the cells in the primary visual cortex (V1) is organized in maps in which preferred orientations (POs) of the cells change gradually except near “pin- wheels”, around which all orientations are present. Over the last half-century the mechanism for OS has been hotly debated. However the theories that purport to explain OS have almost all considered cortical networks in which the neurons receive input preferentially from cells with similar PO. Such theories certainly capture the connectivity for neurons in orientation domains where neurons are surrounded by other cells with similar PO. However this does not necessarily hold near pinwheels: because of the discontinuous change in orientation preference at the pinwheel, neurons in this area are surrounded by cells of all preferred orientations. Thus if the probability of connection is solely dependent on anatomical distance, the inputs that these neurons receive should represent all orientations by roughly the same amount. Thus one may expect that the response of the cells near pinwheels should hardly vary with orientation, in contrast to experimental data. As a result, the common belief is that, at least near pinwheels, the connectivity depends also on the differences between preferred orientation. The situation near pinwheels in V1 of carnivores and primates is similar to that in the whole of V1 of rodents. In these species, neurons in V1 are OS but the network does not exhibit an orientation map and the surround of the cells represents all orientations roughly equally. In a recent theoretical paper (Hansel and van Vreeswijk 2012) we have demonstrated that in this situation, the response of the cells can still be orientation selective provided that the network operates in the balanced regime. Here we hypothesize that V1 with an orientation map operates in the balanced regime and therefore neurons can exhibit OS near pinwheels even in the absence of functional specific connectivity. The goal of this interdisciplinary project is to investigate whether the “balance hypothesis” holds for layer <sup>2</sup>&frasl;<sub>3</sub> in V1 of primate and carnivore and whether the functional organization observed in that layer can be accounted for without feature specific connectivity. We will combine modeling and experiments to investigate how the response of the neurons – the mean firing, the mean voltage, the inhibitory and excitatory conductances and importantly, the power spectrum of their fluctuations – vary with the location in the map, and also how a population of neurons – LFP, voltage-sensitive dye imaging or 2 photons – is affected by the various para- meters used to test the system. Whether V1 indeed operates in the balanced regime in more realistic conditions will be further investigated by determining how the local network responds to visual stimuli beyond the classical receptive field. We will investigate this issue in models of layer <sup>2</sup>&frasl;<sub>3</sub> representing multiple hyper- columns to characterize center-surround interactions and their dependence on the long-range connectivity. This will provide us with predictions for center-surround interactions for cells near pinwheels and in orientation domains. These predictions will be tested experimentally.</p>
-
-<p>The proposed project is new and ambitious. It aims at building a comprehensive and coherent understand- ing of the physiology of V1 layer <sup>2</sup>&frasl;<sub>3</sub> on several spatial scales from single cells to several hypercolumns and to account for this in mechanistic models. To accomplish these ambitious aims, we propose a combination of experimental and computational studies that take advantage of the unique strengths and the complementarity of expertise of 3 research teams. The Paris team has extensive experience in large-scale modeling of V1. The Toulouse and Marseille teams master both intra- and extracellular electrophysiology. In addition, the Marseille team is expert in microscopic and mesoscopic imaging techniques in V1.</p>
-
-<p>Acknowledgement</p>
-
-<pre><code>This work was supported by ANR project &quot;BalaV1&quot; N° ANR-13-BSV4-0014-02.  
-</code></pre>
-
-    </div>
-
-    
-
-
-    
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/grant/">grant</a>
-  
-  <a class="badge badge-light" href="/tags/past-grant/">past-grant</a>
-  
-</div>
-
-
-
-    
-      
 
 
 
@@ -767,7 +788,7 @@
     
   
   
-  <div class="media author-card">
+  <div class="media author-card content-widget-hr">
     
       
       <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
@@ -778,121 +799,123 @@
       <h6 class="card-subtitle">Researcher in Computational Neuroscience</h6>
       <p class="card-text">My research interests include Machine Learning and computational neuroscience applied to Vision.</p>
       <ul class="network-icon" aria-hidden="true">
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="/#contact" >
-              <i class="fas fa-envelope"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://twitter.com/laurentperrinet" target="_blank" rel="noopener">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://github.com/laurentperrinet" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://www.instagram.com/laurentperrinet/" target="_blank" rel="noopener">
-              <i class="fab fa-instagram"></i>
-            </a>
-          </li>
-        
-      </ul>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=TVyUV38AAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.instagram.com/laurentperrinet/" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+  
+</ul>
+
     </div>
   </div>
 
 
 
-      
-      
-      <div class="article-widget">
-        <div class="hr-light"></div>
-        <h3>Related</h3>
-        <ul>
-          
-          <li><a href="/grant/anr-rem/">ANR REM (2013/2016)</a></li>
-          
-          <li><a href="/grant/anr-speed/">ANR SPEED (2013/2016)</a></li>
-          
-          <li><a href="/grant/anr-trajectory/">ANR TRAJECTORY (2016/2019)</a></li>
-          
-          <li><a href="/grant/brain-scales/">BrainScaleS (2011/2014) </a></li>
-          
-          <li><a href="/grant/codde/">CODDE (2008/2012)</a></li>
-          
-        </ul>
-      </div>
-      
-    
 
-    
 
-    
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/grant/anr-rem/">ANR REM (2013/2016)</a></li>
+      
+      <li><a href="/grant/anr-speed/">ANR SPEED (2013/2016)</a></li>
+      
+      <li><a href="/grant/anr-trajectory/">ANR TRAJECTORY (2016/2019)</a></li>
+      
+      <li><a href="/grant/brain-scales/">BrainScaleS (2011/2014) </a></li>
+      
+      <li><a href="/grant/codde/">CODDE (2008/2012)</a></li>
+      
+    </ul>
+  </div>
+  
+
 
 
   </div>
@@ -912,27 +935,27 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -942,13 +965,13 @@
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -1002,7 +1025,7 @@
     
     
     
-    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
     
 
@@ -1011,6 +1034,7 @@
 
 
 
+  
   
   <div class="container">
     <footer class="site-footer">
@@ -1027,7 +1051,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
     
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+      <a href="#" class="back-to-top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>

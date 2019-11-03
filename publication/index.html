@@ -48,8 +48,8 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -60,14 +60,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -83,27 +83,52 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.82936fefd6d50005ef2d16e485a17a90.css">
+  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-140381649-1', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-140381649-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-  
+
 
   
   <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Novel visual computations">
@@ -1222,6 +1247,7 @@
 
 
 
+  
   <span><a href="/authors/chloe-pasturel/">Chloé Pasturel</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -1307,6 +1333,7 @@
 
 
 
+  
   <span><a href="/authors/wahiba-taouali/">Wahiba Taouali</a></span>, <span><a href="/authors/giacomo-benvenuti/">Giacomo Benvenuti</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -1376,6 +1403,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -1447,6 +1475,7 @@
 
 
 
+  
   <span><a href="/authors/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span><a href="/authors/pierre-albiges/">Pierre Albigès</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -1528,6 +1557,7 @@
 
 
 
+  
   <span><a href="/authors/sandrine-chemla/">Sandrine Chemla</a></span>, <span><a href="/authors/alexandre-reynaud/">Alexandre Reynaud</a></span>, <span><a href="/authors/matteo-divolo/">Matteo diVolo</a></span>, <span><a href="/authors/yann-zerlaut/">Yann Zerlaut</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/alain-destexhe/">Alain Destexhe</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>
 
   </span>
@@ -1609,6 +1639,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -1672,6 +1703,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -1749,6 +1781,7 @@
 
 
 
+  
   <span><a href="/authors/cesar-u-ravello/">Cesar U Ravello</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/maria-jose-escobar/">Maria-José Escobar</a></span>, <span><a href="/authors/adrian-g-palacios/">Adrián G Palacios</a></span>
 
   </span>
@@ -1830,6 +1863,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -1893,6 +1927,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -1955,6 +1990,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2022,6 +2058,7 @@
 
 
 
+  
   <span><a href="/authors/hugo-ladret/">Hugo Ladret</a></span>, <span><a href="/authors/n.-cortes/">N. Cortes</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/christian-casanova/">Christian Casanova</a></span>
 
   </span>
@@ -2091,6 +2128,7 @@
 
 
 
+  
   <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2158,6 +2196,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2241,6 +2280,7 @@
 
 
 
+  
   <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2308,6 +2348,7 @@
 
 
 
+  
   <span><a href="/authors/jonathan-vacher/">Jonathan Vacher</a></span>, <span><a href="/authors/andrew-isaac-meso/">Andrew Isaac Meso</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/gabriel-peyre/">Gabriel Peyré</a></span>
 
   </span>
@@ -2389,6 +2430,7 @@
 
 
 
+  
   <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/laurent-madelain/">Laurent Madelain</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -2470,6 +2512,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2533,6 +2576,7 @@
 
 
 
+  
   <span><a href="/authors/kiana-mansour-pour/">Kiana Mansour-Pour</a></span>, <span><a href="/authors/nikos-gekas/">Nikos Gekas</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -2606,6 +2650,7 @@
 
 
 
+  
   <span><a href="/authors/hugo-ladret/">Hugo Ladret</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2683,6 +2728,7 @@
 
 
 
+  
   <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2750,6 +2796,7 @@
 
 
 
+  
   <span><a href="/authors/julien-dupeyroux/">Julien Dupeyroux</a></span>, <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/julien-r-serres/">Julien R Serres</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/stephane-viollet/">Stéphane Viollet</a></span>
 
   </span>
@@ -2827,6 +2874,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2896,6 +2944,7 @@
 
 
 
+  
   <span><a href="/authors/chloe-pasturel/">Chloé Pasturel</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -2964,6 +3013,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/chloe-pasturel/">Chloé Pasturel</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -3033,6 +3083,7 @@
 
 
 
+  
   <span><a href="/authors/chloe-pasturel/">Chloé Pasturel</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3102,6 +3153,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3171,6 +3223,7 @@
 
 
 
+  
   <span><a href="/authors/mina-a-khoei/">Mina A Khoei</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3260,6 +3313,7 @@
 
 
 
+  
   <span><a href="/authors/kiana-mansour-pour/">Kiana Mansour-Pour</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -3329,6 +3383,7 @@
 
 
 
+  
   <span><a href="/authors/kiana-mansour-pour/">Kiana Mansour-Pour</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -3398,6 +3453,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/etienne-rey/">Étienne Rey</a></span>
 
   </span>
@@ -3479,6 +3535,7 @@
 
 
 
+  
   <span><a href="/authors/chloe-pasturel/">Chloé Pasturel</a></span>, <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3548,6 +3605,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3611,6 +3669,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3674,6 +3733,7 @@
 
 
 
+  
   <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3747,6 +3807,7 @@
 
 
 
+  
   <span><a href="/authors/victor-boutin/">Victor Boutin</a></span>, <span><a href="/authors/angelo-franciosini/">Angelo Franciosini</a></span>, <span><a href="/authors/franck-ruffier/">Franck Ruffier</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3810,6 +3871,7 @@
 
 
 
+  
   <span><a href="/authors/cesar-u-ravello/">Cesar U Ravello</a></span>, <span><a href="/authors/maria-jose-escobar/">Maria-José Escobar</a></span>, <span><a href="/authors/adrian-g-palacios/">Adrián G Palacios</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3882,6 +3944,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -3971,6 +4034,7 @@
 
 
 
+  
   <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/jeremie-jozefowiez/">Jeremie Jozefowiez</a></span>, <span><a href="/authors/laurent-madelain/">Laurent Madelain</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -4044,6 +4108,7 @@
 
 
 
+  
   <span><a href="/authors/wahiba-taouali/">Wahiba Taouali</a></span>, <span><a href="/authors/giacomo-benvenuti/">Giacomo Benvenuti</a></span>, <span><a href="/authors/pascal-wallisch/">Pascal Wallisch</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -4125,6 +4190,7 @@
 
 
 
+  
   <span><a href="/authors/kiana-mansour-pour/">Kiana Mansour-Pour</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -4194,6 +4260,7 @@
 
 
 
+  
   <span><a href="/authors/kiana-mansour-pour/">Kiana Mansour-Pour</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -4263,6 +4330,7 @@
 
 
 
+  
   <span><a href="/authors/kiana-mansour-pour/">Kiana Mansour-Pour</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -4332,6 +4400,7 @@
 
 
 
+  
   <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/cyril-monier/">Cyril Monier</a></span>, <span><a href="/authors/jose-manuel-alonso/">Jose-Manuel Alonso</a></span>, <span><a href="/authors/ad-m-aertsen/">Ad M Aertsen</a></span>, <span><a href="/authors/yves-fregnac/">Yves Fregnac</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -4413,6 +4482,7 @@
 
 
 
+  
   <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -4482,6 +4552,7 @@
 
 
 
+  
   <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -4551,6 +4622,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/rick-a.-adams/">Rick A Adams</a></span>, <span><a href="/authors/karl-j-friston/">Karl J Friston</a></span>
 
   </span>
@@ -4620,6 +4692,7 @@
 
 
 
+  
   <span><a href="/authors/wahiba-taouali/">Wahiba Taouali</a></span>, <span><a href="/authors/giacomo-benvenuti/">Giacomo Benvenuti</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -4687,6 +4760,7 @@
 
 
 
+  
   <span><a href="/authors/wahiba-taouali/">Wahiba Taouali</a></span>, <span><a href="/authors/giacomo-benvenuti/">Giacomo Benvenuti</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -4760,6 +4834,7 @@
 
 
 
+  
   <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -4841,6 +4916,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -4926,6 +5002,7 @@
 
 
 
+  
   <span><a href="/authors/gabriel-cristobal/">Gabriel Cristóbal</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/matthias-s-keil/">Matthias S Keil</a></span>
 
   </span>
@@ -5007,6 +5084,7 @@
 
 
 
+  
   <span><a href="/authors/gabriel-cristobal/">Gabriel Cristóbal</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/matthias-s-keil/">Matthias S Keil</a></span>
 
   </span>
@@ -5095,6 +5173,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/james-a-bednar/">James A Bednar</a></span>
 
   </span>
@@ -5168,6 +5247,7 @@
 
 
 
+  
   <span><a href="/authors/cesar-u-ravello/">Cesar U Ravello</a></span>, <span><a href="/authors/f.-olivares/">F. Olivares</a></span>, <span><a href="/authors/r.-herzog/">R. Herzog</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/maria-jose-escobar/">Maria-José Escobar</a></span>, <span><a href="/authors/adrian-g-palacios/">Adrián G Palacios</a></span>
 
   </span>
@@ -5235,6 +5315,7 @@
 
 
 
+  
   <span><a href="/authors/wahiba-taouali/">Wahiba Taouali</a></span>, <span><a href="/authors/giacomo-benvenuti/">Giacomo Benvenuti</a></span>, <span><a href="/authors/pascal-wallisch/">Pascal Wallisch</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -5298,6 +5379,7 @@
 
 
 
+  
   <span><a href="/authors/frederic-danion/">Fréderic Danion</a></span>, <span><a href="/authors/caroline-landelle/">Caroline Landelle</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/laurent-madelain/">Laurent Madelain</a></span>
 
   </span>
@@ -5367,6 +5449,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/james-a-bednar/">James A Bednar</a></span>
 
   </span>
@@ -5456,6 +5539,7 @@
 
 
 
+  
   <span><a href="/authors/jonathan-vacher/">Jonathan Vacher</a></span>, <span><a href="/authors/andrew-isaac-meso/">Andrew Isaac Meso</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/gabriel-peyre/">Gabriel Peyré</a></span>
 
   </span>
@@ -5533,6 +5617,7 @@
 
 
 
+  
   <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/laurent-madelain/">Laurent Madelain</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -5602,6 +5687,7 @@
 
 
 
+  
   <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/laurent-madelain/">Laurent Madelain</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -5675,6 +5761,7 @@
 
 
 
+  
   <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/laurent-madelain/">Laurent Madelain</a></span>
 
   </span>
@@ -5744,6 +5831,7 @@
 
 
 
+  
   <span><a href="/authors/jonathan-vacher/">Jonathan Vacher</a></span>, <span><a href="/authors/andrew-isaac-meso/">Andrew Isaac Meso</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/gabriel-peyre/">Gabriel Peyré</a></span>
 
   </span>
@@ -5811,6 +5899,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/rick-a.-adams/">Rick A Adams</a></span>, <span><a href="/authors/karl-j-friston/">Karl J Friston</a></span>
 
   </span>
@@ -5892,6 +5981,7 @@
 
 
 
+  
   <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -5965,6 +6055,7 @@
 
 
 
+  
   <span><a href="/authors/mina-a-khoei/">Mina A Khoei</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -6038,6 +6129,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/james-a-bednar/">James A Bednar</a></span>
 
   </span>
@@ -6111,6 +6203,7 @@
 
 
 
+  
   <span><a href="/authors/andrew-isaac-meso/">Andrew Isaac Meso</a></span>, <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -6184,6 +6277,7 @@
 
 
 
+  
   <span><a href="/authors/bernhard-a-kaplan/">Bernhard A Kaplan</a></span>, <span><a href="/authors/mina-a-khoei/">Mina A Khoei</a></span>, <span><a href="/authors/anders-lansner/">Anders Lansner</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -6257,6 +6351,7 @@
 
 
 
+  
   <span><a href="/authors/p-philipp-rudiger/">P Philipp Rudiger</a></span>, <span><a href="/authors/jean-luc-stevens/">Jean-Luc Stevens</a></span>, <span><a href="/authors/bharath-chandra-talluri/">Bharath Chandra Talluri</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/james-a-bednar/">James A Bednar</a></span>
 
   </span>
@@ -6326,6 +6421,7 @@
 
 
 
+  
   <span><a href="/authors/jean-bernard-damasse/">Jean-Bernard Damasse</a></span>, <span><a href="/authors/laurent-madelain/">Laurent Madelain</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>
 
   </span>
@@ -6395,6 +6491,7 @@
 
 
 
+  
   <span><a href="/authors/jonathan-vacher/">Jonathan Vacher</a></span>, <span><a href="/authors/andrew-isaac-meso/">Andrew Isaac Meso</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/gabriel-peyre/">Gabriel Peyré</a></span>
 
   </span>
@@ -6458,6 +6555,7 @@
 
 
 
+  
   <span><a href="/authors/wahiba-taouali/">Wahiba Taouali</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -6521,6 +6619,7 @@
 
 
 
+  
   <span><a href="/authors/wahiba-taouali/">Wahiba Taouali</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -6584,6 +6683,7 @@
 
 
 
+  
   <span><a href="/authors/mina-a-khoei/">Mina A Khoei</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -6657,6 +6757,7 @@
 
 
 
+  
   <span><a href="/authors/bernhard-a-kaplan/">Bernhard A Kaplan</a></span>, <span><a href="/authors/anders-lansner/">Anders Lansner</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -6730,6 +6831,7 @@
 
 
 
+  
   <span><a href="/authors/mina-a-khoei/">Mina A Khoei</a></span>, <span><a href="/authors/giacomo-benvenuti/">Giacomo Benvenuti</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -6803,6 +6905,7 @@
 
 
 
+  
   <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -6866,6 +6969,7 @@
 
 
 
+  
   <span><a href="/authors/andrew-isaac-meso/">Andrew Isaac Meso</a></span>, <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -6939,6 +7043,7 @@
 
 
 
+  
   <span><a href="/authors/rodrigo-nava/">Rodrigo Nava</a></span>, <span><a href="/authors/j-victor-marcos/">J Victor Marcos</a></span>, <span><a href="/authors/boris-escalante-ramirez/">Boris Escalante-Ramirez</a></span>, <span><a href="/authors/gabriel-cristobal/">Gabriel Cristóbal</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/raul-s-j-estepar/">Raúl S J Estépar</a></span>
 
   </span>
@@ -7012,6 +7117,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/rick-a.-adams/">Rick A Adams</a></span>, <span><a href="/authors/karl-j-friston/">Karl J Friston</a></span>
 
   </span>
@@ -7081,6 +7187,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/rick-a.-adams/">Rick A Adams</a></span>, <span><a href="/authors/karl-j-friston/">Karl J Friston</a></span>
 
   </span>
@@ -7150,6 +7257,7 @@
 
 
 
+  
   <span><a href="/authors/rick-a.-adams/">Rick A Adams</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/karl-j-friston/">Karl J Friston</a></span>
 
   </span>
@@ -7221,6 +7329,7 @@
 
 
 
+  
   <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -7292,6 +7401,7 @@
 
 
 
+  
   <span><a href="/authors/paula-s.-leon/">Paula S. Leon</a></span>, <span><a href="/authors/ivo-vanzetta/">Ivo Vanzetta</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -7371,6 +7481,7 @@
 
 
 
+  
   <span><a href="/authors/mina-a-khoei/">Mina A Khoei</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -7440,6 +7551,7 @@
 
 
 
+  
   <span><a href="/authors/karl-j-friston/">Karl J Friston</a></span>, <span><a href="/authors/rick-a.-adams/">Rick A Adams</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/michael-breakspear/">Michael Breakspear</a></span>
 
   </span>
@@ -7511,6 +7623,7 @@
 
 
 
+  
   <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -7584,6 +7697,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -7651,6 +7765,7 @@
 
 
 
+  
   <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -7720,6 +7835,7 @@
 
 
 
+  
   <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -7791,6 +7907,7 @@
 
 
 
+  
   <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -7864,6 +7981,7 @@
 
 
 
+  
   <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -7937,6 +8055,7 @@
 
 
 
+  
   <span><a href="/authors/nicole-voges/">Nicole Voges</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -8008,6 +8127,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/rick-a.-adams/">Rick A Adams</a></span>, <span><a href="/authors/karl-j-friston/">Karl J Friston</a></span>
 
   </span>
@@ -8071,6 +8191,7 @@
 
 
 
+  
   <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -8144,6 +8265,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-perrinet/">Laurent Perrinet</a></span>
 
   </span>
@@ -8219,6 +8341,7 @@
 
 
 
+  
   <span><a href="/authors/amarender-bogadhi/">Amarender Bogadhi</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -8290,6 +8413,7 @@
 
 
 
+  
   <span><a href="/authors/jerome-fleuriet/">Jérôme Fleuriet</a></span>, <span><a href="/authors/s.-hugues/">S. Hugues</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/l.-goffart/">L. Goffart</a></span>
 
   </span>
@@ -8363,6 +8487,7 @@
 
 
 
+  
   <span><a href="/authors/mina-a-khoei/">Mina A Khoei</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/amarender-bogadhi/">Amarender Bogadhi</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -8432,6 +8557,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/david-fitzpatrick/">David Fitzpatrick</a></span>, <span><a href="/authors/james-a-bednar/">James A Bednar</a></span>
 
   </span>
@@ -8501,6 +8627,7 @@
 
 
 
+  
   <span><a href="/authors/nicole-voges/">Nicole Voges</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -8572,6 +8699,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -8659,6 +8787,7 @@
 
 
 
+  
   <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/ad-m-aertsen/">Ad M Aertsen</a></span>
 
   </span>
@@ -8730,6 +8859,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -8799,6 +8929,7 @@
 
 
 
+  
   <span><a href="/authors/nicole-voges/">Nicole Voges</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -8862,6 +8993,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -8925,6 +9057,7 @@
 
 
 
+  
   <span><a href="/authors/mina-a-khoei/">Mina A Khoei</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -8994,6 +9127,7 @@
 
 
 
+  
   <span><a href="/authors/claudio-simoncini/">Claudio Simoncini</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -9057,6 +9191,7 @@
 
 
 
+  
   <span><a href="/authors/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -9130,6 +9265,7 @@
 
 
 
+  
   <span><a href="/authors/amarender-bogadhi/">Amarender Bogadhi</a></span>, <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -9203,6 +9339,7 @@
 
 
 
+  
   <span><a href="/authors/pierre-yger/">Pierre Yger</a></span>, <span><a href="/authors/daniel-bruderle/">Daniel Bruderle</a></span>, <span><a href="/authors/jochen-eppler/">Jochen Eppler</a></span>, <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/dejan-pecevski/">Dejan Pecevski</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/michael-schmuker/">Michael Schmuker</a></span>, <span><a href="/authors/eilif-muller/">Eilif Muller</a></span>, <span><a href="/authors/andrew-p-davison/">Andrew P Davison</a></span>
 
   </span>
@@ -9266,6 +9403,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/alexandre-reynaud/">Alexandre Reynaud</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -9329,6 +9467,7 @@
 
 
 
+  
   <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/ad-m-aertsen/">Ad M Aertsen</a></span>
 
   </span>
@@ -9392,6 +9531,7 @@
 
 
 
+  
   <span><a href="/authors/nicole-voges/">Nicole Voges</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -9455,6 +9595,7 @@
 
 
 
+  
   <span><a href="/authors/nicole-voges/">Nicole Voges</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -9518,6 +9659,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/nicole-voges/">Nicole Voges</a></span>, <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -9581,6 +9723,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/emmanuel-dauce/">Emmanuel Daucé</a></span>
 
   </span>
@@ -9644,6 +9787,7 @@
 
 
 
+  
   <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/ad-m-aertsen/">Ad M Aertsen</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -9707,6 +9851,7 @@
 
 
 
+  
   <span><a href="/authors/nicole-voges/">Nicole Voges</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -9770,6 +9915,7 @@
 
 
 
+  
   <span><a href="/authors/frederic-v.-barthelemy/">Frédéric V. Barthélemy</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/eric-castet/">Eric Castet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -9841,6 +9987,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -9908,6 +10055,7 @@
 
 
 
+  
   <span><a href="/authors/andrew-p-davison/">Andrew P Davison</a></span>, <span><a href="/authors/daniel-bruderle/">Daniel Bruderle</a></span>, <span><a href="/authors/jochen-eppler/">Jochen Eppler</a></span>, <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/eilif-muller/">Eilif Muller</a></span>, <span><a href="/authors/dejan-pecevski/">Dejan Pecevski</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/pierre-yger/">Pierre Yger</a></span>
 
   </span>
@@ -9987,6 +10135,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -10050,6 +10199,7 @@
 
 
 
+  
   <span><a href="/authors/nicole-voges/">Nicole Voges</a></span>, <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -10113,6 +10263,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -10176,6 +10327,7 @@
 
 
 
+  
   <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/pierre-baudot/">Pierre Baudot</a></span>, <span><a href="/authors/manu-levy/">Manu Levy</a></span>, <span><a href="/authors/olivier-marre/">Olivier Marre</a></span>, <span><a href="/authors/cyril-monier/">Cyril Monier</a></span>, <span><a href="/authors/yves-fregnac/">Yves Fregnac</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/ad-m-aertsen/">Ad M Aertsen</a></span>
 
   </span>
@@ -10239,6 +10391,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -10308,6 +10461,7 @@
 
 
 
+  
   <span><a href="/authors/bruno-cessac/">Bruno Cessac</a></span>, <span><a href="/authors/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>
 
   </span>
@@ -10371,6 +10525,7 @@
 
 
 
+  
   <span><a href="/authors/bruno-cessac/">Bruno Cessac</a></span>, <span><a href="/authors/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>
 
   </span>
@@ -10444,6 +10599,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -10517,6 +10673,7 @@
 
 
 
+  
   <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/eric-castet/">Eric Castet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -10588,6 +10745,7 @@
 
 
 
+  
   <span><a href="/authors/sylvain-fischer/">Sylvain Fischer</a></span>, <span><a href="/authors/filip-sroubek/">Filip Šroubek</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/rafael-redondo/">Rafael Redondo</a></span>, <span><a href="/authors/gabriel-cristobal/">Gabriel Cristóbal</a></span>
 
   </span>
@@ -10659,6 +10817,7 @@
 
 
 
+  
   <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -10722,6 +10881,7 @@
 
 
 
+  
   <span><a href="/authors/sylvain-fischer/">Sylvain Fischer</a></span>, <span><a href="/authors/rafael-redondo/">Rafael Redondo</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/gabriel-cristobal/">Gabriel Cristóbal</a></span>
 
   </span>
@@ -10795,6 +10955,7 @@
 
 
 
+  
   <span><a href="/authors/andrew-p-davison/">Andrew P Davison</a></span>, <span><a href="/authors/pierre-yger/">Pierre Yger</a></span>, <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/eilif-muller/">Eilif Muller</a></span>
 
   </span>
@@ -10868,6 +11029,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -10941,6 +11103,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -11004,6 +11167,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -11075,6 +11239,7 @@
 
 
 
+  
   <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/eric-castet/">Eric Castet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -11138,6 +11303,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/frederic-v.-barthelemy/">Frédéric V. Barthélemy</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -11201,6 +11367,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>, <span><a href="/authors/frederic-v.-barthelemy/">Frédéric V. Barthélemy</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/frederic-y-chavane/">Frédéric Chavane</a></span>
 
   </span>
@@ -11264,6 +11431,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>
 
   </span>
@@ -11327,6 +11495,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/jens-kremkow/">Jens Kremkow</a></span>
 
   </span>
@@ -11390,6 +11559,7 @@
 
 
 
+  
   <span><a href="/authors/adrien-wohrer/">Adrien Wohrer</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/pierre-kornprobst/">Pierre Kornprobst</a></span>, <span><a href="/authors/thierry-vieville/">Thierry Vieville</a></span>
 
   </span>
@@ -11453,6 +11623,7 @@
 
 
 
+  
   <span><a href="/authors/anna-montagnini/">Anna Montagnini</a></span>, <span><a href="/authors/pascal-mamassian/">Pascal Mamassian</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/eric-castet/">Eric Castet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -11526,6 +11697,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -11595,6 +11767,7 @@
 
 
 
+  
   <span><a href="/authors/rafael-redondo/">Rafael Redondo</a></span>, <span><a href="/authors/sylvain-fischer/">Sylvain Fischer</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/gabriel-cristobal/">Gabriel Cristóbal</a></span>
 
   </span>
@@ -11658,6 +11831,7 @@
 
 
 
+  
   <span><a href="/authors/sylvain-fischer/">Sylvain Fischer</a></span>, <span><a href="/authors/rafael-redondo/">Rafael Redondo</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/gabriel-cristobal/">Gabriel Cristóbal</a></span>
 
   </span>
@@ -11731,6 +11905,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -11803,6 +11978,7 @@
 
 
 
+  
   <span><a href="/authors/sylvain-fischer/">Sylvain Fischer</a></span>, <span><a href="/authors/rafael-redondo/">Rafael Redondo</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/gabriel-cristobal/">Gabriel Cristóbal</a></span>
 
   </span>
@@ -11866,6 +12042,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/frederic-v.-barthelemy/">Frédéric V. Barthélemy</a></span>, <span><a href="/authors/eric-castet/">Eric Castet</a></span>, <span><a href="/authors/guillaume-s-masson/">Guillaume S Masson</a></span>
 
   </span>
@@ -11929,6 +12106,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>, <span><a href="/authors/simon-j-thorpe/">Simon Thorpe</a></span>
 
   </span>
@@ -12008,6 +12186,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -12089,6 +12268,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>, <span><a href="/authors/simon-j-thorpe/">Simon Thorpe</a></span>
 
   </span>
@@ -12170,6 +12350,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -12243,6 +12424,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>, <span><a href="/authors/simon-j-thorpe/">Simon Thorpe</a></span>
 
   </span>
@@ -12316,6 +12498,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -12384,6 +12567,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -12457,6 +12641,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>
 
   </span>
@@ -12520,6 +12705,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>
 
   </span>
@@ -12583,6 +12769,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>
 
   </span>
@@ -12654,6 +12841,7 @@
 
 
 
+  
   <span><a href="/authors/arnaud-delorme/">Arnaud Delorme</a></span>, <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/simon-j-thorpe/">Simon Thorpe</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>
 
   </span>
@@ -12727,6 +12915,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/arnaud-delorme/">Arnaud Delorme</a></span>, <span><a href="/authors/simon-j-thorpe/">Simon Thorpe</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>
 
   </span>
@@ -12794,6 +12983,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span><a href="/authors/manuel-samuelides/">Manuel Samuelides</a></span>
 
   </span>
@@ -12857,6 +13047,7 @@
 
 
 
+  
   <span><a href="/authors/laurent-u-perrinet/">Laurent U Perrinet</a></span>
 
   </span>
@@ -12982,27 +13173,27 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -13012,13 +13203,13 @@
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -13072,7 +13263,7 @@
     
     
     
-    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
     
 
@@ -13081,6 +13272,7 @@
 
 
 
+  
   
   <div class="container">
     <footer class="site-footer">
@@ -13097,7 +13289,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
     
     <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
+      <a href="#" class="back-to-top">
         <span class="button_icon">
           <i class="fas fa-chevron-up fa-2x"></i>
         </span>
