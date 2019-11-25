@@ -188,6 +188,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;h1 id=&#34;controlling-an-aerial-robot-by-human-semaphore-gestures-using-a-bio-inspired-neural-network-phd-12-2016-02-2020&#34;&gt;Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, &lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2016&lt;/sub&gt;-02/2020)&lt;/h1&gt;
 
+&lt;p&gt;The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.&lt;/p&gt;
+
+&lt;p&gt;In particular, vision is predominant compared to other senses in terms of computational resources. So understanding visual processing has the potential to reveal the core computational mechanisms that give the brain such performances. In my research, I am interested in extracting the fundamental principles that are at stake in the visual system, and to apply them to develop better machine learning algorithms. As I consequence, I tend to adopt a cross-level analysis approach. I develop algorithms that simultaneously model low-level neural mechanisms and account for higher-level visual tasks such as object recognition, denoising, inpainting, image generation, etc.&lt;/p&gt;
+
+&lt;p&gt;The ultimate objective would be to develop a framework that successfully solves all these visual tasks without being extensively retrained from scratch for each of those tasks. Such an algorithm would be a first step towards the ultimate goal of every researcher in machine learning, that is, general artificial intelligence.&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;Venue: Aix-Marseille University &lt;a href=&#34;https://doc2amu.univ-amu.fr/fr/victor-boutin-doctorant-promotion-2016&#34; target=&#34;_blank&#34;&gt;DOC2AMU&lt;/a&gt; is an innovative H2020-MSCA-COFUND&lt;/li&gt;
 &lt;li&gt;Keywords: Aerial Robots, Vision, Neural Networks, Bio-Inspired Computer Vision, Gaze orientation, learning&lt;/li&gt;
