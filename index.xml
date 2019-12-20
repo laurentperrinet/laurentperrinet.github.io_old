@@ -738,7 +738,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;p&gt;Un article dans &lt;a href=&#34;https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567&#34;&gt;The Conversation&lt;/a&gt; dont l&#39;objectif est d&#39;être accessible et réutilisable (dans des cours d&#39;introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, intelligence artificielle).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Le flash-lag effect avec un arrêt:&lt;/p&gt;
+&lt;p&gt;Le flash-lag effect original:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -757,7 +757,28 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 &lt;video autoplay loop &gt;
-  &lt;source src=&#34;B-flash_lag_stop.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;flash_lag.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;ul&gt;
+&lt;li&gt;la même chose avec un arrêt:&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video autoplay loop &gt;
+  &lt;source src=&#34;flash_lag_stop.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;ul&gt;
 &lt;li&gt;pour illustrer la fleche du temps (&amp;rdquo; Or dans tout système, d’après le second principe de la thermodynamique, le désordre mesuré par l’entropie se doit d’augmenter. Voilà pourquoi il existe une asymétrie dans l’écoulement du temps, c’est-à-dire une flèche du temps. Résultat, si l’on filme une partie de billard, on trouvera incongru cette séquence si on la projette dans le sens inverse du temps. &amp;ldquo;), on peut aussi utiliser cette video d&#39;un bocal qui se brise qu&#39;il est aisé de lire dans le sens inverse du temps:&lt;/li&gt;
