@@ -23,12 +23,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;p&gt;Dear colleagues,&lt;/p&gt;
 &lt;p&gt;Applications are welcome for a post-doctoral position at &lt;a href=&#34;http://www.int.univ-amu.fr/?lang=en&#34;&gt;INT&lt;/a&gt; in &lt;a href=&#34;https://en.wikipedia.org/wiki/Marseille&#34;&gt;Marseille&lt;/a&gt;, France. Your mission will be to explore novel visual computations using spatio-temporal diffusion kernels and traveling waves. The project is funded by the &lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-horizontal-v1/&#34;&gt;ANR Horizontal V1&lt;/a&gt; grant (ANR-17-CE37-0006) from the French National Research Agency (ANR) and will be coordinated by &lt;a href=&#34;https://laurentperrinet.github.io/&#34;&gt;Laurent Perrinet&lt;/a&gt;, in collaboration with &lt;a href=&#34;https://www.mullerlab.ca&#34;&gt;Lyle Muller&lt;/a&gt; and &lt;a href=&#34;http://www.int.univ-amu.fr/spip.php?page=equipe&amp;amp;equipe=NeOpTo&amp;amp;lang=en&#34;&gt;Frédéric Chavane&lt;/a&gt; at INT and &lt;a href=&#34;http://neuro-psi.cnrs.fr/spip.php?article934&amp;amp;lang=fr&#34;&gt;Yves Frégnac&lt;/a&gt; and Jan Antolik at UNIC-NeuroPSI, Gif. We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.&lt;/p&gt;
-&lt;p&gt;For more information, visit &lt;a href=&#34;https://laurentperrinet.github.io/post/2019-10-28_postdoc-position&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/post/2019-10-28_postdoc-position&#34;&gt;https://laurentperrinet.github.io/post/2019-10-28_postdoc-position&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: &lt;a href=&#34;mailto:Laurent.Perrinet@univ-amu.fr&#34;&gt;&lt;a href=&#34;mailto:Laurent.Perrinet@univ-amu.fr&#34;&gt;Laurent.Perrinet@univ-amu.fr&lt;/a&gt;&lt;/a&gt;. The appointment is for 18 month. Applications are welcome immediately and until the end of year 2019.&lt;/p&gt;
+&lt;p&gt;For more information, visit &lt;a href=&#34;https://laurentperrinet.github.io/post/2019-10-28_postdoc-position&#34;&gt;https://laurentperrinet.github.io/post/2019-10-28_postdoc-position&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: &lt;a href=&#34;mailto:Laurent.Perrinet@univ-amu.fr&#34;&gt;Laurent.Perrinet@univ-amu.fr&lt;/a&gt;. The appointment is for 18 month. Applications are welcome immediately and until the end of year 2019.&lt;/p&gt;
 &lt;p&gt;Thanks for distributing this announcement to potential candidates!&lt;/p&gt;
-&lt;h1 id=&#34;detailed-description-visual-computations-using-spatiotemporal-diffusion-kernels-and-traveling-waves&#34;&gt;Detailed description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves&lt;/h1&gt;
+&lt;h1 id=&#34;detailed-description-visual-computations-using-spatio-temporal-diffusion-kernels-and-traveling-waves&#34;&gt;Detailed description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves&lt;/h1&gt;
 &lt;p&gt;Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. It is clear from recent advances in system and computational neuroscience that nonlinear, recurrent interactions in visual cortical networks are key to this efficiency (&lt;a href=&#34;#Tang18&#34;&gt;Tang et al., 2018&lt;/a&gt;; &lt;a href=&#34;#Kietzmann19&#34;&gt;Kietzmann et al., 2019&lt;/a&gt;). We will use inspiration from neurophysiology and brain imaging to resolve this apparent gap between traditional CNNs and biological visual systems.&lt;/p&gt;
-&lt;p&gt;**In this post-doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: &lt;em&gt;lateral diffusion of sensory-evoked traveling waves&lt;/em&gt; (&lt;a href=&#34;#Chavane2000&#34;&gt;Chavane et al., 2011&lt;/a&gt;; &lt;a href=&#34;#muller2018cortical&#34;&gt;Muller et al., 2018&lt;/a&gt;) and &lt;em&gt;dynamic neuronal association fields&lt;/em&gt; (&lt;a href=&#34;#Fr%C3%A9gnac2012&#34;&gt;Frégnac et al., 2012&lt;/a&gt;; &lt;a href=&#34;#Fr%C3%A9gnac2016&#34;&gt;Frégnac et al., 2016&lt;/a&gt;; &lt;a href=&#34;#gerard2016synaptic&#34;&gt;Gerard-Mercier et al., 2016&lt;/a&gt;)**. Indeed, the architecture of primary visual cortex (V1), the direct target of the feedforward visual flow, contains dense local recurrent connectivity with sparse long-range connections (&lt;a href=&#34;#Voges12&#34;&gt;Voges and Perrinet, 2012&lt;/a&gt;). Such connections add to the traditional convolutional kernels representing feedforward and local recurrent amplification a novel lateral interaction kernel within a single layer (across positions and channels). Less studied, but probably decisive in active vision, recurrent cortico-cortical loops add a level of distributed top-down complexity which participates to the lateral integration of sensory input and perceptual context (&lt;a href=&#34;#Keller2019&#34;&gt;Keller et al., 2019&lt;/a&gt;). Coupled with the continuous time dynamics of cortical circuits, this elaborate multiplexed architecture provides the conditions possible for generating information diffusion through traveling waves. Inspired by recent work in neuroscience uncovering the ubiquity of these waves during visual processing, we aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In this post-doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: &lt;em&gt;lateral diffusion of sensory-evoked traveling waves&lt;/em&gt; (&lt;a href=&#34;#Chavane2000&#34;&gt;Chavane et al., 2011&lt;/a&gt;; &lt;a href=&#34;#muller2018cortical&#34;&gt;Muller et al., 2018&lt;/a&gt;) and &lt;em&gt;dynamic neuronal association fields&lt;/em&gt; (&lt;a href=&#34;#Fr%C3%A9gnac2012&#34;&gt;Frégnac et al., 2012&lt;/a&gt;; &lt;a href=&#34;#Fr%C3%A9gnac2016&#34;&gt;Frégnac et al., 2016&lt;/a&gt;; &lt;a href=&#34;#gerard2016synaptic&#34;&gt;Gerard-Mercier et al., 2016&lt;/a&gt;)&lt;/strong&gt;. Indeed, the architecture of primary visual cortex (V1), the direct target of the feedforward visual flow, contains dense local recurrent connectivity with sparse long-range connections (&lt;a href=&#34;#Voges12&#34;&gt;Voges and Perrinet, 2012&lt;/a&gt;). Such connections add to the traditional convolutional kernels representing feedforward and local recurrent amplification a novel lateral interaction kernel within a single layer (across positions and channels). Less studied, but probably decisive in active vision, recurrent cortico-cortical loops add a level of distributed top-down complexity which participates to the lateral integration of sensory input and perceptual context (&lt;a href=&#34;#Keller2019&#34;&gt;Keller et al., 2019&lt;/a&gt;). Coupled with the continuous time dynamics of cortical circuits, this elaborate multiplexed architecture provides the conditions possible for generating information diffusion through traveling waves. Inspired by recent work in neuroscience uncovering the ubiquity of these waves during visual processing, we aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.&lt;/p&gt;
 &lt;p&gt;The proposed work will be organized as a collaboration between two labs (INT, Marseille and UNIC, Gif) along three tasks to be integrated in a unified model:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -178,7 +178,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;li&gt;When: 23.05.2019 11:00-13:00h&lt;/li&gt;
 &lt;li&gt;When: Endoume 1+2&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;s171httpswwwprofessionalabstractscomnf2019iplannerpresentation1397--active-inference-and-braincomputer-interfaces--infrence-active-et-interfaces-cerveaumachine&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1397&#34;&gt;S17.1&lt;/a&gt; 	Active inference and Brain-Computer Interfaces / Inférence active et interfaces cerveau-machine&lt;/h3&gt;
+&lt;h3 id=&#34;s171httpswwwprofessionalabstractscomnf2019iplannerpresentation1397--active-inference-and-brain-computer-interfaces--infrence-active-et-interfaces-cerveau-machine&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1397&#34;&gt;S17.1&lt;/a&gt; 	Active inference and Brain-Computer Interfaces / Inférence active et interfaces cerveau-machine&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Mattout J. (Lyon, France), Mladenovic J. (Lyon, France), Frey J. (Bordeaux, France)3, Joffily M. (Lyon, France), Maby E. (Lyon, France), Lotte F. (Lyon, France)&lt;/li&gt;
 &lt;/ul&gt;
@@ -202,7 +202,7 @@ In this talk, I will present an instantiation of AI in the context of the EEG-ba
 &lt;li&gt;L. Perrinet (Marseille)&lt;/li&gt;
 &lt;li&gt;see more info on this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;s174httpswwwprofessionalabstractscomnf2019iplannerpresentation1400--is-laziness-contagious-a-computational-approach-to-attitude-alignment--la-fainantise-estelle-contagieuse-une-approche-computationnelle-de-lalignement-des-attitudes&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1400&#34;&gt;S17.4&lt;/a&gt; 	Is laziness contagious? A computational approach to attitude alignment / La fainéantise est-elle contagieuse? Une approche computationnelle de l´alignement des attitudes&lt;/h3&gt;
+&lt;h3 id=&#34;s174httpswwwprofessionalabstractscomnf2019iplannerpresentation1400--is-laziness-contagious-a-computational-approach-to-attitude-alignment--la-fainantise-est-elle-contagieuse-une-approche-computationnelle-de-lalignement-des-attitudes&#34;&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1400&#34;&gt;S17.4&lt;/a&gt; 	Is laziness contagious? A computational approach to attitude alignment / La fainéantise est-elle contagieuse? Une approche computationnelle de l´alignement des attitudes&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;J. Daunizeau (Paris)&lt;/li&gt;
 &lt;/ul&gt;
@@ -227,7 +227,7 @@ The generative model enables us to robustly detect behavioral modifications as s
       <link>https://laurentperrinet.github.io/post/2018-11-09_seminaire-escobar/</link>
       <pubDate>Fri, 09 Nov 2018 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/post/2018-11-09_seminaire-escobar/</guid>
-      <description>&lt;h1 id=&#34;20181109--retinal-computations-by-maria-jos-escobar-chile&#34;&gt;2018-11-09 : &amp;ldquo;Retinal computations&amp;rdquo; by Maria José Escobar (Chile)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;2018-11-09--retinal-computations-by-maria-jos-escobar-chile&#34;&gt;2018-11-09 : &amp;ldquo;Retinal computations&amp;rdquo; by Maria José Escobar (Chile)&lt;/h1&gt;
 &lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;http://profesores.elo.utfsm.cl/~mjescobar/&#34;&gt;María José Escobar, Ph.D.&lt;/a&gt; :&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Retinal computations&amp;rdquo; : The retina is part of the nervous system and consists in well-organized layers of different cell types and functions. Those cells have been vastly studied in various animal models, and also the circuits conveying to different functional categories. All these different types of either physiological properties or computation equivalents revealed the retina as not a single light to electricity encoder but a pre-processing layer, which is in charge to extract relevant visual signals from the environment that are critical for animal survival. During this seminar, we describe some of the computations performed by the retina, and how this knowledge can be applied to solve engineering problems, such as image processing and robot controllers.&lt;/p&gt;
@@ -243,7 +243,7 @@ The generative model enables us to robustly detect behavioral modifications as s
       <guid>https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;IMG_20180406_164630.jpg&#34; alt=&#34;participants&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;probabilities-and-optimal-inference-to-understand-the-brain&#34;&gt;Probabilities and Optimal Inference to understand the Brain&lt;/h1&gt;
-&lt;h2 id=&#34;a-2day-workshop-at-the-institute-of-neurosciences-timone-in-marseille&#34;&gt;a 2-day workshop at the Institute of Neurosciences Timone in Marseille&lt;/h2&gt;
+&lt;h2 id=&#34;a-2-day-workshop-at-the-institute-of-neurosciences-timone-in-marseille&#34;&gt;a 2-day workshop at the Institute of Neurosciences Timone in Marseille&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;affiche&#34;&gt;&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;Date&lt;/dt&gt;
@@ -300,7 +300,7 @@ Laurent Perrinet&lt;/dd&gt;
 &lt;p&gt;Pre-required&lt;/p&gt;
 &lt;p&gt;Basic knowledge of statistics and probability and calculus (differential equations,&amp;hellip;) is useful, but steps will be explained and complex math avoided as much as possible. Practical exercises are in python and/or MATLAB, so basic knowledge of these environments is a plus.&lt;/p&gt;
 &lt;h2 id=&#34;program&#34;&gt;program&lt;/h2&gt;
-&lt;h3 id=&#34;day-1--20180326--an-introduction-to-computational-neuroscience&#34;&gt;day 1 : 2018-03-26 : an introduction to Computational Neuroscience&lt;/h3&gt;
+&lt;h3 id=&#34;day-1--2018-03-26--an-introduction-to-computational-neuroscience&#34;&gt;day 1 : 2018-03-26 : an introduction to Computational Neuroscience&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;09:30-12:30 = &lt;a href=&#34;http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&amp;amp;do=view&amp;amp;target=2017-03-06_LaurentPezard.pdf&#34; title=&#34;Introduction to modeling single neurons&#34;&gt;Introduction to modeling single neurons&lt;/a&gt; (LaP)&lt;/p&gt;
@@ -309,7 +309,7 @@ Laurent Perrinet&lt;/dd&gt;
 &lt;p&gt;14:00-17:00 = &lt;a href=&#34;http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&amp;amp;do=view&amp;amp;target=2017-Lecture_INT_MeanField_to_TVB.pdf&#34; title=&#34;An introduction to neural masses: modeling assemblies of neurons up to capturing resting state dynamics in a mean-field model - presentation of the Virtual Brain software&#34;&gt;An introduction to neural masses: modeling assemblies of neurons up to capturing resting state dynamics in a mean-field model - presentation of the Virtual Brain software&lt;/a&gt; (DaB)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;day-2--20180327--information-theory--bayesian-models&#34;&gt;day 2 : 2018-03-27 : Information theory / bayesian models&lt;/h3&gt;
+&lt;h3 id=&#34;day-2--2018-03-27--information-theory--bayesian-models&#34;&gt;day 2 : 2018-03-27 : Information theory / bayesian models&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;09:15-10:30 = [An overview on &amp;ldquo;What is encoding?&amp;rdquo; &amp;ldquo;What is decoding?&amp;quot;: formalization of the notion of information in neural activity](&lt;a href=&#34;http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&amp;amp;do=view&amp;amp;target=2017-Lecture_INT_InfoTheory.pdf&#34;&gt;http://invibe.net/LaurentPerrinet/Presentations/2017-03-06_cours-NeuroComp?action=AttachFile&amp;amp;do=view&amp;amp;target=2017-Lecture_INT_InfoTheory.pdf&lt;/a&gt; &amp;ldquo;An overview on &amp;ldquo;What is encoding?&amp;rdquo; &amp;ldquo;What is decoding?&amp;quot;: formalization of the notion of information in neural activity&amp;rdquo;) (DaB)&lt;/p&gt;
@@ -321,12 +321,12 @@ Laurent Perrinet&lt;/dd&gt;
 &lt;p&gt;14:00-17:10 = &lt;a href=&#34;http://invibe.net/LaurentPerrinet/Presentations/2018-03-26_cours-NeuroComp_FEP&#34;&gt;Probabilities, the Free-energy principle and Active Inference&lt;/a&gt; (LuP).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;day-3--20180328--practical-course-on-information-theory&#34;&gt;day 3 : 2018-03-28 : Practical course on Information theory&lt;/h3&gt;
+&lt;h3 id=&#34;day-3--2018-03-28--practical-course-on-information-theory&#34;&gt;day 3 : 2018-03-28 : Practical course on Information theory&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;09:30-12:30 = Practical course on Information theory (DaB)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;more-material-related-to-the-course&#34;&gt;More material related to the course&lt;/h2&gt;
-&lt;h3 id=&#34;day-1--morning--the-single-neuron&#34;&gt;day 1 - morning : the single neuron&lt;/h3&gt;
+&lt;h3 id=&#34;day-1---morning--the-single-neuron&#34;&gt;day 1 - morning : the single neuron&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;site du livre de Gerstner et al &amp;ldquo;Neuronal Dynamics&amp;rdquo;: &lt;a href=&#34;http://neuronaldynamics.epfl.ch/&#34;&gt;http://neuronaldynamics.epfl.ch/&lt;/a&gt;&lt;/p&gt;
@@ -352,7 +352,7 @@ Laurent Perrinet&lt;/dd&gt;
 &lt;p&gt;His book ONLINE &lt;a href=&#34;http://cn.epfl.ch/~gerstner/NeuronalDynamics-MOOC1.html&#34;&gt;http://cn.epfl.ch/~gerstner/NeuronalDynamics-MOOC1.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;day-1--afternoon--neural-mass-models&#34;&gt;day 1 - afternoon : neural mass models&lt;/h3&gt;
+&lt;h3 id=&#34;day-1---afternoon--neural-mass-models&#34;&gt;day 1 - afternoon : neural mass models&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Another interactive course @ Washington University &lt;a href=&#34;https://www.coursera.org/course/compneuro&#34;&gt;https://www.coursera.org/course/compneuro&lt;/a&gt;&lt;/p&gt;
@@ -367,7 +367,7 @@ Laurent Perrinet&lt;/dd&gt;
 &lt;p&gt;A open source simulator of a whole brain which runs on your laptop, &amp;ldquo;The Virtual Brain&amp;rdquo;: &lt;a href=&#34;http://thevirtualbrain.org&#34;&gt;http://thevirtualbrain.org&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;day-2--morning--information-theory&#34;&gt;day 2 - morning : information theory&lt;/h3&gt;
+&lt;h3 id=&#34;day-2---morning--information-theory&#34;&gt;day 2 - morning : information theory&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;The best book on information theory and decoding, freely available directly from the author: &lt;a href=&#34;http://www.inference.phy.cam.ac.uk/itprnn/book.html&#34;&gt;http://www.inference.phy.cam.ac.uk/itprnn/book.html&lt;/a&gt;&lt;/p&gt;
@@ -376,7 +376,7 @@ Laurent Perrinet&lt;/dd&gt;
 &lt;p&gt;a gentle introduction to bayesian methods : &lt;a href=&#34;https://homepages.inf.ed.ac.uk/pseries/Peg_files/Chapter9_SotiropoulosSeries.pdf&#34;&gt;https://homepages.inf.ed.ac.uk/pseries/Peg_files/Chapter9_SotiropoulosSeries.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;day-2--afternoon--bayesian-models&#34;&gt;day 2 - afternoon : bayesian models&lt;/h3&gt;
+&lt;h3 id=&#34;day-2---afternoon--bayesian-models&#34;&gt;day 2 - afternoon : bayesian models&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;an interesting read : &lt;a href=&#34;http://cognitrn.psych.indiana.edu/busey/q551/PDFs/PredictivCodingRaoBallard.pdf&#34;&gt;http://cognitrn.psych.indiana.edu/busey/q551/PDFs/PredictivCodingRaoBallard.pdf&lt;/a&gt;&lt;/p&gt;
@@ -412,7 +412,7 @@ Laurent Perrinet&lt;/dd&gt;
       <link>https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/</link>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/post/2016-10-26_euvip-bicv/</guid>
-      <description>&lt;h1 id=&#34;20161026--euvip-special-session-on-biologically-inspired-computer-vision&#34;&gt;2016-10-26 : EUVIP Special Session on &lt;em&gt;Biologically Inspired Computer Vision&lt;/em&gt;&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;2016-10-26--euvip-special-session-on-biologically-inspired-computer-vision&#34;&gt;2016-10-26 : EUVIP Special Session on &lt;em&gt;Biologically Inspired Computer Vision&lt;/em&gt;&lt;/h1&gt;
 &lt;h2 id=&#34;description-of-the-session&#34;&gt;description of the session&lt;/h2&gt;
 &lt;p&gt;Recent advances in imaging technologies have yielded scientific data at
 unprecedented detail and volume, leading to the need of a shift of
@@ -517,7 +517,7 @@ The meeting organizers gratefully acknowledge the support of the European Union 
       <link>https://laurentperrinet.github.io/post/2008-10-08_neurocomp/</link>
       <pubDate>Thu, 27 May 2010 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/post/2008-10-08_neurocomp/</guid>
-      <description>&lt;h1 id=&#34;20081008--deuxime-confrence-franaise-de-neurosciences-computationnelles-neurocomp08&#34;&gt;2008-10-08 : Deuxième conférence française de Neurosciences Computationnelles, &amp;ldquo;Neurocomp08&amp;rdquo;&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;2008-10-08--deuxime-confrence-franaise-de-neurosciences-computationnelles-neurocomp08&#34;&gt;2008-10-08 : Deuxième conférence française de Neurosciences Computationnelles, &amp;ldquo;Neurocomp08&amp;rdquo;&lt;/h1&gt;
 &lt;p&gt;La deuxième conférence française de Neurosciences Computationnelles, &amp;ldquo;Neurocomp08&amp;rdquo;, s&#39;est déroulée à la Faculté de Médecine de Marseille du 8 au 11 octobre 2008. Cette conférence, organisée par le groupe de travail Neurocomp, a permis de réunir les principaux acteurs français du domaine (francophones ou non). Le champ des Neurosciences Computationnelles porte sur l&#39;étude des mécanismes de calcul qui sont à l&#39;origine de nos capacités cognitives. Cette approche nécessite l&#39;intégration constructive de nombreux domaines disciplinaires, du neurone au comportement, des sciences du vivant à la modélisation numérique. Avec ce colloque, nous avons offert un lieu d&#39;échanges afin de favoriser des collaborations interdisciplinaires entre des équipes relevant des neurosciences, des sciences de l&#39;information, de la physique statistique, de la robotique. Cette édition a également été l&#39;occasion d&#39;ouvrir le cadre à de nouveaux domaines (modèles pour l&#39;imagerie, interfaces cerveau-machine,&amp;hellip;) notamment grâce à des ateliers thématiques (une nouveauté dans cette édition). Certains des principaux enjeux du domaine ont été présentés par quatre conférenciers invités : Ad Aertsen (Freiburg, Allemagne), Gustavo Deco (Barcelone, Espagne), Gregor Schöner (Bochum, Allemagne), Andrew B. Schwartz (Pittsburgh, USA). Des interventions orale plus courtes et plus spécifiques étaient également au programme, sur la base d&#39;une sélection du comité de lecture. Une cinquantaine de posters ont également été présentés au cours de ces journées. Le premier jour était consacré aux modèles de la cellule neurale, aux modèles des traitements visuels et corticaux, ainsi qu&#39;aux modèles de réseaux de neurones bio-mimétiques. La seconde journée était consacrée aux interfaces cerveau-machine, à la dynamique des grands ensembles de neurones, à la plasticité fonctionnelle et aux interfaces neurales. Enfin, la journée de samedi était consacrée à des ateliers thématiques, l&#39;un sur les interfaces cerveau-machine, l&#39;autre sur la vision computationnnelle. Cette conférence a connu un beau succès de par l&#39;affluence (200 personnes environ) et la qualité des interventions. Ce succès tient également au fort soutien financier et organisationnel qu&#39;elle a obtenu de ses partenaires. Les organisateurs remercient le CNRS, la Société des neurosciences, le conseil régional de la région Provence Alpes Côte d&#39;Azur, le conseil général des Bouches de Rhône, la mairie de Marseille, l&#39;université de Provence, l&#39;IFR &amp;ldquo;Sciences du cerveau et de la cognition&amp;rdquo;, l&#39;INRIA, ainsi que la faculté de médecine de Marseille et l&#39;université de la Méditerranée qui ont hébergé la conférence.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Les actes de la conférence regroupant les 68 contributions sont disponibles sur le &lt;a href=&#34;http://hal.archives-ouvertes.fr/NEUROCOMP08&#34;&gt;serveur HAL dédié&lt;/a&gt;.&lt;/li&gt;

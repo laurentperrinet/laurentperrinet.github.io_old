@@ -51,7 +51,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/authors/wahiba-taouali/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/authors/wahiba-taouali/</guid>
-      <description>&lt;h1 id=&#34;motion-integration-by-v1-population--postdoc-201303--201501&#34;&gt;Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;motion-integration-by-v1-population--post-doc-2013-03--2015-01&#34;&gt;Motion Integration By V1 Population  (Post-Doc, 2013-03 / 2015-01)&lt;/h1&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Wahiba hold the postdoctoral position at the &lt;a href=&#34;http://www.int.univ-amu.fr/spip.php?rubrique2&amp;amp;lang=en&#34;&gt;&amp;ldquo;Institut de Neurosciences de la Timone&amp;rdquo;&lt;/a&gt;, CNRS, Marseille (France) to study object motion integration and representation at the level of V1 populations:&lt;/p&gt;
 &lt;ul&gt;
@@ -166,7 +166,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/authors/victor-boutin/</link>
       <pubDate>Mon, 25 Mar 2019 14:30:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/victor-boutin/</guid>
-      <description>&lt;h1 id=&#34;controlling-an-aerial-robot-by-human-semaphore-gestures-using-a-bioinspired-neural-network-phd-122016--022020&#34;&gt;Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;controlling-an-aerial-robot-by-human-semaphore-gestures-using-a-bio-inspired-neural-network-phd-122016---022020&#34;&gt;Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)&lt;/h1&gt;
 &lt;p&gt;The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.&lt;/p&gt;
 &lt;p&gt;In particular, vision is predominant compared to other senses in terms of computational resources. So understanding visual processing has the potential to reveal the core computational mechanisms that give the brain such performances. In my research, I am interested in extracting the fundamental principles that are at stake in the visual system, and to apply them to develop better machine learning algorithms. As I consequence, I tend to adopt a cross-level analysis approach. I develop algorithms that simultaneously model low-level neural mechanisms and account for higher-level visual tasks such as object recognition, denoising, inpainting, image generation, etc.&lt;/p&gt;
 &lt;p&gt;The ultimate objective would be to develop a framework that successfully solves all these visual tasks without being extensively retrained from scratch for each of those tasks. Such an algorithm would be a first step towards the ultimate goal of every researcher in machine learning, that is, general artificial intelligence.&lt;/p&gt;
@@ -317,16 +317,16 @@ for instance spike-based visual processing.&lt;/p&gt;
       <link>https://laurentperrinet.github.io/authors/hugo-ladret/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/hugo-ladret/</guid>
-      <description>&lt;h1 id=&#34;phd-student-201909--201311-a-multiscale-cortical-model-to-account-for-orientation-selectivity-in-naturallike-stimulations&#34;&gt;PhD Student (2019-09 / 2013-11): A multiscale cortical model to account for orientation selectivity in natural-like stimulations&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;phd-student-2019-09--2013-11-a-multiscale-cortical-model-to-account-for-orientation-selectivity-in-natural-like-stimulations&#34;&gt;PhD Student (2019-09 / 2013-11): A multiscale cortical model to account for orientation selectivity in natural-like stimulations&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Aix-Marseille Université, Institut des Neurosciences de la Timone&lt;/li&gt;
 &lt;li&gt;Université de Montréal, Laboratoire des Neurosciences de la Vision&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;master-2b-undergrad-20190112--20190524&#34;&gt;master 2B (undergrad, 2019-01-12 / 2019-05-24)&lt;/h1&gt;
+&lt;h1 id=&#34;master-2b-undergrad-2019-01-12--2019-05-24&#34;&gt;master 2B (undergrad, 2019-01-12 / 2019-05-24)&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Université de Montréal, Laboratoire des Neurosciences de la Vision&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;master-2a-undergrad-20180910--20190111--learning-temporal-integrations-in-a-visual-spiking-neural-network&#34;&gt;master 2A (undergrad, 2018-09-10 / 2019-01-11) : Learning temporal integrations in a visual spiking neural network&lt;/h1&gt;
+&lt;h1 id=&#34;master-2a-undergrad-2018-09-10--2019-01-11--learning-temporal-integrations-in-a-visual-spiking-neural-network&#34;&gt;master 2A (undergrad, 2018-09-10 / 2019-01-11) : Learning temporal integrations in a visual spiking neural network&lt;/h1&gt;
 &lt;p&gt;Building upon our previous work, we are investigating how recurrent neural networks learn to integrate temporal information, a dimension which is absent in most deep learning networks but provides a wealth of information in biological neural networks.&lt;/p&gt;
 &lt;p&gt;To be able to generalize our findings, I created a model of the early visual pathway (retina and thalamus) that generates neural activity from any natural image, based on data gathered in biological systems for the past several decades.
 The output from this early visual pathway is then processed by a recurrent spiking neural network whose dynamics match that of the primary visual cortex.&lt;/p&gt;
@@ -334,14 +334,14 @@ The output from this early visual pathway is then processed by a recurrent spiki
 &lt;ul&gt;
 &lt;li&gt;source code : &lt;a href=&#34;https://github.com/hugoladret/InternshipM2&#34;&gt;https://github.com/hugoladret/InternshipM2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;neuroscience-specialist-for-artistic-creation-201807--201809&#34;&gt;Neuroscience Specialist for Artistic Creation (2018-07 / 2018-09)&lt;/h1&gt;
+&lt;h1 id=&#34;neuroscience-specialist-for-artistic-creation-2018-07--2018-09&#34;&gt;Neuroscience Specialist for Artistic Creation (2018-07 / 2018-09)&lt;/h1&gt;
 &lt;p&gt;I developed computational neuroscience and computational physics models, in collaboration with well-known contemporary artist Etienne Rey at Friche la Belle de Mai (Marseille) and AI researcher Laurent Perrinet. The idea behind our project was to create works of art by distributing particles in a constrained, semi-stable space, thereby creating discrete illusory perceptions.&lt;/p&gt;
 &lt;p&gt;To dive into more technical details, my work included the implementation of a Boltzmann lattice for computational fluid dynamics (D2Q9 structure), as well as various electro-magnetic interaction models. On the neuroscience side, I used Deep Convoluted Generative Adverserial Networks (DCGAN), Kohonen maps and Canny edge detectors to generate triangulated graphs with a hidden underlying structure.
 In order to facilitate collaboration between the three of us, I also developed a GUI and multi-threading support that allowed us to work efficiently and use at best each our respective skill set.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;source code : &lt;a href=&#34;https://github.com/NaturalPatterns/&#34;&gt;https://github.com/NaturalPatterns/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;master-1-undergrad-201804--201806-orientation-selectivity-in-a-ring-model-of-the-primary-visual-cortex&#34;&gt;master 1 (undergrad, 2018-04 / 2018-06): Orientation selectivity in a ring model of the primary visual cortex&lt;/h1&gt;
+&lt;h1 id=&#34;master-1-undergrad-2018-04--2018-06-orientation-selectivity-in-a-ring-model-of-the-primary-visual-cortex&#34;&gt;master 1 (undergrad, 2018-04 / 2018-06): Orientation selectivity in a ring model of the primary visual cortex&lt;/h1&gt;
 &lt;p&gt;I created a ring model that performs orientation discrimination tasks, using an hybrid model of convolutionnal and recurrent networks. This work was, to our knowledge, the first visual ring model based on deep learning techniques.&lt;/p&gt;
 &lt;p&gt;The recurrence in the network plays a role akin to that of lateral interactions within the primary visual cortex. We have shown in this work that these lateral interactions provide robustness to noisy inputs in the model, which we infer to also be the  the case in the brain.
 To verify this assessment, I designed a 2-outcome discriminative psychophysics task (2AFC) and compared various metrics for human and model trials. The results showed that the lateral interactions allowed human-like performance, which is a strong qualitative argument in favor of the biological plausiblity of this model.&lt;/p&gt;
@@ -396,7 +396,7 @@ To verify this assessment, I designed a 2-outcome discriminative psychophysics t
       <link>https://laurentperrinet.github.io/authors/jean-bernard-damasse/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/authors/jean-bernard-damasse/</guid>
-      <description>&lt;h1 id=&#34;smooth-pursuit-eye-movements-and-learning-role-of-motion-probability-and-reinforcement-contingencies-phd-20142017&#34;&gt;Smooth pursuit eye movements and learning: Role of motion probability and reinforcement contingencies (PhD, 2014-2017)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;smooth-pursuit-eye-movements-and-learning-role-of-motion-probability-and-reinforcement-contingencies-phd-2014-2017&#34;&gt;Smooth pursuit eye movements and learning: Role of motion probability and reinforcement contingencies (PhD, 2014-2017)&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Thesis director: Anna Montagnini&lt;/li&gt;
 &lt;li&gt;Thesis co-supervisition: Laurent Perrinet&lt;/li&gt;
@@ -435,7 +435,7 @@ To verify this assessment, I designed a 2-outcome discriminative psychophysics t
       <link>https://laurentperrinet.github.io/authors/kiana-mansour-pour/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/kiana-mansour-pour/</guid>
-      <description>&lt;h1 id=&#34;predicting-and-selecting-sensory-events-inference-for-smooth-eye-movements-phd-2015--2019&#34;&gt;Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;predicting-and-selecting-sensory-events-inference-for-smooth-eye-movements-phd-2015---2019&#34;&gt;Predicting and selecting sensory events: inference for smooth eye movements (PhD: 2015 - 2019)&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Funding: This position is funded by the Marie Skodowska-Curie program of the H2020 European Union program, as part of the &lt;a href=&#34;https://laurentperrinet.github.io/project/pace-itn/&#34;&gt;Innovative Training Network PACE (Perception and Action in Complex Environments)&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Thesis director: Anna Montagnini&lt;/li&gt;
@@ -499,7 +499,7 @@ To verify this assessment, I designed a 2-outcome discriminative psychophysics t
       <link>https://laurentperrinet.github.io/authors/mina-a-khoei/</link>
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/mina-a-khoei/</guid>
-      <description>&lt;h1 id=&#34;emerging-properties-in-a-neural-field-model-implementing-probabilistic-prediction-phd-20112014&#34;&gt;Emerging properties in a neural field model implementing probabilistic prediction (PhD, 2011-2014)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;emerging-properties-in-a-neural-field-model-implementing-probabilistic-prediction-phd-2011-2014&#34;&gt;Emerging properties in a neural field model implementing probabilistic prediction (PhD, 2011-2014)&lt;/h1&gt;
 &lt;p&gt;In the early visual system, information about the visual world as represented by neural activity is dynamically building up from sensory input but also by contextual information coming from neighboring cells and re-entrant signal from other cortical areas. Low-level sensory areas are therefore an excellent model for exploring how neural computations solve the problem of selecting a single, coherent and global representation from the dispersed information collected locally and in parallel by neurons. Our goal in this program is to study the dynamics of neural fields implementing probabilistic computations for early sensory processing. Emphasis will be put onto the role of anisotropic diffusion, in particular within a cortical area through lateral interactions.&lt;/p&gt;
 &lt;p&gt;We have previously elaborated probabilistic (Perrinet &amp;amp; Masson, 2010) or dynamical (Tlapale et al., 2010) models of motion information diffusion along cortical retinotopic trajectories. Probabilistic models give a complete representation of the information that is represented by populations of neurons. In such a dynamical system, prediction acts as a prior, filtering possible future states knowing the current one. An approximation using particle filtering methods will be used to investigate how this propagation can solve low-level computational problems such as integration, extrapolation or prediction in visual (Mason &amp;amp; Ilg, 2010) or somatosensory (Shulz et al. 2006) cortices.&lt;/p&gt;
 &lt;p&gt;Using this architecture, we will explore the consequences of such context-dependent propagation in terms of coding and of learning. First at the time scale of coding, knowing the prior, we will study the emergent properties of the system like its ability to track objects independently of their shape or to segment parts of the scene that are moving coherently. We will study of this motion information may help shape the selectivity of neurons in a given area, for instance orientation selectivity on the priamry visual cortex. At the time scale of learning, we will build models exploring the emergence of maps of cortical receptive fields optimally tuned to elaborate sparse, multi-scale representations of the visual or tactile world. In fact, a simple functional model allows to understand emergence in a model of a simple macro-column of the primary visual cortex (Perrinet, 2010). One challenging question is whether these functional models of self-organization can be translated to large-scale networks of the early sensory system. Using the probabilistic model, we will investigate how spatio-temporal receptive fields can emerge through learning of statistical regularities in the images and study how hierarchic structures can arise as a self-organized property.&lt;/p&gt;
@@ -547,7 +547,7 @@ To verify this assessment, I designed a 2-outcome discriminative psychophysics t
       <link>https://laurentperrinet.github.io/authors/jens-kremkow/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/jens-kremkow/</guid>
-      <description>&lt;h1 id=&#34;correlating-excitation-and-inhibition-in-visual-cortical-circuits-functional-consequences-and-biological-feasibility--phd-200601--200905&#34;&gt;Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;correlating-excitation-and-inhibition-in-visual-cortical-circuits-functional-consequences-and-biological-feasibility--phd-2006-01--2009-05&#34;&gt;Correlating Excitation and Inhibition in Visual Cortical Circuits: Functional Consequences and Biological Feasibility  (PhD, 2006-01 / 2009-05)&lt;/h1&gt;
 &lt;p&gt;The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Venue: Thèse de Doctorat de l’Université d’Aix-Marseille II, Ecole Doctorale des Sciences de la Vie et de la Santé Marseille, France en Cotutelle avec la Fakultät für Biologie Albert-Ludwigs-Universität Freiburg im Breisgau, Allemagne&lt;/li&gt;
@@ -782,7 +782,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
       <link>https://laurentperrinet.github.io/authors/nicole-voges/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/nicole-voges/</guid>
-      <description>&lt;h1 id=&#34;complex-dynamics-in-recurrent-cortical-networks-based-on-spatially-realistic-connectivities-postdoc-2008--2010&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities (Post-Doc, 2008 / 2010)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;complex-dynamics-in-recurrent-cortical-networks-based-on-spatially-realistic-connectivities-post-doc-2008--2010&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities (Post-Doc, 2008 / 2010)&lt;/h1&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;Most studies on the dynamics of recurrent cortical networks are either based on purely random wiring or neighborhood couplings. Neuronal cortical connectivity, however, shows a complex spatial pattern composed of local and remote patchy connections. We ask to what extent such geometric traits influence the &amp;ldquo;idle&amp;rdquo; dynamics of two-dimensional (2d) cortical network models composed of conductance-based integrate-and-fire (iaf) neurons. In contrast to the typical 1 mm2 used in most studies, we employ an enlarged spatial set-up of 25 mm2 to provide for long-range connections. Our models range from purely random to distance-dependent connectivities including patchy projections, i.e., spatially clustered synapses. Analyzing the characteristic measures for synchronicity and regularity in neuronal spiking, we explore and compare the phase spaces and activity patterns of our simulation results. Depending on the input parameters, different dynamical states appear, similar to the known synchronous regular (SR) or asynchronous irregular (AI) firing in random networks. Our structured networks, however, exhibit shifted and sharper transitions, as well as more complex activity patterns. Distance-dependent connectivity structures induce a spatio-temporal spread of activity, e.g., propagating waves, that random networks cannot account for. Spatially and temporally restricted activity injections reveal that a high amount of local coupling induces rather unstable AI dynamics. We find that the amount of local versus long-range connections is an important parameter, whereas the structurally advantageous wiring cost optimization of patchy networks has little bearing on the phase space.&lt;/p&gt;
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
