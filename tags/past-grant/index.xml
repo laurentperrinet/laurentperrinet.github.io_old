@@ -52,7 +52,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; &gt;
-&lt;img src=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; alt=&#34;We were open :-)&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; class=&#34;lazyload&#34; alt=&#34;We were open :-)&#34; &gt;&lt;/a&gt;
 
 
 
@@ -126,7 +126,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;http://invibe.net/cgi-bin/index.cgi/Presentations/2012-04-16_InriaIntMeeting?action=AttachFile&amp;amp;do=get&amp;amp;target=sequence_ABCD.gif&#34; data-caption=&#34;A predictive sequence is essential in resolving the coherence problem.  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.&#34;&gt;
-&lt;img src=&#34;http://invibe.net/cgi-bin/index.cgi/Presentations/2012-04-16_InriaIntMeeting?action=AttachFile&amp;amp;do=get&amp;amp;target=sequence_ABCD.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;http://invibe.net/cgi-bin/index.cgi/Presentations/2012-04-16_InriaIntMeeting?action=AttachFile&amp;amp;do=get&amp;amp;target=sequence_ABCD.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -183,12 +183,12 @@ on January 1st, 2011.&lt;/p&gt;
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/grant/facets/</guid>
       <description>&lt;p&gt;List of publications that were funded by the
-&lt;!-- raw HTML omitted --&gt;FACETS&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;http://facets.kip.uni-heidelberg.de/&#34; class=&#34;http&#34;&gt;FACETS&lt;/a&gt;
 project (more
-&lt;!-- raw HTML omitted --&gt;info&lt;!-- raw HTML omitted --&gt;).&lt;/p&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Facets_%28Science%29&#34; class=&#34;http&#34;&gt;info&lt;/a&gt;).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;also available on the FACET&#39;s
-&lt;!-- raw HTML omitted --&gt;website&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;a href=&#34;http://facets.kip.uni-heidelberg.de/jss/Publications/author_Perrinet&#34; class=&#34;http&#34;&gt;website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;See also:&lt;/p&gt;
 &lt;ul&gt;
@@ -215,8 +215,8 @@ on January 1st, 2011.&lt;/p&gt;
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/grant/facets-itn/</guid>
       <description>&lt;h1 id=&#34;facets-itn-from-neuroscience-to-neuro-inspired-computing-20102013&#34;&gt;FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)&lt;/h1&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;FACETS ITN&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;a href=&#34;http://facets.kip.uni-heidelberg.de/ITN/index.html&#34; class=&#34;http&#34;&gt;&lt;img src=&#34;http://facets.kip.uni-heidelberg.de/images/e/e3/Public--ITN_PositionsPoster2.png&#34; title=&#34;http://facets.kip.uni-heidelberg.de/ITN/index.html&#34; alt=&#34;http://facets.kip.uni-heidelberg.de/ITN/index.html&#34; class=&#34;external_image&#34; style=&#34;width:25.0%&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://facets.kip.uni-heidelberg.de/ITN/index.html&#34; class=&#34;http&#34;&gt;FACETS ITN&lt;/a&gt;
 project (EU funding, grant number 237955) is a &amp;lsquo;Marie-Curie Initial
 Training Network&amp;rsquo; involves 15 groups at European Research Universities,
 Research Centers and Industrial Partners in 6 countries. 22 Ph.D.
@@ -224,7 +224,8 @@ Positions are funded in the FACETS-ITN project in the following
 scientific work areas: Neurobiology of Cells and Networks, Modelling of
 Neural Systems, Neuromorphic Hardware, Neuro-Electronic Interfaces,
 Computational Principles in Neural Architectures, Mechanisms of Learning
-and Plasticity. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+and Plasticity. &lt;span id=&#34;line-8&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;span
+id=&#34;line-9&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;See also:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

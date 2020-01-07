@@ -40,7 +40,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; data-caption=&#34;Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. A) It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. B) Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). C) Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;rsquo;&amp;rsquo; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;#39;s category from a central fixation.&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -69,7 +69,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; data-caption=&#34;Results: success&#34;&gt;
-&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -98,7 +98,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; data-caption=&#34;Results: failure to classify&#34;&gt;
-&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
@@ -127,7 +127,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; data-caption=&#34;Results: failure to locate&#34;&gt;
-&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   

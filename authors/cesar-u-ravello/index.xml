@@ -59,7 +59,7 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;featured.jpg&#34; data-caption=&#34;Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&amp;#39;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&amp;#39;autant plus précises que la stimulation est complexe. © Cesar Ravello&#34;&gt;
-&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;featured.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   

@@ -69,7 +69,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;v1_tiger.gif&#34; data-caption=&#34;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&#34;&gt;
-&lt;img src=&#34;v1_tiger.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;v1_tiger.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   

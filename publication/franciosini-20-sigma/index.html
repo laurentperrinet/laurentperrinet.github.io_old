@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.0">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
 
   
 
@@ -45,6 +45,12 @@
   
   
   
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
@@ -70,6 +76,118 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -133,11 +251,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://laurentperrinet.github.io/publication/franciosini-20-sigma/">
 
+  
   
   
   
@@ -200,7 +319,7 @@
     "name": "Novel visual computations",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://laurentperrinet.github.io/img/hulk.png"
+      "url": "img/https://laurentperrinet.github.io/hulk.png"
     }
   },
   "description": "Cells in the primary visual cortex of mammals (V1) have historically been divided into two classes: simple and complex. Simple cells exhibit a rectified linear response to oriented visual stimuli while complex cells show various degrees of invariance with respect to the stimulus' phase (position). The existence of these two populations can be explained by hierarchical models where simple cells feed information into complex cells through a non-linear spatial pooling [1]. Nevertheless, how the brain develops this structure remains an open question. One of the most successful theories to model hierarchical processing in the brain is Predictive Coding (PC): a framework introduced by Rao \u0026 Ballard [2] that exploits feedback and feedforward connectivity to solve a Bayesian inference problem. We extended the classical PC to account for a sparse representation of the input data (natural images) and a convolutional structure to allow translation invariance. We demonstrate that this framework, called Sparse Deep Predictive Coding (SDPC) [3], can easily replicate complex-like neurons when a non-linear pooling is included between the layers. In particular, we show that a large population of complex-like neurons, showing various degrees of phase invariance, emerges in the 2nd layer of the model when the pooling function is extended to include not only neighboring spatial locations but also neighboring neurons with different tuning properties. We trained various networks on natural images (STL-10 data-set). To quantify the complex behavior of the model neurons, we used the modulation ratio F1/F0[4]: if F1/F0 ≥ 1 the cell is identified as simple-like, if F1/F0\u003c1 the cell is complex-like. In all the tested settings the 1st layer of the network exhibits simple-like neurons, while the 2nd layer always presents a fraction of complex-like cells. We observed the emergence of different behaviors by introducing different types on non-linear pooling. A striking emergent property of our model is that this non-linearities induce a topographical structure on the neurons of the network. This organization shows qualitatively strong similarities with that found in V1.  Importantly, this organization is solely a consequence of the feedback connection coming from the 2nd layer: enforcing the pooling across neighboring neurons constrains neighboring simple-cells to encode for similar features. In particular, edge-like filters with similar orientations and frequencies, but different phases, tend to be grouped together. We were able to reproduce similar effects with two different types of pooling (l2-pooling, max-pooling) and different network sizes, obtaining different degrees of topographical organization and different ratios of complex-like cells. A possible explanation of this phenomenon lies in the computational bottleneck caused by a reduction in the network layers' size. This is also in line with previous studies that showed how cortical networks with the same functional characterization can explain different behavior with different structural parameters [5]. The novelty of this model lies in its ability to highlight the link between structure and function in a neural network. This study addresses a long-debated question on the function and role of the diversity of topographical structure in the visual cortex of mammals across species.   [1]  Ko Sakai and Shigeru Tanaka. ``Spatial pooling in the second-order spatial structure of cortical complex cells''. In: Vision Research40.7 (2000), pp. 855--871.  [2]  Rajesh PN Rao and Dana H Ballard. ``Predictive coding in the visual cortex: a functional interpretation of some extra-classical receptive-field effects''. In: Nature neuroscience2.1 (1999), p. 79.  [3]  Victor Boutin et al. ``Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system''. In: arXiv preprint arXiv:1902.07651(2019).  [4]  Bernt C Skottun et al. ``Classifying simple and complex cells on the basis of response modulation''. In: Vision research31.7-8 (1991), pp. 1078--1086.  [5]  Jaeson Jang, Min Song, and Se-Bum Paik. ``Classification of columnar and salt-and-pepper organization in mammalian visual cortex''. In: bioRxiv(2019), p. 698043"
@@ -260,13 +379,20 @@
 
 
   
+
+
+
+
+
+
+
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
-    
-    
-      <a class="navbar-brand" href="/"><img src="/img/hulk.png" alt="Novel visual computations"></a>
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Novel visual computations</a>
+    </div>
     
 
     
@@ -274,6 +400,12 @@
             data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Novel visual computations</a>
+    </div>
     
 
     
@@ -308,6 +440,30 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/perrinet_curriculum-vitae-full.pdf" target="_blank" rel="noopener"><span>CV</span></a>
         </li>
 
         
@@ -1017,12 +1173,6 @@
     
     
     
-    <script src="/js/mathjax-config.js"></script>
-    
-
-    
-    
-    
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
@@ -1038,10 +1188,6 @@
         
       
 
-      
-      
-      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
-      
     
 
     
@@ -1051,7 +1197,7 @@
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
     
 
     
@@ -1116,7 +1262,7 @@
     
     
     
-    <script src="/js/academic.min.96cf4c3dc37ea60dbbd03c13a455f1f7.js"></script>
+    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
 
     
 
@@ -1133,7 +1279,7 @@
 
   <p class="powered-by">
     This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->This work is licensed under a <!-- raw HTML omitted -->Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License<!-- raw HTML omitted -->
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. &middot; 
 
     Powered by the

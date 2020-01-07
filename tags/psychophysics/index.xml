@@ -27,10 +27,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/project/open-science/</guid>
       <description>&lt;p&gt;To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. &lt;a href=&#34;https://github.com/laurentperrinet/PerrinetAdamsFriston14&#34;&gt;(Perrinet, Adams and Friston, 2015)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34;&gt;(Perrinet and Bednar, 2015)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34;&gt;(Khoei et, 2017)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/2019-05_illusions-visuelles&#34;&gt;(Perrinet, 2019)&lt;/a&gt; or courses and slides (e.g. &lt;a href=&#34;https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization&#34;&gt;2019-04-03_a_course_on_vision_and_modelization&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/2019-04-18_JNLF&#34;&gt;2019-04-18_JNLF&lt;/a&gt;, &amp;hellip;) and also the development of the following libraries on GitHub.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Follow @laurentperrinet&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;!-- Place this tag where you want the button to render. --&gt;
+&lt;p&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/laurentperrinet&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Follow @laurentperrinet on GitHub&#34;&gt;Follow @laurentperrinet&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Place this tag in your head or just before your close body tag. --&gt;
+&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;
 &lt;h1 id=&#34;bayesianchangepoint&#34;&gt;bayesianchangepoint&lt;/h1&gt;
 &lt;p&gt;An implementation of &lt;a href=&#34;http://arxiv.org/abs/0710.3742&#34;&gt;Adams &amp;amp; MacKay 2007 &amp;ldquo;Bayesian Online Changepoint Detection&amp;rdquo;&lt;/a&gt; in Python.&lt;/p&gt;
 &lt;ul&gt;
@@ -131,7 +131,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;grating.gif&#34; data-caption=&#34;Band-pass motion stimuli for perception and action tasks. (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.&#34;&gt;
-&lt;img src=&#34;grating.gif&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;grating.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
   

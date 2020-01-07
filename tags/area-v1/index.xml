@@ -19,7 +19,17 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</guid>
       <description>&lt;h1 id=&#34;an-adaptive-algorithm-for-unsupervised-learning&#34;&gt;&amp;ldquo;An adaptive algorithm for unsupervised learning&amp;rdquo;&lt;/h1&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;BR&gt;
+&lt;center&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19&#34;&gt;&lt;video controls autoplay loop src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; width=61.8%/&gt;&lt;/a&gt; &lt;/center&gt;
+&lt;BR&gt;
+* supplementary info : https://spikeai.github.io/HULK/
+* [Abstract](https://www.mdpi.com/2411-5150/3/3/47)
+* [HTML](https://www.mdpi.com/2411-5150/3/3/47/htm)
+* [PDF](https://www.mdpi.com/2411-5150/3/3/47/pdf)
+* code for paper: https://github.com/SpikeAI/HULK
+* code for framework: https://github.com/bicv/SparseHebbianLearning/
+* code for figures https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb (which is rendered @ https://spikeai.github.io/HULK/ )
+* [video abstract](https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4) (and the [code](https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html) for generating it)
 </description>
     </item>
     
@@ -135,7 +145,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;lena256pyr.gif&#34; data-caption=&#34;Progressive reconstruction of a static image using spikes in a Laplacian pyramid.&#34;&gt;
-&lt;img src=&#34;lena256pyr.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+&lt;img data-src=&#34;lena256pyr.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
   
