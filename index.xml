@@ -226,26 +226,6 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     </item>
     
     <item>
-      <title>An adaptive homeostatic algorithm for the unsupervised learning of visual features</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0200</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</guid>
-      <description>&lt;h1 id=&#34;an-adaptive-algorithm-for-unsupervised-learning&#34;&gt;&amp;ldquo;An adaptive algorithm for unsupervised learning&amp;rdquo;&lt;/h1&gt;
-&lt;BR&gt;
-&lt;center&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19&#34;&gt;&lt;video controls autoplay loop src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; width=61.8%/&gt;&lt;/a&gt; &lt;/center&gt;
-&lt;BR&gt;
-* supplementary info : https://spikeai.github.io/HULK/
-* [Abstract](https://www.mdpi.com/2411-5150/3/3/47)
-* [HTML](https://www.mdpi.com/2411-5150/3/3/47/htm)
-* [PDF](https://www.mdpi.com/2411-5150/3/3/47/pdf)
-* code for paper: https://github.com/SpikeAI/HULK
-* code for framework: https://github.com/bicv/SparseHebbianLearning/
-* code for figures https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb (which is rendered @ https://spikeai.github.io/HULK/ )
-* [video abstract](https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4) (and the [code](https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html) for generating it)
-</description>
-    </item>
-    
-    <item>
       <title>A dual foveal-peripheral visual processing model implements efficient saccade selection</title>
       <link>https://laurentperrinet.github.io/publication/dauce-19/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
@@ -725,6 +705,26 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/franciosini-perrinet-19-neurofrance/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive homeostatic algorithm for the unsupervised learning of visual features</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</guid>
+      <description>&lt;h1 id=&#34;an-adaptive-algorithm-for-unsupervised-learning&#34;&gt;&amp;ldquo;An adaptive algorithm for unsupervised learning&amp;rdquo;&lt;/h1&gt;
+&lt;BR&gt;
+&lt;center&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19&#34;&gt;&lt;video controls autoplay loop src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; width=61.8%/&gt;&lt;/a&gt; &lt;/center&gt;
+&lt;BR&gt;
+* supplementary info : https://spikeai.github.io/HULK/
+* [Abstract](https://www.mdpi.com/2411-5150/3/3/47)
+* [HTML](https://www.mdpi.com/2411-5150/3/3/47/htm)
+* [PDF](https://www.mdpi.com/2411-5150/3/3/47/pdf)
+* code for paper: https://github.com/SpikeAI/HULK
+* code for framework: https://github.com/bicv/SparseHebbianLearning/
+* code for figures https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb (which is rendered @ https://spikeai.github.io/HULK/ )
+* [video abstract](https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4) (and the [code](https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html) for generating it)
+</description>
     </item>
     
     <item>
