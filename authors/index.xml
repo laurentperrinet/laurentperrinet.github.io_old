@@ -6,7 +6,7 @@
       <atom:link href="https://laurentperrinet.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 21 Oct 2019 09:00:00 +0200</lastBuildDate>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/img/hulk.png</url>
       <title>Authors</title>
@@ -15,8 +15,47 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     
     <item>
       <title></title>
+      <link>https://laurentperrinet.github.io/authors/angelo-franciosini/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://laurentperrinet.github.io/authors/angelo-franciosini/</guid>
+      <description>&lt;h1 id=&#34;trajectories-in-natural-images-and-the-sensory-processing-of-contours-phd-position-2017--2021&#34;&gt;Trajectories in natural images and the sensory processing of contours (PhD position, 2017 / 2021)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Venue: Aix-Marseille Université&#39;s &lt;a href=&#34;https://laurentperrinet.github.io/project/phd-icn/&#34;&gt;Neuroschool PhD program in Neuroscience&lt;/a&gt; (formerly known as &amp;ldquo;Ph.D. program in Integrative and Clinical Neuroscience&amp;rdquo;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keywords: Vision, Neural Networks, Bio-Inspired Computer Vision, contours, learning&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Thesis director: Dr. Laurent PERRINET, Director&#39;s research unit: Institut de Neurosciences de la Timone (INT)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description-of-the-phd-thesis-project&#34;&gt;Description of the PHD thesis project&lt;/h2&gt;
+&lt;p&gt;Binding the different features of objects in images is at the core of visual perception. As such, the visual system needs to detect local edges and to bind them together to form contours at a higher, more global level. A state-of-the art theory is that of the “association field”: the confidence of an edge depends on the configuration of neighboring edges. For instance it is facilitated for co-linear or co-circular edges. This process takes advantage of the statistical regularities of edges that are present in natural images. In particular, we have developed a method to quantify the association field in different classes of natural images (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet &amp;amp; Bednar, 2015&lt;/a&gt;). Using an &lt;a href=&#34;https://github.com/bicv/SparseEdges&#34;&gt;existing library&lt;/a&gt;, it is possible to compute histograms of edge co-occurrences from the sparse representation of static natural images. We have already shown that these different statistics were sufficient to categorize images, for instance to know if they contain an animal or not.  At the neural level, modeling the representation of the image, such as that formed in the primary visual cortex of primates (V1), this heuristics translates to a set of rules that adapts dynamically the activity of isolated neurons representing edges into the coherent population activity of contours. &amp;lsquo;&amp;lsquo;&amp;lsquo;Yet, we miss an understanding of the link between these statistics and the probabilistic rules that binds features together and how this information is dynamically encoded in V1.&amp;rsquo;&amp;rsquo;&amp;rsquo;&lt;/p&gt;
+&lt;h3 id=&#34;objectives&#34;&gt;Objectives&lt;/h3&gt;
+&lt;p&gt;In this computational neuroscience project, we will exploit our current expertise in computer vision for the statistical integration of visual of objects to translate them in the form of probabilistic predictive models for biological vision. &amp;lsquo;&amp;lsquo;&amp;lsquo;Our core hypothesis is that in natural scenes, contours follow coherent trajectories and that this knowledge is integrated (learned) by the visual system to optimally inform the representation of the image.&amp;rsquo;&amp;rsquo;&amp;rsquo;&lt;/p&gt;
+&lt;h3 id=&#34;methods&#34;&gt;Methods&lt;/h3&gt;
+&lt;p&gt;First, we will learn the different classes of edge co-occurrences that are relevant to natural images. Using an &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning&#34;&gt;existing  unsupervised learning algorithm&lt;/a&gt;, we will learn these as an independent components analysis. Such an algorithm extends well to a deep-learning convolutional neural network, but importantly, it will be informed by our expertise of modeling neural networks in low-level visual areas by including horizontal connectivity. We expect that relevant features will be mainly the predictable arrangements, such as co-linear or co-circular pairs of edges, but also highly surprising ones, such as T-junctions or end-stopping features. Importantly, we will be able to compare this representation with that present in higher level areas and to refine our knowledge on the representation of natural-like images. Second, we have previously found that using synthetic textures could further advance our understanding of neural computations and perception. These random synthetic textures, coined “Motion Clouds” were initially targeted to quantify the integration properties of visual motion perception (&lt;a href=&#34;https://laurentperrinet.github.io/publication/sanz-12/&#34;&gt;Leon et al, 2012&lt;/a&gt;, &lt;a href=&#34;https://laurentperrinet.github.io/publication/simoncini-12/&#34;&gt;Simoncini et al, 2012&lt;/a&gt;). Informed by the generative model of edge co-occurrences studied above, an extension to such stimuli would be to include dependencies between different elements. As such, we will be able to manipulate the level of dependency between different elements, whether in space, time or feature space (orientations). A potential outcome will be to use these in neurophysiological and psychophysical experiments within the team. In particular, the ability to select different classes of dependencies learned above will make it possible to evaluate the relative contribution of each component to the association field.&lt;/p&gt;
+&lt;h3 id=&#34;expected-results&#34;&gt;Expected results&lt;/h3&gt;
+&lt;p&gt;Finally, those two tasks converge to a long-term goal of &amp;lsquo;&amp;lsquo;&amp;lsquo;understanding the impact of the spatio-temporal structure of natural images in the neural computations implementing visual processing in low-level visual areas and perception&amp;rsquo;&#39;&#39;. Indeed, the regularities observed in static images can be extended to dynamical scenes by observing that a co-occurrence in time can be implemented by simple geometrical operations as they are operated during that period. For instance a co-circularity can be described as a smooth roto-translational transformation of an edge along a smooth trajectory. Importantly, such a distinction should allow us to determine the hierarchy of different features relevant to describe the full statistics of the feature space (that is, of spatio-temporal edge co-occurrences). We expect to see that the different independent features should decompose at various scales both in space and in time. This translates into a probabilistic hierarchical model that would combine dependencies from different cues. In particular, we expect to see the emergence of differential pathways for form and motion.&lt;/p&gt;
+&lt;h3 id=&#34;feasibility&#34;&gt;Feasibility&lt;/h3&gt;
+&lt;p&gt;The project is based on existing expertise and libraries in computer vision and computational neuroscience. The extension of this expertise to the dynamical domain will be made possible thanks to an existing collaboration (&lt;a href=&#34;http://www.cmla.ens-cachan.fr/version-francaise/haut-de-page/annuaire/morel-jean-michel-780.kjsp&#34;&gt;JM Morel at ENS-Cachan&lt;/a&gt;, &lt;a href=&#34;http://www.gpeyre.com&#34;&gt;G Peyré at ENS-Ulm&lt;/a&gt;). The groundbreaking nature of the work takes advantage of the interaction with  neurophysiological and psychophysical experiments thanks to the use of synthetic textures (collaboration with F Chavane, INT; Y Fregnac, UNIC) as planned in a the parallel (approved) grant &lt;a href=&#34;https://laurentperrinet.github.io/project/anr-horizontal-v1/&#34;&gt;Horizontal-V1&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/simoncini-12/&#34;&gt;Simoncini C, Perrinet LU, Montagnini A, Mamassian P, Masson GS (2012)&lt;/a&gt; More is not always better: dissociation between perception and action explained by adaptive gain control. Nature Neuroscience, 15:1596–1603&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/friston-12/&#34;&gt;Friston KJ, Adams RA, Perrinet LU, Breakspear M (2012)&lt;/a&gt; Perceptions as Hypotheses: Saccades as Experiments. Frontiers in Psychology, 3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-12/&#34;&gt;Perrinet LU, Adams RA, Friston KJ. (2014)&lt;/a&gt; Active inference, eye movements and oculomotor delays. Biological Cybernetics, 108(6):777-801&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet LU, Bednar JA (2015)&lt;/a&gt; Edge co-occurrences can account for rapid categorization of natural versus animal images. Scientific Reports, 5:11400&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;Khoei M, Masson GS, Perrinet LU (2017)&lt;/a&gt; The flash-lag effect as a motion-based predictive shift. PLoS Computational Biology, 13(1):e1005068&lt;/li&gt;
+&lt;li&gt;we keep a bibliography on the project @ &lt;a href=&#34;https://www.mendeley.com/community/edgetracks/&#34;&gt;https://www.mendeley.com/community/edgetracks/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://laurentperrinet.github.io/authors/laurent-u-perrinet/</link>
-      <pubDate>Mon, 21 Oct 2019 09:00:00 +0200</pubDate>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/authors/laurent-u-perrinet/</guid>
       <description>&lt;p&gt;Laurent Perrinet is a computational neuroscientist specialized in large scale neural network models of low-level vision, perception and action, currently at the &amp;ldquo;Institut de Neurosciences de la Timone&amp;rdquo; (France), a joint research unit (CNRS / Aix-Marseille Université). He co-authored more than 40 articles in computational neuroscience and computer vision. He graduated from the aeronautics engineering school SUPAERO, in Toulouse (France) with a signal processing and applied mathematics degree. He received a PhD in Cognitive Science in 2003 on the mathematical analysis of temporal spike coding of images by using a multi-scale and adaptive representation of natural scenes. His research program is focusing in bridging the complex dynamics of realistic, large-scale models of spiking neurons with functional models of low-level vision. In particular, as part of the FACETS and BrainScaleS consortia, he has developed experimental protocols in collaboration with neurophysiologists to characterize the response of population of neurons. Recently, he extended models of visual processing in the framework of predictive processing in collaboration with the team of Karl Friston at the University College of London. This method aims at characterizing the processing of dynamical flow of information as an active inference process. His current challenge within the &lt;a href=&#34;http://www.int.univ-amu.fr/spip.php?page=equipe&amp;equipe=NeOpTo&amp;lang=en&#34;&gt;NeOpTo team&lt;/a&gt; is to translate, or &lt;em&gt;compile&lt;/em&gt; in computer terminology, this mathematical formalism with the event-based nature of neural information with the aim of pushing forward the frontiers of Artificial Intelligence systems.&lt;/p&gt;
 </description>
@@ -24,8 +63,87 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     
     <item>
       <title></title>
+      <link>https://laurentperrinet.github.io/authors/victor-boutin/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0200</pubDate>
+      <guid>https://laurentperrinet.github.io/authors/victor-boutin/</guid>
+      <description>&lt;h1 id=&#34;controlling-an-aerial-robot-by-human-semaphore-gestures-using-a-bio-inspired-neural-network-phd-122016---022020&#34;&gt;Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)&lt;/h1&gt;
+&lt;p&gt;The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.&lt;/p&gt;
+&lt;p&gt;In particular, vision is predominant compared to other senses in terms of computational resources. So understanding visual processing has the potential to reveal the core computational mechanisms that give the brain such performances. In my research, I am interested in extracting the fundamental principles that are at stake in the visual system, and to apply them to develop better machine learning algorithms. As I consequence, I tend to adopt a cross-level analysis approach. I develop algorithms that simultaneously model low-level neural mechanisms and account for higher-level visual tasks such as object recognition, denoising, inpainting, image generation, etc.&lt;/p&gt;
+&lt;p&gt;The ultimate objective would be to develop a framework that successfully solves all these visual tasks without being extensively retrained from scratch for each of those tasks. Such an algorithm would be a first step towards the ultimate goal of every researcher in machine learning, that is, general artificial intelligence.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Venue: Aix-Marseille University &lt;a href=&#34;https://doc2amu.univ-amu.fr/fr/victor-boutin-doctorant-promotion-2016&#34;&gt;DOC2AMU&lt;/a&gt; is an innovative H2020-MSCA-COFUND&lt;/li&gt;
+&lt;li&gt;Keywords: Aerial Robots, Vision, Neural Networks, Bio-Inspired Computer Vision, Gaze orientation, learning&lt;/li&gt;
+&lt;li&gt;Thesis director: Dr. Laurent PERRINET, Director&#39;s research unit: Institut de Neurosciences de la Timone (INT)&lt;/li&gt;
+&lt;li&gt;Thesis co-supervisition: Dr. Franck RUFFIER Co-director&#39;s research unit: Institut des Sciences du Mouvement (ISM)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description-of-the-phd-thesis-project&#34;&gt;Description of the PHD thesis project&lt;/h2&gt;
+&lt;p&gt;Robotics is a rapidly evolving technology that allows for fast, low-risk
+and low-cost tasks with a worldwide market of over 80 billion dollars
+over the next few years. In particular, aerial robots, also known as
+drones, provide a breakthrough to easily image and access all sorts of
+terrains and situations and are useful for instance in surveillance and
+forensics, emergency industrial inspection or a search and rescue
+operation. A major difficulty for their global acceptance is the
+difficulty for controlling their flight and interacting with them.&lt;/p&gt;
+&lt;p&gt;Indeed, aerial robots are generally operated using a (central) ground
+station which is not compatible with the time pressure required by
+emergency conditions, for instance when
+rescuing a person out of reach with the ground station. This PhD project
+aims at concealing such obstacles and construct an aerial robot which is
+able to be autonomously and interactively controlled by simple human
+gestures, for instance that of a rescuer. The main scientific challenges
+are (i) to embed in the aerial robot all the electronics for the visual
+system from the retina to the control signals to the propellers, (ii) to
+very quickly recognize a variety of simple gestures on-board using a
+neuromimetic architecture and (iii) to make the robot react in real time
+to these gestures. As such, this project is inter-disciplinary by
+positively combining advanced algorithms from event-based bio-inspired
+computer vision and the latest technology in aerial robots.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;R. Benosman , S.-H. Leng , C. Clercq , C. Bartolozzi &amp;amp; M. Srinivasan (2012) “Asynchronous frameless event-based optical flow”, Neural Networks - Elsevier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;S.-C. Liu &amp;amp; T. Delbruck (2010) “Neuromorphic sensory systems”, Current opinion in neurobiology - Elsevier&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;J. Nagi, A. Giusti, G. A. Di Caro, L. M. Gambardella (2014) “HRI in the Sky, Controlling UAVs using Face Poses and Hand Gestures”, HRI&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;3i-dimensions-and-other-aspects-of-the-project&#34;&gt;3I dimensions and other aspects of the project&lt;/h2&gt;
+&lt;p&gt;The present PhD proposal is at the crossroad between various
+disciplines. It first concerns biology and neuroscience because its
+event-based approach is strongly inspired from the neuronal network
+observed in animals such as insects to primates and used for navigation,
+obstacle avoidance, and sensori-motor control. It is also covering
+electronics, aerial robotics and signal processing as the main project
+achievement is to create a working spike-based electronic architecture
+able to recognize body movement, and to use it to control the robot.
+Such an oucome will have beneficial outcomes with respects to the SRI-S3
+regional strategy, in particular with respect to “risks, security and
+safety”.&lt;/p&gt;
+&lt;p&gt;This project is a partnership between two different doctoral schools
+based in Marseille: the EDSMH at ISM for the robotic part, and the EDSVS
+at INT concerning visual processing and spike-based processing methods.
+This partnership will provide the ESR with the best resources to achieve
+his goals. In particular, the ISM owns a brand new flying arena (funded
+by Robotex project, &lt;a href=&#34;http://www.marseilles-flying-arena.eu&#34;&gt;www.marseilles-flying-arena.eu&lt;/a&gt;) equipped with
+high-tech motion capture tools (Vicon) and the INT has a entire
+technological platform dedicated for high-performance computing and
+measurement tool prototyping.&lt;/p&gt;
+&lt;p&gt;Combining neuroscience and robotics to design novel electronic
+architectures is an innovative and a valuable approach in Robotics. The
+doctoral student selected for this project will acquire experience in
+bio-inspired hardware architectures, which is going to be valuable in
+his career as there is a need to adapt actual electronic architecture to
+for instance spike-based visual processing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://laurentperrinet.github.io/authors/anna-montagnini/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/anna-montagnini/</guid>
       <description></description>
     </item>
@@ -33,7 +151,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>Chloé Pasturel</title>
       <link>https://laurentperrinet.github.io/authors/chloe-pasturel/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/chloe-pasturel/</guid>
       <description></description>
     </item>
@@ -120,124 +238,6 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/authors/pierre-albiges/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://laurentperrinet.github.io/authors/angelo-franciosini/</link>
-      <pubDate>Mon, 25 Mar 2019 14:30:00 +0100</pubDate>
-      <guid>https://laurentperrinet.github.io/authors/angelo-franciosini/</guid>
-      <description>&lt;h1 id=&#34;trajectories-in-natural-images-and-the-sensory-processing-of-contours-phd-position-2017--2021&#34;&gt;Trajectories in natural images and the sensory processing of contours (PhD position, 2017 / 2021)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Venue: Aix-Marseille Université&#39;s &lt;a href=&#34;https://laurentperrinet.github.io/project/phd-icn/&#34;&gt;Neuroschool PhD program in Neuroscience&lt;/a&gt; (formerly known as &amp;ldquo;Ph.D. program in Integrative and Clinical Neuroscience&amp;rdquo;)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Keywords: Vision, Neural Networks, Bio-Inspired Computer Vision, contours, learning&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Thesis director: Dr. Laurent PERRINET, Director&#39;s research unit: Institut de Neurosciences de la Timone (INT)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;description-of-the-phd-thesis-project&#34;&gt;Description of the PHD thesis project&lt;/h2&gt;
-&lt;p&gt;Binding the different features of objects in images is at the core of visual perception. As such, the visual system needs to detect local edges and to bind them together to form contours at a higher, more global level. A state-of-the art theory is that of the “association field”: the confidence of an edge depends on the configuration of neighboring edges. For instance it is facilitated for co-linear or co-circular edges. This process takes advantage of the statistical regularities of edges that are present in natural images. In particular, we have developed a method to quantify the association field in different classes of natural images (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet &amp;amp; Bednar, 2015&lt;/a&gt;). Using an &lt;a href=&#34;https://github.com/bicv/SparseEdges&#34;&gt;existing library&lt;/a&gt;, it is possible to compute histograms of edge co-occurrences from the sparse representation of static natural images. We have already shown that these different statistics were sufficient to categorize images, for instance to know if they contain an animal or not.  At the neural level, modeling the representation of the image, such as that formed in the primary visual cortex of primates (V1), this heuristics translates to a set of rules that adapts dynamically the activity of isolated neurons representing edges into the coherent population activity of contours. &amp;lsquo;&amp;lsquo;&amp;lsquo;Yet, we miss an understanding of the link between these statistics and the probabilistic rules that binds features together and how this information is dynamically encoded in V1.&amp;rsquo;&amp;rsquo;&amp;rsquo;&lt;/p&gt;
-&lt;h3 id=&#34;objectives&#34;&gt;Objectives&lt;/h3&gt;
-&lt;p&gt;In this computational neuroscience project, we will exploit our current expertise in computer vision for the statistical integration of visual of objects to translate them in the form of probabilistic predictive models for biological vision. &amp;lsquo;&amp;lsquo;&amp;lsquo;Our core hypothesis is that in natural scenes, contours follow coherent trajectories and that this knowledge is integrated (learned) by the visual system to optimally inform the representation of the image.&amp;rsquo;&amp;rsquo;&amp;rsquo;&lt;/p&gt;
-&lt;h3 id=&#34;methods&#34;&gt;Methods&lt;/h3&gt;
-&lt;p&gt;First, we will learn the different classes of edge co-occurrences that are relevant to natural images. Using an &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning&#34;&gt;existing  unsupervised learning algorithm&lt;/a&gt;, we will learn these as an independent components analysis. Such an algorithm extends well to a deep-learning convolutional neural network, but importantly, it will be informed by our expertise of modeling neural networks in low-level visual areas by including horizontal connectivity. We expect that relevant features will be mainly the predictable arrangements, such as co-linear or co-circular pairs of edges, but also highly surprising ones, such as T-junctions or end-stopping features. Importantly, we will be able to compare this representation with that present in higher level areas and to refine our knowledge on the representation of natural-like images. Second, we have previously found that using synthetic textures could further advance our understanding of neural computations and perception. These random synthetic textures, coined “Motion Clouds” were initially targeted to quantify the integration properties of visual motion perception (&lt;a href=&#34;https://laurentperrinet.github.io/publication/sanz-12/&#34;&gt;Leon et al, 2012&lt;/a&gt;, &lt;a href=&#34;https://laurentperrinet.github.io/publication/simoncini-12/&#34;&gt;Simoncini et al, 2012&lt;/a&gt;). Informed by the generative model of edge co-occurrences studied above, an extension to such stimuli would be to include dependencies between different elements. As such, we will be able to manipulate the level of dependency between different elements, whether in space, time or feature space (orientations). A potential outcome will be to use these in neurophysiological and psychophysical experiments within the team. In particular, the ability to select different classes of dependencies learned above will make it possible to evaluate the relative contribution of each component to the association field.&lt;/p&gt;
-&lt;h3 id=&#34;expected-results&#34;&gt;Expected results&lt;/h3&gt;
-&lt;p&gt;Finally, those two tasks converge to a long-term goal of &amp;lsquo;&amp;lsquo;&amp;lsquo;understanding the impact of the spatio-temporal structure of natural images in the neural computations implementing visual processing in low-level visual areas and perception&amp;rsquo;&#39;&#39;. Indeed, the regularities observed in static images can be extended to dynamical scenes by observing that a co-occurrence in time can be implemented by simple geometrical operations as they are operated during that period. For instance a co-circularity can be described as a smooth roto-translational transformation of an edge along a smooth trajectory. Importantly, such a distinction should allow us to determine the hierarchy of different features relevant to describe the full statistics of the feature space (that is, of spatio-temporal edge co-occurrences). We expect to see that the different independent features should decompose at various scales both in space and in time. This translates into a probabilistic hierarchical model that would combine dependencies from different cues. In particular, we expect to see the emergence of differential pathways for form and motion.&lt;/p&gt;
-&lt;h3 id=&#34;feasibility&#34;&gt;Feasibility&lt;/h3&gt;
-&lt;p&gt;The project is based on existing expertise and libraries in computer vision and computational neuroscience. The extension of this expertise to the dynamical domain will be made possible thanks to an existing collaboration (&lt;a href=&#34;http://www.cmla.ens-cachan.fr/version-francaise/haut-de-page/annuaire/morel-jean-michel-780.kjsp&#34;&gt;JM Morel at ENS-Cachan&lt;/a&gt;, &lt;a href=&#34;http://www.gpeyre.com&#34;&gt;G Peyré at ENS-Ulm&lt;/a&gt;). The groundbreaking nature of the work takes advantage of the interaction with  neurophysiological and psychophysical experiments thanks to the use of synthetic textures (collaboration with F Chavane, INT; Y Fregnac, UNIC) as planned in a the parallel (approved) grant &lt;a href=&#34;https://laurentperrinet.github.io/project/anr-horizontal-v1/&#34;&gt;Horizontal-V1&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/simoncini-12/&#34;&gt;Simoncini C, Perrinet LU, Montagnini A, Mamassian P, Masson GS (2012)&lt;/a&gt; More is not always better: dissociation between perception and action explained by adaptive gain control. Nature Neuroscience, 15:1596–1603&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/friston-12/&#34;&gt;Friston KJ, Adams RA, Perrinet LU, Breakspear M (2012)&lt;/a&gt; Perceptions as Hypotheses: Saccades as Experiments. Frontiers in Psychology, 3&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-12/&#34;&gt;Perrinet LU, Adams RA, Friston KJ. (2014)&lt;/a&gt; Active inference, eye movements and oculomotor delays. Biological Cybernetics, 108(6):777-801&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet LU, Bednar JA (2015)&lt;/a&gt; Edge co-occurrences can account for rapid categorization of natural versus animal images. Scientific Reports, 5:11400&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;Khoei M, Masson GS, Perrinet LU (2017)&lt;/a&gt; The flash-lag effect as a motion-based predictive shift. PLoS Computational Biology, 13(1):e1005068&lt;/li&gt;
-&lt;li&gt;we keep a bibliography on the project @ &lt;a href=&#34;https://www.mendeley.com/community/edgetracks/&#34;&gt;https://www.mendeley.com/community/edgetracks/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://laurentperrinet.github.io/authors/victor-boutin/</link>
-      <pubDate>Mon, 25 Mar 2019 14:30:00 +0100</pubDate>
-      <guid>https://laurentperrinet.github.io/authors/victor-boutin/</guid>
-      <description>&lt;h1 id=&#34;controlling-an-aerial-robot-by-human-semaphore-gestures-using-a-bio-inspired-neural-network-phd-122016---022020&#34;&gt;Controlling an aerial robot by human semaphore gestures using a bio-inspired neural network (PhD, 12/2016 - 02/2020)&lt;/h1&gt;
-&lt;p&gt;The brain is a complex machinery that is incredibly efficient and flexible. Thanks to efficient training processes, it tackles a high diversity of tasks with a high robustness. In contrast, states-of-the-art machine learning algorithms exhibit great performances, but are also highly task-specialized. Consequently, neuroscience is potentially a great source of inspiration to design more efficient artificial intelligence algorithms.&lt;/p&gt;
-&lt;p&gt;In particular, vision is predominant compared to other senses in terms of computational resources. So understanding visual processing has the potential to reveal the core computational mechanisms that give the brain such performances. In my research, I am interested in extracting the fundamental principles that are at stake in the visual system, and to apply them to develop better machine learning algorithms. As I consequence, I tend to adopt a cross-level analysis approach. I develop algorithms that simultaneously model low-level neural mechanisms and account for higher-level visual tasks such as object recognition, denoising, inpainting, image generation, etc.&lt;/p&gt;
-&lt;p&gt;The ultimate objective would be to develop a framework that successfully solves all these visual tasks without being extensively retrained from scratch for each of those tasks. Such an algorithm would be a first step towards the ultimate goal of every researcher in machine learning, that is, general artificial intelligence.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Venue: Aix-Marseille University &lt;a href=&#34;https://doc2amu.univ-amu.fr/fr/victor-boutin-doctorant-promotion-2016&#34;&gt;DOC2AMU&lt;/a&gt; is an innovative H2020-MSCA-COFUND&lt;/li&gt;
-&lt;li&gt;Keywords: Aerial Robots, Vision, Neural Networks, Bio-Inspired Computer Vision, Gaze orientation, learning&lt;/li&gt;
-&lt;li&gt;Thesis director: Dr. Laurent PERRINET, Director&#39;s research unit: Institut de Neurosciences de la Timone (INT)&lt;/li&gt;
-&lt;li&gt;Thesis co-supervisition: Dr. Franck RUFFIER Co-director&#39;s research unit: Institut des Sciences du Mouvement (ISM)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;description-of-the-phd-thesis-project&#34;&gt;Description of the PHD thesis project&lt;/h2&gt;
-&lt;p&gt;Robotics is a rapidly evolving technology that allows for fast, low-risk
-and low-cost tasks with a worldwide market of over 80 billion dollars
-over the next few years. In particular, aerial robots, also known as
-drones, provide a breakthrough to easily image and access all sorts of
-terrains and situations and are useful for instance in surveillance and
-forensics, emergency industrial inspection or a search and rescue
-operation. A major difficulty for their global acceptance is the
-difficulty for controlling their flight and interacting with them.&lt;/p&gt;
-&lt;p&gt;Indeed, aerial robots are generally operated using a (central) ground
-station which is not compatible with the time pressure required by
-emergency conditions, for instance when
-rescuing a person out of reach with the ground station. This PhD project
-aims at concealing such obstacles and construct an aerial robot which is
-able to be autonomously and interactively controlled by simple human
-gestures, for instance that of a rescuer. The main scientific challenges
-are (i) to embed in the aerial robot all the electronics for the visual
-system from the retina to the control signals to the propellers, (ii) to
-very quickly recognize a variety of simple gestures on-board using a
-neuromimetic architecture and (iii) to make the robot react in real time
-to these gestures. As such, this project is inter-disciplinary by
-positively combining advanced algorithms from event-based bio-inspired
-computer vision and the latest technology in aerial robots.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;R. Benosman , S.-H. Leng , C. Clercq , C. Bartolozzi &amp;amp; M. Srinivasan (2012) “Asynchronous frameless event-based optical flow”, Neural Networks - Elsevier&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;S.-C. Liu &amp;amp; T. Delbruck (2010) “Neuromorphic sensory systems”, Current opinion in neurobiology - Elsevier&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;J. Nagi, A. Giusti, G. A. Di Caro, L. M. Gambardella (2014) “HRI in the Sky, Controlling UAVs using Face Poses and Hand Gestures”, HRI&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;3i-dimensions-and-other-aspects-of-the-project&#34;&gt;3I dimensions and other aspects of the project&lt;/h2&gt;
-&lt;p&gt;The present PhD proposal is at the crossroad between various
-disciplines. It first concerns biology and neuroscience because its
-event-based approach is strongly inspired from the neuronal network
-observed in animals such as insects to primates and used for navigation,
-obstacle avoidance, and sensori-motor control. It is also covering
-electronics, aerial robotics and signal processing as the main project
-achievement is to create a working spike-based electronic architecture
-able to recognize body movement, and to use it to control the robot.
-Such an oucome will have beneficial outcomes with respects to the SRI-S3
-regional strategy, in particular with respect to “risks, security and
-safety”.&lt;/p&gt;
-&lt;p&gt;This project is a partnership between two different doctoral schools
-based in Marseille: the EDSMH at ISM for the robotic part, and the EDSVS
-at INT concerning visual processing and spike-based processing methods.
-This partnership will provide the ESR with the best resources to achieve
-his goals. In particular, the ISM owns a brand new flying arena (funded
-by Robotex project, &lt;a href=&#34;http://www.marseilles-flying-arena.eu&#34;&gt;www.marseilles-flying-arena.eu&lt;/a&gt;) equipped with
-high-tech motion capture tools (Vicon) and the INT has a entire
-technological platform dedicated for high-performance computing and
-measurement tool prototyping.&lt;/p&gt;
-&lt;p&gt;Combining neuroscience and robotics to design novel electronic
-architectures is an innovative and a valuable approach in Robotics. The
-doctoral student selected for this project will acquire experience in
-bio-inspired hardware architectures, which is going to be valuable in
-his career as there is a need to adapt actual electronic architecture to
-for instance spike-based visual processing.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -612,7 +612,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
     <item>
       <title>Gabriel Cristóbal</title>
       <link>https://laurentperrinet.github.io/authors/gabriel-cristobal/</link>
-      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/gabriel-cristobal/</guid>
       <description></description>
     </item>
@@ -620,7 +620,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
     <item>
       <title>Matthias S Keil</title>
       <link>https://laurentperrinet.github.io/authors/matthias-s-keil/</link>
-      <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/matthias-s-keil/</guid>
       <description></description>
     </item>
@@ -628,7 +628,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
     <item>
       <title></title>
       <link>https://laurentperrinet.github.io/authors/james-a-bednar/</link>
-      <pubDate>Sun, 09 Aug 2015 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/authors/james-a-bednar/</guid>
       <description></description>
     </item>
@@ -903,7 +903,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
     <item>
       <title>Eric Castet</title>
       <link>https://laurentperrinet.github.io/authors/eric-castet/</link>
-      <pubDate>Sat, 09 Feb 2008 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/eric-castet/</guid>
       <description></description>
     </item>
@@ -911,7 +911,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
     <item>
       <title>Frédéric V Barthélemy</title>
       <link>https://laurentperrinet.github.io/authors/frederic-v-barthelemy/</link>
-      <pubDate>Sat, 09 Feb 2008 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/frederic-v-barthelemy/</guid>
       <description></description>
     </item>
@@ -943,7 +943,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
     <item>
       <title></title>
       <link>https://laurentperrinet.github.io/authors/manuel-samuelides/</link>
-      <pubDate>Fri, 09 Mar 2007 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 22 Mar 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/manuel-samuelides/</guid>
       <description></description>
     </item>
@@ -951,7 +951,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
     <item>
       <title>Bruno Cessac</title>
       <link>https://laurentperrinet.github.io/authors/bruno-cessac/</link>
-      <pubDate>Fri, 09 Mar 2007 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 22 Mar 2007 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/authors/bruno-cessac/</guid>
       <description></description>
     </item>
@@ -1007,7 +1007,7 @@ Lastly our work illustrates new advances in methods of constructing and exchangi
     <item>
       <title></title>
       <link>https://laurentperrinet.github.io/authors/simon-j-thorpe/</link>
-      <pubDate>Thu, 09 Sep 2004 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 22 Sep 2004 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/authors/simon-j-thorpe/</guid>
       <description></description>
     </item>
