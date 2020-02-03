@@ -30,7 +30,7 @@
   
   <meta name="description" content="Meetup Art et Neurosciences  Quoi
 Meetup Art et Neurosciences Qui
-Association NeuroNautes Quand
+Association NeuroNautes  Quand
 25 Janvier 2018 Où
 Salle des voutes campus Saint Charles Support visuel
 https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html (notes: la présentation peut mettre un certain temps à charger. Une fois que le titre apparait, appuyer sur la touche &ldquo;F&rdquo; pour mettre en plein écran)   ">
@@ -59,7 +59,7 @@ https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.ht
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -223,13 +223,15 @@ https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.ht
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -239,7 +241,7 @@ https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.ht
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -279,7 +281,7 @@ https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.ht
   <meta property="og:title" content="Expériences autour de la perception de la forme en art et science | Novel visual computations">
   <meta property="og:description" content="Meetup Art et Neurosciences  Quoi
 Meetup Art et Neurosciences Qui
-Association NeuroNautes Quand
+Association NeuroNautes  Quand
 25 Janvier 2018 Où
 Salle des voutes campus Saint Charles Support visuel
 https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html (notes: la présentation peut mettre un certain temps à charger. Une fois que le titre apparait, appuyer sur la touche &ldquo;F&rdquo; pour mettre en plein écran)   "><meta property="og:image" content="https://laurentperrinet.github.io/img/hulk.png">
@@ -325,7 +327,7 @@ https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.ht
     "name": "Laurent U Perrinet"
   },
   
-  "description": "Meetup Art et Neurosciences  Quoi\nMeetup Art et Neurosciences Qui\nAssociation NeuroNautes Quand\n25 Janvier 2018 Où\nSalle des voutes campus Saint Charles Support visuel\nhttps://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html (notes: la présentation peut mettre un certain temps à charger. Une fois que le titre apparait, appuyer sur la touche \u0026ldquo;F\u0026rdquo; pour mettre en plein écran)   "
+  "description": "Meetup Art et Neurosciences  Quoi\nMeetup Art et Neurosciences Qui\nAssociation NeuroNautes  Quand\n25 Janvier 2018 Où\nSalle des voutes campus Saint Charles Support visuel\nhttps://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html (notes: la présentation peut mettre un certain temps à charger. Une fois que le titre apparait, appuyer sur la touche \u0026ldquo;F\u0026rdquo; pour mettre en plein écran)   "
 }
 </script>
 
@@ -962,8 +964,10 @@ https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.ht
 <li>Quoi<br>
 Meetup Art et Neurosciences</li>
 <li>Qui<br>
-<a href="https://www.facebook.com/events/211121069456116/">Association
-NeuroNautes</a></li>
+
+<a href="https://www.facebook.com/events/211121069456116/" target="_blank" rel="noopener">Association
+NeuroNautes</a>
+</li>
 <li>Quand<br>
 25 Janvier 2018</li>
 <li>Où<br>
@@ -1104,10 +1108,11 @@ pour mettre en plein écran)
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1331,7 +1336,7 @@ pour mettre en plein écran)
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

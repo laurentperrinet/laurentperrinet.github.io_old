@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -962,7 +964,9 @@
     <div class="space-below"></div>
 
     <div class="article-style"><ul>
-<li><a href="http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html">Press release</a></li>
+<li>
+<a href="http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html" target="_blank" rel="noopener">Press release</a>
+</li>
 </ul>
 <h1 id="dès-la-rétine-le-système-visuel-préfère-des-images-naturelles">Dès la rétine, le système visuel préfère des images naturelles</h1>
 <p><em>Dans la rétine, au premier étage du traitement de l&rsquo;image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l&rsquo;image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l&rsquo;utilisation d&rsquo;un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.</em>
@@ -990,6 +994,11 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
 
+  
+  
+
+
+
 
 
 
@@ -1001,8 +1010,11 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 <figure>
 
 
-  <a data-fancybox="" href="featured.jpg" data-caption="Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&rsquo;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&rsquo;autant plus précises que la stimulation est complexe. © Cesar Ravello">
-<img data-src="featured.jpg" class="lazyload" alt="" ></a>
+  <a data-fancybox="" href="/publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_2000x2000_fit_q90_lanczos.jpg" data-caption="Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&rsquo;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&rsquo;autant plus précises que la stimulation est complexe. © Cesar Ravello">
+
+
+  <img data-src="/publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="540" height="416">
+</a>
 
 
   
@@ -1163,6 +1175,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
   
   
+  
   <div class="media author-card content-widget-hr">
     
 
@@ -1304,7 +1317,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

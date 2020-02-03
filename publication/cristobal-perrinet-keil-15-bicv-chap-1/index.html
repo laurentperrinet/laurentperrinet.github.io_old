@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -949,6 +951,11 @@
 
 
 
+  
+  
+
+
+
 
 
 
@@ -960,8 +967,11 @@
 <figure>
 
 
-  <a data-fancybox="" href="mindmap.png" data-caption="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.">
-<img data-src="mindmap.png" class="lazyload" alt="" ></a>
+  <a data-fancybox="" href="/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_2000x2000_fit_lanczos_2.png" data-caption="Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.">
+
+
+  <img data-src="/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_2000x2000_fit_lanczos_2.png" class="lazyload" alt="" width="1280" height="1276">
+</a>
 
 
   
@@ -1222,7 +1232,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

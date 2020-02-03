@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,32 +743,41 @@
 
   
   
-  <div>
-    <h2><a href="/post/2019-10-10_gdrvision/">2019-10-10: GDR vision 2019</a></h2>
-    <div class="article-style">
-      
-      Le GDR Vision réunit toute la communauté des chercheurs en France travaillant sur la perception visuelle (de la perception des attributs visuels comme la couleur et le mouvement à la reconnaissance des mots et des visages), l'intégration multi-sensorielle, la motricité (dont notamment le contrôle des mouvements des yeux et de la tête dans une variété de tâches; des plus basiques aux plus cognitives), la représentation de l'espace et les processus décisionnels. Il s'agit d'un réseau pluridisciplinaire réunissant psychophysiciens, psychologues, chercheurs en neurosciences (électrophysiologie et imagerie chez l'animal et l'Homme), et modélisateurs.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2019-10-10_gdrvision/" >2019-10-10: GDR vision 2019</a></h2>
+      <div class="article-style">
+        
+          Le GDR Vision réunit toute la communauté des chercheurs en France travaillant sur la perception visuelle (de la perception des attributs visuels comme la couleur et le mouvement à la reconnaissance des mots et des visages), l'intégration multi-sensorielle, la motricité (dont notamment le contrôle des mouvements des yeux et de la tête dans une variété de tâches; des plus basiques aux plus cognitives), la représentation de l'espace et les processus décisionnels. Il s'agit d'un réseau pluridisciplinaire réunissant psychophysiciens, psychologues, chercheurs en neurosciences (électrophysiologie et imagerie chez l'animal et l'Homme), et modélisateurs.
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/post/2019-10-10_gdrvision-atelier/">2019-10-10: Atelier Utiliser l&#39;apprentissage profond en vision</a></h2>
-    <div class="article-style">
-      
-      Le GDR Vision réunit toute la communauté française de chercheurs en vision. Nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du Deep Learning pour les sciences de la vision: Utiliser l'apprentissage profond en vision.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2019-10-10_gdrvision-atelier/" >2019-10-10: Atelier Utiliser l&#39;apprentissage profond en vision</a></h2>
+      <div class="article-style">
+        
+          Le GDR Vision réunit toute la communauté française de chercheurs en vision. Nous aurons un atelier méthodologique le jeudi matin sur les apports possibles du Deep Learning pour les sciences de la vision: Utiliser l'apprentissage profond en vision.
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/post/2019-10-07_neurostories/">2019-10-07: Le temps des sens</a></h2>
-    <div class="article-style">
-      
-      Dans le monde qui nous entoure, nous percevons le temps s’écouler de façon immuable et universelle. Pourtant, il existe un temps pour chaque sens. Laurent Perrinet (AMU) exposera la dynamique des réseaux de neurones et le temps particulier qui sont associés à l’un d’entre eux, la vision.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2019-10-07_neurostories/" >2019-10-07: Le temps des sens</a></h2>
+      <div class="article-style">
+        
+          Dans le monde qui nous entoure, nous percevons le temps s’écouler de façon immuable et universelle. Pourtant, il existe un temps pour chaque sens. Laurent Perrinet (AMU) exposera la dynamique des réseaux de neurones et le temps particulier qui sont associés à l’un d’entre eux, la vision.
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -867,7 +878,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

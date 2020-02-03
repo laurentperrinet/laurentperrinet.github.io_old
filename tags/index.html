@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,446 +743,635 @@
 
   
   
-  <div>
-    <h2><a href="/tags/sparse-coding/">sparse coding</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/sparse-coding/" >sparse coding</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/motion-anticipation/">motion anticipation</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/motion-anticipation/" >motion anticipation</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/events/">events</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/events/" >events</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/vision/">vision</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/vision/" >vision</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/coding-decoding/">coding decoding</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/coding-decoding/" >coding decoding</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/current-grant/">current-grant</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/current-grant/" >current-grant</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/grant/">grant</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/grant/" >grant</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/active-inference/">active inference</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/active-inference/" >active inference</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/deep-learning/">Deep Learning</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/deep-learning/" >Deep Learning</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/object-localization/">Object localization</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/object-localization/" >Object localization</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/visual-search/">Visual search</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/visual-search/" >Visual search</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/visuomotor-control/">Visuomotor control</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/visuomotor-control/" >Visuomotor control</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/neuroscience/">neuroscience</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/neuroscience/" >neuroscience</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/psychiatry/">psychiatry</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/psychiatry/" >psychiatry</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/probalistic-inference/">probalistic-inference</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/probalistic-inference/" >probalistic-inference</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/past-grant/">past-grant</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/past-grant/" >past-grant</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/area-v1/">area-v1</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/area-v1/" >area-v1</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/motion-detection/">motion detection</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/motion-detection/" >motion detection</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/motion-clouds/">motion-clouds</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/motion-clouds/" >motion-clouds</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/retina/">Retina</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/retina/" >Retina</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/bayesian-model/">Bayesian model</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/bayesian-model/" >Bayesian model</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/gain-control/">gain control</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/gain-control/" >gain control</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/homeostasis/">homeostasis</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/homeostasis/" >homeostasis</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/matching-pursuit/">matching pursuit</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/matching-pursuit/" >matching pursuit</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/sparse-hebbian-learning/">sparse hebbian learning</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/sparse-hebbian-learning/" >sparse hebbian learning</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/unsupervised-learning/">unsupervised learning</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/unsupervised-learning/" >unsupervised learning</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/psychophysics/">psychophysics</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/psychophysics/" >psychophysics</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/eye-movements/">eye movements</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/eye-movements/" >eye movements</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/biologically-inspired-computer-vision/">Biologically Inspired Computer Vision</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/biologically-inspired-computer-vision/" >Biologically Inspired Computer Vision</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/motion-prediction/">motion prediction</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/motion-prediction/" >motion prediction</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/smooth-pursuit-eye-movement/">Smooth pursuit eye movement</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/smooth-pursuit-eye-movement/" >Smooth pursuit eye movement</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/image-texture/">Image texture</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/image-texture/" >Image texture</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/etiennerey/">EtienneRey</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/etiennerey/" >EtienneRey</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/log-gabor/">log-gabor</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/log-gabor/" >log-gabor</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/phd-icn/">phd-icn</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/phd-icn/" >phd-icn</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/pollymaggoo/">PollyMaggoo</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/pollymaggoo/" >PollyMaggoo</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/research-interests/">research-interests</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/research-interests/" >research-interests</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/art-science/">art-science</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/art-science/" >art-science</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/spike/">spike</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/spike/" >spike</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/statistics-of-natural-images/">statistics of natural images</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/statistics-of-natural-images/" >statistics of natural images</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/association-field/">association field</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/association-field/" >association field</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/lateral-connections/">lateral connections</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/lateral-connections/" >lateral connections</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/sparselets/">sparselets</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/sparselets/" >sparselets</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/free-energy/">free energy</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/free-energy/" >free energy</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/dynamics/">dynamics</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/dynamics/" >dynamics</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/predictive-coding/">predictive coding</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/predictive-coding/" >predictive coding</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/pynn/">pynn</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/pynn/" >pynn</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/large-scale_networks/">large-scale_networks</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/large-scale_networks/" >large-scale_networks</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/center-surround-interactions/">center-surround interactions</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/center-surround-interactions/" >center-surround interactions</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/aperture-problem/">Aperture problem</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/aperture-problem/" >Aperture problem</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/receptive-field/">receptive field</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/receptive-field/" >receptive field</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/computational-neuroscience/">computational-neuroscience</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/computational-neuroscience/" >computational-neuroscience</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/ocular-following-response/">Ocular Following Response</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/ocular-following-response/" >Ocular Following Response</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/tracking-eye-movements/">tracking eye movements</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/tracking-eye-movements/" >tracking eye movements</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/visual-perception/">visual perception</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/visual-perception/" >visual perception</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/feed-forward_inhibition/">feed-forward_inhibition</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/feed-forward_inhibition/" >feed-forward_inhibition</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/inhibition/">inhibition</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/inhibition/" >inhibition</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/object-motion/">Object motion</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/object-motion/" >Object motion</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/recursive-inference/">recursive inference</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/recursive-inference/" >recursive inference</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/temporal-evolution/">Temporal evolution</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/temporal-evolution/" >Temporal evolution</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/temporal-evolution./">Temporal evolution.</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/temporal-evolution./" >Temporal evolution.</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/rank-order-coding/">rank-order-coding</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/rank-order-coding/" >rank-order-coding</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/tags/stdp/">stdp</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/tags/stdp/" >stdp</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -1281,7 +1472,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

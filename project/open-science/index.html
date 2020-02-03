@@ -28,9 +28,8 @@
   
     
   
-  <meta name="description" content="To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015), (Perrinet and Bednar, 2015), (Khoei et, 2017), (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization, 2019-04-18_JNLF, &hellip;) and also the development of the following libraries on GitHub.
-Follow @laurentperrinet
- bayesianchangepoint An implementation of Adams &amp; MacKay 2007 &ldquo;Bayesian Online Changepoint Detection&rdquo; in Python.">
+  <meta name="description" content="To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015) , (Perrinet and Bednar, 2015) , (Khoei et, 2017) , (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization , 2019-04-18_JNLF , &hellip;) and also the development of the following libraries on GitHub.
+Follow @laurentperrinet">
 
   
   <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/project/open-science/">
@@ -56,7 +55,7 @@ Follow @laurentperrinet
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -220,13 +219,15 @@ Follow @laurentperrinet
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -236,7 +237,7 @@ Follow @laurentperrinet
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -274,9 +275,8 @@ Follow @laurentperrinet
   <meta property="og:site_name" content="Novel visual computations">
   <meta property="og:url" content="https://laurentperrinet.github.io/project/open-science/">
   <meta property="og:title" content="Open Science | Novel visual computations">
-  <meta property="og:description" content="To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015), (Perrinet and Bednar, 2015), (Khoei et, 2017), (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization, 2019-04-18_JNLF, &hellip;) and also the development of the following libraries on GitHub.
-Follow @laurentperrinet
- bayesianchangepoint An implementation of Adams &amp; MacKay 2007 &ldquo;Bayesian Online Changepoint Detection&rdquo; in Python."><meta property="og:image" content="https://laurentperrinet.github.io/project/open-science/featured.png">
+  <meta property="og:description" content="To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015) , (Perrinet and Bednar, 2015) , (Khoei et, 2017) , (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization , 2019-04-18_JNLF , &hellip;) and also the development of the following libraries on GitHub.
+Follow @laurentperrinet"><meta property="og:image" content="https://laurentperrinet.github.io/project/open-science/featured.png">
   <meta property="twitter:image" content="https://laurentperrinet.github.io/project/open-science/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -330,7 +330,7 @@ Follow @laurentperrinet
       "url": "img/https://laurentperrinet.github.io/hulk.png"
     }
   },
-  "description": "To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015), (Perrinet and Bednar, 2015), (Khoei et, 2017), (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization, 2019-04-18_JNLF, \u0026hellip;) and also the development of the following libraries on GitHub.\nFollow @laurentperrinet\n bayesianchangepoint An implementation of Adams \u0026amp; MacKay 2007 \u0026ldquo;Bayesian Online Changepoint Detection\u0026rdquo; in Python."
+  "description": "To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015) , (Perrinet and Bednar, 2015) , (Khoei et, 2017) , (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization , 2019-04-18_JNLF , \u0026hellip;) and also the development of the following libraries on GitHub.\nFollow @laurentperrinet"
 }
 </script>
 
@@ -857,52 +857,98 @@ Follow @laurentperrinet
   <div class="article-container">
 
     <div class="article-style">
-      <p>To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. <a href="https://github.com/laurentperrinet/PerrinetAdamsFriston14">(Perrinet, Adams and Friston, 2015)</a>, <a href="https://github.com/laurentperrinet/PerrinetBednar15">(Perrinet and Bednar, 2015)</a>, <a href="https://github.com/laurentperrinet/Khoei_2017_PLoSCB">(Khoei et, 2017)</a>, <a href="https://github.com/laurentperrinet/2019-05_illusions-visuelles">(Perrinet, 2019)</a> or courses and slides (e.g. <a href="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization">2019-04-03_a_course_on_vision_and_modelization</a>, <a href="https://github.com/laurentperrinet/2019-04-18_JNLF">2019-04-18_JNLF</a>, &hellip;) and also the development of the following libraries on GitHub.</p>
+      <p>To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. 
+<a href="https://github.com/laurentperrinet/PerrinetAdamsFriston14" target="_blank" rel="noopener">(Perrinet, Adams and Friston, 2015)</a>
+, 
+<a href="https://github.com/laurentperrinet/PerrinetBednar15" target="_blank" rel="noopener">(Perrinet and Bednar, 2015)</a>
+, 
+<a href="https://github.com/laurentperrinet/Khoei_2017_PLoSCB" target="_blank" rel="noopener">(Khoei et, 2017)</a>
+, 
+<a href="https://github.com/laurentperrinet/2019-05_illusions-visuelles" target="_blank" rel="noopener">(Perrinet, 2019)</a>
+ or courses and slides (e.g. 
+<a href="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization" target="_blank" rel="noopener">2019-04-03_a_course_on_vision_and_modelization</a>
+, 
+<a href="https://github.com/laurentperrinet/2019-04-18_JNLF" target="_blank" rel="noopener">2019-04-18_JNLF</a>
+, &hellip;) and also the development of the following libraries on GitHub.</p>
 <!-- Place this tag where you want the button to render. -->
 <p><a class="github-button" href="https://github.com/laurentperrinet" data-size="large" data-show-count="true" aria-label="Follow @laurentperrinet on GitHub">Follow @laurentperrinet</a></p>
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <h1 id="bayesianchangepoint">bayesianchangepoint</h1>
-<p>An implementation of <a href="http://arxiv.org/abs/0710.3742">Adams &amp; MacKay 2007 &ldquo;Bayesian Online Changepoint Detection&rdquo;</a> in Python.</p>
+<p>An implementation of 
+<a href="http://arxiv.org/abs/0710.3742" target="_blank" rel="noopener">Adams &amp; MacKay 2007 &ldquo;Bayesian Online Changepoint Detection&rdquo;</a>
+ in Python.</p>
 <ul>
-<li><a href="https://github.com/laurentperrinet/bayesianchangepoint">Source code</a></li>
+<li>
+<a href="https://github.com/laurentperrinet/bayesianchangepoint" target="_blank" rel="noopener">Source code</a>
+</li>
 </ul>
 <h1 id="lecheapeyetracker">LeCheapEyeTracker</h1>
 <p>Work-in-progress : an eye tracker based on webcams.</p>
 <ul>
-<li><a href="https://github.com/laurentperrinet/LeCheapEyeTracker">Source code</a></li>
+<li>
+<a href="https://github.com/laurentperrinet/LeCheapEyeTracker" target="_blank" rel="noopener">Source code</a>
+</li>
 </ul>
 <h1 id="biologically-inspired-computer-vision">Biologically inspired computer vision</h1>
 <h2 id="slip-a-simple-library-for-image-processing">SLIP: a Simple Library for Image Processing</h2>
-<p>This library collects different Image Processing tools for use with the  <a href="https://pythonhosted.org/LogGabor/">LogGabor</a> and  <a href="https://pythonhosted.org/SparseEdges/">SparseEdges</a> libraries.</p>
+<p>This library collects different Image Processing tools for use with the  
+<a href="https://pythonhosted.org/LogGabor/" target="_blank" rel="noopener">LogGabor</a>
+ and  
+<a href="https://pythonhosted.org/SparseEdges/" target="_blank" rel="noopener">SparseEdges</a>
+ libraries.</p>
 <ul>
-<li><a href="https://pythonhosted.org/SLIP/">Web-site</a></li>
-<li><a href="https://github.com/bicv/SLIP/">Source code</a></li>
+<li>
+<a href="https://pythonhosted.org/SLIP/" target="_blank" rel="noopener">Web-site</a>
+</li>
+<li>
+<a href="https://github.com/bicv/SLIP/" target="_blank" rel="noopener">Source code</a>
+</li>
 </ul>
 <h2 id="loggabor-a-simple-library-for-image-processing">LogGabor: a Simple Library for Image Processing</h2>
-<p>This library collects different Image Processing tools for use with the  <a href="https://pythonhosted.org/LogGabor/">LogGabor</a> and  <a href="https://pythonhosted.org/SparseEdges/">SparseEdges</a> libraries.</p>
+<p>This library collects different Image Processing tools for use with the  
+<a href="https://pythonhosted.org/LogGabor/" target="_blank" rel="noopener">LogGabor</a>
+ and  
+<a href="https://pythonhosted.org/SparseEdges/" target="_blank" rel="noopener">SparseEdges</a>
+ libraries.</p>
 <ul>
 <li>[Web-site]((<a href="https://pythonhosted.org/LogGabor">https://pythonhosted.org/LogGabor</a>)</li>
-<li><a href="https://github.com/bicv/LogGabor/">Source code</a></li>
+<li>
+<a href="https://github.com/bicv/LogGabor/" target="_blank" rel="noopener">Source code</a>
+</li>
 </ul>
 <h2 id="sparseedges-sparse-coding-of-natural-images">SparseEdges: sparse coding of natural images</h2>
 <p>Our goal here is to build practical algorithms of sparse coding for computer vision.</p>
-<p>This class exploits the <a href="https://pythonhosted.org/SLIP/">SLIP</a> and <a href="https://pythonhosted.org/LogGabor/">LogGabor</a> libraries to provide with a sparse representation of edges in images.</p>
+<p>This class exploits the 
+<a href="https://pythonhosted.org/SLIP/" target="_blank" rel="noopener">SLIP</a>
+ and 
+<a href="https://pythonhosted.org/LogGabor/" target="_blank" rel="noopener">LogGabor</a>
+ libraries to provide with a sparse representation of edges in images.</p>
 <p>This algorithm was presented in the following paper, which is available as a reprint @ <a href="https://laurentperrinet.github.io/publication/perrinet-15-bicv/">https://laurentperrinet.github.io/publication/perrinet-15-bicv/</a></p>
 <ul>
-<li><a href="https://pythonhosted.org/SparseEdges">Web-site</a></li>
-<li><a href="https://github.com/bicv/SparseEdges/">Source code</a></li>
+<li>
+<a href="https://pythonhosted.org/SparseEdges" target="_blank" rel="noopener">Web-site</a>
+</li>
+<li>
+<a href="https://github.com/bicv/SparseEdges/" target="_blank" rel="noopener">Source code</a>
+</li>
 </ul>
 <h2 id="sparsehebbianlearning--unsupervised-learning-of-natural-images">SparseHebbianLearning : unsupervised learning of natural images</h2>
 <p>This is a collection of python scripts to test learning strategies to efficiently code natural image patches. This is here restricted to the framework of the SparseNet algorithm from Bruno Olshausen (<a href="http://redwood.berkeley.edu/bruno/sparsenet/)">http://redwood.berkeley.edu/bruno/sparsenet/)</a>.</p>
 <ul>
-<li><a href="https://github.com/bicv/SparseHebbianLearning/">Source code</a></li>
+<li>
+<a href="https://github.com/bicv/SparseHebbianLearning/" target="_blank" rel="noopener">Source code</a>
+</li>
 </ul>
 <h1 id="motionclouds">MotionClouds</h1>
 <p><strong>MotionClouds</strong> are random dynamic stimuli optimized to study motion perception.</p>
 <ul>
-<li><a href="https://neuralensemble.github.io/MotionClouds/">Web-site</a></li>
-<li><a href="https://github.com/NeuralEnsemble/MotionClouds">Source code</a></li>
+<li>
+<a href="https://neuralensemble.github.io/MotionClouds/" target="_blank" rel="noopener">Web-site</a>
+</li>
+<li>
+<a href="https://github.com/NeuralEnsemble/MotionClouds" target="_blank" rel="noopener">Source code</a>
+</li>
 </ul>
 
     </div>
@@ -1033,10 +1079,11 @@ Follow @laurentperrinet
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -2520,7 +2567,7 @@ Follow @laurentperrinet
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

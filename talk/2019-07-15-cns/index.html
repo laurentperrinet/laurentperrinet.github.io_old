@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -927,9 +929,13 @@
 
     <div class="article-style">
       <ul>
-<li>download a <a href="https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf">preliminary PDF</a>
+<li>download a 
+<a href="https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf" target="_blank" rel="noopener">preliminary PDF</a>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Emmanuel Daucé @ <a href="https://twitter.com/hashtag/CNS2019Barcelona?src=hash&amp;ref_src=twsrc%5Etfw">#CNS2019Barcelona</a> speaks about our joint work on « Learning where to look: a foveated visuomotor control model » more info @ <a href="https://t.co/HREjuIgNCn">https://t.co/HREjuIgNCn</a> <a href="https://twitter.com/CNSorg?ref_src=twsrc%5Etfw">@CNSorg</a> <a href="https://t.co/GbbXhWL1k1">pic.twitter.com/GbbXhWL1k1</a></p>&mdash; laurentperrinet (@laurentperrinet) <a href="https://twitter.com/laurentperrinet/status/1150713758643380226?ref_src=twsrc%5Etfw">July 15, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 
@@ -948,7 +954,10 @@
 
 
   <a data-fancybox="" href="https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg" data-caption="Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. A) It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. B) Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). C) Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&rsquo;&rsquo; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&rsquo;s category from a central fixation.">
-<img data-src="https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg" class="lazyload" alt="" ></a>
+
+
+  <img src="https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg" alt=""  >
+</a>
 
 
   
@@ -973,11 +982,16 @@
 
 
 
+
+
 <figure>
 
 
   <a data-fancybox="" href="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png" data-caption="Results: success">
-<img data-src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png" class="lazyload" alt="" ></a>
+
+
+  <img src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png" alt=""  >
+</a>
 
 
   
@@ -1002,11 +1016,16 @@
 
 
 
+
+
 <figure>
 
 
   <a data-fancybox="" href="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png" data-caption="Results: failure to classify">
-<img data-src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png" class="lazyload" alt="" ></a>
+
+
+  <img src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png" alt=""  >
+</a>
 
 
   
@@ -1031,11 +1050,16 @@
 
 
 
+
+
 <figure>
 
 
   <a data-fancybox="" href="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png" data-caption="Results: failure to locate">
-<img data-src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png" class="lazyload" alt="" ></a>
+
+
+  <img src="https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png" alt=""  >
+</a>
 
 
   
@@ -1289,7 +1313,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

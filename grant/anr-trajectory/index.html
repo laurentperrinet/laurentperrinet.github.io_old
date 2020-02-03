@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -823,12 +825,19 @@
 <ul>
 <li>Time    January 15th, 2018</li>
 <li>Location     INT</li>
-<li>General presentation of the grant, see <a href="https://laurentperrinet.github.io/grant/anr-trajectory/">Anr TRAJECTORY</a></li>
+<li>General presentation of the grant, see 
+<a href="https://laurentperrinet.github.io/grant/anr-trajectory/" target="_blank" rel="noopener">Anr TRAJECTORY</a>
+</li>
 <li>Overview of my current projects    <a href="https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html">https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html</a></li>
 <li>MotionClouds with trajectories    <a href="https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html">https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html</a> or <a href="https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html">https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html</a></li>
 </ul>
 
 
+
+
+
+  
+  
 
 
 
@@ -843,8 +852,11 @@
 <figure>
 
 
-  <a data-fancybox="" href="sequence_ABCD.gif" data-caption="A predictive sequence is essential in resolving the coherence problem.  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.">
-<img data-src="sequence_ABCD.gif" class="lazyload" alt="" ></a>
+  <a data-fancybox="" href="/grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_2000x2000_fit_lanczos.gif" data-caption="A predictive sequence is essential in resolving the coherence problem.  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.">
+
+
+  <img data-src="/grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_2000x2000_fit_lanczos.gif" class="lazyload" alt="" width="400" height="300">
+</a>
 
 
   
@@ -985,10 +997,11 @@
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1212,7 +1225,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

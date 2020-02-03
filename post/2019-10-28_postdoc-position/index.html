@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -877,23 +879,77 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>Dear colleagues,</p>
-<p>Applications are welcome for a post-doctoral position at <a href="http://www.int.univ-amu.fr/?lang=en">INT</a> in <a href="https://en.wikipedia.org/wiki/Marseille">Marseille</a>, France. Your mission will be to explore novel visual computations using spatio-temporal diffusion kernels and traveling waves. The project is funded by the <a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/">ANR Horizontal V1</a> grant (ANR-17-CE37-0006) from the French National Research Agency (ANR) and will be coordinated by <a href="https://laurentperrinet.github.io/">Laurent Perrinet</a>, in collaboration with <a href="https://www.mullerlab.ca">Lyle Muller</a> and <a href="http://www.int.univ-amu.fr/spip.php?page=equipe&amp;equipe=NeOpTo&amp;lang=en">Frédéric Chavane</a> at INT and <a href="http://neuro-psi.cnrs.fr/spip.php?article934&amp;lang=fr">Yves Frégnac</a> and Jan Antolik at UNIC-NeuroPSI, Gif. We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.</p>
-<p>For more information, visit <a href="https://laurentperrinet.github.io/post/2019-10-28_postdoc-position">https://laurentperrinet.github.io/post/2019-10-28_postdoc-position</a>.</p>
-<p>The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: <a href="mailto:Laurent.Perrinet@univ-amu.fr">Laurent.Perrinet@univ-amu.fr</a>. The appointment is for 18 month. Applications are welcome immediately and until the end of year 2019.</p>
+<p>Applications are welcome for a post-doctoral position at 
+<a href="http://www.int.univ-amu.fr/?lang=en" target="_blank" rel="noopener">INT</a>
+ in 
+<a href="https://en.wikipedia.org/wiki/Marseille" target="_blank" rel="noopener">Marseille</a>
+, France. Your mission will be to explore novel visual computations using spatio-temporal diffusion kernels and traveling waves. The project is funded by the 
+<a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" target="_blank" rel="noopener">ANR Horizontal V1</a>
+ grant (ANR-17-CE37-0006) from the French National Research Agency (ANR) and will be coordinated by 
+<a href="https://laurentperrinet.github.io/" target="_blank" rel="noopener">Laurent Perrinet</a>
+, in collaboration with 
+<a href="https://www.mullerlab.ca" target="_blank" rel="noopener">Lyle Muller</a>
+ and 
+<a href="http://www.int.univ-amu.fr/spip.php?page=equipe&amp;equipe=NeOpTo&amp;lang=en" target="_blank" rel="noopener">Frédéric Chavane</a>
+ at INT and 
+<a href="http://neuro-psi.cnrs.fr/spip.php?article934&amp;lang=fr" target="_blank" rel="noopener">Yves Frégnac</a>
+ and Jan Antolik at UNIC-NeuroPSI, Gif. We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.</p>
+<p>For more information, visit 
+<a href="https://laurentperrinet.github.io/post/2019-10-28_postdoc-position" target="_blank" rel="noopener">https://laurentperrinet.github.io/post/2019-10-28_postdoc-position</a>
+.</p>
+<p>The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: 
+<a href="mailto:Laurent.Perrinet@univ-amu.fr">Laurent.Perrinet@univ-amu.fr</a>
+. The appointment is for 18 month. Applications are welcome immediately and until the end of year 2019.</p>
 <p>Thanks for distributing this announcement to potential candidates!</p>
 <h1 id="detailed-description-visual-computations-using-spatio-temporal-diffusion-kernels-and-traveling-waves">Detailed description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves</h1>
-<p>Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. It is clear from recent advances in system and computational neuroscience that nonlinear, recurrent interactions in visual cortical networks are key to this efficiency (<a href="#Tang18">Tang et al., 2018</a>; <a href="#Kietzmann19">Kietzmann et al., 2019</a>). We will use inspiration from neurophysiology and brain imaging to resolve this apparent gap between traditional CNNs and biological visual systems.</p>
-<p><strong>In this post-doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: <em>lateral diffusion of sensory-evoked traveling waves</em> (<a href="#Chavane2000">Chavane et al., 2011</a>; <a href="#muller2018cortical">Muller et al., 2018</a>) and <em>dynamic neuronal association fields</em> (<a href="#Fr%C3%A9gnac2012">Frégnac et al., 2012</a>; <a href="#Fr%C3%A9gnac2016">Frégnac et al., 2016</a>; <a href="#gerard2016synaptic">Gerard-Mercier et al., 2016</a>)</strong>. Indeed, the architecture of primary visual cortex (V1), the direct target of the feedforward visual flow, contains dense local recurrent connectivity with sparse long-range connections (<a href="#Voges12">Voges and Perrinet, 2012</a>). Such connections add to the traditional convolutional kernels representing feedforward and local recurrent amplification a novel lateral interaction kernel within a single layer (across positions and channels). Less studied, but probably decisive in active vision, recurrent cortico-cortical loops add a level of distributed top-down complexity which participates to the lateral integration of sensory input and perceptual context (<a href="#Keller2019">Keller et al., 2019</a>). Coupled with the continuous time dynamics of cortical circuits, this elaborate multiplexed architecture provides the conditions possible for generating information diffusion through traveling waves. Inspired by recent work in neuroscience uncovering the ubiquity of these waves during visual processing, we aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.</p>
+<p>Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. It is clear from recent advances in system and computational neuroscience that nonlinear, recurrent interactions in visual cortical networks are key to this efficiency (
+<a href="#Tang18">Tang et al., 2018</a>
+; 
+<a href="#Kietzmann19">Kietzmann et al., 2019</a>
+). We will use inspiration from neurophysiology and brain imaging to resolve this apparent gap between traditional CNNs and biological visual systems.</p>
+<p><strong>In this post-doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: <em>lateral diffusion of sensory-evoked traveling waves</em> (
+<a href="#Chavane2000">Chavane et al., 2011</a>
+; 
+<a href="#muller2018cortical">Muller et al., 2018</a>
+) and <em>dynamic neuronal association fields</em> (
+<a href="#Fr%c3%a9gnac2012">Frégnac et al., 2012</a>
+; 
+<a href="#Fr%c3%a9gnac2016">Frégnac et al., 2016</a>
+; 
+<a href="#gerard2016synaptic">Gerard-Mercier et al., 2016</a>
+)</strong>. Indeed, the architecture of primary visual cortex (V1), the direct target of the feedforward visual flow, contains dense local recurrent connectivity with sparse long-range connections (
+<a href="#Voges12">Voges and Perrinet, 2012</a>
+). Such connections add to the traditional convolutional kernels representing feedforward and local recurrent amplification a novel lateral interaction kernel within a single layer (across positions and channels). Less studied, but probably decisive in active vision, recurrent cortico-cortical loops add a level of distributed top-down complexity which participates to the lateral integration of sensory input and perceptual context (
+<a href="#Keller2019">Keller et al., 2019</a>
+). Coupled with the continuous time dynamics of cortical circuits, this elaborate multiplexed architecture provides the conditions possible for generating information diffusion through traveling waves. Inspired by recent work in neuroscience uncovering the ubiquity of these waves during visual processing, we aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.</p>
 <p>The proposed work will be organized as a collaboration between two labs (INT, Marseille and UNIC, Gif) along three tasks to be integrated in a unified model:</p>
 <ol>
 <li>
-<p>The starting point will be to extend results of self-supervised learning that we have obtained on static, natural images (<a href="#BoutinFranciosiniChavaneRuffierPerrinet19">Boutin et al., 2019</a>) showing in a recurrent cortical-like artificial CNN architecture the emergence of interactions which phenomenologically correspond to the &ldquo;association field&rdquo; described at the psychophysical (<a href="#Field1993">Field et al., 1993</a>), spiking (<a href="#Li2002">Li and Gilbert, 2002</a>) and synaptic (<a href="#gerard2016synaptic">Gerard-Mercier et al., 2016</a>) levels.</p>
+<p>The starting point will be to extend results of self-supervised learning that we have obtained on static, natural images (
+<a href="#BoutinFranciosiniChavaneRuffierPerrinet19">Boutin et al., 2019</a>
+) showing in a recurrent cortical-like artificial CNN architecture the emergence of interactions which phenomenologically correspond to the &ldquo;association field&rdquo; described at the psychophysical (
+<a href="#Field1993">Field et al., 1993</a>
+), spiking (
+<a href="#Li2002">Li and Gilbert, 2002</a>
+) and synaptic (
+<a href="#gerard2016synaptic">Gerard-Mercier et al., 2016</a>
+) levels.</p>
 </li>
 <li>
-<p>The central aim will be to develop a dynamical version of this feedback/lateral kernel in the context of the <a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/">ANR Horizontal-V1</a> project, linking the two labs and confronted to their recent electrophysiological data pointing to different classes of spatio-temporal diffusion and different degree of anisotropies during apparent and continuous motion.</p>
+<p>The central aim will be to develop a dynamical version of this feedback/lateral kernel in the context of the 
+<a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" target="_blank" rel="noopener">ANR Horizontal-V1</a>
+ project, linking the two labs and confronted to their recent electrophysiological data pointing to different classes of spatio-temporal diffusion and different degree of anisotropies during apparent and continuous motion.</p>
 </li>
 <li>
-<p>The implementation of this kernel inspired by CNN theory will be compared with a biologically realistic models of the early visual system (<a href="#Antolik2019">Antolik et al., 2019</a>), and simulations of the lateral diffusion kernel will be developed in collaboration with <a href="http://antolik.net/">Jan Antolik</a>, external collaborator to the ANR grant.  In parallel, using tools linking neural activity to VSD imaging (<a href="#muller2014stimulus">Muller et al., 2014</a>; <a href="#Chemla2018">Chemla et al., 2019</a>), we will analyze at a more mesocopic level the role of observed traveling waves in forming efficient representations of the visual world.</p>
+<p>The implementation of this kernel inspired by CNN theory will be compared with a biologically realistic models of the early visual system (
+<a href="#Antolik2019">Antolik et al., 2019</a>
+), and simulations of the lateral diffusion kernel will be developed in collaboration with 
+<a href="http://antolik.net/" target="_blank" rel="noopener">Jan Antolik</a>
+, external collaborator to the ANR grant.  In parallel, using tools linking neural activity to VSD imaging (
+<a href="#muller2014stimulus">Muller et al., 2014</a>
+; 
+<a href="#Chemla2018">Chemla et al., 2019</a>
+), we will analyze at a more mesocopic level the role of observed traveling waves in forming efficient representations of the visual world.</p>
 </li>
 </ol>
 <h2 id="expected-profile-of-the-candidate">Expected profile of the candidate</h2>
@@ -901,56 +957,94 @@
 <p>The candidate has to show good skills in computer science (programming skills, architecture understanding, git versioning, &hellip;), and in image processing methods. Good command of programming tools (Python scripting) is required. Multidisciplinary background would be strongly appreciated and in particular an advanced knowledge in mathematics, for a deep understanding of signal processing methods, along with strong computational skills. The candidate needs to show a keen interest in neuroscience. It is a bonus if the candidate is curious about neuroscience and visual perception.</p>
 <p>The candidate has to fluently speak English to understand publications and to attend international conferences and workshops. The preferred candidate will have the ability to work autonomously, and needs to be flexible to comply with the working method of the supervisors.</p>
 <h2 id="research-context">Research context</h2>
-<p>This project is funded by the French National Research Agency (ANR) under the <a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/">ANR Horizontal V1</a> grant (coordinator Y. Frégnac) which aims at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). The cross-talk between physiological and theoretical approaches will be fostered by the close collaboration with the teams of Frédéric Chavane at INT and Yves Frégnac at UNIC. The theoretical work will be performed in close collaboration with <a href="https://www.mullerlab.ca/">Lyle Muller</a> (Western U) and Jan Antolik (Prague). The project will be primarily hosted at the <a href="http://www.int.univ-amu.fr/?lang=en">Institut de Neurosciences de la Timone</a> in <a href="https://en.wikipedia.org/wiki/Marseille">Marseille</a>, a lively town by the Mediterranean sea in the south of France, but the applicant will be asked also to show mobility to visit the other partner lab when needed.</p>
+<p>This project is funded by the French National Research Agency (ANR) under the 
+<a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" target="_blank" rel="noopener">ANR Horizontal V1</a>
+ grant (coordinator Y. Frégnac) which aims at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). The cross-talk between physiological and theoretical approaches will be fostered by the close collaboration with the teams of Frédéric Chavane at INT and Yves Frégnac at UNIC. The theoretical work will be performed in close collaboration with 
+<a href="https://www.mullerlab.ca/" target="_blank" rel="noopener">Lyle Muller</a>
+ (Western U) and Jan Antolik (Prague). The project will be primarily hosted at the 
+<a href="http://www.int.univ-amu.fr/?lang=en" target="_blank" rel="noopener">Institut de Neurosciences de la Timone</a>
+ in 
+<a href="https://en.wikipedia.org/wiki/Marseille" target="_blank" rel="noopener">Marseille</a>
+, a lively town by the Mediterranean sea in the south of France, but the applicant will be asked also to show mobility to visit the other partner lab when needed.</p>
 <h1 id="references">References</h1>
 <ul>
 <li>
-<p><a name="Antolik2019"> Antolik, J, C Monier, Y Frégnac, AP Davison. (2019). </a> &ldquo;<a href="https://www.biorxiv.org/content/10.1101/416156v1">A comprehensive data-driven model of cat primary visual cortex.</a>&rdquo; <em>BioRxiv</em>, 416156.</p>
+<p><a name="Antolik2019"> Antolik, J, C Monier, Y Frégnac, AP Davison. (2019). </a> &ldquo;
+<a href="https://www.biorxiv.org/content/10.1101/416156v1" target="_blank" rel="noopener">A comprehensive data-driven model of cat primary visual cortex.</a>
+&rdquo; <em>BioRxiv</em>, 416156.</p>
 </li>
 <li>
-<p><a name="BoutinFranciosiniChavaneRuffierPerrinet19"> Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> &ldquo;<a href="https://arxiv.org/abs/1902.07651">Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.</a>&rdquo; <em>arXiv</em></p>
+<p><a name="BoutinFranciosiniChavaneRuffierPerrinet19"> Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> &ldquo;
+<a href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.</a>
+&rdquo; <em>arXiv</em></p>
 </li>
 <li>
 <p><a name="Chavane2000"> Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J. Lorenceau, and Y. Frégnac. 2000. </a> &ldquo;The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?&rdquo; <em>Frontiers in System Neuroscience</em> 4(5): 1-26.</p>
 </li>
 <li>
-<p><a name="Chavane2011"> Chavane, F., Sharon, D., Jancke, D., Marre, O., Frégnac, Y. and Grinvald, A.  (2011). </a> &ldquo;<a href="https://doi.org/10.1016/S0928-4257(00)01096-2">Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.</a>&rdquo; <em>Journal of Physiology Paris</em> 94 (5-6): 333&ndash;42.</p>
+<p><a name="Chavane2011"> Chavane, F., Sharon, D., Jancke, D., Marre, O., Frégnac, Y. and Grinvald, A.  (2011). </a> &ldquo;
+<a href="https://doi.org/10.1016/S0928-4257%2800%2901096-2" target="_blank" rel="noopener">Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.</a>
+&rdquo; <em>Journal of Physiology Paris</em> 94 (5-6): 333&ndash;42.</p>
 </li>
 <li>
-<p><a name="Chemla2018"> Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut, Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. </a> (2018). &ldquo;<a href="https://doi.org/10.1523/JNEUROSCI.2792-18.2019">Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1.</a>&rdquo; <em>Journal of Neuroscience</em> 39 (22) 4282-4298.</p>
+<p><a name="Chemla2018"> Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut, Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. </a> (2018). &ldquo;
+<a href="https://doi.org/10.1523/JNEUROSCI.2792-18.2019" target="_blank" rel="noopener">Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1.</a>
+&rdquo; <em>Journal of Neuroscience</em> 39 (22) 4282-4298.</p>
 </li>
 <li>
-<p><a name="Field1993"> Field, D.J., Hayes, A. and Hess, R.F. (1993). </a> &ldquo;<a href="https://doi.org/10.1016/0042-6989(93)90156-Q">Contour integration by the human visual system: Evidence for a local “association field”.</a>&rdquo; <em>Vision Research</em> 33 (2), pp. 173-193.</p>
+<p><a name="Field1993"> Field, D.J., Hayes, A. and Hess, R.F. (1993). </a> &ldquo;
+<a href="https://doi.org/10.1016/0042-6989%2893%2990156-Q" target="_blank" rel="noopener">Contour integration by the human visual system: Evidence for a local “association field”.</a>
+&rdquo; <em>Vision Research</em> 33 (2), pp. 173-193.</p>
 </li>
 <li>
-<p><a name="Frégnac2012"> Frégnac, Y. (2012)  </a> &ldquo;<a href="https://hal.archives-ouvertes.fr/hal-01685152/">Reading out the synaptic echoes of low-level perception in V1.</a>&rdquo; <em>European Conference in Computer Vision</em> 486-495. Springer, Berlin, Heidelberg.</p>
+<p><a name="Frégnac2012"> Frégnac, Y. (2012)  </a> &ldquo;
+<a href="https://hal.archives-ouvertes.fr/hal-01685152/" target="_blank" rel="noopener">Reading out the synaptic echoes of low-level perception in V1.</a>
+&rdquo; <em>European Conference in Computer Vision</em> 486-495. Springer, Berlin, Heidelberg.</p>
 </li>
 <li>
-<p><a name="Frégnac2016"> Frégnac, Y., Fournier, J., Gerard-Mercier, F., Monier, C., Carelli, P., , M., Troncoso, X. (2016).  </a> &ldquo;<a href="https://link-springer-com.insb.bib.cnrs.fr/content/pdf/10.1007%2F978-3-319-28802-4_4.pdf">The Visual Brain: Computing Through Multiscale Complexity.</a>&rdquo; In <em>Micro-, Meso- and Macro-Dynamics of the Brain</em> pp 43-57.</p>
+<p><a name="Frégnac2016"> Frégnac, Y., Fournier, J., Gerard-Mercier, F., Monier, C., Carelli, P., , M., Troncoso, X. (2016).  </a> &ldquo;
+<a href="https://link-springer-com.insb.bib.cnrs.fr/content/pdf/10.1007%2F978-3-319-28802-4_4.pdf" target="_blank" rel="noopener">The Visual Brain: Computing Through Multiscale Complexity.</a>
+&rdquo; In <em>Micro-, Meso- and Macro-Dynamics of the Brain</em> pp 43-57.</p>
 </li>
 <li>
-<p><a name="gerard2016synaptic"> Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. (2016). </a> &ldquo;<a href="https://www.jneurosci.org/content/36/14/3925">Synaptic Correlates of Low-Level Perception in V1.</a>&rdquo; <em>Journal of Neuroscience</em> 36 (14): 3925&ndash;42.</p>
+<p><a name="gerard2016synaptic"> Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. (2016). </a> &ldquo;
+<a href="https://www.jneurosci.org/content/36/14/3925" target="_blank" rel="noopener">Synaptic Correlates of Low-Level Perception in V1.</a>
+&rdquo; <em>Journal of Neuroscience</em> 36 (14): 3925&ndash;42.</p>
 </li>
 <li>
-<p><a name="Keller2019">Keller, A., Roth, M.M. and Scanziani, M. (2019).  </a> 2019. &ldquo;<a href="https://www.abstractsonline.com/pp8/#!/7883/presentation/65856">The feedback receptive field of neurons in the mammalian primary visual cortex.</a>&rdquo; <em>American Society for Neuroscience Abstracts</em>,  403.13. Chicago.</p>
+<p><a name="Keller2019">Keller, A., Roth, M.M. and Scanziani, M. (2019).  </a> 2019. &ldquo;
+<a href="https://www.abstractsonline.com/pp8/#!/7883/presentation/65856" target="_blank" rel="noopener">The feedback receptive field of neurons in the mammalian primary visual cortex.</a>
+&rdquo; <em>American Society for Neuroscience Abstracts</em>,  403.13. Chicago.</p>
 </li>
 <li>
-<p><a name="Kietzmann19">Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. </a> (2019). &ldquo;<a href="https://doi.org/10/gf9j2t">Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.</a>&rdquo; <em>Proceedings of the National Academy of Sciences</em>, October, 201905544.</p>
+<p><a name="Kietzmann19">Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. </a> (2019). &ldquo;
+<a href="https://doi.org/10/gf9j2t" target="_blank" rel="noopener">Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.</a>
+&rdquo; <em>Proceedings of the National Academy of Sciences</em>, October, 201905544.</p>
 </li>
 <li>
-<p><a name="Li2002">Li W, Piëch V, Gilbert CD</a>  (2006). &ldquo;<a href="http://www.paper.edu.cn/scholar/showpdf/MUz2UN2INTA0eQxeQh">Contour saliency in primary visual cortex.</a>&rdquo; <em>Neuron</em>, 50(6):951–962.</p>
+<p><a name="Li2002">Li W, Piëch V, Gilbert CD</a>  (2006). &ldquo;
+<a href="http://www.paper.edu.cn/scholar/showpdf/MUz2UN2INTA0eQxeQh" target="_blank" rel="noopener">Contour saliency in primary visual cortex.</a>
+&rdquo; <em>Neuron</em>, 50(6):951–962.</p>
 </li>
 <li>
-<p><a name="muller2014stimulus">Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe. </a> (2014). &ldquo;<a href="http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf">The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.</a>&rdquo; <em>Nature Communications</em> 5: 3675.</p>
+<p><a name="muller2014stimulus">Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe. </a> (2014). &ldquo;
+<a href="http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf" target="_blank" rel="noopener">The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.</a>
+&rdquo; <em>Nature Communications</em> 5: 3675.</p>
 </li>
 <li>
-<p><a name="muller2018cortical"> Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. </a> (2018). &ldquo;<a href="https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf">Cortical Travelling Waves: Mechanisms and Computational Principles.</a>&rdquo; <em>Nature Reviews Neuroscience</em> 19 (5): 255.</p>
+<p><a name="muller2018cortical"> Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. </a> (2018). &ldquo;
+<a href="https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf" target="_blank" rel="noopener">Cortical Travelling Waves: Mechanisms and Computational Principles.</a>
+&rdquo; <em>Nature Reviews Neuroscience</em> 19 (5): 255.</p>
 </li>
 <li>
-<p><a name="Tang18">Tang, Hanlin, Martin Schrimpf, William Lotter, Charlotte Moerman, Ana Paredes, Josue Ortega Caro, Walter Hardesty, David Cox, and Gabriel Kreiman. </a> (2018). &ldquo;<a href="https://doi.org/10.1073/pnas.1719397115">Recurrent computations for visual pattern completion.</a>&rdquo; <em>Proceedings of the National Academy of Sciences</em> 115 (35) 8835-8840.</p>
+<p><a name="Tang18">Tang, Hanlin, Martin Schrimpf, William Lotter, Charlotte Moerman, Ana Paredes, Josue Ortega Caro, Walter Hardesty, David Cox, and Gabriel Kreiman. </a> (2018). &ldquo;
+<a href="https://doi.org/10.1073/pnas.1719397115" target="_blank" rel="noopener">Recurrent computations for visual pattern completion.</a>
+&rdquo; <em>Proceedings of the National Academy of Sciences</em> 115 (35) 8835-8840.</p>
 </li>
 <li>
-<p><a name="Voges12"> Voges, Nicole, and Laurent U Perrinet.</a> (2012). &ldquo;<a href="https://doi.org/10.3389/fncom.2012.00041">Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.</a>&rdquo; <em>Frontiers in Computational Neuroscience</em> 6.</p>
+<p><a name="Voges12"> Voges, Nicole, and Laurent U Perrinet.</a> (2012). &ldquo;
+<a href="https://doi.org/10.3389/fncom.2012.00041" target="_blank" rel="noopener">Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.</a>
+&rdquo; <em>Frontiers in Computational Neuroscience</em> 6.</p>
 </li>
 </ul>
 
@@ -1082,10 +1176,11 @@
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1309,7 +1404,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

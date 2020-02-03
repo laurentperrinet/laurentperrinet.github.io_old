@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,121 +743,163 @@
 
   
   
-  <div>
-    <h2><a href="/publication/perrinet-15-eusipco/">Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</a></h2>
-    <div class="article-style">
-      
-      Oriented edges in images of natural scenes tend to be aligned in co-linear or co-circular arrangements, with lines and smooth curves more common than other possible arrangements of edges (the good continuation law of Gestalt psychology). The visual …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-15-eusipco/" >Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</a></h2>
+      <div class="article-style">
+        
+          Oriented edges in images of natural scenes tend to be aligned in co-linear or co-circular arrangements, with lines and smooth curves more common than other possible arrangements of edges (the good continuation law of Gestalt psychology). The visual …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/voges-12/">Complex dynamics in recurrent cortical networks based on spatially realistic connectivities</a></h2>
-    <div class="article-style">
-      
-      Most studies on the dynamics of recurrent cortical networks are either based on purely random wiring or neighborhood couplings. Neuronal cortical connectivity, however, shows a complex spatial pattern composed of local and remote patchy connections. …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/voges-12/" >Complex dynamics in recurrent cortical networks based on spatially realistic connectivities</a></h2>
+      <div class="article-style">
+        
+          Most studies on the dynamics of recurrent cortical networks are either based on purely random wiring or neighborhood couplings. Neuronal cortical connectivity, however, shows a complex spatial pattern composed of local and remote patchy connections. …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-10-areadne/">Dynamical emergence of a neural solution for motion integration</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-10-areadne/" >Dynamical emergence of a neural solution for motion integration</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/voges-10-neurocomp/">Phase space analysis of networks based on biologically realistic parameters</a></h2>
-    <div class="article-style">
-      
-      We study cortical network dynamics for a more realistic network model. It represents, in terms of spatial scale, a large piece of cortex allowing for long-range connections, resulting in a rather sparse connectivity. We use two different types of …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/voges-10-neurocomp/" >Phase space analysis of networks based on biologically realistic parameters</a></h2>
+      <div class="article-style">
+        
+          We study cortical network dynamics for a more realistic network model. It represents, in terms of spatial scale, a large piece of cortex allowing for long-range connections, resulting in a rather sparse connectivity. We use two different types of …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-09-cosyne/">Decoding center-surround interactions in population of neurons for the ocular following response</a></h2>
-    <div class="article-style">
-      
-      Short presentation of a large moving pattern elicits an Ocular Following Response (OFR) that exhibits many of the properties attributed to low-level motion processing such as spatial and temporal integration, contrast gain control and divisive …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-09-cosyne/" >Decoding center-surround interactions in population of neurons for the ocular following response</a></h2>
+      <div class="article-style">
+        
+          Short presentation of a large moving pattern elicits an Ocular Following Response (OFR) that exhibits many of the properties attributed to low-level motion processing such as spatial and temporal integration, contrast gain control and divisive …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/voges-09-cosyne/">Dynamical state spaces of cortical networks representing various horizontal connectivities</a></h2>
-    <div class="article-style">
-      
-      Most studies of cor tical network dynamics are either based on purely random wiring or neighborhood cou- plings, e.g., [Kumar, Schrader, Aer tsen, Rotter, 2008, Neural Computation 20, 1--43]. Neuronal connections in the cor tex, however, show a …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/voges-09-cosyne/" >Dynamical state spaces of cortical networks representing various horizontal connectivities</a></h2>
+      <div class="article-style">
+        
+          Most studies of cor tical network dynamics are either based on purely random wiring or neighborhood cou- plings, e.g., [Kumar, Schrader, Aer tsen, Rotter, 2008, Neural Computation 20, 1--43]. Neuronal connections in the cor tex, however, show a …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/voges-09-gns/">Dynamics of cortical networks including long-range patchy connections</a></h2>
-    <div class="article-style">
-      
-      Most studies of cortical network dynamics are either based on purely random wiring or neighborhood couplings [1], focussing on a rather local scale. Neuronal connections in the cortex, however, show a more complex spatial pattern composed of local …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/voges-09-gns/" >Dynamics of cortical networks including long-range patchy connections</a></h2>
+      <div class="article-style">
+        
+          Most studies of cortical network dynamics are either based on purely random wiring or neighborhood couplings [1], focussing on a rather local scale. Neuronal connections in the cortex, however, show a more complex spatial pattern composed of local …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/voges-08-neurocomp/">Analyzing cortical network dynamics with respect to different connectivity assumptions</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/voges-08-neurocomp/" >Analyzing cortical network dynamics with respect to different connectivity assumptions</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-08-areadne/">Decoding the population dynamics underlying ocular following response using a probabilistic framework</a></h2>
-    <div class="article-style">
-      
-      The machinery behind the visual perception of motion and the subsequent sensorimotor transformation, such as in Ocular Following Response (OFR), is confronted to uncertainties which are efficiently resolved in the primate's visual system. We may …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-08-areadne/" >Decoding the population dynamics underlying ocular following response using a probabilistic framework</a></h2>
+      <div class="article-style">
+        
+          The machinery behind the visual perception of motion and the subsequent sensorimotor transformation, such as in Ocular Following Response (OFR), is confronted to uncertainties which are efficiently resolved in the primate's visual system. We may …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/voges-08/">Dynamics of cortical networks based on patchy connectivity patterns</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/voges-08/" >Dynamics of cortical networks based on patchy connectivity patterns</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-08-a/">Modeling spatial integration in the ocular following response to center-surround stimulation using a probabilistic framework</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-08-a/" >Modeling spatial integration in the ocular following response to center-surround stimulation using a probabilistic framework</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-07/">Dynamical Neural Networks: modeling low-level vision at short latencies</a></h2>
-    <div class="article-style">
-      
-      The machinery behind the visual perception of motion and the subsequent sensori-motor transformation, such as in ocular following response (OFR), is confronted to uncertainties which are efficiently resolved in the primate's visual system. We may …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-07/" >Dynamical Neural Networks: modeling low-level vision at short latencies</a></h2>
+      <div class="article-style">
+        
+          The machinery behind the visual perception of motion and the subsequent sensori-motor transformation, such as in ocular following response (OFR), is confronted to uncertainties which are efficiently resolved in the primate's visual system. We may …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-07-neurocomp/">Modeling spatial integration in the ocular following response using a probabilistic framework</a></h2>
-    <div class="article-style">
-      
-      The machinery behind the visual perception of motion and the subsequent sensori-motor transformation, such as in Ocular Following Response (OFR), is confronted to uncertainties which are efficiently resolved in the primate's visual system. We may …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-07-neurocomp/" >Modeling spatial integration in the ocular following response using a probabilistic framework</a></h2>
+      <div class="article-style">
+        
+          The machinery behind the visual perception of motion and the subsequent sensori-motor transformation, such as in Ocular Following Response (OFR), is confronted to uncertainties which are efficiently resolved in the primate's visual system. We may …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-03-these/">Comment déchiffrer le code impulsionnel de la vision ? Étude du flux parallèle, asynchrone et épars dans le traitement visuel ultra-rapide</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-03-these/" >Comment déchiffrer le code impulsionnel de la vision ? Étude du flux parallèle, asynchrone et épars dans le traitement visuel ultra-rapide</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -956,7 +1000,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

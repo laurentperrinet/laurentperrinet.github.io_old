@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -709,6 +711,8 @@
   
 
 
+
+
 <section id="profile-page" class="pt-5">
   <div class="container">
     
@@ -731,13 +735,14 @@
 
 
 
+
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/angelo-franciosini/avatar_huf20cb217f6bf92656c2488dfbefe1a2d_4587_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar avatar-circle" src="/authors/angelo-franciosini/avatar_huf20cb217f6bf92656c2488dfbefe1a2d_4587_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
       
 
       <div class="portrait-title">
@@ -827,32 +832,60 @@
     <h1 id="trajectories-in-natural-images-and-the-sensory-processing-of-contours-phd-position-2017--2021">Trajectories in natural images and the sensory processing of contours (PhD position, 2017 / 2021)</h1>
 <ul>
 <li>
-<p>Venue: Aix-Marseille Université's <a href="https://laurentperrinet.github.io/project/phd-icn/">Neuroschool PhD program in Neuroscience</a> (formerly known as &ldquo;Ph.D. program in Integrative and Clinical Neuroscience&rdquo;)</p>
+<p>Venue: Aix-Marseille Université&rsquo;s 
+<a href="https://laurentperrinet.github.io/project/phd-icn/" target="_blank" rel="noopener">Neuroschool PhD program in Neuroscience</a>
+ (formerly known as &ldquo;Ph.D. program in Integrative and Clinical Neuroscience&rdquo;)</p>
 </li>
 <li>
 <p>Keywords: Vision, Neural Networks, Bio-Inspired Computer Vision, contours, learning</p>
 </li>
 <li>
-<p>Thesis director: Dr. Laurent PERRINET, Director's research unit: Institut de Neurosciences de la Timone (INT)</p>
+<p>Thesis director: Dr. Laurent PERRINET, Director&rsquo;s research unit: Institut de Neurosciences de la Timone (INT)</p>
 </li>
 </ul>
 <h2 id="description-of-the-phd-thesis-project">Description of the PHD thesis project</h2>
-<p>Binding the different features of objects in images is at the core of visual perception. As such, the visual system needs to detect local edges and to bind them together to form contours at a higher, more global level. A state-of-the art theory is that of the “association field”: the confidence of an edge depends on the configuration of neighboring edges. For instance it is facilitated for co-linear or co-circular edges. This process takes advantage of the statistical regularities of edges that are present in natural images. In particular, we have developed a method to quantify the association field in different classes of natural images (<a href="https://laurentperrinet.github.io/publication/perrinet-bednar-15/">Perrinet &amp; Bednar, 2015</a>). Using an <a href="https://github.com/bicv/SparseEdges">existing library</a>, it is possible to compute histograms of edge co-occurrences from the sparse representation of static natural images. We have already shown that these different statistics were sufficient to categorize images, for instance to know if they contain an animal or not.  At the neural level, modeling the representation of the image, such as that formed in the primary visual cortex of primates (V1), this heuristics translates to a set of rules that adapts dynamically the activity of isolated neurons representing edges into the coherent population activity of contours. &lsquo;&lsquo;&lsquo;Yet, we miss an understanding of the link between these statistics and the probabilistic rules that binds features together and how this information is dynamically encoded in V1.&rsquo;&rsquo;&rsquo;</p>
+<p>Binding the different features of objects in images is at the core of visual perception. As such, the visual system needs to detect local edges and to bind them together to form contours at a higher, more global level. A state-of-the art theory is that of the “association field”: the confidence of an edge depends on the configuration of neighboring edges. For instance it is facilitated for co-linear or co-circular edges. This process takes advantage of the statistical regularities of edges that are present in natural images. In particular, we have developed a method to quantify the association field in different classes of natural images (
+<a href="https://laurentperrinet.github.io/publication/perrinet-bednar-15/" target="_blank" rel="noopener">Perrinet &amp; Bednar, 2015</a>
+). Using an 
+<a href="https://github.com/bicv/SparseEdges" target="_blank" rel="noopener">existing library</a>
+, it is possible to compute histograms of edge co-occurrences from the sparse representation of static natural images. We have already shown that these different statistics were sufficient to categorize images, for instance to know if they contain an animal or not.  At the neural level, modeling the representation of the image, such as that formed in the primary visual cortex of primates (V1), this heuristics translates to a set of rules that adapts dynamically the activity of isolated neurons representing edges into the coherent population activity of contours. &lsquo;&lsquo;&lsquo;Yet, we miss an understanding of the link between these statistics and the probabilistic rules that binds features together and how this information is dynamically encoded in V1.&rsquo;&rsquo;&rsquo;</p>
 <h3 id="objectives">Objectives</h3>
 <p>In this computational neuroscience project, we will exploit our current expertise in computer vision for the statistical integration of visual of objects to translate them in the form of probabilistic predictive models for biological vision. &lsquo;&lsquo;&lsquo;Our core hypothesis is that in natural scenes, contours follow coherent trajectories and that this knowledge is integrated (learned) by the visual system to optimally inform the representation of the image.&rsquo;&rsquo;&rsquo;</p>
 <h3 id="methods">Methods</h3>
-<p>First, we will learn the different classes of edge co-occurrences that are relevant to natural images. Using an <a href="https://github.com/bicv/SparseHebbianLearning">existing  unsupervised learning algorithm</a>, we will learn these as an independent components analysis. Such an algorithm extends well to a deep-learning convolutional neural network, but importantly, it will be informed by our expertise of modeling neural networks in low-level visual areas by including horizontal connectivity. We expect that relevant features will be mainly the predictable arrangements, such as co-linear or co-circular pairs of edges, but also highly surprising ones, such as T-junctions or end-stopping features. Importantly, we will be able to compare this representation with that present in higher level areas and to refine our knowledge on the representation of natural-like images. Second, we have previously found that using synthetic textures could further advance our understanding of neural computations and perception. These random synthetic textures, coined “Motion Clouds” were initially targeted to quantify the integration properties of visual motion perception (<a href="https://laurentperrinet.github.io/publication/sanz-12/">Leon et al, 2012</a>, <a href="https://laurentperrinet.github.io/publication/simoncini-12/">Simoncini et al, 2012</a>). Informed by the generative model of edge co-occurrences studied above, an extension to such stimuli would be to include dependencies between different elements. As such, we will be able to manipulate the level of dependency between different elements, whether in space, time or feature space (orientations). A potential outcome will be to use these in neurophysiological and psychophysical experiments within the team. In particular, the ability to select different classes of dependencies learned above will make it possible to evaluate the relative contribution of each component to the association field.</p>
+<p>First, we will learn the different classes of edge co-occurrences that are relevant to natural images. Using an 
+<a href="https://github.com/bicv/SparseHebbianLearning" target="_blank" rel="noopener">existing  unsupervised learning algorithm</a>
+, we will learn these as an independent components analysis. Such an algorithm extends well to a deep-learning convolutional neural network, but importantly, it will be informed by our expertise of modeling neural networks in low-level visual areas by including horizontal connectivity. We expect that relevant features will be mainly the predictable arrangements, such as co-linear or co-circular pairs of edges, but also highly surprising ones, such as T-junctions or end-stopping features. Importantly, we will be able to compare this representation with that present in higher level areas and to refine our knowledge on the representation of natural-like images. Second, we have previously found that using synthetic textures could further advance our understanding of neural computations and perception. These random synthetic textures, coined “Motion Clouds” were initially targeted to quantify the integration properties of visual motion perception (
+<a href="https://laurentperrinet.github.io/publication/sanz-12/" target="_blank" rel="noopener">Leon et al, 2012</a>
+, 
+<a href="https://laurentperrinet.github.io/publication/simoncini-12/" target="_blank" rel="noopener">Simoncini et al, 2012</a>
+). Informed by the generative model of edge co-occurrences studied above, an extension to such stimuli would be to include dependencies between different elements. As such, we will be able to manipulate the level of dependency between different elements, whether in space, time or feature space (orientations). A potential outcome will be to use these in neurophysiological and psychophysical experiments within the team. In particular, the ability to select different classes of dependencies learned above will make it possible to evaluate the relative contribution of each component to the association field.</p>
 <h3 id="expected-results">Expected results</h3>
 <p>Finally, those two tasks converge to a long-term goal of &lsquo;&lsquo;&lsquo;understanding the impact of the spatio-temporal structure of natural images in the neural computations implementing visual processing in low-level visual areas and perception&rsquo;''. Indeed, the regularities observed in static images can be extended to dynamical scenes by observing that a co-occurrence in time can be implemented by simple geometrical operations as they are operated during that period. For instance a co-circularity can be described as a smooth roto-translational transformation of an edge along a smooth trajectory. Importantly, such a distinction should allow us to determine the hierarchy of different features relevant to describe the full statistics of the feature space (that is, of spatio-temporal edge co-occurrences). We expect to see that the different independent features should decompose at various scales both in space and in time. This translates into a probabilistic hierarchical model that would combine dependencies from different cues. In particular, we expect to see the emergence of differential pathways for form and motion.</p>
 <h3 id="feasibility">Feasibility</h3>
-<p>The project is based on existing expertise and libraries in computer vision and computational neuroscience. The extension of this expertise to the dynamical domain will be made possible thanks to an existing collaboration (<a href="http://www.cmla.ens-cachan.fr/version-francaise/haut-de-page/annuaire/morel-jean-michel-780.kjsp">JM Morel at ENS-Cachan</a>, <a href="http://www.gpeyre.com">G Peyré at ENS-Ulm</a>). The groundbreaking nature of the work takes advantage of the interaction with  neurophysiological and psychophysical experiments thanks to the use of synthetic textures (collaboration with F Chavane, INT; Y Fregnac, UNIC) as planned in a the parallel (approved) grant <a href="https://laurentperrinet.github.io/project/anr-horizontal-v1/">Horizontal-V1</a>.</p>
+<p>The project is based on existing expertise and libraries in computer vision and computational neuroscience. The extension of this expertise to the dynamical domain will be made possible thanks to an existing collaboration (
+<a href="http://www.cmla.ens-cachan.fr/version-francaise/haut-de-page/annuaire/morel-jean-michel-780.kjsp" target="_blank" rel="noopener">JM Morel at ENS-Cachan</a>
+, 
+<a href="http://www.gpeyre.com" target="_blank" rel="noopener">G Peyré at ENS-Ulm</a>
+). The groundbreaking nature of the work takes advantage of the interaction with  neurophysiological and psychophysical experiments thanks to the use of synthetic textures (collaboration with F Chavane, INT; Y Fregnac, UNIC) as planned in a the parallel (approved) grant 
+<a href="https://laurentperrinet.github.io/project/anr-horizontal-v1/" target="_blank" rel="noopener">Horizontal-V1</a>
+.</p>
 <h3 id="references">References</h3>
 <ul>
-<li><a href="https://laurentperrinet.github.io/publication/simoncini-12/">Simoncini C, Perrinet LU, Montagnini A, Mamassian P, Masson GS (2012)</a> More is not always better: dissociation between perception and action explained by adaptive gain control. Nature Neuroscience, 15:1596–1603</li>
-<li><a href="https://laurentperrinet.github.io/publication/friston-12/">Friston KJ, Adams RA, Perrinet LU, Breakspear M (2012)</a> Perceptions as Hypotheses: Saccades as Experiments. Frontiers in Psychology, 3</li>
-<li><a href="https://laurentperrinet.github.io/publication/perrinet-adams-friston-12/">Perrinet LU, Adams RA, Friston KJ. (2014)</a> Active inference, eye movements and oculomotor delays. Biological Cybernetics, 108(6):777-801</li>
-<li><a href="https://laurentperrinet.github.io/publication/perrinet-bednar-15/">Perrinet LU, Bednar JA (2015)</a> Edge co-occurrences can account for rapid categorization of natural versus animal images. Scientific Reports, 5:11400</li>
-<li><a href="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/">Khoei M, Masson GS, Perrinet LU (2017)</a> The flash-lag effect as a motion-based predictive shift. PLoS Computational Biology, 13(1):e1005068</li>
+<li>
+<a href="https://laurentperrinet.github.io/publication/simoncini-12/" target="_blank" rel="noopener">Simoncini C, Perrinet LU, Montagnini A, Mamassian P, Masson GS (2012)</a>
+ More is not always better: dissociation between perception and action explained by adaptive gain control. Nature Neuroscience, 15:1596–1603</li>
+<li>
+<a href="https://laurentperrinet.github.io/publication/friston-12/" target="_blank" rel="noopener">Friston KJ, Adams RA, Perrinet LU, Breakspear M (2012)</a>
+ Perceptions as Hypotheses: Saccades as Experiments. Frontiers in Psychology, 3</li>
+<li>
+<a href="https://laurentperrinet.github.io/publication/perrinet-adams-friston-12/" target="_blank" rel="noopener">Perrinet LU, Adams RA, Friston KJ. (2014)</a>
+ Active inference, eye movements and oculomotor delays. Biological Cybernetics, 108(6):777-801</li>
+<li>
+<a href="https://laurentperrinet.github.io/publication/perrinet-bednar-15/" target="_blank" rel="noopener">Perrinet LU, Bednar JA (2015)</a>
+ Edge co-occurrences can account for rapid categorization of natural versus animal images. Scientific Reports, 5:11400</li>
+<li>
+<a href="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/" target="_blank" rel="noopener">Khoei M, Masson GS, Perrinet LU (2017)</a>
+ The flash-lag effect as a motion-based predictive shift. PLoS Computational Biology, 13(1):e1005068</li>
 <li>we keep a bibliography on the project @ <a href="https://www.mendeley.com/community/edgetracks/">https://www.mendeley.com/community/edgetracks/</a></li>
 </ul>
 
@@ -1051,7 +1084,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 
@@ -1067,7 +1100,7 @@
   
 
   <p class="powered-by">
-    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. &middot; 
 

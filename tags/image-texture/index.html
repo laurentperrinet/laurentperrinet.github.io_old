@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,30 +743,39 @@
 
   
   
-  <div>
-    <h2><a href="/publication/ravello-16-droplets/">Differential response of the retinal neural code with respect to the sparseness of natural images</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/ravello-16-droplets/" >Differential response of the retinal neural code with respect to the sparseness of natural images</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-16-euvip/">Biologically-inspired characterization of sparseness in natural images</a></h2>
-    <div class="article-style">
-      
-      Natural images follow statistics inherited by the structure of our physical (visual) environment. In particular, a prominent facet of this structure is that images can be described by a relatively sparse number of features. We designed a sparse …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-16-euvip/" >Biologically-inspired characterization of sparseness in natural images</a></h2>
+      <div class="article-style">
+        
+          Natural images follow statistics inherited by the structure of our physical (visual) environment. In particular, a prominent facet of this structure is that images can be described by a relatively sparse number of features. We designed a sparse …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/nava-13/">Advances in Texture Analysis for Emphysema Classification</a></h2>
-    <div class="article-style">
-      
-      In recent years, with the advent of High-resolution Computed Tomography (HRCT), there has been an increased interest for diagnosing Chronic Obstructive Pulmonary Disease (COPD), which is commonly presented as emphysema. Since low-attenuation areas in …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/nava-13/" >Advances in Texture Analysis for Emphysema Classification</a></h2>
+      <div class="article-style">
+        
+          In recent years, with the advent of High-resolution Computed Tomography (HRCT), there has been an increased interest for diagnosing Chronic Obstructive Pulmonary Disease (COPD), which is commonly presented as emphysema. Since low-attenuation areas in …
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -865,7 +876,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,95 +743,125 @@
 
   
   
-  <div>
-    <h2><a href="/publication/dauce-20/">A dual foveal-peripheral visual processing model implements efficient saccade selection</a></h2>
-    <div class="article-style">
-      
-      In computer vision, the visual search task consists in extracting a scarce and specific visual information (the target) from a large and crowded visual display. This task is usually implemented by scanning the different possible target identities at …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/dauce-20/" >A dual foveal-peripheral visual processing model implements efficient saccade selection</a></h2>
+      <div class="article-style">
+        
+          In computer vision, the visual search task consists in extracting a scarce and specific visual information (the target) from a large and crowded visual display. This task is usually implemented by scanning the different possible target identities at …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/talk/2019-07-15-cns/">Learning where to look: a foveated visuomotor control model</a></h2>
-    <div class="article-style">
-      
-      In computer vision, the visual search task consists in extracting a scarce and specific visual information (the target) from a large and crowded visual display. This task is usually implemented by scanning the different possible target identities at …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/talk/2019-07-15-cns/" >Learning where to look: a foveated visuomotor control model</a></h2>
+      <div class="article-style">
+        
+          In computer vision, the visual search task consists in extracting a scarce and specific visual information (the target) from a large and crowded visual display. This task is usually implemented by scanning the different possible target identities at …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-19/">From the retina to action: Dynamics of predictive processing in the visual system</a></h2>
-    <div class="article-style">
-      
-      Within the central nervous system, visual areas are essential in transforming the raw luminous signal into a representation which efficiently conveys information about the environment. This process is constrained by the necessity of being robust and …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-19/" >From the retina to action: Dynamics of predictive processing in the visual system</a></h2>
+      <div class="article-style">
+        
+          Within the central nervous system, visual areas are essential in transforming the raw luminous signal into a representation which efficiently conveys information about the environment. This process is constrained by the necessity of being robust and …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-16-networks/">Compensation of oculomotor delays in the visual system&#39;s network</a></h2>
-    <div class="article-style">
-      
-      We consider the problem of sensorimotor delays in the optimal control of movement under un- certainty. Specifically, we consider axonal conduction delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-16-networks/" >Compensation of oculomotor delays in the visual system&#39;s network</a></h2>
+      <div class="article-style">
+        
+          We consider the problem of sensorimotor delays in the optimal control of movement under un- certainty. Specifically, we consider axonal conduction delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-adams-friston-14/">Active inference, eye movements and oculomotor delays</a></h2>
-    <div class="article-style">
-      
-      This paper considers the problem of sensorimotor delays in the optimal control of (smooth) eye movements under uncertainty. Specifically, we consider delays in the visuo-oculomotor loop and their implications for active inference. Active inference …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-adams-friston-14/" >Active inference, eye movements and oculomotor delays</a></h2>
+      <div class="article-style">
+        
+          This paper considers the problem of sensorimotor delays in the optimal control of (smooth) eye movements under uncertainty. Specifically, we consider delays in the visuo-oculomotor loop and their implications for active inference. Active inference …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-13-cns/">Active inference, eye movements and oculomotor delays</a></h2>
-    <div class="article-style">
-      
-      We consider the problem of sensorimotor delays in the optimal control of movement under un- certainty. Specifically, we consider axonal conduction delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-13-cns/" >Active inference, eye movements and oculomotor delays</a></h2>
+      <div class="article-style">
+        
+          We consider the problem of sensorimotor delays in the optimal control of movement under un- certainty. Specifically, we consider axonal conduction delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-13-jffos/">Active inference, eye movements and oculomotor delays</a></h2>
-    <div class="article-style">
-      
-      We consider the problem of sensorimotor delays in the optimal control of movement under un- certainty. Specifically, we consider axonal conduction delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-13-jffos/" >Active inference, eye movements and oculomotor delays</a></h2>
+      <div class="article-style">
+        
+          We consider the problem of sensorimotor delays in the optimal control of movement under un- certainty. Specifically, we consider axonal conduction delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/adams-12/">Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control in Schizophrenia</a></h2>
-    <div class="article-style">
-      
-      This paper introduces a model of oculomotor control during the smooth pursuit of occluded visual targets. This model is based upon active inference, in which subjects try to minimise their (proprioceptive) prediction error based upon posterior …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/adams-12/" >Smooth Pursuit and Visual Occlusion: Active Inference and Oculomotor Control in Schizophrenia</a></h2>
+      <div class="article-style">
+        
+          This paper introduces a model of oculomotor control during the smooth pursuit of occluded visual targets. This model is based upon active inference, in which subjects try to minimise their (proprioceptive) prediction error based upon posterior …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-12-areadne/">Active inference, smooth pursuit and oculomotor delays</a></h2>
-    <div class="article-style">
-      
-      We consider the problem of sensorimotor delays in the optimal control of movement under uncertainty. Specifically, we consider axonal conduction delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses a …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-12-areadne/" >Active inference, smooth pursuit and oculomotor delays</a></h2>
+      <div class="article-style">
+        
+          We consider the problem of sensorimotor delays in the optimal control of movement under uncertainty. Specifically, we consider axonal conduction delays in the visuo-oculomotor loop and their implications for active inference. Active inference uses a …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/friston-12/">Perceptions as Hypotheses: Saccades as Experiments</a></h2>
-    <div class="article-style">
-      
-      If perception corresponds to hypothesis testing (Gregory, 1980); then visual searches might be construed as experiments that generate sensory data. In this work, we explore the idea that saccadic eye movements are optimal experiments, in which data …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/friston-12/" >Perceptions as Hypotheses: Saccades as Experiments</a></h2>
+      <div class="article-style">
+        
+          If perception corresponds to hypothesis testing (Gregory, 1980); then visual searches might be construed as experiments that generate sensory data. In this work, we explore the idea that saccadic eye movements are optimal experiments, in which data …
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -930,7 +962,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

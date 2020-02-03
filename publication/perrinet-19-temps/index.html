@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -966,7 +968,9 @@
     <div class="space-below"></div>
 
     <div class="article-style"><ul>
-<li>Un article dans <a href="https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567">The Conversation</a> dont l&rsquo;objectif est d'être accessible et réutilisable (dans des cours d&rsquo;introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, intelligence artificielle).</li>
+<li>Un article dans 
+<a href="https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567" target="_blank" rel="noopener">The Conversation</a>
+ dont l&rsquo;objectif est d'être accessible et réutilisable (dans des cours d&rsquo;introduction aux neurosciences, sciences cognitives, vision, réseaux de neurones, intelligence artificielle).</li>
 <li>Le flash-lag effect original:
 
 
@@ -1011,8 +1015,14 @@
   <iframe src="https://www.youtube.com/embed/v30b5IAgwQw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 </li>
-<li><a href="https://laurentperrinet.github.io/sciblog/posts/2019-10-07-neurostories-videos-of-my-talk.html">Neurostories: d&rsquo;autres videos du flash-lag effect</a></li>
-<li>Laurent Perrinet a reçu des financements de l&rsquo;Agence Nationale de la Recherche (ANR HOR-V1 ANR-17-CE37-0006) et du CNRS (SpikeAI). Cet article n’aurait pas vu le jour sans la journée des <a href="https://laurentperrinet.github.io/post/2019-10-07_neurostories/">Neurostories</a> de la NeuroSchool d’Aix-Marseille Université, ceux qui l’ont fait vivre et parmi eux: François Féron, Alexia Belleville, <a href="https://fr.wikipedia.org/wiki/Jean-Marc_Michelangeli">Jean-Marc Michelangeli</a>, Camille Grasso, Daniele Schön, Anne-Marie François-Bellan, Jennifer Coull, Corine Sombrun et Francis Taulelle.</li>
+<li>
+<a href="https://laurentperrinet.github.io/sciblog/posts/2019-10-07-neurostories-videos-of-my-talk.html" target="_blank" rel="noopener">Neurostories: d&rsquo;autres videos du flash-lag effect</a>
+</li>
+<li>Laurent Perrinet a reçu des financements de l&rsquo;Agence Nationale de la Recherche (ANR HOR-V1 ANR-17-CE37-0006) et du CNRS (SpikeAI). Cet article n’aurait pas vu le jour sans la journée des 
+<a href="https://laurentperrinet.github.io/post/2019-10-07_neurostories/" target="_blank" rel="noopener">Neurostories</a>
+ de la NeuroSchool d’Aix-Marseille Université, ceux qui l’ont fait vivre et parmi eux: François Féron, Alexia Belleville, 
+<a href="https://fr.wikipedia.org/wiki/Jean-Marc_Michelangeli" target="_blank" rel="noopener">Jean-Marc Michelangeli</a>
+, Camille Grasso, Daniele Schön, Anne-Marie François-Bellan, Jennifer Coull, Corine Sombrun et Francis Taulelle.</li>
 </ul>
 </div>
 
@@ -1136,10 +1146,11 @@
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1346,7 +1357,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

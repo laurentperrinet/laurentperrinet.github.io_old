@@ -19,7 +19,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/masson-12-areadne/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -35,6 +37,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+  
+  
+
+
+
 
 
 
@@ -46,8 +53,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;line_particles.gif&#34; data-caption=&#34;The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.&#34;&gt;
-&lt;img data-src=&#34;line_particles.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/line_particles_hu7e6cd28581c7ffe8e1cbeb15ea016578_13208353_2000x2000_fit_lanczos.gif&#34; data-caption=&#34;The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/line_particles_hu7e6cd28581c7ffe8e1cbeb15ea016578_13208353_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; height=&#34;300&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -64,6 +74,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+  
+  
+
+
+
 
 
 
@@ -75,8 +90,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.jpg&#34; data-caption=&#34;Figure 1: (A) The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the dotted circle) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Due to the limited size of receptive fields in sensory cortical areas (such as shown by the dotted white circle), such problem is faced by local populations of neurons that visually estimate the motion of objects. (A-inset) On a polar representation of possible velocity vectors (the cross in the center corresponds to the null velocity, the outer circle corresponding to twice the amplitude of physical speed), we plot the empirical histogram of detected velocity vectors. This representation gives a quantification of the aperture problem in the velocity domain: At the onset of motion detection, information is concentrated along an elongated constraint line (white=high probability, black=zero probability). (B) We use the prior knowledge that in natural scenes, motion as defined by its position and velocity is following smooth trajectories. Quantitatively, it means that velocity is approximately conserved and that position is transported according to the known velocity. We show here such a transition on position and velocity (respectively $x_t$ and $V_t$) from time t to t &amp;#43; dt with the perturbation modeling the smoothness of prediction in position and velocity (respectively $N_x$ and $N_V$). (C) Applying such a prior on a dynamical system detecting motion, we show that motion converges to the physical motion after approximately one spatial period (the line moved by twice its height). (C-Inset) The read-out of the system converged to the physical motion: Motion-based prediction is sufficient to resolve the aperture problem. (D) As observed at the perceptual level [Castet et al., 1993, Pei et al., 2010], size and duration of the tracking angle bias decreased with respect to the height of the line. Height was measured relative to a spatial period (respectively 60%, 40% and 20%). Here we show the average tracking angle red-out from the probabilistic representation as a function of time, averaged over 20 trials (error bars show one standard deviation).&#34;&gt;
-&lt;img data-src=&#34;figure1.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/figure1_hu50c6c0e86a1c3fa8f91372ed4700c982_114936_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 1: (A) The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the dotted circle) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Due to the limited size of receptive fields in sensory cortical areas (such as shown by the dotted white circle), such problem is faced by local populations of neurons that visually estimate the motion of objects. (A-inset) On a polar representation of possible velocity vectors (the cross in the center corresponds to the null velocity, the outer circle corresponding to twice the amplitude of physical speed), we plot the empirical histogram of detected velocity vectors. This representation gives a quantification of the aperture problem in the velocity domain: At the onset of motion detection, information is concentrated along an elongated constraint line (white=high probability, black=zero probability). (B) We use the prior knowledge that in natural scenes, motion as defined by its position and velocity is following smooth trajectories. Quantitatively, it means that velocity is approximately conserved and that position is transported according to the known velocity. We show here such a transition on position and velocity (respectively $x_t$ and $V_t$) from time t to t &amp;#43; dt with the perturbation modeling the smoothness of prediction in position and velocity (respectively $N_x$ and $N_V$). (C) Applying such a prior on a dynamical system detecting motion, we show that motion converges to the physical motion after approximately one spatial period (the line moved by twice its height). (C-Inset) The read-out of the system converged to the physical motion: Motion-based prediction is sufficient to resolve the aperture problem. (D) As observed at the perceptual level [Castet et al., 1993, Pei et al., 2010], size and duration of the tracking angle bias decreased with respect to the height of the line. Height was measured relative to a spatial period (respectively 60%, 40% and 20%). Here we show the average tracking angle red-out from the probabilistic representation as a function of time, averaged over 20 trials (error bars show one standard deviation).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/figure1_hu50c6c0e86a1c3fa8f91372ed4700c982_114936_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; height=&#34;717&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -93,6 +111,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+  
+  
+
+
+
 
 
 
@@ -104,8 +127,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure2.jpg&#34; data-caption=&#34;Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of (C) a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).&#34;&gt;
-&lt;img data-src=&#34;figure2.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/figure2_hua58f2c4d512bd134e26bfd0c1b490549_114366_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of (C) a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/figure2_hua58f2c4d512bd134e26bfd0c1b490549_114366_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; height=&#34;695&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -122,6 +148,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+  
+  
+
+
+
 
 
 
@@ -133,8 +164,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure3.jpg&#34; data-caption=&#34;Figure 3: To explore the state-space of the dynamical system, we simulated motion-based prediction for a simple small dot (size 2.5% of a spatial period) moving horizontally from the left to the right of the screen. We tested different levels of sensory noise with respect to different levels of internal noise, that is, to different values of the strength of prediction. (Right) Results show the emergence of different states for different prediction precisions: a regime when prediction is weak and which shows high tracking error and variability (No Tracking - NT), a phase for intermediate values of prediction strength (as in Figure 1) exhibiting a low tracking error and low variability in the tracking phase (True Tracking - TT) and finally a phase corresponding to higher precisions with relatively efficient mean detection but high variability (False Tracking - FT). We give 3 representative examples of the emerging states at one contrast level (C = 0.1) with starting (red) and ending (blue) points and respectively NT, TT and FT by showing inferred trajectories for each trial. (Left) We define tracking error as the ratio between detected speed and target speed and we plot it with respect to the stimulus contrast as given by the inverse of sensory noise. Error bars give the variability in tracking error as averaged over 20 trials. As prediction strength increases, there is a transition from smooth contrast response function (NT) to more binary responses (TT and FT).&#34;&gt;
-&lt;img data-src=&#34;figure3.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/figure3_hub57ab3bf4b1a67c5e3a894ed7253439e_82715_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 3: To explore the state-space of the dynamical system, we simulated motion-based prediction for a simple small dot (size 2.5% of a spatial period) moving horizontally from the left to the right of the screen. We tested different levels of sensory noise with respect to different levels of internal noise, that is, to different values of the strength of prediction. (Right) Results show the emergence of different states for different prediction precisions: a regime when prediction is weak and which shows high tracking error and variability (No Tracking - NT), a phase for intermediate values of prediction strength (as in Figure 1) exhibiting a low tracking error and low variability in the tracking phase (True Tracking - TT) and finally a phase corresponding to higher precisions with relatively efficient mean detection but high variability (False Tracking - FT). We give 3 representative examples of the emerging states at one contrast level (C = 0.1) with starting (red) and ending (blue) points and respectively NT, TT and FT by showing inferred trajectories for each trial. (Left) We define tracking error as the ratio between detected speed and target speed and we plot it with respect to the stimulus contrast as given by the inverse of sensory noise. Error bars give the variability in tracking error as averaged over 20 trials. As prediction strength increases, there is a transition from smooth contrast response function (NT) to more binary responses (TT and FT).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/figure3_hub57ab3bf4b1a67c5e3a894ed7253439e_82715_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; height=&#34;483&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -151,6 +185,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+  
+  
+
+
+
 
 
 
@@ -162,8 +201,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;figure4.jpg&#34; data-caption=&#34;Figure 4: (Top) Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. (Bottom) Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.&#34;&gt;
-&lt;img data-src=&#34;figure4.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/figure4_hu0046952bdf6ba50e9f2bcf443e1786e1_145753_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 4: (Top) Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. (Bottom) Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/figure4_hu0046952bdf6ba50e9f2bcf443e1786e1_145753_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; height=&#34;968&#34;&gt;
+&lt;/a&gt;
 
 
   
@@ -184,7 +226,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-06-neurocomp/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -195,7 +239,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-06-neurocomp/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -206,8 +252,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/talk/2006-01-01-neurocomp/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;related publication @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-spie/&#34;&gt;SPIE 2008&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;related publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-spie/&#34;&gt;SPIE 2008&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

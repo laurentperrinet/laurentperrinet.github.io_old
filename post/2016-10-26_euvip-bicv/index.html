@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -951,27 +953,39 @@ Ecole Centrale Marseille</p>
 </li>
 <li>
 <p>Address
-<a href="https://www.centrale-marseille.fr/fr/acces-0">38 rue Frédéric Joliot-Curie 13013 Marseille,
-France</a> Phone : +33
+
+<a href="https://www.centrale-marseille.fr/fr/acces-0" target="_blank" rel="noopener">38 rue Frédéric Joliot-Curie 13013 Marseille,
+France</a>
+ Phone : +33
 (0)4 91 05 45 45</p>
 </li>
 <li>
 <p>Programme</p>
 </li>
 <li>
-<p>13.50  <a href="http://ieeexplore.ieee.org/document/7764586/">Visual System Inspired Algorithm For Contours, Corner And T Junction Detection</a>, Antoni Buades, <em>Rafael Grompone Von Gioi</em></p>
+<p>13.50  
+<a href="http://ieeexplore.ieee.org/document/7764586/" target="_blank" rel="noopener">Visual System Inspired Algorithm For Contours, Corner And T Junction Detection</a>
+, Antoni Buades, <em>Rafael Grompone Von Gioi</em></p>
 </li>
 <li>
-<p>13.50  <a href="https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/">Biologically-inspired characterization of sparseness in natural images</a>, <em>Laurent Perrinet</em></p>
+<p>13.50  
+<a href="https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/" target="_blank" rel="noopener">Biologically-inspired characterization of sparseness in natural images</a>
+, <em>Laurent Perrinet</em></p>
 </li>
 <li>
-<p>14.10 <a href="http://david.alleysson.free.fr/Publications/JIST0224reprint.pdf">Color filter array imitating the random nature of color arrangement in the human cone mosaic</a>, Prakhar Amba, <em>David Alleysson</em></p>
+<p>14.10 
+<a href="http://david.alleysson.free.fr/Publications/JIST0224reprint.pdf" target="_blank" rel="noopener">Color filter array imitating the random nature of color arrangement in the human cone mosaic</a>
+, Prakhar Amba, <em>David Alleysson</em></p>
 </li>
 <li>
-<p>14.30 <a href="http://ieeexplore.ieee.org/document/7764601/">An Illuminant-Independent Analysis Of Reflectance As Sensed By Humans, And Its Applicability To Computer Vision</a>, Alban Flachot, Phelma, J.Kevin O&rsquo;Regan, <em>Edoardo Provenzi</em></p>
+<p>14.30 
+<a href="http://ieeexplore.ieee.org/document/7764601/" target="_blank" rel="noopener">An Illuminant-Independent Analysis Of Reflectance As Sensed By Humans, And Its Applicability To Computer Vision</a>
+, Alban Flachot, Phelma, J.Kevin O&rsquo;Regan, <em>Edoardo Provenzi</em></p>
 </li>
 <li>
-<p>14.50 <a href="https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/">Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor</a>, Lionel Fillatre, Michel Barlaud, <em>Laurent Perrinet</em></p>
+<p>14.50 
+<a href="https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/" target="_blank" rel="noopener">Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor</a>
+, Lionel Fillatre, Michel Barlaud, <em>Laurent Perrinet</em></p>
 </li>
 </ul>
 
@@ -1105,10 +1119,11 @@ France</a> Phone : +33
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1328,7 +1343,7 @@ France</a> Phone : +33
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

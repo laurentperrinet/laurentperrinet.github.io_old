@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,241 +743,324 @@
 
   
   
-  <div>
-    <h2><a href="/publication/ravello-19/">Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli</a></h2>
-    <div class="article-style">
-      
-      Motion detection represents one of the critical tasks of the visual system and has motivated a large body of research. However, it remains unclear precisely why the response of retinal ganglion cells (RGCs) to simple artificial stimuli does not …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/ravello-19/" >Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli</a></h2>
+      <div class="article-style">
+        
+          Motion detection represents one of the critical tasks of the visual system and has motivated a large body of research. However, it remains unclear precisely why the response of retinal ganglion cells (RGCs) to simple artificial stimuli does not …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/vacher-16/">Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</a></h2>
-    <div class="article-style">
-      
-      A common practice to account for psychophysical biases in vision is to frame them as consequences of a dynamic process relying on optimal inference with respect to a generative model. The present study details the complete formulation of such a …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/vacher-16/" >Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</a></h2>
+      <div class="article-style">
+        
+          A common practice to account for psychophysical biases in vision is to frame them as consequences of a dynamic process relying on optimal inference with respect to a generative model. The present study details the complete formulation of such a …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/mansour-17-ecvp/">How the dynamics of human smooth pursuit is influenced by speed uncertainty</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/mansour-17-ecvp/" >How the dynamics of human smooth pursuit is influenced by speed uncertainty</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/mansour-17-gdr/">Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</a></h2>
-    <div class="article-style">
-      
-       The properties of motion processing for driving smooth eye movements have bee investigated using simple, artificial stimuli such as gratings, small dots or random dot patterns. Motion processing in the context of complex, natural images is less …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/mansour-17-gdr/" >Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</a></h2>
+      <div class="article-style">
+        
+           The properties of motion processing for driving smooth eye movements have bee investigated using simple, artificial stimuli such as gratings, small dots or random dot patterns. Motion processing in the context of complex, natural images is less …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/project/open-science/">Open Science</a></h2>
-    <div class="article-style">
-      
-      To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015), (Perrinet and Bednar, 2015), (Khoei et, 2017), (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization, 2019-04-18_JNLF, &hellip;) and also the development of the following libraries on GitHub.
+    
+    
+    
+    <div>
+      <h2><a href="/project/open-science/" >Open Science</a></h2>
+      <div class="article-style">
+        
+          To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015) , (Perrinet and Bednar, 2015) , (Khoei et, 2017) , (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization , 2019-04-18_JNLF , &hellip;) and also the development of the following libraries on GitHub.
 Follow @laurentperrinet
- bayesianchangepoint An implementation of Adams &amp; MacKay 2007 &ldquo;Bayesian Online Changepoint Detection&rdquo; in Python.
-      
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/mansour-16-ecvp/">Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/mansour-16-ecvp/" >Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/mansour-16-gdr/">Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/mansour-16-gdr/" >Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/mansour-16-sfn/">Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/mansour-16-sfn/" >Voluntary tracking the moving clouds : Effects of speed variability on human smooth pursuit</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/vacher-15-icms/">A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/vacher-15-icms/" >A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/vacher-15-nips/">Biologically Inspired Dynamic Textures for Probing Motion Perception</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/vacher-15-nips/" >Biologically Inspired Dynamic Textures for Probing Motion Perception</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/meso-14-vss/">Beyond simply faster and slower: exploring paradoxes in speed perception</a></h2>
-    <div class="article-style">
-      
-      Estimating object speed in visual scenes is a critical part of perception. While various aspects of speed computation including discrimination thresholds, neural mechanisms and spatial integration mechanisms have been studied, there remain areas to …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/meso-14-vss/" >Beyond simply faster and slower: exploring paradoxes in speed perception</a></h2>
+      <div class="article-style">
+        
+          Estimating object speed in visual scenes is a critical part of perception. While various aspects of speed computation including discrimination thresholds, neural mechanisms and spatial integration mechanisms have been studied, there remain areas to …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-14-vss/">The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task</a></h2>
-    <div class="article-style">
-      
-      Under natural viewing conditions, large eye movements are interspace by small eye movements (microsaccade). Recent works have shown that these two kinds of eye movements are generate by the same oculomotor mechanisms (Goffart et al., 2012) and are …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-14-vss/" >The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task</a></h2>
+      <div class="article-style">
+        
+          Under natural viewing conditions, large eye movements are interspace by small eye movements (microsaccade). Recent works have shown that these two kinds of eye movements are generate by the same oculomotor mechanisms (Goffart et al., 2012) and are …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/vacher-14-ihp/">Dynamic Textures For Probing Motion Perception</a></h2>
-    <div class="article-style">
-      
-      This work extends the MotionClouds dynamic texture model testing aspects of its parametrization with an application in psychophysics.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/vacher-14-ihp/" >Dynamic Textures For Probing Motion Perception</a></h2>
+      <div class="article-style">
+        
+          This work extends the MotionClouds dynamic texture model testing aspects of its parametrization with an application in psychophysics.
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/meso-13-vss/">How and why do image frequency properties influence perceived speed?</a></h2>
-    <div class="article-style">
-      
-      Humans are able to interact successfully with moving objects in our dynamic world and the visual system effi ciently performs the motion computation that makes this possible. Object speed and direction are estimated following the integration of …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/meso-13-vss/" >How and why do image frequency properties influence perceived speed?</a></h2>
+      <div class="article-style">
+        
+          Humans are able to interact successfully with moving objects in our dynamic world and the visual system effi ciently performs the motion computation that makes this possible. Object speed and direction are estimated following the integration of …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-13-vss/">Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception</a></h2>
-    <div class="article-style">
-      
-      The visual system does not process information instantaneously, but rather integrates over time. Integration occurs both for stationary objects and moving objects, with very similar time constants (Burr, 1981). We measured, as a function of exposure …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-13-vss/" >Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception</a></h2>
+      <div class="article-style">
+        
+          The visual system does not process information instantaneously, but rather integrates over time. Integration occurs both for stationary objects and moving objects, with very similar time constants (Burr, 1981). We measured, as a function of exposure …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/talk/2012-03-22-juelich/">MotionClouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/talk/2012-03-22-juelich/" >MotionClouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/sanz-12/">Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</a></h2>
-    <div class="article-style">
-      
-      Choosing an appropriate set of stimuli is essential to characterize the response of a sensory system to a particular functional dimension, such as the eye movement following the motion of a visual scene. Here, we describe a framework to generate …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/sanz-12/" >Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</a></h2>
+      <div class="article-style">
+        
+          Choosing an appropriate set of stimuli is essential to characterize the response of a sensory system to a particular functional dimension, such as the eye movement following the motion of a visual scene. Here, we describe a framework to generate …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-12-vss/">Effect of image statistics on fixational eye movements</a></h2>
-    <div class="article-style">
-      
-      Under natural viewing conditions, small movements of the eyes prevent the maintenance of a steady direction of gaze. It is unclear how the spatiotemporal content of the fixated scene has an impact on the properties of miniatures, fixational eye …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-12-vss/" >Effect of image statistics on fixational eye movements</a></h2>
+      <div class="article-style">
+        
+          Under natural viewing conditions, small movements of the eyes prevent the maintenance of a steady direction of gaze. It is unclear how the spatiotemporal content of the fixated scene has an impact on the properties of miniatures, fixational eye …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-12-coding/">Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</a></h2>
-    <div class="article-style">
-      
-      To measure speed and direction of moving objects, the cortical motion system pools information across different spatiotemporal channels. One yet unsolved question is to understand how the brain pools this information and whether this pooling is …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-12-coding/" >Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</a></h2>
+      <div class="article-style">
+        
+          To measure speed and direction of moving objects, the cortical motion system pools information across different spatiotemporal channels. One yet unsolved question is to understand how the brain pools this information and whether this pooling is …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-12/">More is not always better: dissociation between perception and action explained by adaptive gain control</a></h2>
-    <div class="article-style">
-      
-      Moving objects generate motion information at different scales, which are processed in the visual system with a bank of spatiotemporal frequency channels. It is not known how the brain pools this information to reconstruct object speed and whether …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-12/" >More is not always better: dissociation between perception and action explained by adaptive gain control</a></h2>
+      <div class="article-style">
+        
+          Moving objects generate motion information at different scales, which are processed in the visual system with a bank of spatiotemporal frequency channels. It is not known how the brain pools this information to reconstruct object speed and whether …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-11-vss/">Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</a></h2>
-    <div class="article-style">
-      
-      In order to analyze the characteristics of a rich dynamic visual environment, the visual system must integrate information collected at different scales through different spatiotemporal frequency channels. Still, it remains unclear how reliable …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-11-vss/" >Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</a></h2>
+      <div class="article-style">
+        
+          In order to analyze the characteristics of a rich dynamic visual environment, the visual system must integrate information collected at different scales through different spatiotemporal frequency channels. Still, it remains unclear how reliable …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-11-pattern/">Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</a></h2>
-    <div class="article-style">
-      
-      In order to analyze the characteristics of a rich dynamic visual environment, the visual system must integrate information collected at different scales through different spatiotemporal frequency channels. Still, it remains unclear how reliable …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-11-pattern/" >Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</a></h2>
+      <div class="article-style">
+        
+          In order to analyze the characteristics of a rich dynamic visual environment, the visual system must integrate information collected at different scales through different spatiotemporal frequency channels. Still, it remains unclear how reliable …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-11-sfn/">Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</a></h2>
-    <div class="article-style">
-      
-      Oriented edges in images of natural scenes tend to be aligned in collinear or co-circular arrangements, with lines and smooth curves more common than other possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual system …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-11-sfn/" >Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</a></h2>
+      <div class="article-style">
+        
+          Oriented edges in images of natural scenes tend to be aligned in collinear or co-circular arrangements, with lines and smooth curves more common than other possible arrangements of edges (Geisler et al., Vis Res 41:711-24, 2001). The visual system …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-10-shl/">Role of homeostasis in learning sparse representations</a></h2>
-    <div class="article-style">
-      
-      Neurons in the input layer of primary visual cortex in primates develop edge-like receptive fields. One approach to understanding the emergence of this response is to state that neural activity has to efficiently represent sensory data with respect …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-10-shl/" >Role of homeostasis in learning sparse representations</a></h2>
+      <div class="article-style">
+        
+          Neurons in the input layer of primary visual cortex in primates develop edge-like receptive fields. One approach to understanding the emergence of this response is to state that neural activity has to efficiently represent sensory data with respect …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-10-vss/">Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-10-vss/" >Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/barthelemy-08/">Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</a></h2>
-    <div class="article-style">
-      
-      Integrating information is essential to measure the physical 2D motion of a surface from both ambiguous local 1D motion of its elongated edges and non-ambiguous 2D motion of its features such as corners or texture elements. The dynamics of this …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/barthelemy-08/" >Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</a></h2>
+      <div class="article-style">
+        
+          Integrating information is essential to measure the physical 2D motion of a surface from both ambiguous local 1D motion of its elongated edges and non-ambiguous 2D motion of its features such as corners or texture elements. The dynamics of this …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-07/">Dynamical Neural Networks: modeling low-level vision at short latencies</a></h2>
-    <div class="article-style">
-      
-      The machinery behind the visual perception of motion and the subsequent sensori-motor transformation, such as in ocular following response (OFR), is confronted to uncertainties which are efficiently resolved in the primate's visual system. We may …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-07/" >Dynamical Neural Networks: modeling low-level vision at short latencies</a></h2>
+      <div class="article-style">
+        
+          The machinery behind the visual perception of motion and the subsequent sensori-motor transformation, such as in ocular following response (OFR), is confronted to uncertainties which are efficiently resolved in the primate's visual system. We may …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/fischer-07/">Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/fischer-07/" >Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -1076,7 +1161,7 @@ Follow @laurentperrinet
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

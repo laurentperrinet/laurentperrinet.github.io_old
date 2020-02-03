@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,59 +743,77 @@
 
   
   
-  <div>
-    <h2><a href="/publication/kaplan-khoei-14/">Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</a></h2>
-    <div class="article-style">
-      
-      As it is confronted to inherent neural delays, how does the visual system create a coherent representation of a rapidly changing environment? In this paper, we investigate the role of motion-based prediction in estimating motion trajectories …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/kaplan-khoei-14/" >Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</a></h2>
+      <div class="article-style">
+        
+          As it is confronted to inherent neural delays, how does the visual system create a coherent representation of a rapidly changing environment? In this paper, we investigate the role of motion-based prediction in estimating motion trajectories …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/kaplan-13/">Anisotropic connectivity implements motion-based prediction in a spiking neural network</a></h2>
-    <div class="article-style">
-      
-      Predictive coding hypothesizes that the brain explicitly infers upcoming sensory input to establish a coherent representation of the world. Although it is becoming generally accepted, it is not clear on which level spiking neural networks may …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/kaplan-13/" >Anisotropic connectivity implements motion-based prediction in a spiking neural network</a></h2>
+      <div class="article-style">
+        
+          Predictive coding hypothesizes that the brain explicitly infers upcoming sensory input to establish a coherent representation of the world. Although it is becoming generally accepted, it is not clear on which level spiking neural networks may …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/kremkow-10-jcns/">Functional consequences of correlated excitatory and inhibitory conductances in cortical networks</a></h2>
-    <div class="article-style">
-      
-      Neurons in the neocortex receive a large number of excitatory and inhibitory synaptic inputs. Excitation and inhibition dynamically balance each other, with inhibition lagging excitation by only few milliseconds. To characterize the functional …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/kremkow-10-jcns/" >Functional consequences of correlated excitatory and inhibitory conductances in cortical networks</a></h2>
+      <div class="article-style">
+        
+          Neurons in the neocortex receive a large number of excitatory and inhibitory synaptic inputs. Excitation and inhibition dynamically balance each other, with inhibition lagging excitation by only few milliseconds. To characterize the functional …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/yger-09-gns/">NeuralEnsemble: Towards a meta-environment for network modeling and data analysis</a></h2>
-    <div class="article-style">
-      
-      NeuralEnsemble (http://neuralensemble.org) is a multilateral effort to coordinate and organise neuroscience software development efforts based around the Python programming language into a larger, meta-simulator software system. To this end, …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/yger-09-gns/" >NeuralEnsemble: Towards a meta-environment for network modeling and data analysis</a></h2>
+      <div class="article-style">
+        
+          NeuralEnsemble (http://neuralensemble.org) is a multilateral effort to coordinate and organise neuroscience software development efforts based around the Python programming language into a larger, meta-simulator software system. To this end, …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/davison-08/">PyNN: A Common Interface for Neuronal Network Simulators</a></h2>
-    <div class="article-style">
-      
-      Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/davison-08/" >PyNN: A Common Interface for Neuronal Network Simulators</a></h2>
+      <div class="article-style">
+        
+          Computational neuroscience has produced a diversity of software for simulations of networks of spiking neurons, with both negative and positive consequences. On the one hand, each simulator uses its own programming or configuration language, leading …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/davison-07-cns/">PyNN: towards a universal neural simulator API in Python</a></h2>
-    <div class="article-style">
-      
-      Trends in programming language development and adoption point to Python as the high-level systems integration language of choice. Python leverages a vast developer-base external to the neuroscience community, and promises leaps in simulation …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/davison-07-cns/" >PyNN: towards a universal neural simulator API in Python</a></h2>
+      <div class="article-style">
+        
+          Trends in programming language development and adoption point to Python as the high-level systems integration language of choice. Python leverages a vast developer-base external to the neuroscience community, and promises leaps in simulation …
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -894,7 +914,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

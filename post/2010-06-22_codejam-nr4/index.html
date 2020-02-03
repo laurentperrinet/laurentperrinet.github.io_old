@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -920,7 +922,9 @@
 <ul>
 <li>
 <p>From the
-<a href="http://neuralensemble.org/meetings/CodeJam4/">website</a>:</p>
+
+<a href="http://neuralensemble.org/meetings/CodeJam4/" target="_blank" rel="noopener">website</a>
+:</p>
 <blockquote>
 <p>The goal of the FACETS CodeJam workshops is to catalyze open-source, collaborative software development in computational and systems neuroscience and neuroinformatics, by bringing together researchers, students and engineers to share ideas, present their work, and write code together. The general format of the workshops is to dedicate the mornings to invited and contributed talks, leaving the afternoons free for discussions and code sprints. <BR>
 For the 4th FACETS CodeJam, the main theme of the meeting will be workflows: what are the best practices for combining different tools (simulators, analysis tools, visualization tools, databases etc.) to ensure the efficient and reproducible flow of data and information from experiment conception to publication and archiving? <BR>
@@ -935,7 +939,9 @@ The meeting organizers gratefully acknowledge the support of the European Union 
 <p><a href="http://neuralensemble.org/meetings/CJ4_Program_v2.pdf">http://neuralensemble.org/meetings/CJ4_Program_v2.pdf</a></p>
 </li>
 <li>
-<p><a href="https://facets.kip.uni-heidelberg.de/internal/jss/AttendMeeting?mI=73">FACETS code jam #4</a>{.https}</p>
+<p>
+<a href="https://facets.kip.uni-heidelberg.de/internal/jss/AttendMeeting?mI=73" target="_blank" rel="noopener">FACETS code jam #4</a>
+{.https}</p>
 </li>
 </ul>
 <p><img src="featured.png" alt="Affiche"></p>
@@ -1068,10 +1074,11 @@ The meeting organizers gratefully acknowledge the support of the European Union 
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1289,7 +1296,7 @@ The meeting organizers gratefully acknowledge the support of the European Union 
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

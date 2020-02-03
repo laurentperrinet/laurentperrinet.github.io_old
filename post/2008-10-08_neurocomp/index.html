@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -876,7 +878,9 @@
       <h1 id="2008-10-08--deuxième-conférence-française-de-neurosciences-computationnelles-neurocomp08">2008-10-08 : Deuxième conférence française de Neurosciences Computationnelles, &ldquo;Neurocomp08&rdquo;</h1>
 <p>La deuxième conférence française de Neurosciences Computationnelles, &ldquo;Neurocomp08&rdquo;, s&rsquo;est déroulée à la Faculté de Médecine de Marseille du 8 au 11 octobre 2008. Cette conférence, organisée par le groupe de travail Neurocomp, a permis de réunir les principaux acteurs français du domaine (francophones ou non). Le champ des Neurosciences Computationnelles porte sur l'étude des mécanismes de calcul qui sont à l&rsquo;origine de nos capacités cognitives. Cette approche nécessite l&rsquo;intégration constructive de nombreux domaines disciplinaires, du neurone au comportement, des sciences du vivant à la modélisation numérique. Avec ce colloque, nous avons offert un lieu d'échanges afin de favoriser des collaborations interdisciplinaires entre des équipes relevant des neurosciences, des sciences de l&rsquo;information, de la physique statistique, de la robotique. Cette édition a également été l&rsquo;occasion d&rsquo;ouvrir le cadre à de nouveaux domaines (modèles pour l&rsquo;imagerie, interfaces cerveau-machine,&hellip;) notamment grâce à des ateliers thématiques (une nouveauté dans cette édition). Certains des principaux enjeux du domaine ont été présentés par quatre conférenciers invités : Ad Aertsen (Freiburg, Allemagne), Gustavo Deco (Barcelone, Espagne), Gregor Schöner (Bochum, Allemagne), Andrew B. Schwartz (Pittsburgh, USA). Des interventions orale plus courtes et plus spécifiques étaient également au programme, sur la base d&rsquo;une sélection du comité de lecture. Une cinquantaine de posters ont également été présentés au cours de ces journées. Le premier jour était consacré aux modèles de la cellule neurale, aux modèles des traitements visuels et corticaux, ainsi qu&rsquo;aux modèles de réseaux de neurones bio-mimétiques. La seconde journée était consacrée aux interfaces cerveau-machine, à la dynamique des grands ensembles de neurones, à la plasticité fonctionnelle et aux interfaces neurales. Enfin, la journée de samedi était consacrée à des ateliers thématiques, l&rsquo;un sur les interfaces cerveau-machine, l&rsquo;autre sur la vision computationnnelle. Cette conférence a connu un beau succès de par l&rsquo;affluence (200 personnes environ) et la qualité des interventions. Ce succès tient également au fort soutien financier et organisationnel qu&rsquo;elle a obtenu de ses partenaires. Les organisateurs remercient le CNRS, la Société des neurosciences, le conseil régional de la région Provence Alpes Côte d&rsquo;Azur, le conseil général des Bouches de Rhône, la mairie de Marseille, l&rsquo;université de Provence, l&rsquo;IFR &ldquo;Sciences du cerveau et de la cognition&rdquo;, l&rsquo;INRIA, ainsi que la faculté de médecine de Marseille et l&rsquo;université de la Méditerranée qui ont hébergé la conférence.</p>
 <ul>
-<li>Les actes de la conférence regroupant les 68 contributions sont disponibles sur le <a href="http://hal.archives-ouvertes.fr/NEUROCOMP08">serveur HAL dédié</a>.</li>
+<li>Les actes de la conférence regroupant les 68 contributions sont disponibles sur le 
+<a href="http://hal.archives-ouvertes.fr/NEUROCOMP08" target="_blank" rel="noopener">serveur HAL dédié</a>
+.</li>
 </ul>
 <p><img src="featured.jpg" alt="Affiche"></p>
 
@@ -1010,10 +1014,11 @@
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1229,7 +1234,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

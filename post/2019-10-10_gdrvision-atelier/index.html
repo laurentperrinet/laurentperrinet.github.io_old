@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -912,16 +914,22 @@
 <p>Intervenants : Laurent Perrinet et Chloé Pasturel</p>
 <ul>
 <li>
-<p><a href="https://gdrvision2019.sciencesconf.org/resource/page/id/2">programme</a>: Nous proposons dans cet atelier pratique de présenter les nouveaux enjeux apportés par l&rsquo;apprentissage profond et plus généralement par l&rsquo;apprentissage machine. L&rsquo;objectif est de montrer sous forme de simples exercises pratiques comment ces nouveaux outils permettent 1) de catégoriser des images 2) d&rsquo;apprendre un tel modèles 3) de générer de nouvelles images à partir d&rsquo;une base existante.</p>
+<p>
+<a href="https://gdrvision2019.sciencesconf.org/resource/page/id/2" target="_blank" rel="noopener">programme</a>
+: Nous proposons dans cet atelier pratique de présenter les nouveaux enjeux apportés par l&rsquo;apprentissage profond et plus généralement par l&rsquo;apprentissage machine. L&rsquo;objectif est de montrer sous forme de simples exercises pratiques comment ces nouveaux outils permettent 1) de catégoriser des images 2) d&rsquo;apprendre un tel modèles 3) de générer de nouvelles images à partir d&rsquo;une base existante.</p>
 </li>
 <li>
 <p><a href="https://github.com/SpikeAI/2019-10-10_ML-tutorial">https://github.com/SpikeAI/2019-10-10_ML-tutorial</a></p>
 </li>
 <li>
-<p>Atelier concocté en collaboration avec <a href="https://github.com/chloepasturel">Chloé Pasturel</a>.</p>
+<p>Atelier concocté en collaboration avec 
+<a href="https://github.com/chloepasturel" target="_blank" rel="noopener">Chloé Pasturel</a>
+.</p>
 </li>
 <li>
-<p>cet atelier fait partie du <a href="https://laurentperrinet.github.io/post/2019-10-10_gdrvision/">GDR vision 2019</a></p>
+<p>cet atelier fait partie du 
+<a href="https://laurentperrinet.github.io/post/2019-10-10_gdrvision/" target="_blank" rel="noopener">GDR vision 2019</a>
+</p>
 </li>
 </ul>
 
@@ -1055,10 +1063,11 @@
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1282,7 +1291,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -709,6 +711,8 @@
   
 
 
+
+
 <section id="profile-page" class="pt-5">
   <div class="container">
     
@@ -731,13 +735,14 @@
 
 
 
+
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/nicole-voges/avatar_huf9122dbe1c5ae24d662b7d93c13da43f_5851_250x250_fill_lanczos_center.gif" alt="Avatar">
+      <img class="avatar avatar-circle" src="/authors/nicole-voges/avatar_huf9122dbe1c5ae24d662b7d93c13da43f_5851_270x270_fill_lanczos_center.gif" alt="Avatar">
       
 
       <div class="portrait-title">
@@ -797,9 +802,15 @@
 <p>The goal of the FACETS (Fast Analog Computing with Emergent Transient States) project was to create a theoretical and experimental foundation for the realisation of novel computing paradigms which exploit the concepts experimentally observed in biological nervous systems. The continuous interaction and scientific exchange between biological experiments, computer modelling and hardware emulations within the project provides a unique research infrastructure that will in turn provide an improved insight into the computing principles of the brain. This insight may potentially contribute to an improved understanding of mental disorders in the human brain and help to develop remedies.</p>
 <h2 id="references">References</h2>
 <ul>
-<li>Reynaud A., Masson G. S. and Chavane F. <a href="http://www.jneurosci.org/content/32/36/12558.abstract">Dynamics of Local Input Normalization Result from Balanced Short- and Long-Range Intracortical Interactions in Area V1</a> Journal of Neuroscience, 2012, 32(36): 12558-12569</li>
-<li>Reynaud A., Takerkart S, Masson G. S. and Chavane F. <a href="http://www.sciencedirect.com/science/article/pii/S1053811910011237">Linear model decomposition for voltage-sensitive dye imaging signals: Application in awake behaving monkey.</a> Neuroimage, 2011, 54(2), 1196–1210</li>
-<li>Perrinet, L. and Masson G. <a href="https://laurentperrinet.github.io/publication/perrinet-12-pred/">Motion-based prediction is sufficient to solve the aperture problem</a> Neural Computation, 2012</li>
+<li>Reynaud A., Masson G. S. and Chavane F. 
+<a href="http://www.jneurosci.org/content/32/36/12558.abstract" target="_blank" rel="noopener">Dynamics of Local Input Normalization Result from Balanced Short- and Long-Range Intracortical Interactions in Area V1</a>
+ Journal of Neuroscience, 2012, 32(36): 12558-12569</li>
+<li>Reynaud A., Takerkart S, Masson G. S. and Chavane F. 
+<a href="http://www.sciencedirect.com/science/article/pii/S1053811910011237" target="_blank" rel="noopener">Linear model decomposition for voltage-sensitive dye imaging signals: Application in awake behaving monkey.</a>
+ Neuroimage, 2011, 54(2), 1196–1210</li>
+<li>Perrinet, L. and Masson G. 
+<a href="https://laurentperrinet.github.io/publication/perrinet-12-pred/" target="_blank" rel="noopener">Motion-based prediction is sufficient to solve the aperture problem</a>
+ Neural Computation, 2012</li>
 </ul>
 
 
@@ -977,7 +988,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 
@@ -993,7 +1004,7 @@
   
 
   <p class="powered-by">
-    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. &middot; 
 

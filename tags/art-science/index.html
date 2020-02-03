@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,59 +743,77 @@
 
   
   
-  <div>
-    <h2><a href="/post/2016-06-02_elasticite/">Elasticité dynamique</a></h2>
-    <div class="article-style">
-      
-      L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons. Par principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé et entendu.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2016-06-02_elasticite/" >Elasticité dynamique</a></h2>
+      <div class="article-style">
+        
+          L'installation ''Elasticité dynamique'' agit comme un filtre et génère de nouveaux espaces démultipliés, comme un empilement quasi infini d'horizons. Par principe de réflexion, la pièce absorbe l'image de l'environnement et accumule les points de vue ; le mouvement permanent requalifie continuellement ce qui est regardé et entendu.
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/post/2018-09-09_artorama/">Instabilité (series) @ Art-O-Rama</a></h2>
-    <div class="article-style">
-      
-      Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2018-09-09_artorama/" >Instabilité (series) @ Art-O-Rama</a></h2>
+      <div class="article-style">
+        
+          Installation (sérigraphie, dessin mural, lumière), 2018;  Guest artist, Mécènes du Sud / Art-O-Rama (Fair), Marseille I 2018.
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/post/2019-06-22_ardemone/">Sans gravité – une poétique de l’air</a></h2>
-    <div class="article-style">
-      
-      Sans gravité – une poétique de l’air – Ardenome à Avignon.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2019-06-22_ardemone/" >Sans gravité – une poétique de l’air</a></h2>
+      <div class="article-style">
+        
+          Sans gravité – une poétique de l’air – Ardenome à Avignon.
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/post/2018-04-10_trames/">TRAMES</a></h2>
-    <div class="article-style">
-      
-      À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2018-04-10_trames/" >TRAMES</a></h2>
+      <div class="article-style">
+        
+          À la Fondation Vasarely à Aix-en-Provence, Etienne Rey a choisi d’installer dans la salle des Intégrations architectoniques un ballet visuel hypnotique.
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/post/2013-10-10_tropique/">TROPIQUE</a></h2>
-    <div class="article-style">
-      
-      Tropique is an immersive installation which puts in link the perception of the space connected to the movement, to the light and to the sound.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2013-10-10_tropique/" >TROPIQUE</a></h2>
+      <div class="article-style">
+        
+          Tropique is an immersive installation which puts in link the perception of the space connected to the movement, to the light and to the sound.
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/post/2018-01-20_turbulences/">Turbulences</a></h2>
-    <div class="article-style">
-      
-      L’installation Turbulences explore l’émergence de caustiques, phénomènes caractéristiques de la relation entre l’eau, la lumière et l’air. Le mouvement y perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion d’un corps flottant.
-      
+    
+    
+    
+    <div>
+      <h2><a href="/post/2018-01-20_turbulences/" >Turbulences</a></h2>
+      <div class="article-style">
+        
+          L’installation Turbulences explore l’émergence de caustiques, phénomènes caractéristiques de la relation entre l’eau, la lumière et l’air. Le mouvement y perturbe un état optique stable. La turbulence des plis lumineux donne l’illusion d’un corps flottant.
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -894,7 +914,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

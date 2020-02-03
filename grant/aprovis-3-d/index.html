@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -805,7 +807,9 @@
 
     <div class="article-style">
       <ul>
-<li>Le projet APROVIS3D est lauréat de l&rsquo;<a href="http://www.chistera.eu/projects/aprovis3d">appel à projets 2018 <em>CHIST-ERA</em></a> :</li>
+<li>Le projet APROVIS3D est lauréat de l&rsquo;
+<a href="http://www.chistera.eu/projects/aprovis3d" target="_blank" rel="noopener">appel à projets 2018 <em>CHIST-ERA</em></a>
+ :</li>
 </ul>
 <p>APROVIS3D project targets analog computing for artificial intelligence in the form of Spiking Neural Networks (SNNs) on a mixed analog and digital architecture. The project includes including field programmable analog array (FPAA) and SpiNNaker applied to a stereopsis system dedicated to coastal surveillance using an aerial robot. Computer vision systems widely rely on artificial intelligence and especially neural network based machine learning, which recently gained huge visibility. The training stage for deep convolutional neural networks is both time and energy consuming. In contrast, the human brain has the ability to perform visual tasks with unrivalled computational and energy efficiency. It is believed that one major factor of this efficiency is the fact that information is vastly represented by short pulses (spikes) at analog – not discrete – times. However, computer vision algorithms using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power, end-to-end analog sensing and processing architecture of 3D visual scenes, running on analog devices, without a central clock and aims to validate them in real-life situations. More specifically, the project will develop new paradigms for biologically inspired vision, from sensing to processing, in order to help machines such as Unmanned Autonomous Vehicles (UAV), autonomous vehicles, or robots gain high-level understanding from visual scenes. The ambitious long-term vision of the project is to develop the next generation AI paradigm that will eventually compete with deep learning. We believe that neuromorphic computing, mainly studied in EU countries, will be a key technology in the next decade. It is therefore both a scientific and strategic challenge for the EU to foster this technological breakthrough. The consortium from four EU countries offers a unique combination of expertise that the project requires. SNNs specialists from various fields, such as visual sensors (IMSE, Spain), neural network architecture and computer vision (Uni. of Lille, France) and computational neuroscience (INT, France) will team up with robotics and automatic control specialists (NTUA, Greece), and low power integrated systems designers (ETHZ, Switzerland) to help geoinformatics researchers (UNIWA, Greece) build a demonstrator UAV for coastal surveillance (TRL5). Adding up to the shared interest regarding analog based computing and computer vision, all team members have a lot to offer given their different and complementary points of view and expertise. Key challenges of this project will be end-to-end analog system design (from sensing to AI-based control of the UAV and 3D coastal volumetric reconstruction), energy efficiency, and practical usability in real conditions. We aim to show that such a bioinspired analog design will bring large benefits in terms of power efficiency, adaptability and efficiency needed to make coastal surveillance with UAVs practical and more efficient than digital approaches.</p>
 
@@ -935,10 +939,11 @@
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1162,7 +1167,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

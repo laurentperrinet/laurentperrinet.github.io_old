@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -818,7 +820,9 @@
 
     <div class="article-style">
       <h2 id="description">Description</h2>
-<p>The <a href="http://neuro-marseille.org/en/phd-program-en/">Ph.D. program in Integrative and Clinical Neuroscience</a> (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the &ldquo;Institut de Neurosciences de la Timone&rdquo; (team &ldquo;Inference and Visual Behavior&rdquo;), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.</p>
+<p>The 
+<a href="http://neuro-marseille.org/en/phd-program-en/" target="_blank" rel="noopener">Ph.D. program in Integrative and Clinical Neuroscience</a>
+ (Aix-Marseille University) is offering in 2017 three Ph.D. scholarships to Master students graduated from highly ranked international universities (outside France). We were awarded with one PhD position for Angelo Franciosini at the &ldquo;Institut de Neurosciences de la Timone&rdquo; (team &ldquo;Inference and Visual Behavior&rdquo;), CNRS, Marseille (France) to study trajectories in natural images and the sensory processing of contours.</p>
 <p>##Funding</p>
 <p>This project is funded by the Aix-Marseille Université, which was awarded the prestigious status of &ldquo;Excellence Initiative&rdquo; (A*MIDEX) by the French Government and considering interdisciplinary studies as one of its main axes of growth. Within this program, the PhD fellow will sign a three-year work contract. They will enroll the ICN PhD program offering personalized follow-up to the students, a wide spectrum of scientific and professional training activities including specialized courses and career development activities and interactions with multi-disciplinary researchers at Aix-Marseille University and top world-wide visiting speakers, in a vibrant international community of students.</p>
 <h2 id="acknowledgement">Acknowledgement</h2>
@@ -954,10 +958,11 @@
   
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/angelo-franciosini/avatar_huf20cb217f6bf92656c2488dfbefe1a2d_4587_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/angelo-franciosini/avatar_huf20cb217f6bf92656c2488dfbefe1a2d_4587_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1164,7 +1169,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

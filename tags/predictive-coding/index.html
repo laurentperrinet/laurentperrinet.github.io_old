@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,59 +743,77 @@
 
   
   
-  <div>
-    <h2><a href="/talk/2014-01-10-int-fest/">Axonal delays and on-time control of eye movements</a></h2>
-    <div class="article-style">
-      
-      Moving objects generate sensory information that may be noisy and ambiguous, yet it is important to be able to reconstruct object speed as fast as possible. One unsolved question is to understand how the brain pools motion information to give an …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/talk/2014-01-10-int-fest/" >Axonal delays and on-time control of eye movements</a></h2>
+      <div class="article-style">
+        
+          Moving objects generate sensory information that may be noisy and ambiguous, yet it is important to be able to reconstruct object speed as fast as possible. One unsolved question is to understand how the brain pools motion information to give an …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/kaplan-13/">Anisotropic connectivity implements motion-based prediction in a spiking neural network</a></h2>
-    <div class="article-style">
-      
-      Predictive coding hypothesizes that the brain explicitly infers upcoming sensory input to establish a coherent representation of the world. Although it is becoming generally accepted, it is not clear on which level spiking neural networks may …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/kaplan-13/" >Anisotropic connectivity implements motion-based prediction in a spiking neural network</a></h2>
+      <div class="article-style">
+        
+          Predictive coding hypothesizes that the brain explicitly infers upcoming sensory input to establish a coherent representation of the world. Although it is becoming generally accepted, it is not clear on which level spiking neural networks may …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/talk/2012-01-27-fil/">Grabbing, tracking and sniffing as models for motion detection and eye movements</a></h2>
-    <div class="article-style">
-      
-      Moving objects generate sensory information that may be noisy and ambiguous, yet it is important to be able to reconstruct object speed as fast as possible. One unsolved question is to understand how the brain pools motion information to give an …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/talk/2012-01-27-fil/" >Grabbing, tracking and sniffing as models for motion detection and eye movements</a></h2>
+      <div class="article-style">
+        
+          Moving objects generate sensory information that may be noisy and ambiguous, yet it is important to be able to reconstruct object speed as fast as possible. One unsolved question is to understand how the brain pools motion information to give an …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/masson-12-areadne/">Motion-based prediction is sufficient to solve the aperture problem</a></h2>
-    <div class="article-style">
-      
-      In low-level sensory systems, it is still unclear how the noisy information collected locally by neurons may give rise to a coherent global percept. This is well demonstrated for the detection of motion in the aperture problem: as luminance of an …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/masson-12-areadne/" >Motion-based prediction is sufficient to solve the aperture problem</a></h2>
+      <div class="article-style">
+        
+          In low-level sensory systems, it is still unclear how the noisy information collected locally by neurons may give rise to a coherent global percept. This is well demonstrated for the detection of motion in the aperture problem: as luminance of an …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-12-pred/">Motion-based prediction is sufficient to solve the aperture problem</a></h2>
-    <div class="article-style">
-      
-      In low-level sensory systems, it is still unclear how the noisy information collected locally by neurons may give rise to a coherent global percept. This is well demonstrated for the detection of motion in the aperture problem: as luminance of an …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-12-pred/" >Motion-based prediction is sufficient to solve the aperture problem</a></h2>
+      <div class="article-style">
+        
+          In low-level sensory systems, it is still unclear how the noisy information collected locally by neurons may give rise to a coherent global percept. This is well demonstrated for the detection of motion in the aperture problem: as luminance of an …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/bogadhi-11/">Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference</a></h2>
-    <div class="article-style">
-      
-      Accuracy in estimating an object's global motion over time is not only affected by the noise in visual motion information but also by the spatial limitation of the local motion analyzers (aperture problem). Perceptual and oculomotor data demonstrate …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/bogadhi-11/" >Pursuing motion illusions: a realistic oculomotor framework for Bayesian inference</a></h2>
+      <div class="article-style">
+        
+          Accuracy in estimating an object's global motion over time is not only affected by the noise in visual motion information but also by the spatial limitation of the local motion analyzers (aperture problem). Perceptual and oculomotor data demonstrate …
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -894,7 +914,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

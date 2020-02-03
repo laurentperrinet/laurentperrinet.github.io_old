@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,64 +743,85 @@
 
   
   
-  <div>
-    <h2><a href="/publication/perrinet-19-hulk/">An adaptive homeostatic algorithm for the unsupervised learning of visual features</a></h2>
-    <div class="article-style">
-      
-      The formation of structure in the visual system, that is, of the connections between cells within neural populations, is by large an unsupervised learning process: the emergence of this architecture is mostly self-organized. In the primary visual …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-19-hulk/" >An adaptive homeostatic algorithm for the unsupervised learning of visual features</a></h2>
+      <div class="article-style">
+        
+          The formation of structure in the visual system, that is, of the connections between cells within neural populations, is by large an unsupervised learning process: the emergence of this architecture is mostly self-organized. In the primary visual …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-10-shl/">Role of homeostasis in learning sparse representations</a></h2>
-    <div class="article-style">
-      
-      Neurons in the input layer of primary visual cortex in primates develop edge-like receptive fields. One approach to understanding the emergence of this response is to state that neural activity has to efficiently represent sensory data with respect …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-10-shl/" >Role of homeostasis in learning sparse representations</a></h2>
+      <div class="article-style">
+        
+          Neurons in the input layer of primary visual cortex in primates develop edge-like receptive fields. One approach to understanding the emergence of this response is to state that neural activity has to efficiently represent sensory data with respect …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-07-mipm/">Neural Codes for Adaptive Sparse Representations of Natural Images</a></h2>
-    <div class="article-style">
-      
-      I will illustrate in this talk how computational neuroscience may inspire and be inspired by mathematical image processing. Focusing on efficiently representing natural images in the primary visual cortex, we derive an event-based adaptive algorithm …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-07-mipm/" >Neural Codes for Adaptive Sparse Representations of Natural Images</a></h2>
+      <div class="article-style">
+        
+          I will illustrate in this talk how computational neuroscience may inspire and be inspired by mathematical image processing. Focusing on efficiently representing natural images in the primary visual cortex, we derive an event-based adaptive algorithm …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-06-cns/">An efficiency razor for model selection and adaptation in the primary visual cortex</a></h2>
-    <div class="article-style">
-      
-      We describe the theoretical formulation of a learning algorithm in a model of the primary visual cortex (V1) and present results of the efficiency of this algorithm by comparing it to the SparseNet algorithm (Olshausen, 1996). As the SparseNet …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-06-cns/" >An efficiency razor for model selection and adaptation in the primary visual cortex</a></h2>
+      <div class="article-style">
+        
+          We describe the theoretical formulation of a learning algorithm in a model of the primary visual cortex (V1) and present results of the efficiency of this algorithm by comparing it to the SparseNet algorithm (Olshausen, 1996). As the SparseNet …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-04/">Finding Independent Components using spikes : a natural result of Hebbian learning in a sparse spike coding scheme</a></h2>
-    <div class="article-style">
-      
-      To understand possible strategies of temporal spike coding in the central nervous system, we study functional neuromimetic models of visual processing for static images. We will first present the retinal model which was introduced by Van Rullen and …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-04/" >Finding Independent Components using spikes : a natural result of Hebbian learning in a sparse spike coding scheme</a></h2>
+      <div class="article-style">
+        
+          To understand possible strategies of temporal spike coding in the central nervous system, we study functional neuromimetic models of visual processing for static images. We will first present the retinal model which was introduced by Van Rullen and …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-00/">A generative model for Spike Time Dependent Hebbian Plasticity</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-00/" >A generative model for Spike Time Dependent Hebbian Plasticity</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/perrinet-99/">Apprentissage hebbien d&#39;un reseau de neurones asynchrone a codage par rang</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/perrinet-99/" >Apprentissage hebbien d&#39;un reseau de neurones asynchrone a codage par rang</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -899,7 +922,7 @@
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -925,10 +927,14 @@
 </ul>
 <p><img src="http://www.ran-dan.net/eng/wp-content/uploads/2012/01/E-REY-TropiqueS2-G-1024x576.jpg" alt="Sortie modèle"></p>
 <p><img src="https://www.ososphere.org/catalogue/wp-content/uploads/2016/05/tropique_rey_oso2012_groslier8_Web_nb.jpg" alt="Tropique d&rsquo;Etienne Rey La Coop 2012 / Crédits photo Philippe Groslier"></p>
-<p>&lsquo;&lsquo;Etienne Rey investigates the invisible and mutual relationships which take place between human and his environment. <a href="http://digitalperformanceculture.blog.fr/2012/02/18/tropique-d-etienne-rey-12817804/">Prize-winner of the 1st call for projects of the RAN</a>, its project of immersive installation Tropique puts in link the perception of the space connected to the movement, to the light and to the sound. Within the framework of a residence of creation in the Centre des arts, the object of which is ” to sculpt the light “, he presents a work in progress of this installation.&rsquo;&rsquo;</p>
+<p>&lsquo;&lsquo;Etienne Rey investigates the invisible and mutual relationships which take place between human and his environment. 
+<a href="http://digitalperformanceculture.blog.fr/2012/02/18/tropique-d-etienne-rey-12817804/" target="_blank" rel="noopener">Prize-winner of the 1st call for projects of the RAN</a>
+, its project of immersive installation Tropique puts in link the perception of the space connected to the movement, to the light and to the sound. Within the framework of a residence of creation in the Centre des arts, the object of which is ” to sculpt the light “, he presents a work in progress of this installation.&rsquo;&rsquo;</p>
 <p><img src="http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_b.jpg" alt="Tropique"></p>
 <p><img src="http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_a.jpg" alt="Tropique"></p>
-<p><a href="http://ondesparalleles.org/projets/tropique-7/">Tropique</a> est une installation environnementale, un espace vide de matière, qui se densiﬁe en ondes sonores et lumineuses, activées et modulées par la présence et l’activité humaines. Ce projet met en lien la perception de l’espace articulée au mouvement, à la lumière et au son. Les personnes qui se situent dans l’espace sont entourées d’une aura lumineuse et sonore qui ﬂuctue en fonction des mouvements et de la proximité des corps.</p>
+<p>
+<a href="http://ondesparalleles.org/projets/tropique-7/" target="_blank" rel="noopener">Tropique</a>
+ est une installation environnementale, un espace vide de matière, qui se densiﬁe en ondes sonores et lumineuses, activées et modulées par la présence et l’activité humaines. Ce projet met en lien la perception de l’espace articulée au mouvement, à la lumière et au son. Les personnes qui se situent dans l’espace sont entourées d’une aura lumineuse et sonore qui ﬂuctue en fonction des mouvements et de la proximité des corps.</p>
 <p><img src="http://ondesparalleles.org/wp-content/uploads/2014/02/tropique_fiche_c.jpg" alt="Tropique"></p>
 <p>Etienne Rey investigates the invisible and mutual relationships which take place between human and his environment. Prize-winner of the 1st call for projects of the RAN, its project of immersive installation Tropique puts in link the perception of the space connected to the movement, to the light and to the sound. Within the framework of a residence of creation in the Centre des arts, the object of which is ” to sculpt the light “, he presents a work in progress of this installation.&rsquo;&rsquo;</p>
 
@@ -948,9 +954,17 @@
  </div>
 
 <ul>
-<li><a href="http://ondesparalleles.org/projets/space-odyssey/">space odyssée</a> à <a href="http://www.institutfrancais-seoul.com/portfolio-item/exposition-home-cinema/">l&rsquo;institut francais en Coree du Sud de juin a octobre 2016</a></li>
-<li>Un entretien d&rsquo;ER durant le <a href="https://www.youtube.com/watch?v=lA2bovigzLg">Mois multi 2015</a></li>
-<li>Un entretien avec <a href="https://youtu.be/z8328z2WO-w">Roger Malina</a></li>
+<li>
+<a href="http://ondesparalleles.org/projets/space-odyssey/" target="_blank" rel="noopener">space odyssée</a>
+ à 
+<a href="http://www.institutfrancais-seoul.com/portfolio-item/exposition-home-cinema/" target="_blank" rel="noopener">l&rsquo;institut francais en Coree du Sud de juin a octobre 2016</a>
+</li>
+<li>Un entretien d&rsquo;ER durant le 
+<a href="https://www.youtube.com/watch?v=lA2bovigzLg" target="_blank" rel="noopener">Mois multi 2015</a>
+</li>
+<li>Un entretien avec 
+<a href="https://youtu.be/z8328z2WO-w" target="_blank" rel="noopener">Roger Malina</a>
+</li>
 </ul>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -958,9 +972,21 @@
 </div>
 
 <ul>
-<li>Installation <a href="http://ondesparalleles.org/projets/space-odyssey/">Space Odyssey</a> : Tournée en Corée avec Mac de Créteil en 2016 / dates et lieux à venir.</li>
-<li>Installation <a href="http://ondesparalleles.org/projets/space-odyssey/">Space Odyssey</a> : FESTIVAL VIA / MAUBEUGE / 12 AU 22 MARS 2015 - FESTIVAL EXIT / CRÉTEIL / 26 MARS AU 05 AVRIL 2015 - LE PRINTEMPS À SAINT SAUVEUR / LILLE / 27 AVRIL 2016 AU 28 AOÛT 2016 : <a href="http://www.maccreteil.com/fr/mac/event/338/Home-cinema-Festival-Exit#sthash.bEyRuaDX.dpuf">Home Cinema</a>. À lire, sur <a href="http://www.digitalarti.com/fr/blog/digitalarti_mag/home_cinema_matiere_audiovisuelle_modulable_pour_hyper_spectateur">digitatarti</a>.
-Installation <a href="http://ondesparalleles.org/projets/tropique-7/">Tropique</a> : Festival international d’arts multidisciplinaires et électroniques <a href="http://mmrectoverso.org/fr/mois-multi/spectacles/installations-2/tropique/">Le Mois Multi 16 / Québec du 4 février au 1 mars 2015</a></li>
+<li>Installation 
+<a href="http://ondesparalleles.org/projets/space-odyssey/" target="_blank" rel="noopener">Space Odyssey</a>
+ : Tournée en Corée avec Mac de Créteil en 2016 / dates et lieux à venir.</li>
+<li>Installation 
+<a href="http://ondesparalleles.org/projets/space-odyssey/" target="_blank" rel="noopener">Space Odyssey</a>
+ : FESTIVAL VIA / MAUBEUGE / 12 AU 22 MARS 2015 - FESTIVAL EXIT / CRÉTEIL / 26 MARS AU 05 AVRIL 2015 - LE PRINTEMPS À SAINT SAUVEUR / LILLE / 27 AVRIL 2016 AU 28 AOÛT 2016 : 
+<a href="http://www.maccreteil.com/fr/mac/event/338/Home-cinema-Festival-Exit#sthash.bEyRuaDX.dpuf" target="_blank" rel="noopener">Home Cinema</a>
+. À lire, sur 
+<a href="http://www.digitalarti.com/fr/blog/digitalarti_mag/home_cinema_matiere_audiovisuelle_modulable_pour_hyper_spectateur" target="_blank" rel="noopener">digitatarti</a>
+.
+Installation 
+<a href="http://ondesparalleles.org/projets/tropique-7/" target="_blank" rel="noopener">Tropique</a>
+ : Festival international d’arts multidisciplinaires et électroniques 
+<a href="http://mmrectoverso.org/fr/mois-multi/spectacles/installations-2/tropique/" target="_blank" rel="noopener">Le Mois Multi 16 / Québec du 4 février au 1 mars 2015</a>
+</li>
 </ul>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -968,21 +994,53 @@ Installation <a href="http://ondesparalleles.org/projets/tropique-7/">Tropique</
 </div>
 
 <ul>
-<li>Installation <a href="http://ondesparalleles.org/projets/space-odyssey/">Space Odyssey</a> : Lille 3000, du 26 SEPT 2015 &gt; 17 JAN 2016</li>
-<li>Installation <a href="http://ondesparalleles.org/projets/space-odyssey/">Space Odyssey</a> : FESTIVAL INTERNATIONAL EXIT 2015 Créteil du 26 MARS -&gt; 05 AVRIL 2015</li>
-<li>Installation <a href="http://ondesparalleles.org/projets/space-odyssey/">Space Odyssey</a> : Festival Via 2015, Maubeuge du jeudi 12 mars 2015 au dimanche 22 mars 2015</li>
-<li>Du 13 au 23 Mars 2014: <a href="http://www.lemanege.com/cgi?lg=fr&amp;pag=1310&amp;tab=108&amp;rec=1188&amp;frm=0">TROPIQUE @ FESTIVAL VIA</a> : Depuis presque 30 ans, le Festival VIA flirte avec les frontières des territoires artistiques, à la croisée des arts de la scène, de la création technologique et numérique. Toujours plus international et interdisciplinaire, VIA traduit, à Maubeuge et à Mons, la vitalité de la scène contemporaine. Il est également à noter que cette édition préfigure la Capitale européenne de la culture 2015 qui se déroulera dans ces deux villes l&rsquo;année prochaine.  Pour cette nouvelle édition de VIA sera présentée l&rsquo;installation Tropique d'Étienne Rey, produite par Seconde Nature et récemment dévoilée lors du festival « Chroniques des Mondes Possibles » dans le cadre d&rsquo;E-topie, Marseille-Provence 2013.</li>
-<li>16 novembre au 15 décembre 2013: présentation à Paris dans le cadre du festival <a href="http://www.digitalarti.com/fr/blog/digitalarti_mag/festival_nemo_tropiques_etienne_rey">nemo</a> ; écouter <a href="http://www.franceinter.fr/emission-latac-faux-sourires-vision-cosmique-installation-tropique">la tête au carré sur France Inter</a></li>
-<li>10 Octobre au 10 novembre 2013: présentation finale à la fondation Vasarely à Aix-en-Provence dans le cadre du festival <a href="http://www.fondationvasarely.org/uk/e_topie.php">e-Topie</a>, cf <a href="http://www.liberation.fr/culture/2013/10/15/riche-e-topie-a-aix_939736">cahier beaux-arts de libé</a>, <a href="http://www.laprovence.com/article/economie/2628580/aix-la-ville-candidate-pour-devenir-quartier-numerique.html">la provence</a>  : 10450 spectateurs sur 32 jours</li>
-<li>Juin 2013: <a href="https://laurentperrinet.github.io/post/2013-10-10_tropique/featured_hu4307c572b52602b5d74387cbed9b8bcf_354150_720x0_resize_q90_lanczos.jpg">résidence à l&rsquo;INT</a></li>
-<li>Décembre 2012: dans le <a href="http://www.mp2013.fr/evenements/2013/10/atelier-de-leuromediterranee-tropique-etienne-rey-a-limera/">programme officiel</a></li>
+<li>Installation 
+<a href="http://ondesparalleles.org/projets/space-odyssey/" target="_blank" rel="noopener">Space Odyssey</a>
+ : Lille 3000, du 26 SEPT 2015 &gt; 17 JAN 2016</li>
+<li>Installation 
+<a href="http://ondesparalleles.org/projets/space-odyssey/" target="_blank" rel="noopener">Space Odyssey</a>
+ : FESTIVAL INTERNATIONAL EXIT 2015 Créteil du 26 MARS -&gt; 05 AVRIL 2015</li>
+<li>Installation 
+<a href="http://ondesparalleles.org/projets/space-odyssey/" target="_blank" rel="noopener">Space Odyssey</a>
+ : Festival Via 2015, Maubeuge du jeudi 12 mars 2015 au dimanche 22 mars 2015</li>
+<li>Du 13 au 23 Mars 2014: 
+<a href="http://www.lemanege.com/cgi?lg=fr&amp;pag=1310&amp;tab=108&amp;rec=1188&amp;frm=0" target="_blank" rel="noopener">TROPIQUE @ FESTIVAL VIA</a>
+ : Depuis presque 30 ans, le Festival VIA flirte avec les frontières des territoires artistiques, à la croisée des arts de la scène, de la création technologique et numérique. Toujours plus international et interdisciplinaire, VIA traduit, à Maubeuge et à Mons, la vitalité de la scène contemporaine. Il est également à noter que cette édition préfigure la Capitale européenne de la culture 2015 qui se déroulera dans ces deux villes l&rsquo;année prochaine.  Pour cette nouvelle édition de VIA sera présentée l&rsquo;installation Tropique d'Étienne Rey, produite par Seconde Nature et récemment dévoilée lors du festival « Chroniques des Mondes Possibles » dans le cadre d&rsquo;E-topie, Marseille-Provence 2013.</li>
+<li>16 novembre au 15 décembre 2013: présentation à Paris dans le cadre du festival 
+<a href="http://www.digitalarti.com/fr/blog/digitalarti_mag/festival_nemo_tropiques_etienne_rey" target="_blank" rel="noopener">nemo</a>
+ ; écouter 
+<a href="http://www.franceinter.fr/emission-latac-faux-sourires-vision-cosmique-installation-tropique" target="_blank" rel="noopener">la tête au carré sur France Inter</a>
+</li>
+<li>10 Octobre au 10 novembre 2013: présentation finale à la fondation Vasarely à Aix-en-Provence dans le cadre du festival 
+<a href="http://www.fondationvasarely.org/uk/e_topie.php" target="_blank" rel="noopener">e-Topie</a>
+, cf 
+<a href="http://www.liberation.fr/culture/2013/10/15/riche-e-topie-a-aix_939736" target="_blank" rel="noopener">cahier beaux-arts de libé</a>
+, 
+<a href="http://www.laprovence.com/article/economie/2628580/aix-la-ville-candidate-pour-devenir-quartier-numerique.html" target="_blank" rel="noopener">la provence</a>
+  : 10450 spectateurs sur 32 jours</li>
+<li>Juin 2013: 
+<a href="https://laurentperrinet.github.io/post/2013-10-10_tropique/featured_hu4307c572b52602b5d74387cbed9b8bcf_354150_720x0_resize_q90_lanczos.jpg" target="_blank" rel="noopener">résidence à l&rsquo;INT</a>
+</li>
+<li>Décembre 2012: dans le 
+<a href="http://www.mp2013.fr/evenements/2013/10/atelier-de-leuromediterranee-tropique-etienne-rey-a-limera/" target="_blank" rel="noopener">programme officiel</a>
+</li>
 <li>Décembre 2012: signature de la convention avec le CNRS</li>
-<li>Tropique est présenté <a href="http://www.ososphere.org/2012/evenement/tropique/">07 au 14 décembre 2012, dans le cadre du festival &ldquo;Les nuits de l’Ososphère&rdquo; de Strasbourg</a></li>
+<li>Tropique est présenté 
+<a href="http://www.ososphere.org/2012/evenement/tropique/" target="_blank" rel="noopener">07 au 14 décembre 2012, dans le cadre du festival &ldquo;Les nuits de l’Ososphère&rdquo; de Strasbourg</a>
+</li>
 <li>Juin 2012: Tropique en résidence à la fondation Vasarely</li>
-<li>Mars 2012: <a href="http://www.mecenesdusud.fr/blog/index.php?post/2012/03/Tropique-%C3%A0-Nantes">Tropique à Nantes</a></li>
-<li><a href="http://creative.arte.tv/en/space/Tropique/messages/">Arte creative</a></li>
-<li>Tropique @ <a href="http://www.ran-dan.net/eng/?p=22">RAN (Enghien-les-Bains)</a></li>
-<li><a href="http://vimeo.com/33718945">Etienne Rey Tropique Experimentation Film2</a></li>
+<li>Mars 2012: 
+<a href="http://www.mecenesdusud.fr/blog/index.php?post/2012/03/Tropique-%C3%A0-Nantes" target="_blank" rel="noopener">Tropique à Nantes</a>
+</li>
+<li>
+<a href="http://creative.arte.tv/en/space/Tropique/messages/" target="_blank" rel="noopener">Arte creative</a>
+</li>
+<li>Tropique @ 
+<a href="http://www.ran-dan.net/eng/?p=22" target="_blank" rel="noopener">RAN (Enghien-les-Bains)</a>
+</li>
+<li>
+<a href="http://vimeo.com/33718945" target="_blank" rel="noopener">Etienne Rey Tropique Experimentation Film2</a>
+</li>
 </ul>
 
     </div>
@@ -1113,10 +1171,11 @@ Installation <a href="http://ondesparalleles.org/projets/tropique-7/">Tropique</
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_250x250_fill_q90_lanczos_center.jpeg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/laurent-u-perrinet/avatar_hu81bac28c1b36f818c6c9e904daaf0b0f_15796_270x270_fill_q90_lanczos_center.jpeg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1340,7 +1399,7 @@ Installation <a href="http://ondesparalleles.org/projets/tropique-7/">Tropique</
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 

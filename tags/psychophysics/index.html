@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -218,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -234,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -741,95 +743,124 @@
 
   
   
-  <div>
-    <h2><a href="/publication/vacher-16/">Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</a></h2>
-    <div class="article-style">
-      
-      A common practice to account for psychophysical biases in vision is to frame them as consequences of a dynamic process relying on optimal inference with respect to a generative model. The present study details the complete formulation of such a …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/vacher-16/" >Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</a></h2>
+      <div class="article-style">
+        
+          A common practice to account for psychophysical biases in vision is to frame them as consequences of a dynamic process relying on optimal inference with respect to a generative model. The present study details the complete formulation of such a …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/project/open-science/">Open Science</a></h2>
-    <div class="article-style">
-      
-      To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015), (Perrinet and Bednar, 2015), (Khoei et, 2017), (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization, 2019-04-18_JNLF, &hellip;) and also the development of the following libraries on GitHub.
+    
+    
+    
+    <div>
+      <h2><a href="/project/open-science/" >Open Science</a></h2>
+      <div class="article-style">
+        
+          To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. (Perrinet, Adams and Friston, 2015) , (Perrinet and Bednar, 2015) , (Khoei et, 2017) , (Perrinet, 2019) or courses and slides (e.g. 2019-04-03_a_course_on_vision_and_modelization , 2019-04-18_JNLF , &hellip;) and also the development of the following libraries on GitHub.
 Follow @laurentperrinet
- bayesianchangepoint An implementation of Adams &amp; MacKay 2007 &ldquo;Bayesian Online Changepoint Detection&rdquo; in Python.
-      
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-14-vss/">The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task</a></h2>
-    <div class="article-style">
-      
-      Under natural viewing conditions, large eye movements are interspace by small eye movements (microsaccade). Recent works have shown that these two kinds of eye movements are generate by the same oculomotor mechanisms (Goffart et al., 2012) and are …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-14-vss/" >The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task</a></h2>
+      <div class="article-style">
+        
+          Under natural viewing conditions, large eye movements are interspace by small eye movements (microsaccade). Recent works have shown that these two kinds of eye movements are generate by the same oculomotor mechanisms (Goffart et al., 2012) and are …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-13-vss/">Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception</a></h2>
-    <div class="article-style">
-      
-      The visual system does not process information instantaneously, but rather integrates over time. Integration occurs both for stationary objects and moving objects, with very similar time constants (Burr, 1981). We measured, as a function of exposure …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-13-vss/" >Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception</a></h2>
+      <div class="article-style">
+        
+          The visual system does not process information instantaneously, but rather integrates over time. Integration occurs both for stationary objects and moving objects, with very similar time constants (Burr, 1981). We measured, as a function of exposure …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-12-vss/">Effect of image statistics on fixational eye movements</a></h2>
-    <div class="article-style">
-      
-      Under natural viewing conditions, small movements of the eyes prevent the maintenance of a steady direction of gaze. It is unclear how the spatiotemporal content of the fixated scene has an impact on the properties of miniatures, fixational eye …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-12-vss/" >Effect of image statistics on fixational eye movements</a></h2>
+      <div class="article-style">
+        
+          Under natural viewing conditions, small movements of the eyes prevent the maintenance of a steady direction of gaze. It is unclear how the spatiotemporal content of the fixated scene has an impact on the properties of miniatures, fixational eye …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-12-coding/">Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</a></h2>
-    <div class="article-style">
-      
-      To measure speed and direction of moving objects, the cortical motion system pools information across different spatiotemporal channels. One yet unsolved question is to understand how the brain pools this information and whether this pooling is …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-12-coding/" >Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception.</a></h2>
+      <div class="article-style">
+        
+          To measure speed and direction of moving objects, the cortical motion system pools information across different spatiotemporal channels. One yet unsolved question is to understand how the brain pools this information and whether this pooling is …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-12/">More is not always better: dissociation between perception and action explained by adaptive gain control</a></h2>
-    <div class="article-style">
-      
-      Moving objects generate motion information at different scales, which are processed in the visual system with a bank of spatiotemporal frequency channels. It is not known how the brain pools this information to reconstruct object speed and whether …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-12/" >More is not always better: dissociation between perception and action explained by adaptive gain control</a></h2>
+      <div class="article-style">
+        
+          Moving objects generate motion information at different scales, which are processed in the visual system with a bank of spatiotemporal frequency channels. It is not known how the brain pools this information to reconstruct object speed and whether …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-11-vss/">Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</a></h2>
-    <div class="article-style">
-      
-      In order to analyze the characteristics of a rich dynamic visual environment, the visual system must integrate information collected at different scales through different spatiotemporal frequency channels. Still, it remains unclear how reliable …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-11-vss/" >Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</a></h2>
+      <div class="article-style">
+        
+          In order to analyze the characteristics of a rich dynamic visual environment, the visual system must integrate information collected at different scales through different spatiotemporal frequency channels. Still, it remains unclear how reliable …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-11-pattern/">Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</a></h2>
-    <div class="article-style">
-      
-      In order to analyze the characteristics of a rich dynamic visual environment, the visual system must integrate information collected at different scales through different spatiotemporal frequency channels. Still, it remains unclear how reliable …
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-11-pattern/" >Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</a></h2>
+      <div class="article-style">
+        
+          In order to analyze the characteristics of a rich dynamic visual environment, the visual system must integrate information collected at different scales through different spatiotemporal frequency channels. Still, it remains unclear how reliable …
+        
+      </div>
     </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/simoncini-10-vss/">Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</a></h2>
-    <div class="article-style">
-      
+    
+    
+    
+    <div>
+      <h2><a href="/publication/simoncini-10-vss/" >Different pooling of motion information for perceptual speed discrimination and behavioral speed estimation</a></h2>
+      <div class="article-style">
+        
+      </div>
     </div>
-  </div>
   
 
   
@@ -930,7 +961,7 @@ Follow @laurentperrinet
     
     
     
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
 
     
 
