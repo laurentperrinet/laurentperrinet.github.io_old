@@ -21,14 +21,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Le projet SpikeAI est lauréat de l&amp;rsquo;
-&lt;a href=&#34;http://www.cnrs.fr/mi/spip.php?article1452&amp;amp;lang=fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;appel à projets 2019 &lt;em&gt;Biomimétisme&lt;/em&gt;&lt;/a&gt;
- :&lt;/li&gt;
+&lt;a href=&#34;http://www.cnrs.fr/mi/spip.php?article1452&amp;amp;lang=fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;appel à projets 2019 &lt;em&gt;Biomimétisme&lt;/em&gt;&lt;/a&gt; :&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The SpikeAI project targets analog computing for artificial intelligence in the form of Spiking Neural Networks (SNNs). Computer vision systems widely rely on artificial intelligence and especially neural network based machine learning, which recently gained huge visibility. The training stage for deep convolutional neural networks is time-consuming and yields enormous energy consumption. In contrast, the human brain has the ability to perform visual tasks with unrivaled computational and energy efficiency. It is believed that one major factor of this efficiency is the fact that information is vastly represented by short pulses (spikes) at analog –not discrete– times. However, computer vision algorithms using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power, end-to-end analog sensing and processing architecture. This will be applied on the particular context of a field programmable analog array (FPAA) applied to a stereovision system dedicated to coastal surveillance using an aerial robot of 3D visual scenes, running on analog devices, without a central clock and to validate them in real-life situations. The ambitious long-term vision of the project is to develop the next generation AI paradigm that will at term compete with deep learning. We believe that neuromorphic computing, mainly studied in EU countries, will be a key technology in the next decade. It is therefore both a scientific and strategic challenge for France and EU to foster this technological breakthrough. &lt;em&gt;This call will help kickstart collaboration within this European consortium to help leverage the chance to successfully apply to future large-scale grant proposals (e.g. ANR, CHIST-ERA, ERC).&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Get 
-&lt;a href=&#34;https://spikeai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;more information&lt;/a&gt;
-.&lt;/li&gt;
+&lt;a href=&#34;https://spikeai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;more information&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;outcomes&#34;&gt;outcomes&lt;/h2&gt;
 &lt;p&gt;The main goal was mainly to build a network of actors and to answer to relevant calls in the field of biomimetic research. We have communicated through the diffusion of computational frameworks and actions which are gathered online @ &lt;a href=&#34;https://github.com/SpikeAI&#34;&gt;https://github.com/SpikeAI&lt;/a&gt;.&lt;/p&gt;
@@ -58,8 +56,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <description>&lt;h1 id=&#34;anr-balav1-balanced-states-in-area-v1-20132016&#34;&gt;ANR BalaV1: Balanced states in area V1 (2013/2016)&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;http://www.agence-nationale-recherche.fr/Project-ANR-13-BSV4-0014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official website&lt;/a&gt;
-&lt;/li&gt;
+&lt;a href=&#34;http://www.agence-nationale-recherche.fr/Project-ANR-13-BSV4-0014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In carnivores and primates the orientation selectivity (OS) of the cells in the primary visual cortex (V1) is organized in maps in which preferred orientations (POs) of the cells change gradually except near “pin- wheels”, around which all orientations are present. Over the last half-century the mechanism for OS has been hotly debated. However the theories that purport to explain OS have almost all considered cortical networks in which the neurons receive input preferentially from cells with similar PO. Such theories certainly capture the connectivity for neurons in orientation domains where neurons are surrounded by other cells with similar PO. However this does not necessarily hold near pinwheels: because of the discontinuous change in orientation preference at the pinwheel, neurons in this area are surrounded by cells of all preferred orientations. Thus if the probability of connection is solely dependent on anatomical distance, the inputs that these neurons receive should represent all orientations by roughly the same amount. Thus one may expect that the response of the cells near pinwheels should hardly vary with orientation, in contrast to experimental data. As a result, the common belief is that, at least near pinwheels, the connectivity depends also on the differences between preferred orientation. The situation near pinwheels in V1 of carnivores and primates is similar to that in the whole of V1 of rodents. In these species, neurons in V1 are OS but the network does not exhibit an orientation map and the surround of the cells represents all orientations roughly equally. In a recent theoretical paper (Hansel and van Vreeswijk 2012) we have demonstrated that in this situation, the response of the cells can still be orientation selective provided that the network operates in the balanced regime. Here we hypothesize that V1 with an orientation map operates in the balanced regime and therefore neurons can exhibit OS near pinwheels even in the absence of functional specific connectivity. The goal of this interdisciplinary project is to investigate whether the “balance hypothesis” holds for layer 2/3 in V1 of primate and carnivore and whether the functional organization observed in that layer can be accounted for without feature specific connectivity. We will combine modeling and experiments to investigate how the response of the neurons – the mean firing, the mean voltage, the inhibitory and excitatory conductances and importantly, the power spectrum of their fluctuations – vary with the location in the map, and also how a population of neurons – LFP, voltage-sensitive dye imaging or 2 photons – is affected by the various para- meters used to test the system. Whether V1 indeed operates in the balanced regime in more realistic conditions will be further investigated by determining how the local network responds to visual stimuli beyond the classical receptive field. We will investigate this issue in models of layer 2/3 representing multiple hyper- columns to characterize center-surround interactions and their dependence on the long-range connectivity. This will provide us with predictions for center-surround interactions for cells near pinwheels and in orientation domains. These predictions will be tested experimentally.&lt;/p&gt;
 &lt;p&gt;The proposed project is new and ambitious. It aims at building a comprehensive and coherent understand- ing of the physiology of V1 layer 2/3 on several spatial scales from single cells to several hypercolumns and to account for this in mechanistic models. To accomplish these ambitious aims, we propose a combination of experimental and computational studies that take advantage of the unique strengths and the complementarity of expertise of 3 research teams. The Paris team has extensive experience in large-scale modeling of V1. The Toulouse and Marseille teams master both intra- and extracellular electrophysiology. In addition, the Marseille team is expert in microscopic and mesoscopic imaging techniques in V1.&lt;/p&gt;
@@ -150,8 +147,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;li&gt;Time    January 15th, 2018&lt;/li&gt;
 &lt;li&gt;Location     INT&lt;/li&gt;
 &lt;li&gt;General presentation of the grant, see 
-&lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anr TRAJECTORY&lt;/a&gt;
-&lt;/li&gt;
+&lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anr TRAJECTORY&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Overview of my current projects    &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html&#34;&gt;https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;MotionClouds with trajectories    &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html&lt;/a&gt; or &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -203,8 +199,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/grant/doc-2-amu/</guid>
       <description>&lt;p&gt;
-&lt;a href=&#34;https://doc2amu.univ-amu.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOC2AMU&lt;/a&gt;
- is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.&lt;/p&gt;
+&lt;a href=&#34;https://doc2amu.univ-amu.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOC2AMU&lt;/a&gt; is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.&lt;/p&gt;
 &lt;p&gt;Within this programme, the PhD fellows will sign a three-year work contract with one of the 12 Doctoral Schools of AMU. Numerous advantages&lt;/p&gt;
 &lt;p&gt;These PhD fellowships are remunerated above that of a standard French PhD contract with a gross monthly salary of 2600 € and a gross monthly mobility allowance of 300 €, which after standard deductions will amount to a net salary of approximately 1625€/month (net amount may vary slightly). A 500€ travel allowance per year and per fellow is also provided for the fellows to travel between Marseille and their place of origin. Tailored training and personalised mentoring: Fellows will define and follow a Personal Career Development Plan at the beginning of their Doctoral thesis and will have access to a variety of training options and workshops. Financial support for international research training and conferences participations. A contribution to the research costs will be provided for the benefit of the fellow.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;This work was supported by the Doc2Amu project which received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 713750. Projet cofinancé par le Conseil Régional Provence-Alpes-Côte d’Azur. Projet cofinancé par le Conseil Régional Provence-Alpes-Côte d’Azur, la commission européenne et les Investissements d&amp;rsquo;Avenir.&amp;rdquo;&lt;/p&gt;
@@ -217,26 +212,22 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/grant/brain-scales/</guid>
       <description>&lt;p&gt;List of publications that were funded by European Union&amp;rsquo;s project Number FP7-269921, &amp;ldquo;
-&lt;a href=&#34;http://brainscales.kip.uni-heidelberg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BrainScales&lt;/a&gt;
-&amp;quot;.&lt;/p&gt;
+&lt;a href=&#34;http://brainscales.kip.uni-heidelberg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BrainScales&lt;/a&gt;&amp;quot;.&lt;/p&gt;
 &lt;p&gt;See also:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;http://facets.kip.uni-heidelberg.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACETS research project&lt;/a&gt;
- which
+&lt;a href=&#34;http://facets.kip.uni-heidelberg.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACETS research project&lt;/a&gt; which
 ended on 31 August 2010.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;https://laurentperrinet.github.io/grant/facets-itn/&#34;&gt;FACETS-ITN Marie-Curie&lt;/a&gt;
- initital
+&lt;a href=&#34;https://laurentperrinet.github.io/grant/facets-itn/&#34;&gt;FACETS-ITN Marie-Curie&lt;/a&gt; initital
 training network for graduate training continues until August 2013&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;https://laurentperrinet.github.io/grant/brain-scales/&#34;&gt;BrainScaleS project&lt;/a&gt;
- builds on
+&lt;a href=&#34;https://laurentperrinet.github.io/grant/brain-scales/&#34;&gt;BrainScaleS project&lt;/a&gt; builds on
 and extends the research done in FACETS. This 4 year project started
 on January 1st, 2011.&lt;/p&gt;
 &lt;/li&gt;
@@ -250,8 +241,7 @@ on January 1st, 2011.&lt;/p&gt;
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/grant/codde/</guid>
       <description>&lt;p&gt;The 
-&lt;a href=&#34;http://www.optimaldecisions.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CODDE&lt;/a&gt;
- network studies the links between sensory input, brain activity and motor output. It does this by combining behavioural techniques, brain imaging, movement recording and computational modelling.&lt;/p&gt;
+&lt;a href=&#34;http://www.optimaldecisions.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CODDE&lt;/a&gt; network studies the links between sensory input, brain activity and motor output. It does this by combining behavioural techniques, brain imaging, movement recording and computational modelling.&lt;/p&gt;
 </description>
     </item>
     
@@ -272,20 +262,17 @@ project (more
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;http://facets.kip.uni-heidelberg.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACETS research project&lt;/a&gt;
- which
+&lt;a href=&#34;http://facets.kip.uni-heidelberg.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACETS research project&lt;/a&gt; which
 ended on 31 August 2010.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;https://laurentperrinet.github.io/grant/facets-itn/&#34;&gt;FACETS-ITN Marie-Curie&lt;/a&gt;
- initital
+&lt;a href=&#34;https://laurentperrinet.github.io/grant/facets-itn/&#34;&gt;FACETS-ITN Marie-Curie&lt;/a&gt; initital
 training network for graduate training continues until August 2013&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;https://laurentperrinet.github.io/grant/brain-scales/&#34;&gt;BrainScaleS project&lt;/a&gt;
- builds on
+&lt;a href=&#34;https://laurentperrinet.github.io/grant/brain-scales/&#34;&gt;BrainScaleS project&lt;/a&gt; builds on
 and extends the research done in FACETS. This 4 year project started
 on January 1st, 2011.&lt;/p&gt;
 &lt;/li&gt;
@@ -314,20 +301,17 @@ id=&#34;line-9&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;http://facets.kip.uni-heidelberg.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACETS research project&lt;/a&gt;
- which
+&lt;a href=&#34;http://facets.kip.uni-heidelberg.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACETS research project&lt;/a&gt; which
 ended on 31 August 2010.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;https://laurentperrinet.github.io/grant/facets-itn/&#34;&gt;FACETS-ITN Marie-Curie&lt;/a&gt;
- initital
+&lt;a href=&#34;https://laurentperrinet.github.io/grant/facets-itn/&#34;&gt;FACETS-ITN Marie-Curie&lt;/a&gt; initital
 training network for graduate training continues until August 2013&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The 
-&lt;a href=&#34;https://laurentperrinet.github.io/grant/brain-scales/&#34;&gt;BrainScaleS project&lt;/a&gt;
- builds on
+&lt;a href=&#34;https://laurentperrinet.github.io/grant/brain-scales/&#34;&gt;BrainScaleS project&lt;/a&gt; builds on
 and extends the research done in FACETS. This 4 year project started
 on January 1st, 2011.&lt;/p&gt;
 &lt;/li&gt;
@@ -341,8 +325,7 @@ on January 1st, 2011.&lt;/p&gt;
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
       <guid>https://laurentperrinet.github.io/grant/pace-itn/</guid>
       <description>&lt;p&gt;The 
-&lt;a href=&#34;http://itn-pace.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PACE ITN&lt;/a&gt;
- project involves over 50 researchers spread across 10 full and 5 associated partners, from academia and the private sector, established in 7 different European and Associated countries, the PACE network gathers a broad range of expertise from experimental psychology, cognitive neurosciences, brain imaging, technology and clinical sciences.&lt;/p&gt;
+&lt;a href=&#34;http://itn-pace.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PACE ITN&lt;/a&gt; project involves over 50 researchers spread across 10 full and 5 associated partners, from academia and the private sector, established in 7 different European and Associated countries, the PACE network gathers a broad range of expertise from experimental psychology, cognitive neurosciences, brain imaging, technology and clinical sciences.&lt;/p&gt;
 &lt;p&gt;The PACE Project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 642961&lt;/p&gt;
 </description>
     </item>
