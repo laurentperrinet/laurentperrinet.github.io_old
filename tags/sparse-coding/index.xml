@@ -115,29 +115,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; data-caption=&#34;Video abstract&#34;&gt;
-
-
-  &lt;img src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
   
-  
-  &lt;figcaption&gt;
-    Video abstract
-  &lt;/figcaption&gt;
 
 
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;supplementary-material&#34;&gt;supplementary material&lt;/h2&gt;
+&lt;video controls &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 &lt;ul&gt;
 &lt;li&gt;supplementary info : &lt;a href=&#34;https://spikeai.github.io/HULK/&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
