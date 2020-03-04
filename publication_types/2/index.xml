@@ -164,19 +164,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-19-hulk/</guid>
       <description>&lt;h1 id=&#34;an-adaptive-algorithm-for-unsupervised-learning&#34;&gt;&amp;ldquo;An adaptive algorithm for unsupervised learning&amp;rdquo;&lt;/h1&gt;
-&lt;BR&gt;
-&lt;center&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19&#34;&gt;&lt;video controls autoplay loop src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; width=61.8%/&gt;&lt;/a&gt; &lt;/center&gt;
-&lt;BR&gt;
-## supplementary material
-* supplementary info : https://spikeai.github.io/HULK/
-* [Abstract](https://www.mdpi.com/2411-5150/3/3/47)
-* [HTML](https://www.mdpi.com/2411-5150/3/3/47/htm)
-* [PDF](https://www.mdpi.com/2411-5150/3/3/47/pdf)
-* code for paper: https://github.com/SpikeAI/HULK
-* code for framework: https://github.com/bicv/SparseHebbianLearning/
-* code for figures https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb (which is rendered @ https://spikeai.github.io/HULK/ )
-* [video abstract](https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4) (and the [code](https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html) for generating it)
-&lt;!--
 
 
 
@@ -195,22 +182,47 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;flash_lag.gif&#34; data-caption=&#34;Flash-Lag Effect. When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; data-caption=&#34;Video abstract&#34;&gt;
 
 
-  &lt;img src=&#34;flash_lag.gif&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
   
   
   &lt;figcaption&gt;
-    &lt;em&gt;Flash-Lag Effect.&lt;/em&gt; When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.
+    Video abstract
   &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
- --&gt;
+
+&lt;h2 id=&#34;supplementary-material&#34;&gt;supplementary material&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;supplementary info : &lt;a href=&#34;https://spikeai.github.io/HULK/&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;code for paper: &lt;a href=&#34;https://github.com/SpikeAI/HULK&#34;&gt;https://github.com/SpikeAI/HULK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;code for framework: &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning/&#34;&gt;https://github.com/bicv/SparseHebbianLearning/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;code for figures &lt;a href=&#34;https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb&#34;&gt;https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb&lt;/a&gt; (which is rendered @ &lt;a href=&#34;https://spikeai.github.io/HULK/&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt; )&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt;
+ (and the 
+&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;
+ for generating it)&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;!--
+ &lt;BR&gt;
+ &lt;center&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19&#34;&gt;&lt;video controls autoplay loop src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; width=61.8%/&gt;&lt;/a&gt; &lt;/center&gt;
+ &lt;BR&gt; --&gt;
 </description>
     </item>
     
