@@ -6,7 +6,7 @@
       <atom:link href="https://laurentperrinet.github.io/tags/past-grant/index.xml" rel="self" type="application/rss+xml" />
     <description>past-grant</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 15 Apr 2019 10:00:00 +0200</lastBuildDate>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 15 Apr 2019 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/img/hulk.png</url>
       <title>past-grant</title>
@@ -16,7 +16,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>SpikeAI: laureat du Défi Biomimétisme (2019)</title>
       <link>https://laurentperrinet.github.io/grant/spikeai/</link>
-      <pubDate>Mon, 15 Apr 2019 10:00:00 +0200</pubDate>
+      <pubDate>Mon, 15 Apr 2019 10:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/spikeai/</guid>
       <description>&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;
 &lt;ul&gt;
@@ -51,7 +51,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>ANR BalaV1 (2013/2016)</title>
       <link>https://laurentperrinet.github.io/grant/anr-bala-v1/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/anr-bala-v1/</guid>
       <description>&lt;h1 id=&#34;anr-balav1-balanced-states-in-area-v1-20132016&#34;&gt;ANR BalaV1: Balanced states in area V1 (2013/2016)&lt;/h1&gt;
 &lt;ul&gt;
@@ -69,7 +69,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>ANR REM (2013/2016)</title>
       <link>https://laurentperrinet.github.io/grant/anr-rem/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/anr-rem/</guid>
       <description>
 
@@ -111,7 +111,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>ANR SPEED (2013/2016)</title>
       <link>https://laurentperrinet.github.io/grant/anr-speed/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/anr-speed/</guid>
       <description>&lt;p&gt;Measuring speed and direction of moving objects is an essential computational step in order to move our eyes, hands or other body parts with respect to the environment. Whereas encoding and decoding of direction information is now largely understood in various neuronal systems, how the human brain accurately represents speed information remains largely unknown. Speed tuned neurons have been identified in several early cortical visual areas in monkeys. However, how such speed tuning emerges is not yet understood. A working hypothesis is that speed tuned neurons nonlinearly combine motion information extracted at different spatial and temporal scales, taking advantage of the statistical spatiotemporal properties of natural scenes. However, such pooling of information must be context dependent, varying with the spatial perceptual organization of the visual scenes. Furthermore, the population code underlying perceived speed is not elucidated either and therefore we are still far from understanding how speed information is decoded to drive and control motor responses or perceptual judgments.&lt;/p&gt;
 &lt;p&gt;Recently, we have proposed that speed estimation is intrinsically a multi-scale, task-dependent problem (Simoncini et al., Nature Neuroscience 2012) and we have defined a new set of motion stimuli, constructed as random phase dynamical textures that mimic the statistics of natural scenes (Sanz-Leon et al., Journal of Neurophysiology 2012). This approach has proved to be fruitful to investigate nonlinear properties of motion integration.&lt;/p&gt;
@@ -125,7 +125,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>ANR TRAJECTORY (2016/2019)</title>
       <link>https://laurentperrinet.github.io/grant/anr-trajectory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/anr-trajectory/</guid>
       <description>&lt;p&gt;Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities. However such local, piecewise, analysis ignores the recent history of motion and faces several difficulties, such as systematic delays, ambiguous information processing (e.g., aperture and correspondence problems61) high sensitivity to noise and segmentation problems when several objects are present. Indeed, two main aspects of visual processing have been largely ignored by the dominant, classical feed-forward scheme. First, natural inputs are often ambiguous, dynamic and non-stationary as, e.g., objects moving along complex trajectories. To process them, the visual system must segment them from the scene, estimate their position and direction over time and predict their future location and velocity. Second, each of these processing steps, from the retina to the highest cortical areas, is implemented by an intricate interplay of feed-forward, feedback and horizontal interactions1. Thus, at each stage, a moving object will not only be processed locally, but also generate a lateral propagation of information. Despite decades of motion processing research, it is still unclear how the early visual system processes motion trajectories. We, among others, have proposed that anisotropic diffusion of motion information in retinotopic maps can contribute resolving many of these difficulties25 13. Under this perspective, motion integration, anticipation and prediction would be jointly achieved through the interactions between feed-forward, lateral and feedback propagations within a common spatial reference frame, the retinotopic maps.&lt;/p&gt;
 &lt;p&gt;Addressing this question is particularly challenging, as it requires to probe these sequences of events at multiple scales (from individual cells to large networks) and multiple stages (retina, primary visual cortex (V1)). “TRAJECTORY” proposes such an integrated approach. Using state-of-the-art micro- and mesoscopic recording techniques combined with modeling approaches, we aim at dissecting, for the first time, the population responses at two key stages of visual motion encoding: the retina and V1. Preliminary experiments and previous computational studies demonstrate the feasibility of our work. We plan three coordinated physiology and modeling work-packages aimed to explore two crucial early visual stages in order to answer the following questions: How is a translating bar represented and encoded within a hierarchy of visual networks and for which condition does it elicit anticipatory responses? How is visual processing shaped by the recent history of motion along a more or less predictable trajectory? How much processing happens in V1 as opposed to simply reflecting transformations occurring already in the retina?&lt;/p&gt;
@@ -196,7 +196,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>DOC2AMU (2016/2019)</title>
       <link>https://laurentperrinet.github.io/grant/doc-2-amu/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/doc-2-amu/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://doc2amu.univ-amu.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DOC2AMU&lt;/a&gt; is co-funded by the prestigious Marie Skłodowska-Curie COFUND action within the H2020 Research and Innovation programme of the European Union and by the Regional Council of Provence-Alpes-Côte d’Azur, with a contribution from A*MIDEX Foundation.&lt;/p&gt;
@@ -209,7 +209,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>BrainScaleS (2011/2014) </title>
       <link>https://laurentperrinet.github.io/grant/brain-scales/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/brain-scales/</guid>
       <description>&lt;p&gt;List of publications that were funded by European Union&amp;rsquo;s project Number FP7-269921, &amp;ldquo;
 &lt;a href=&#34;http://brainscales.kip.uni-heidelberg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BrainScales&lt;/a&gt;&amp;quot;.&lt;/p&gt;
@@ -238,7 +238,7 @@ on January 1st, 2011.&lt;/p&gt;
     <item>
       <title>CODDE (2008/2012)</title>
       <link>https://laurentperrinet.github.io/grant/codde/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/codde/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;http://www.optimaldecisions.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CODDE&lt;/a&gt; network studies the links between sensory input, brain activity and motor output. It does this by combining behavioural techniques, brain imaging, movement recording and computational modelling.&lt;/p&gt;
@@ -248,7 +248,7 @@ on January 1st, 2011.&lt;/p&gt;
     <item>
       <title>FACETS (2006/2010)</title>
       <link>https://laurentperrinet.github.io/grant/facets/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/facets/</guid>
       <description>&lt;p&gt;List of publications that were funded by the
 &lt;a href=&#34;http://facets.kip.uni-heidelberg.de/&#34; class=&#34;http&#34;&gt;FACETS&lt;/a&gt;
@@ -283,7 +283,7 @@ on January 1st, 2011.&lt;/p&gt;
     <item>
       <title>FACETS-ITN (2010/2013)</title>
       <link>https://laurentperrinet.github.io/grant/facets-itn/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/facets-itn/</guid>
       <description>&lt;h1 id=&#34;facets-itn-from-neuroscience-to-neuro-inspired-computing-20102013&#34;&gt;FACETS-ITN: From Neuroscience to neuro-inspired computing (2010/2013)&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://facets.kip.uni-heidelberg.de/ITN/index.html&#34; class=&#34;http&#34;&gt;&lt;img src=&#34;http://facets.kip.uni-heidelberg.de/images/e/e3/Public--ITN_PositionsPoster2.png&#34; title=&#34;http://facets.kip.uni-heidelberg.de/ITN/index.html&#34; alt=&#34;http://facets.kip.uni-heidelberg.de/ITN/index.html&#34; class=&#34;external_image&#34; style=&#34;width:25.0%&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -322,7 +322,7 @@ on January 1st, 2011.&lt;/p&gt;
     <item>
       <title>PACE-ITN (2015/2019)</title>
       <link>https://laurentperrinet.github.io/grant/pace-itn/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/pace-itn/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;http://itn-pace.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PACE ITN&lt;/a&gt; project involves over 50 researchers spread across 10 full and 5 associated partners, from academia and the private sector, established in 7 different European and Associated countries, the PACE network gathers a broad range of expertise from experimental psychology, cognitive neurosciences, brain imaging, technology and clinical sciences.&lt;/p&gt;
