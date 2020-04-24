@@ -314,13 +314,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Marseille&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marseille&lt;/a&gt;, a lively town by the Mediterranean sea in the south of France, but the applicant will be asked also to show mobility to visit the other partner lab when needed.&lt;/p&gt;
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-  dateFormat  YYYY-MM-DD
+  dateFormat  YYYY-MM
   section Publication of offer
-  Publication of offer           :a1, 2019-10-21, 1m
-  End collecting offers      :after a1  , 1m
+  Publication of offer           :a1, 2019-10-21, 30d
+  End collecting offers      :after a1 , 30d
   section Selection
-  Selection process      :2020-01-21, 1m
-  Final decision      : 1m
+  Selection process      :2020-01-21, 30d
+  Final decision      : 30d
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
 &lt;ul&gt;
