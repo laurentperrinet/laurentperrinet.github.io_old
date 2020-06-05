@@ -1,0 +1,20 @@
+@inproceedings{Simoncini14vss,
+ abstract = {Under natural viewing conditions, large eye movements are interspace by small eye movements (microsaccade). Recent works have shown that these two kinds of eye movements are generate by the same oculomotor mechanisms (Goffart et al., 2012) and are driven from the same visual information (Simoncini et al., VSS 2012 abstract). These results seem to demonstrate that microsaccade and saccade represent a continuum of the same ocular movement. However, if the role played in vision perception by large saccades is clearly identified, the role of the microsaccade is not clearly defined. In order to investigate the role of microsaccade, we measured pattern discrimination performance using an ABX match-to-sample task during the presentation of 1/f natural statistics texture where we varied the spatial frequency contents. We compared perceptual performance with eye movements recorded during the task. We found that the rate of microsaccadic movements changed as a function of the subjects task strategy. In particular, in the trials where the perception of the difference between the stimuli was simple (low spatial frequency) the subjects used the information provided by all the stimuli to do the task and the microsaccadic rate for all the stimuli (ABX) was the same. However, when the perception of the difference between the stimuli was harder (for instance for high spatial frequency), the subjects rather used the information provided by the last two stimuli only and the microsaccadic rate for the image BX increased respect at the image A. These results demonstrate that microsaccadic eye movements also play a role during the analysis of the visual scene and that such experiments can help decipher their participation to perception of the scene. Goffart L., Hafed Z.M., Krauzlis R.J. 2012. Visual fixation as equilibrium: evidence from superior colliculus inactivation. (31) 10627-10636.},
+ author = {Simoncini, Claudio and Montagnini, Anna and Perrinet, Laurent U and Masson, Guillaume S},
+ bdsk-url-1 = {http://dx.doi.org/10.1167/14.10.110},
+ date = {2014-08-22},
+ date-modified = {2020-03-31 11:07:30 +0200},
+ doi = {10.1167/14.10.110},
+ grants = {brain-scales,codde},
+ issn = {1534-7362},
+ journal = {Journal of Vision},
+ keywords = {eye movements,motion detection,motion-clouds,psychophysics},
+ number = {10},
+ pages = {110},
+ publisher = {Association for Research in Vision and Ophthalmology},
+ title = {The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task},
+ url = {http://dx.doi.org/10.1167/14.10.110},
+ volume = {14},
+ year = {2014}
+}
+
