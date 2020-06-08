@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Cristóbal | Novel visual computations</title>
+    <link>https://laurentperrinet.github.io/author/gabriel-cristobal/</link>
+      <atom:link href="https://laurentperrinet.github.io/author/gabriel-cristobal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriel Cristóbal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 18 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Gabriel Cristóbal</title>
+      <link>https://laurentperrinet.github.io/author/gabriel-cristobal/</link>
+    </image>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-mindmap-of-the-book-contents-cross-links-between-chapters-have-been-indicated-as-thin-lines&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;1276&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Biologically Inspired Computer Vision</title>
+      <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</link>
+      <pubDate>Wed, 07 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-biologically-inspired-computer-vision&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Biologically Inspired Computer vision&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;287&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Biologically Inspired Computer vision
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;biologically-inspired-computer-vision&#34;&gt;Biologically Inspired Computer Vision&lt;/h1&gt;
+&lt;p&gt;As state-of-the-art imaging technologies becomes more and more advanced, yielding scientific data at unprecedented detail and volume, the need to process and interpret all the data has made image processing and computer vision also increasingly important. Sources of data that have to be routinely dealt with today applications include video transmission, wireless communication, automatic fingerprint processing, massive databanks, non-weary and accurate automatic airport screening, robust night vision to name a few. Multidisciplinary inputs from other disciplines such as computational neuroscience, cognitive science, mathematics, physics and biology will have a fundamental impact in the progress of imaging and vision sciences. One of the advantages of the study of biological organisms is to devise very diﬀerent type of computational paradigms beyond the usual von Neumann e.g. by implementing a neural network with a high degree of local connectivity.
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;960&#34; height=&#34;287&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+This is a comprehensive and rigorous reference in the area of biologically motivated vision sensors. The study of biologically visual systems can be considered as a two way avenue. On the one hand, biological organisms can provide a source of inspiration for new computational efficient and robust vision models and on the other hand machine vision approaches can provide new insights for understanding biological visual systems. Along the different chapters, this book covers a wide range of topics from fundamental to more specialized topics, including visual analysis based on a computational level, hardware implementation, and the design of new more advanced vision sensors. The last two sections of the book provide an overview of a few representative applications and current state of the art of the research in this area. This makes it a valuable book for graduate, Master, PhD students and also researchers in the field.
+This book contains 17 chapters that have been organized in four different parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fundamentals&lt;/li&gt;
+&lt;li&gt;Sensing&lt;/li&gt;
+&lt;li&gt;Modeling&lt;/li&gt;
+&lt;li&gt;Applications
+See the 
+&lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Table of contents&lt;/a&gt;.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;mindmap.png&#34; &gt;
+
+
+  &lt;img src=&#34;mindmap.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advances in Texture Analysis for Emphysema Classification</title>
+      <link>https://laurentperrinet.github.io/publication/nava-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/nava-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Invertible 2D Log-Gabor Wavelets</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-07-cv/</link>
+      <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/fischer-07-cv/</guid>
+      <description>
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-1-multiresolution-schemes-a-schematic-contours-of-the-log-gabor-filters-in-the-fourier-domain-with-5-scales-and-8-orientations-only-the-contours-at-78-of-the-filter-maximum-are-drawn-b-the-real-part-of-the-corresponding-filters-is-drawn-in-the-spatial-domain-the-two-first-scales-are-drawn-at-the-bottom-magnified-by-a-factor-of-4-for-a-better-visualization-the-different-scales-are-arranged-in-rows-and-the-orientations-in-columns-the-low-pass-filter-is-drawn-in-the-upper-left-part-c-the-corresponding-imaginary-parts-of-the-filters-are-shown-in-the-same-arrangement-note-that-the-low-pass-filter-does-not-have-imaginary-part-insets-b-and-c-show-the-final-filters-built-through-all-the-processes-described-in-section-2-d-in-the-proposed-scheme-the-elongation-of-log-gabor-wavelets-increases-with-the-number-of-orientations-nt--here-the-real-parts-left-column-and-imaginary-parts-right-column-are-drawn-for-the-3-4-6-8-10-12-and-16-orientation-schemes-e-as-a-comparison-orthogonal-wavelet-filters-db4-are-shown-horizontal-vertical-and-diagonal-wavelets-are-arranged-on-columns-low-pass-on-top-f-as-a-second-comparison-steerable-pyramid-filters-portilla-et-al-2003-are-shown-the-arrangement-over-scales-and-orientations-is-the-same-as-for-the-log-gabor-scheme&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/figure1_hu855fde1d10292610ea30d8b3a201517d_94218_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Figure 1 Multiresolution schemes. (a) Schematic contours of the log-Gabor filters in the Fourier domain with 5 scales and 8 orientations (only the contours at 78% of the filter maximum are drawn). (b) The real part of the corresponding filters is drawn in the spatial domain. The two first scales are drawn at the bottom magnified by a factor of 4 for a better visualization. The different scales are arranged in rows and the orientations in columns. The low-pass filter is drawn in the upper-left part. (c) The corresponding imaginary parts of the filters are shown in the same arrangement. Note that the low-pass filter does not have imaginary part. Insets (b) and (c) show the final filters built through all the processes described in Section 2. (d) In the proposed scheme the elongation of log-Gabor wavelets increases with the number of orientations nt . Here the real parts (left column) and imaginary parts (right column) are drawn for the 3, 4, 6, 8, 10, 12 and 16 orientation schemes. (e) As a comparison orthogonal wavelet filters ‘Db4’ are shown. Horizontal, vertical and diagonal wavelets are arranged on columns (low-pass on top). (f) As a second comparison, steerable pyramid filters (Portilla et al., 2003) are shown. The arrangement over scales and orientations is the same as for the log-Gabor scheme.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/figure1_hu855fde1d10292610ea30d8b3a201517d_94218_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;80%&#34; height=&#34;392&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;strong&gt;Figure 1&lt;/strong&gt; Multiresolution schemes. (a) Schematic contours of the log-Gabor filters in the Fourier domain with 5 scales and 8 orientations (only the contours at 78% of the filter maximum are drawn). (b) The real part of the corresponding filters is drawn in the spatial domain. The two first scales are drawn at the bottom magnified by a factor of 4 for a better visualization. The different scales are arranged in rows and the orientations in columns. The low-pass filter is drawn in the upper-left part. (c) The corresponding imaginary parts of the filters are shown in the same arrangement. Note that the low-pass filter does not have imaginary part. Insets (b) and (c) show the final filters built through all the processes described in Section 2. (d) In the proposed scheme the elongation of log-Gabor wavelets increases with the number of orientations nt . Here the real parts (left column) and imaginary parts (right column) are drawn for the 3, 4, 6, 8, 10, 12 and 16 orientation schemes. (e) As a comparison orthogonal wavelet filters ‘Db4’ are shown. Horizontal, vertical and diagonal wavelets are arranged on columns (low-pass on top). (f) As a second comparison, steerable pyramid filters (Portilla et al., 2003) are shown. The arrangement over scales and orientations is the same as for the log-Gabor scheme.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Sparse Approximation of Images Inspired from the Functional Architecture of the Primary Visual Areas</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections-&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; data-caption=&#34;Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).&#34;&gt;
+
+
+  &lt;img src=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
+      <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
+      <pubDate>Thu, 18 Aug 2005 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections-&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; data-caption=&#34;Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).&#34;&gt;
+
+
+  &lt;img src=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Sparse Gabor wavelets by local operations</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-05-a/</link>
+      <pubDate>Wed, 29 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/fischer-05-a/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections-&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; data-caption=&#34;Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).&#34;&gt;
+
+
+  &lt;img src=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient representation of natural images using local cooperation</title>
+      <link>https://laurentperrinet.github.io/publication/fischer-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/fischer-05/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections-&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; data-caption=&#34;Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).&#34;&gt;
+
+
+  &lt;img src=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>probalistic-inference | Novel visual computations</title>
+    <link>https://laurentperrinet.github.io/tag/probalistic-inference/</link>
+      <atom:link href="https://laurentperrinet.github.io/tag/probalistic-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>probalistic-inference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>probalistic-inference</title>
+      <link>https://laurentperrinet.github.io/tag/probalistic-inference/</link>
+    </image>
+    
+    <item>
+      <title>2019-05-20: Symposium on Active Inference at NeuroFrance 2019</title>
+      <link>https://laurentperrinet.github.io/post/2019-05-23-neurofrance/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/post/2019-05-23-neurofrance/</guid>
+      <description>&lt;h2 id=&#34;active-inference-bridging-theoretical-and-experimental-neurosciences--inference-active-un-pont-entre-neurosciences-théoriques-et-expérimentales&#34;&gt;Active Inference: Bridging theoretical and experimental neurosciences. / Inference Active: Un pont entre neurosciences théoriques et expérimentales.&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.neurosciences.asso.fr/V2/colloques/SN19/index_en.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://neuro-marseille.org/wp-content/uploads/2018/07/capture-decran-2018-07-06-a-190423.png&#34; alt=&#34;Site NeuroFrance&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SYMPOSIUM S17&lt;/li&gt;
+&lt;li&gt;When: 23.05.2019 11:00-13:00h&lt;/li&gt;
+&lt;li&gt;When: Endoume 1+2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;s171httpswwwprofessionalabstractscomnf2019iplannerpresentation1397-active-inference-and-brain-computer-interfaces--inférence-active-et-interfaces-cerveau-machine&#34;&gt;
+&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1397&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S17.1&lt;/a&gt; 	Active inference and Brain-Computer Interfaces / Inférence active et interfaces cerveau-machine&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mattout J. (Lyon, France), Mladenovic J. (Lyon, France), Frey J. (Bordeaux, France)3, Joffily M. (Lyon, France), Maby E. (Lyon, France), Lotte F. (Lyon, France)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Brain-Computer Interfaces (BCIs) devices bypass natural pathways to connect the brain with a machine, directly. They may rely on invasive or non-invasive measures of brain activity and applications cover a large domain, mostly but not restricted to clinical ones. A major objective is to restore communication and autonomy in heavily motor impaired patients.
+However, no BCI has made its way to a routinely used clinical application yet. One lead for improvement is to endow the machine with learning abilities so that it can optimize its decisions and adapt to changes in the user signals over time1. Several approaches have been proposed but a generic framework is still lacking to foster the development of efficient adaptive BCIs2.
+Initially proposed to model perception, learning and action by the brain, the Active Inference (AI) framework offers great promises in that aim3. It rests on an explicit generative model of the environment. In BCI, from the machine&amp;rsquo;s point of view, brain signals play the role of sensory inputs on which the machine&amp;rsquo;s perception of mental states will be based. Furthermore, the machine builds up decisions and trades between different actions such as: go on observing, deciding to decide, correcting its previous action or moving on.
+In this talk, I will present an instantiation of AI in the context of the EEG-based P300-speller BCI for communication, showing it can flexibly combine complementary adaptive features pertaining to both perception and action, and yield significant improvements as shown on realistic simulations. We will discuss perspectives to further extend the current model and performance as well as the challenges ahead to implement this framework online.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mattout, J. Brain-Computer Interfaces: A Neuroscience Paradigm of Social Interaction? A Matter of Perspective. Frontiers in Human Neuroscience 6, (2012).&lt;/li&gt;
+&lt;li&gt;Mladenovic, J., Mattout, J. &amp;amp; Lotte, F. A Generic Framework for Adaptive EEG-Based BCI Training and Operation. in Brain-computer interfaces handbook: technological and theoretical advances (eds. Nam, C. S., Nijholt, A. &amp;amp; Lotte, F.) Chapter 31 (Taylor &amp;amp; Francis, CRC Press, 2018).&lt;/li&gt;
+&lt;li&gt;Friston, K., Mattout, J. &amp;amp; Kilner, J. Action understanding and active inference. Biological Cybernetics 104, 137-160 (2011).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;s172httpswwwprofessionalabstractscomnf2019iplannerpresentation1398-comparing-active-inference-and-reinforcement-learning-models-of-a-go-nogo-task-and-their-relationships-to-striatal-dopamine-2-receptors-assessed-using-pet--comparaison-des-modèles-dinférence-active-et-dapprentissage-par-renforcement-dans-une-tâche-go--nogo--relation-avec-les-récepteurs-dopaminergiques-d2-striataux-évalués-par-tep&#34;&gt;
+&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S17.2&lt;/a&gt; 	Comparing active inference and reinforcement learning models of a Go NoGo task and their relationships to striatal dopamine 2 receptors assessed using PET / Comparaison des modèles d&amp;rsquo;inférence active et d&amp;rsquo;apprentissage par renforcement dans une tâche Go / NoGo : relation avec les récepteurs dopaminergiques D2 striataux évalués par TEP&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;R. Adams (London)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398&#34;&gt;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adaptive behaviour includes the ability to choose actions that result in advantageous outcomes. It is key to survival and a fundamental function of nervous systems. Active inference (AI) and reinforcement learning (RL) are two influential models of how the brain might achieve this. A key AI parameter is the precision of beliefs about policies. Precision controls the stochasticity of action selection - similar to decision temperature in RL - and is thought to be encoded by striatal dopamine. 75 healthy subjects performed a &amp;lsquo;go/no-go&amp;rsquo; task, and we measured striatal dopamine 2/3 receptor (D2/3R) availability in a subset of 25 using [11C]-(+)-PHNO positron emission tomography. In behavioural model comparison, RL performed best across the whole group but AI performed best in accurate subjects. D2/3R availability in the limbic striatum correlated with AI policy precision and also with RL irreducible decision &amp;lsquo;noise&amp;rsquo;. Limbic striatal D2/3R availability also correlated with AI Pavlovian prior beliefs - i.e. the respective probabilities of making or withholding actions in rewarding or loss-avoiding contexts - and the RL learning rate. These findings are consistent with the notion that occupancy of inhibitory striatal D2/3Rs controls the variability of action selection.&lt;/p&gt;
+&lt;h3 id=&#34;s173httpswwwprofessionalabstractscomnf2019iplannerpresentation1399-principles-and-psychophysics-of-active-inference-in-anticipating-a-dynamic-switching-probabilistic-bias--principes-et-psychophysique-de-linférence-active-dans-lestimation-dun-biais-dynamique-et-volatile-de-probabilité&#34;&gt;
+&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1399&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S17.3&lt;/a&gt; 	Principles and psychophysics of active inference in anticipating a dynamic, switching probabilistic bias / Principes et psychophysique de l&amp;rsquo;inférence active dans l´estimation d&amp;rsquo;un biais dynamique et volatile de probabilité&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;L. Perrinet (Marseille)&lt;/li&gt;
+&lt;li&gt;see more info on this 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;s174httpswwwprofessionalabstractscomnf2019iplannerpresentation1400-is-laziness-contagious-a-computational-approach-to-attitude-alignment--la-fainéantise-est-elle-contagieuse-une-approche-computationnelle-de-lalignement-des-attitudes&#34;&gt;
+&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S17.4&lt;/a&gt; 	Is laziness contagious? A computational approach to attitude alignment / La fainéantise est-elle contagieuse? Une approche computationnelle de l´alignement des attitudes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;J. Daunizeau (Paris)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What do people learn from observing others´ attitudes, such as prudence, impatience or laziness? Rather than viewing these attitudes as examples of subjective and biologically entrenched personality traits, we assume that they derive from uncertain (and mostly implicit) beliefs about how to best weigh risks, delays and efforts in ensuing cost-benefit trade-offs. In this view, it is adaptive to update one´s belief after having observed others´ attitude, which provides valuable information regarding how to best behave in related difficult decision contexts. This is the starting point of our bayesian model of attitude alignment, which we derive in the light of recent neuroimaging findings. First, we disclose a few non-trivial predictions from this model. Second, we validate these predictions experimentally by profiling people´s prudence, impatience and laziness both before and after guessing a series of cost-benefit arbitrages performed by calibrated artificial agents (which are impersonating human individuals). Third, we extend these findings and assess attitude alignment in autistic individuals. Finally, we discuss the relevance and implications of this work, with a particular emphasis on the assessment of biases of social cognition.&lt;/p&gt;
+&lt;h3 id=&#34;s175httpswwwprofessionalabstractscomnf2019iplannerpresentation223-generative-bayesian-modeling-for-causal-inference-between-neural-activity-and-behavior-in-drosophila-larva&#34;&gt;
+&lt;a href=&#34;https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/223&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;S17.5&lt;/a&gt; 	Generative Bayesian modeling for causal inference between neural activity and behavior in Drosophila larva&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;C. Barre (Paris) (TBC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A fundamental property of the central nervous system is its ability to select appropriate behavioral patterns or sequences of behavioral patterns in response to sensory cues, but what are the biological mechanisms underlying decision making? The Drosophila larva is an ideal animal model for reverse-engineering the neural processes underlying behavior. The full connectome of the larva brain has been imaged at the individual-synapse level using electron microscopy.
+The host of genetic techniques available for Drosophila allows us to optogenetically manipulate over 1,500 of its roughly 12,000 neurons individually in freely behaving larvae.
+This enables us to establish causal relationships between neural activity, and behavior at the fundamental level of individual neurons and neural connections.
+We have access to video record of the individual behavior of ~3,000,000 larvae. We have identified 6 stereotypical behavioral patterns using a combination of supervised and unsupervised machine learning. The behavioral identified for the larva: crawl, turn, stop, crawl backward, hunch (retract the head), and roll (lateral slide). Each realization of a behavioral pattern is characterized by a different duration, amplitude, and velocity.
+Here we present a generative model that extracts the behavior of wildtype larvae using Bayesian inference, and interprets behavioral changes following neuron activation or inactivation from large-scale experimental screens. Fig. shows the average behavior of 10,000 larvae over time in a screen where a single neuron is activated at t=30s. A clear change in behavior is seen following activation is seen which is well captured by the model, illustrating its accuracy.
+The generative model enables us to robustly detect behavioral modifications as significant deviations of the patterns in the larvae&amp;rsquo;s sequence of activities from their equilibrium behavior.&lt;/p&gt;
+&lt;h3 id=&#34;neurofrance-marseille-capitale-des-neurosciences&#34;&gt;NeuroFrance: Marseille, capitale des neurosciences&lt;/h3&gt;
+&lt;p&gt;Du  22 au 24 mai 2019 au Palais des congrès de Marseille (Parc Chanot), près de 1300 chercheurs, cliniciens et étudiants venus du monde entier partageront leurs travaux lors de NeuroFrance 2019, colloque international organisé par la Société des Neurosciences.Au total, 8 conférences plénières, 42 symposiums, 6 sessions spécialisées, 525 communications affichées, ainsi qu’une exposition avec 42 entreprises et sociétés de biotechnologies, feront de ce colloque un moment exceptionnel pour mettre en lumière les avancées majeures scientifiques et technologiques sur le fonctionnement du cerveau. Vous pourrez aussi découvrir le &amp;ldquo;Neurovillage&amp;rdquo; qui permettra de vous immerger au cœur des innovations neuroscientifiques marseillaises, ainsi que  l’exposition  « L’Art en tête », composée de cinq œuvres originales créées par des artistes et des scientifiques. Plusieurs événements seront également proposés autour du colloque pour le grand public comme pour les chercheurs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018-04-05 : *Probabilities and Optimal Inference to understand the Brain* Workshop</title>
+      <link>https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/post/2018-04-05_optimal-inference-brain-workshop/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;IMG_20180406_164630.jpg&#34; alt=&#34;participants&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;probabilities-and-optimal-inference-to-understand-the-brain&#34;&gt;Probabilities and Optimal Inference to understand the Brain&lt;/h1&gt;
+&lt;h2 id=&#34;a-2-day-workshop-at-the-institute-of-neurosciences-timone-in-marseille&#34;&gt;a 2-day workshop at the Institute of Neurosciences Timone in Marseille&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;affiche&#34;&gt;&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Date&lt;/dt&gt;
+&lt;dd&gt;April 5-6th 2018&lt;/dd&gt;
+&lt;dt&gt;Location&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.int.univ-amu.fr/contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Neurosciences Timone in Marseille in the south of
+France&lt;/a&gt;&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Main site&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;&lt;a href=&#34;https://opt-infer-brain.sciencesconf.org/&#34;&gt;https://opt-infer-brain.sciencesconf.org/&lt;/a&gt;&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Full program&lt;/dt&gt;
+&lt;dd&gt;
+&lt;p&gt;&lt;a href=&#34;https://opt-infer-brain.sciencesconf.org/program/details&#34;&gt;https://opt-infer-brain.sciencesconf.org/program/details&lt;/a&gt;.&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Organizing committee&lt;/dt&gt;
+&lt;dd&gt;Paul Apicella, Frederic Danion, Nicole Malfait, Anna Montagnini and
+Laurent Perrinet&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.int.univ-amu.fr/IMG/200x130xsiteon0.png,q1331299836.pagespeed.ic.IKYGzK4Zu8.png&#34; alt=&#34;Sponsored by&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
