@@ -4,9 +4,6 @@ title: "Welcome"
 description: "Homepage of Laurent Perrinet"
 ---
 
-<a href="https://invibe.net">legacy website</a>
-
-
 <a href="https://laurentperrinet.github.io/sciblog/">sciblog</a>
 
 Recent news
