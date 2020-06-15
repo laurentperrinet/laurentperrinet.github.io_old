@@ -22,17 +22,20 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;p&gt;Applications are welcome for a doctoral position at 
 &lt;a href=&#34;http://www.int.univ-amu.fr/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INT&lt;/a&gt; in 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Marseille&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marseille&lt;/a&gt;, France. Your mission will be to build ultra-fast vision algorithms using event-based cameras and spiking neural networks. The project is funded by the 
-&lt;a href=&#34;https://laurentperrinet.github.io/grant/aprovis-3-d/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APROVIS3D&lt;/a&gt; grant (ANR-19-CHR3-0008-03) from the French National Research Agency (ANR) and will be coordinated by 
+&lt;a href=&#34;https://laurentperrinet.github.io/grant/aprovis-3-d/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APROVIS3D&lt;/a&gt; grant (ANR-19-CHR3-0008-03) and will be coordinated by 
 &lt;a href=&#34;https://laurentperrinet.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Perrinet&lt;/a&gt;. We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.&lt;/p&gt;
 &lt;p&gt;For more information, visit 
 &lt;a href=&#34;https://laurentperrinet.github.io/post/2020-06-30_phd-position&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/post/2020-06-30_phd-position&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The starting date is set to October 1st, 2020. To obtain further information, please contact me @ 
 &lt;a href=&#34;mailto:Laurent.Perrinet@univ-amu.fr&#34;&gt;Laurent.Perrinet@univ-amu.fr&lt;/a&gt;. The appointment is for 36 month. Applications are welcome immediately.&lt;/p&gt;
 &lt;p&gt;Thanks for distributing this announcement to potential candidates!&lt;/p&gt;
-&lt;h1 id=&#34;detailed-description-visual-computations-using-spatio-temporal-diffusion-kernels-and-traveling-waves&#34;&gt;Detailed description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves&lt;/h1&gt;
-&lt;p&gt;Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. In some aspects, it is relatively slow compared to biological vision. It is believed that one major factor of this rapidity is the fact that visual information is represented by short pulses (spikes) at analog – not discrete – times 
-&lt;a href=&#34;#Paugam12&#34;&gt;Paugam and Bohte, 2012&lt;/a&gt;. However, computer vision algorithms using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power sensing and processing architecture of visual scenes, running on analog devices without a central clock and aims to validate them in real-life situations. More specifically, the project will develop new paradigms for biologically inspired vision, from sensing to processing, in order to help machines such as Unmanned Autonomous Vehicles (UAV), autonomous vehicles, or robots gain high-level understanding from visual scenes.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;In this doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: &lt;em&gt;lateral diffusion of sensory-evoked traveling waves&lt;/em&gt; (
+&lt;h1 id=&#34;detailed-description-ultra-fast-vision-using-spiking-neural-networks&#34;&gt;Detailed description: &amp;ldquo;Ultra-fast vision using Spiking Neural Networks&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. In some aspects, it is also relatively slow compared to biological vision. It is believed that one major factor of this rapidity is the fact that visual information is represented by short pulses (spikes) at analog – not discrete – times (
+&lt;a href=&#34;#Paugam12&#34;&gt;Paugam and Bohte, 2012&lt;/a&gt;). However, computer vision algorithms overcoming limitations of classical frame-based approaches by using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power sensing and processing architecture of visual scenes, running on analog devices without a central clock and aims to validate them in real-life situations. More specifically, the project will develop new paradigms for biologically inspired computer vision (
+&lt;a href=&#34;#Cristobal15&#34;&gt;Cristobal, Keil and Perrinet, 2015&lt;/a&gt;), from sensing to processing, in order to help machines such as Unmanned Autonomous Vehicles (UAV), autonomous vehicles, or robots gain high-level understanding from visual scenes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In this doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: &lt;em&gt;spiking neural networks&lt;/em&gt; (
+&lt;a href=&#34;#Perrinet04&#34;&gt;Perrinet, Thorpe and Samuelides, 2004&lt;/a&gt;; 
+&lt;a href=&#34;#Lagorce16&#34;&gt;Lagorce et al., 2018&lt;/a&gt;) &lt;em&gt;lateral diffusion of sensory-evoked traveling waves&lt;/em&gt; (
 &lt;a href=&#34;#Chavane2000&#34;&gt;Chavane et al., 2011&lt;/a&gt;; 
 &lt;a href=&#34;#muller2018cortical&#34;&gt;Muller et al., 2018&lt;/a&gt;) and &lt;em&gt;dynamic neuronal association fields&lt;/em&gt; (
 &lt;a href=&#34;#Fr%c3%a9gnac2012&#34;&gt;Frégnac et al., 2012&lt;/a&gt;; 
@@ -77,6 +80,10 @@ Nous développerons ces algorithmes en collaboration avec
 &lt;a href=&#34;https://doi.org/10.1016/S0928-4257%2800%2901096-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Journal of Physiology Paris&lt;/em&gt; 94 (5-6): 333&amp;ndash;42.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;Cristobal15&#34;&gt;  Gabriel Cristóbal, Laurent U Perrinet, Matthias S Keil  (2015). &lt;/a&gt; &amp;ldquo;
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biologically Inspired Computer Vision.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Wiley&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a name=&#34;Field1993&#34;&gt; Field, D.J., Hayes, A. and Hess, R.F. (1993). &lt;/a&gt; &amp;ldquo;
 &lt;a href=&#34;https://doi.org/10.1016/0042-6989%2893%2990156-Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contour integration by the human visual system: Evidence for a local “association field”.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Vision Research&lt;/em&gt; 33 (2), pp. 173-193.&lt;/p&gt;
 &lt;/li&gt;
@@ -89,6 +96,10 @@ Nous développerons ces algorithmes en collaboration avec
 &lt;a href=&#34;https://www.abstractsonline.com/pp8/#!/7883/presentation/65856&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The feedback receptive field of neurons in the mammalian primary visual cortex.&lt;/a&gt;&amp;rdquo; &lt;em&gt;American Society for Neuroscience Abstracts&lt;/em&gt;,  403.13. Chicago.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;Lagorce16&#34;&gt;Lagorce, X., Orchard, G., Galluppi, F., Shi, B. E., &amp;amp; Benosman, R. B.&lt;/a&gt;  (2016). &amp;ldquo;
+&lt;a href=&#34;https://www.neuromorphic-vision.com/public/publications/1/publication.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HOTS: a hierarchy of event-based time-surfaces for pattern recognition.&lt;/a&gt;&amp;rdquo; &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a name=&#34;Li2002&#34;&gt;Li W, Piëch V, Gilbert CD&lt;/a&gt;  (2006). &amp;ldquo;
 &lt;a href=&#34;http://www.paper.edu.cn/scholar/showpdf/MUz2UN2INTA0eQxeQh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contour saliency in primary visual cortex.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Neuron&lt;/em&gt;, 50(6):951–962.&lt;/p&gt;
 &lt;/li&gt;
@@ -97,7 +108,11 @@ Nous développerons ces algorithmes en collaboration avec
 &lt;a href=&#34;https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cortical Travelling Waves: Mechanisms and Computational Principles.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Nature Reviews Neuroscience&lt;/em&gt; 19 (5): 255.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Paugam12&#34;&gt; Hélène Paugam-Moisy, Sander M. Bohte. &lt;/a&gt; (2012). &amp;ldquo;Computing with Spiking Neuron Networks.&amp;rdquo;&amp;rdquo; &lt;em&gt;Handbook of Natural Computing&lt;/em&gt;, Springer-Verlag, pp.335-376, 2012&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;Paugam12&#34;&gt; Hélène Paugam-Moisy, Sander M. Bohte. &lt;/a&gt; (2012). &amp;ldquo;Computing with Spiking Neuron Networks.&amp;rdquo; &lt;em&gt;Handbook of Natural Computing&lt;/em&gt;, Springer-Verlag, pp.335-376, 2012&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a name=&#34;Perrinet04&#34;&gt;  Laurent U Perrinet, Manuel Samuelides, Simon J Thorpe. &lt;/a&gt; (2004). &amp;ldquo;
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coding static natural images using spiking event times: do neurons cooperate?&lt;/a&gt;&amp;rdquo; &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a name=&#34;Tang18&#34;&gt;Tang, Hanlin, Martin Schrimpf, William Lotter, Charlotte Moerman, Ana Paredes, Josue Ortega Caro, Walter Hardesty, David Cox, and Gabriel Kreiman. &lt;/a&gt; (2018). &amp;ldquo;
