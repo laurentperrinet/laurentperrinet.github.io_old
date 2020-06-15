@@ -82,13 +82,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;a href=&#34;#muller2018cortical&#34;&gt;Muller et al., 2018&lt;/a&gt;) and &lt;em&gt;dynamic neuronal association fields&lt;/em&gt; (
 &lt;a href=&#34;#Fr%c3%a9gnac2012&#34;&gt;Frégnac et al., 2012&lt;/a&gt;; 
 &lt;a href=&#34;#Fr%c3%a9gnac2016&#34;&gt;Frégnac et al., 2016&lt;/a&gt;; 
-&lt;a href=&#34;#gerard2016synaptic&#34;&gt;Gerard-Mercier et al., 2016&lt;/a&gt;)&lt;/strong&gt;. Indeed, the architecture of primary visual cortex (V1), the direct target of the feedforward visual flow, contains dense local recurrent connectivity with sparse long-range connections (
-&lt;a href=&#34;#Voges12&#34;&gt;Voges and Perrinet, 2012&lt;/a&gt;). One starting point is to use event-based cameras (
+&lt;a href=&#34;#gerard2016synaptic&#34;&gt;Gerard-Mercier et al., 2016&lt;/a&gt;)&lt;/strong&gt;. One starting point is to use event-based cameras (
 &lt;a href=&#34;#Dupeyroux18&#34;&gt;Dupeyroux18 et al., 2018&lt;/a&gt;) and to extend results of self-supervised learning that we have obtained on static, natural images (
 &lt;a href=&#34;#BoutinFranciosiniChavaneRuffierPerrinet20&#34;&gt;Boutin et al., 2020&lt;/a&gt;) showing in a recurrent cortical-like artificial CNN architecture the emergence of interactions which phenomenologically correspond to the &amp;ldquo;association field&amp;rdquo; described at the psychophysical (
 &lt;a href=&#34;#Field1993&#34;&gt;Field et al., 1993&lt;/a&gt;), spiking (
 &lt;a href=&#34;#Li2002&#34;&gt;Li and Gilbert, 2002&lt;/a&gt;) and synaptic (
-&lt;a href=&#34;#gerard2016synaptic&#34;&gt;Gerard-Mercier et al., 2016&lt;/a&gt;) levels. Such connections add to the traditional convolutional kernels representing feedforward and local recurrent amplification a novel lateral interaction kernel within a single layer (across positions and channels). Less studied, but probably decisive in active vision, recurrent cortico-cortical loops add a level of distributed top-down complexity which participates to the lateral integration of sensory input and perceptual context (
+&lt;a href=&#34;#gerard2016synaptic&#34;&gt;Gerard-Mercier et al., 2016&lt;/a&gt;) levels. Indeed, the architecture of primary visual cortex (V1), the direct target of the feedforward visual flow, contains dense local recurrent connectivity with sparse long-range connections (
+&lt;a href=&#34;#Voges12&#34;&gt;Voges and Perrinet, 2012&lt;/a&gt;). Such connections add to the traditional convolutional kernels representing feedforward and local recurrent amplification a novel lateral interaction kernel within a single layer (across positions and channels). Less studied, but probably decisive in active vision, recurrent cortico-cortical loops add a level of distributed top-down complexity which participates to the lateral integration of sensory input and perceptual context (
 &lt;a href=&#34;#Keller2019&#34;&gt;Keller et al., 2019&lt;/a&gt;). Coupled with the dynamics of cortical circuits, this elaborate multiplexed architecture provides the conditions possible for generating information diffusion through traveling waves. We aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.&lt;/p&gt;
 &lt;h2 id=&#34;expected-profile-of-the-candidate&#34;&gt;Expected profile of the candidate&lt;/h2&gt;
 &lt;p&gt;Candidates should have experience in the domain of computational neuroscience, physics, engineering or related, and a solid training in machine learning and computer vision.&lt;/p&gt;
@@ -110,50 +110,50 @@ Nous développerons ces algorithmes en collaboration avec
 &lt;h1 id=&#34;references&#34;&gt;References&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;BoutinFranciosiniChavaneRuffierPerrinet20&#34;&gt; Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). &lt;/a&gt; &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;BoutinFranciosiniChavaneRuffierPerrinet20&#34;&gt;Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). &lt;/a&gt; &amp;ldquo;
 &lt;a href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.&lt;/a&gt;&amp;rdquo; &lt;em&gt;arXiv&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Dupeyroux18&#34;&gt; Julien Dupeyroux, Victor Boutin, Julien R Serres, Laurent U Perrinet, Stéphane Viollet. (2018). &lt;/a&gt; &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;Dupeyroux18&#34;&gt;Julien Dupeyroux, Victor Boutin, Julien R Serres, Laurent U Perrinet, Stéphane Viollet. (2018). &lt;/a&gt; &amp;ldquo;
 &lt;a href=&#34;https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation.&lt;/a&gt;&amp;rdquo; &lt;em&gt;ISCAS&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Chavane2011&#34;&gt; Chavane, F., Sharon, D., Jancke, D., Marre, O., Frégnac, Y. and Grinvald, A.  (2011). &lt;/a&gt; &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;Chavane2011&#34;&gt;Chavane, F., Sharon, D., Jancke, D., Marre, O., Frégnac, Y. and Grinvald, A. (2011). &lt;/a&gt; &amp;ldquo;
 &lt;a href=&#34;https://doi.org/10.1016/S0928-4257%2800%2901096-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Journal of Physiology Paris&lt;/em&gt; 94 (5-6): 333&amp;ndash;42.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Cristobal15&#34;&gt;  Gabriel Cristóbal, Laurent U Perrinet, Matthias S Keil  (2015). &lt;/a&gt; &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;Cristobal15&#34;&gt;Gabriel Cristóbal, Laurent U Perrinet, Matthias S Keil (2015). &lt;/a&gt; &amp;ldquo;
 &lt;a href=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biologically Inspired Computer Vision.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Wiley&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Field1993&#34;&gt; Field, D.J., Hayes, A. and Hess, R.F. (1993). &lt;/a&gt; &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;Field1993&#34;&gt;Field, D.J., Hayes, A. and Hess, R.F. (1993). &lt;/a&gt; &amp;ldquo;
 &lt;a href=&#34;https://doi.org/10.1016/0042-6989%2893%2990156-Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contour integration by the human visual system: Evidence for a local “association field”.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Vision Research&lt;/em&gt; 33 (2), pp. 173-193.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;gerard2016synaptic&#34;&gt; Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. (2016). &lt;/a&gt; &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;gerard2016synaptic&#34;&gt;Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. (2016). &lt;/a&gt; &amp;ldquo;
 &lt;a href=&#34;https://www.jneurosci.org/content/36/14/3925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Synaptic Correlates of Low-Level Perception in V1.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Journal of Neuroscience&lt;/em&gt; 36 (14): 3925&amp;ndash;42.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Keller2019&#34;&gt;Keller, A., Roth, M.M. and Scanziani, M. (2019).  &lt;/a&gt; 2019. &amp;ldquo;
-&lt;a href=&#34;https://www.abstractsonline.com/pp8/#!/7883/presentation/65856&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The feedback receptive field of neurons in the mammalian primary visual cortex.&lt;/a&gt;&amp;rdquo; &lt;em&gt;American Society for Neuroscience Abstracts&lt;/em&gt;,  403.13. Chicago.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;Keller2019&#34;&gt;Keller, A., Roth, M.M. and Scanziani, M. (2019). &lt;/a&gt; 2019. &amp;ldquo;
+&lt;a href=&#34;https://www.abstractsonline.com/pp8/#!/7883/presentation/65856&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The feedback receptive field of neurons in the mammalian primary visual cortex.&lt;/a&gt;&amp;rdquo; &lt;em&gt;American Society for Neuroscience Abstracts&lt;/em&gt;, 403.13. Chicago.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Lagorce16&#34;&gt;Lagorce, X., Orchard, G., Galluppi, F., Shi, B. E., &amp;amp; Benosman, R. B.&lt;/a&gt;  (2016). &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;Lagorce16&#34;&gt;Lagorce, X., Orchard, G., Galluppi, F., Shi, B. E., &amp;amp; Benosman, R. B.&lt;/a&gt; (2016). &amp;ldquo;
 &lt;a href=&#34;https://www.neuromorphic-vision.com/public/publications/1/publication.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HOTS: a hierarchy of event-based time-surfaces for pattern recognition.&lt;/a&gt;&amp;rdquo; &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Li2002&#34;&gt;Li W, Piëch V, Gilbert CD&lt;/a&gt;  (2006). &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;Li2002&#34;&gt;Li W, Piëch V, Gilbert CD&lt;/a&gt; (2006). &amp;ldquo;
 &lt;a href=&#34;http://www.paper.edu.cn/scholar/showpdf/MUz2UN2INTA0eQxeQh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contour saliency in primary visual cortex.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Neuron&lt;/em&gt;, 50(6):951–962.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;muller2018cortical&#34;&gt; Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. &lt;/a&gt; (2018). &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;muller2018cortical&#34;&gt;Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. &lt;/a&gt; (2018). &amp;ldquo;
 &lt;a href=&#34;https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cortical Travelling Waves: Mechanisms and Computational Principles.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Nature Reviews Neuroscience&lt;/em&gt; 19 (5): 255.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Paugam12&#34;&gt; Hélène Paugam-Moisy, Sander M. Bohte. &lt;/a&gt; (2012). &amp;ldquo;Computing with Spiking Neuron Networks.&amp;rdquo; &lt;em&gt;Handbook of Natural Computing&lt;/em&gt;, Springer-Verlag, pp.335-376, 2012&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;Paugam12&#34;&gt;Hélène Paugam-Moisy, Sander M. Bohte. &lt;/a&gt; (2012). &amp;ldquo;Computing with Spiking Neuron Networks.&amp;rdquo; &lt;em&gt;Handbook of Natural Computing&lt;/em&gt;, Springer-Verlag, pp.335-376, 2012&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Perrinet04&#34;&gt; Laurent U Perrinet, Manuel Samuelides, Simon J Thorpe. &lt;/a&gt; (2004). 
+&lt;p&gt;&lt;a name=&#34;Perrinet04&#34;&gt;Laurent U Perrinet, Manuel Samuelides, Simon J Thorpe. &lt;/a&gt; (2004). 
 &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Coding static natural images using spiking event times: do neurons cooperate?&amp;quot;&lt;/a&gt; &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -161,7 +161,7 @@ Nous développerons ces algorithmes en collaboration avec
 &lt;a href=&#34;https://doi.org/10.1073/pnas.1719397115&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recurrent computations for visual pattern completion.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; 115 (35) 8835-8840.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Voges12&#34;&gt; Voges, Nicole, and Laurent U Perrinet.&lt;/a&gt; (2012). &amp;ldquo;
+&lt;p&gt;&lt;a name=&#34;Voges12&#34;&gt;Voges, Nicole, and Laurent U Perrinet.&lt;/a&gt; (2012). &amp;ldquo;
 &lt;a href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.&lt;/a&gt;&amp;rdquo; &lt;em&gt;Frontiers in Computational Neuroscience&lt;/em&gt; 6.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
