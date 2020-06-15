@@ -29,13 +29,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;p&gt;The starting date is set to October 1st, 2020. To obtain further information, please contact me @ 
 &lt;a href=&#34;mailto:Laurent.Perrinet@univ-amu.fr&#34;&gt;Laurent.Perrinet@univ-amu.fr&lt;/a&gt;. The appointment is for 36 month. Applications are welcome immediately.&lt;/p&gt;
 &lt;p&gt;Thanks for distributing this announcement to potential candidates!&lt;/p&gt;
-&lt;h1 id=&#34;detailed-description-ultra-fast-vision-using-spiking-neural-networks&#34;&gt;Detailed description: &amp;ldquo;Ultra-fast vision using Spiking Neural Networks&amp;rdquo;&lt;/h1&gt;
+&lt;h2 id=&#34;detailed-description-ultra-fast-vision-using-spiking-neural-networks&#34;&gt;Detailed description: &amp;ldquo;Ultra-fast vision using Spiking Neural Networks&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. In some aspects, it is also relatively slow compared to biological vision. It is believed that one major factor of this rapidity is the fact that visual information is represented by short pulses (spikes) at analog – not discrete – times (
 &lt;a href=&#34;#Paugam12&#34;&gt;Paugam and Bohte, 2012&lt;/a&gt;). However, computer vision algorithms overcoming limitations of classical frame-based approaches by using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power sensing and processing architecture of visual scenes, running on analog devices without a central clock and aims to validate them in real-life situations. More specifically, the project will develop new paradigms for biologically inspired computer vision (
 &lt;a href=&#34;#Cristobal15&#34;&gt;Cristobal, Keil and Perrinet, 2015&lt;/a&gt;), from sensing to processing, in order to help machines such as Unmanned Autonomous Vehicles (UAV), autonomous vehicles, or robots gain high-level understanding from visual scenes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;In this doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: &lt;em&gt;spiking neural networks&lt;/em&gt; (
 &lt;a href=&#34;#Perrinet04&#34;&gt;Perrinet, Thorpe and Samuelides, 2004&lt;/a&gt;; 
-&lt;a href=&#34;#Lagorce16&#34;&gt;Lagorce et al., 2018&lt;/a&gt;) &lt;em&gt;lateral diffusion of sensory-evoked traveling waves&lt;/em&gt; (
+&lt;a href=&#34;#Lagorce16&#34;&gt;Lagorce et al., 2018&lt;/a&gt;) &lt;em&gt;lateral diffusion of neural information&lt;/em&gt; (
 &lt;a href=&#34;#Chavane2000&#34;&gt;Chavane et al., 2011&lt;/a&gt;; 
 &lt;a href=&#34;#muller2018cortical&#34;&gt;Muller et al., 2018&lt;/a&gt;) and &lt;em&gt;dynamic neuronal association fields&lt;/em&gt; (
 &lt;a href=&#34;#Fr%c3%a9gnac2012&#34;&gt;Frégnac et al., 2012&lt;/a&gt;; 
@@ -111,8 +111,8 @@ Nous développerons ces algorithmes en collaboration avec
 &lt;p&gt;&lt;a name=&#34;Paugam12&#34;&gt; Hélène Paugam-Moisy, Sander M. Bohte. &lt;/a&gt; (2012). &amp;ldquo;Computing with Spiking Neuron Networks.&amp;rdquo; &lt;em&gt;Handbook of Natural Computing&lt;/em&gt;, Springer-Verlag, pp.335-376, 2012&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a name=&#34;Perrinet04&#34;&gt;  Laurent U Perrinet, Manuel Samuelides, Simon J Thorpe. &lt;/a&gt; (2004). &amp;ldquo;
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coding static natural images using spiking event times: do neurons cooperate?&lt;/a&gt;&amp;rdquo; &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;Perrinet04&#34;&gt; Laurent U Perrinet, Manuel Samuelides, Simon J Thorpe. &lt;/a&gt; (2004). 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Coding static natural images using spiking event times: do neurons cooperate?&amp;quot;&lt;/a&gt; &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a name=&#34;Tang18&#34;&gt;Tang, Hanlin, Martin Schrimpf, William Lotter, Charlotte Moerman, Ana Paredes, Josue Ortega Caro, Walter Hardesty, David Cox, and Gabriel Kreiman. &lt;/a&gt; (2018). &amp;ldquo;
