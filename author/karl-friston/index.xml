@@ -8,7 +8,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
     <image>
-      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <url>https://laurentperrinet.github.io/media/hulk.png</url>
       <title>Karl Friston</title>
       <link>https://laurentperrinet.github.io/author/karl-friston/</link>
     </image>
@@ -30,6 +30,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;p&gt;Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future. The tracking eye movement system is however able to respond swiftly and even to anticipate repetitive movements (e.g. Barnes et al, 2000 – refs in manuscript). In that case, it means that information in a cortical area is both predicted from the past sensory information but also anticipated to give an optimal response in the future. Even if numerous models have been described to model different mechanisms to account for delays, no theoretical approach has tackled the whole problem explicitly. In several areas of vision research, authors have proposed models at different levels of abstractions from biomechanical models, to neurobiological implementations (e.g. Robinson, 1986) or Bayesian models. This study is both novel and important because – using a neurobiologically plausible hierarchical Bayesian model – it demonstrates that using generalized coordinates to finesse the prediction of a target&amp;rsquo;s motion, the model can reproduce characteristic properties of tracking eye movements in the presence of delays. Crucially, the different refinements to the model that we propose – pursuit initiation, smooth pursuit eye movements, and anticipatory response – are consistent with the different types of tracking eye movements that may be observed experimentally.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -107,6 +112,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/friston-12/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;friston-12.png&#34; alt=&#34;header&#34;&gt;
+
+
+
 
 
 

@@ -8,7 +8,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
     <image>
-      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <url>https://laurentperrinet.github.io/media/hulk.png</url>
       <title>Laurent U Perrinet</title>
       <link>https://laurentperrinet.github.io/author/laurent-u-perrinet/</link>
     </image>
@@ -23,6 +23,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
+
+  
 
 
 
@@ -304,6 +309,8 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
   
 
 
@@ -314,6 +321,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;p&gt;The current health situation has shown us how abruptly our environment can change from one state to another, tragically illustrating the volatility we can face. To understand this notion of volatility, let&amp;rsquo;s take the case of a doctor who, among the patients he receives, usually diagnoses one out of ten cases of flu. Suddenly, he gets 5 out of 10 patients who test positive. Is this an unfortunate coincidence or are we now sure that there is a switch to a flu episode? Recent events have shown us how difficult it is to make a rational decision in times of uncertainty, and in particular to decide &lt;em&gt;when&lt;/em&gt; to act. However, mathematical solutions exist that adapt our behavior by optimally combining the information explored recently with that exploited in the past. In an article published in PLoS Computational Biology, Pasturel, Montagnini and Perrinet show that our brain responds to changes in the sensory environment in the same way as this mathematical model.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -681,6 +693,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure id=&#34;figure-problem-setting-in-generic-ecological-settings-the-visual-system-faces-a-tricky-problem-when-searching-for-one-target-from-a-class-of-targets-in-a-cluttered-environment-a-it-is-synthesized-in-the-following-experiment-after-a-fixation-period-of-200-ms-an-observer-is-presented-with-a-luminous-display--showing-a-single-target-from-a-known-class-here-digits-and-at-a-random-position-the-display-is-presented-for-a-short-period-of-500-ms-light-shaded-area-in-b-that-is-enough-to-perform-at-most-one-saccade-here-successful-on-the-potential-target-finally-the-observer-has-to-identify-the-digit-by-a-keypress-b-prototypical-trace-of-a-saccadic-eye-movement-to-the-target-position-in-particular-we-show-the-fixation-window-and-the-temporal-window-during-which-a-saccade-is-possible-green-shaded-area-c-simulated-reconstruction-of-the-visual-information-from-the-interoceptive-retinotopic-map-at-the-onset-of-the-display-and-after-a-saccade-the-dashed-red-box-indicating-the-visual-area-of-the-what-pathway-in-contrast-to-an-exteroceptive-representation-see-a-this-demonstrates-that-the-position-of-the-target-has-to-be-inferred-from-a-degraded-sampled-image-in-particular-the-configuration-of-the-display-is-such-that-by-adding-clutter-and-reducing-the-size-of-the-digit-it-may-become-necessary-to-perform-a-saccade-to-be-able-to-identify-the-digit-the-computational-pathway-mediating-the-action-has-to-infer-the-location-of-the-target-emphbefore-seeing-it-that-is-before-being-able-to-actually-identify-the-targets-category-from-a-central-fixation&#34;&gt;
 
 
@@ -699,6 +714,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 &lt;/figure&gt;
+
+
+
 
 
 
@@ -749,6 +767,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure id=&#34;figure-results-failure-to-classify&#34;&gt;
 
 
@@ -767,6 +788,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 &lt;/figure&gt;
+
+
+
 
 
 
@@ -1053,6 +1077,11 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
 
+
+  
+
+
+
   
   
 
@@ -1084,6 +1113,8 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
 &lt;/figure&gt;
+
+
 
 
 
@@ -1212,6 +1243,8 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
+
+
   
 
 
@@ -1309,6 +1342,8 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
+
+
   
 
 
@@ -1316,6 +1351,8 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;source src=&#34;flash_lag.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;&lt;/li&gt;
 &lt;li&gt;la même chose avec un arrêt:
+
+
 
 
 
@@ -1985,6 +2022,11 @@ Lyon&lt;/li&gt;
 
 
 
+
+  
+
+
+
   
   
 
@@ -2037,6 +2079,9 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 
 
 
+
+
+
 &lt;figure id=&#34;figure-fig-2-diagonal-markov-chain-in-the-current-study-the-estimated-state-vector-z--x-y-u-v-is-composed-of-the-2d-position-x-and-y-and-velocity-u-and-v-of-a-moving-stimulus-a-first-we-extend-a-classical-markov-chain-using-nijhawans-diagonal-model-in-order-to-take-into-account-the-known-neural-delay-τ-at-time-t-information-is-integrated-until-time-t--τ-using-a-markov-chain-and-a-model-of-state-transitions-pztztδt-such-that-one-can-infer-the-state-until-the-last-accessible-information-pztτi0tτ-this-information-can-then-be-pushed-forward-in-time-by-predicting-its-trajectory-from-t--τ-to-t-in-particular-pzti0tτ-can-be-predicted-by-the-same-internal-model-by-using-the-state-transition-at-the-time-scale-of-the-delay-that-is-pztztτ-this-is-virtually-equivalent-to-a-motion-extrapolation-model-but-without-sensory-measurements-during-the-time-window-between-t--τ-and-t-note-that-both-predictions-in-this-model-are-based-on-the-same-model-of-state-transitions-b-one-can-write-a-second-equivalent-pull-mode-for-the-diagonal-model-now-the-current-state-is-directly-estimated-based-on-a-markov-chain-on-the-sequence-of-delayed-estimations-while-being-equivalent-to-the-push-mode-described-above-such-a-direct-computation-allows-to-more-easily-combine-information-from-areas-with-different-delays-such-a-model-implements-nijhawans-diagonal-model-but-now-motion-information-is-probabilistic-and-therefore-inferred-motion-may-be-modulated-by-the-respective-precisions-of-the-sensory-and-internal-representations-c-such-a-diagonal-delay-compensation-can-be-demonstrated-in-a-two-layered-neural-network-including-a-source-input-and-a-target-predictive-layer-44-the-source-layer-receives-the-delayed-sensory-information-and-encodes-both-position-and-velocity-topographically-within-the-different-retinotopic-maps-of-each-layer-for-the-sake-of-simplicity-we-illustrate-only-one-2d-map-of-the-motions-x-v-the-integration-of-coherent-information-can-either-be-done-in-the-source-layer-push-mode-or-in-the-target-layer-pull-mode-crucially-to-implement-a-delay-compensation-in-this-motion-based-prediction-model-one-may-simply-connect-each-source-neuron-to-a-predictive-neuron-corresponding-to-the-corrected-position-of-stimulus-x--v--τ-v-in-the-target-layer-the-precision-of-this-anisotropic-connectivity-map-can-be-tuned-by-the-width-of-convergence-from-the-source-to-the-target-populations-using-such-a-simple-mapping-we-have-previously-shown-that-the-neuronal-population-activity-can-infer-the-current-position-along-the-trajectory-despite-the-existence-of-neural-delays&#34;&gt;
 
 
@@ -2058,6 +2103,9 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 
 Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
 The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&amp;rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
+
+
+
 
 
 
@@ -3054,6 +3102,11 @@ by a series of small acts. &amp;quot; Lao-Tze&lt;/p&gt;
 
 
 
+
+  
+
+
+
   
   
 
@@ -3088,6 +3141,9 @@ by a series of small acts. &amp;quot; Lao-Tze&lt;/p&gt;
 
 &lt;!-- https://www.enrevenantdelexpo.com/wp-content/uploads/2019/05/%C3%89tienne-Rey-Horizon-faille-Densit%C3%A9-flou-2019-Sans-gravit%C3%A9-une-po%C3%A9tique-de-l%E2%80%99air-%C3%A0-Ardenome-Avignon-02.jpg --&gt;
 &lt;h1 id=&#34;-tension-superficielle--2019&#34;&gt;« Tension superficielle » (2019)&lt;/h1&gt;
+
+
+
 
 
 
@@ -3392,6 +3448,11 @@ Installation
 
 
 
+
+  
+
+
+
   
   
 
@@ -3469,6 +3530,11 @@ Installation
 
 
 
+
+  
+
+
+
   
   
 
@@ -3508,6 +3574,11 @@ Installation
 
 
 
+
+  
+
+
+
   
   
 
@@ -3543,6 +3614,9 @@ This book contains 17 chapters that have been organized in four different parts:
 &lt;li&gt;Applications
 See the 
 &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Table of contents&lt;/a&gt;.
+
+
+
 
 
 
@@ -3650,6 +3724,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+  
+
+
+
   
   
 
@@ -3687,6 +3766,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+  
 
 
 
@@ -3730,6 +3814,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+  
+
+
+
   
   
 
@@ -3767,6 +3856,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+  
+
+
+
   
   
 
@@ -3801,6 +3895,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+  
 
 
 
@@ -3876,6 +3975,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;p&gt;Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future. The tracking eye movement system is however able to respond swiftly and even to anticipate repetitive movements (e.g. Barnes et al, 2000 – refs in manuscript). In that case, it means that information in a cortical area is both predicted from the past sensory information but also anticipated to give an optimal response in the future. Even if numerous models have been described to model different mechanisms to account for delays, no theoretical approach has tackled the whole problem explicitly. In several areas of vision research, authors have proposed models at different levels of abstractions from biomechanical models, to neurobiological implementations (e.g. Robinson, 1986) or Bayesian models. This study is both novel and important because – using a neurobiologically plausible hierarchical Bayesian model – it demonstrates that using generalized coordinates to finesse the prediction of a target&amp;rsquo;s motion, the model can reproduce characteristic properties of tracking eye movements in the presence of delays. Crucially, the different refinements to the model that we propose – pursuit initiation, smooth pursuit eye movements, and anticipatory response – are consistent with the different types of tracking eye movements that may be observed experimentally.&lt;/p&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -4058,6 +4162,9 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
 &lt;figure id=&#34;figure-figure-4-rasterplot-of-input-and-output-spikes-the-raster-plot-from-excitatory-neurons-is-ordered-according-to-their-position-each-input-spike-is-a-blue-dot-and-each-output-spike-is-a-black-dot-while-input-is-scattered-during-blanking-periods-figure-1-the-network-output-shows-shows-some-tuned-activity-during-the-blank-compare-with-the-activity-before-visual-stimulation-to-decode-such-patterns-of-activity-we-used-a-maximum-likelihood-estimation-technique-based-on-the-tuning-curve-of-the-neurons&#34;&gt;
 
 
@@ -4105,6 +4212,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;Khoei et al, 2017&lt;/a&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -4363,6 +4475,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+  
+
+
+
   
   
 
@@ -4421,6 +4538,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+  
+
+
+
   
   
 
@@ -4455,6 +4577,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+  
 
 
 
@@ -4495,6 +4622,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+  
+
+
+
   
   
 
@@ -4532,6 +4664,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+  
+
+
+
   
   
 
@@ -4566,6 +4703,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+  
 
 
 
@@ -4618,6 +4760,9 @@ More complex parts of the brain are not required at this stage, contrary to what
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/friston-12/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;friston-12.png&#34; alt=&#34;header&#34;&gt;
+
+
+
 
 
 
@@ -5665,6 +5810,11 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 
 
 
+
+  
+
+
+
   
   
 
@@ -5756,6 +5906,9 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
       <description>
+
+
+
 
 
 
@@ -5898,6 +6051,9 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 
 
 
+
+
+
 &lt;figure id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections&#34;&gt;
 
 
@@ -5926,6 +6082,9 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
       <pubDate>Wed, 29 Jun 2005 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/fischer-05-a/</guid>
       <description>
+
+
+
 
 
 
@@ -5990,6 +6149,9 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 
 
 
+
+
+
 &lt;figure id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections&#34;&gt;
 
 
@@ -6028,6 +6190,11 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
       <description>&lt;p&gt;&lt;img src=&#34;perrinet-03-ieee.png&#34; alt=&#34;header&#34;&gt;
 
 
+
+
+
+
+  
 
 
 
@@ -6122,6 +6289,11 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-esann/</guid>
       <description>
 
+
+
+
+
+  
 
 
 

@@ -8,7 +8,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <url>https://laurentperrinet.github.io/media/hulk.png</url>
       <title>Bayesian model</title>
       <link>https://laurentperrinet.github.io/tag/bayesian-model/</link>
     </image>
@@ -41,6 +41,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;h1 id=&#34;visual-illusions-their-origin-lies-in-prediction&#34;&gt;Visual illusions: their origin lies in prediction&lt;/h1&gt;
 &lt;p&gt;
 
+
+
+
+
+  
 
 
 
@@ -96,6 +101,9 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 
 
 
+
+
+
 &lt;figure id=&#34;figure-fig-2-diagonal-markov-chain-in-the-current-study-the-estimated-state-vector-z--x-y-u-v-is-composed-of-the-2d-position-x-and-y-and-velocity-u-and-v-of-a-moving-stimulus-a-first-we-extend-a-classical-markov-chain-using-nijhawans-diagonal-model-in-order-to-take-into-account-the-known-neural-delay-τ-at-time-t-information-is-integrated-until-time-t--τ-using-a-markov-chain-and-a-model-of-state-transitions-pztztδt-such-that-one-can-infer-the-state-until-the-last-accessible-information-pztτi0tτ-this-information-can-then-be-pushed-forward-in-time-by-predicting-its-trajectory-from-t--τ-to-t-in-particular-pzti0tτ-can-be-predicted-by-the-same-internal-model-by-using-the-state-transition-at-the-time-scale-of-the-delay-that-is-pztztτ-this-is-virtually-equivalent-to-a-motion-extrapolation-model-but-without-sensory-measurements-during-the-time-window-between-t--τ-and-t-note-that-both-predictions-in-this-model-are-based-on-the-same-model-of-state-transitions-b-one-can-write-a-second-equivalent-pull-mode-for-the-diagonal-model-now-the-current-state-is-directly-estimated-based-on-a-markov-chain-on-the-sequence-of-delayed-estimations-while-being-equivalent-to-the-push-mode-described-above-such-a-direct-computation-allows-to-more-easily-combine-information-from-areas-with-different-delays-such-a-model-implements-nijhawans-diagonal-model-but-now-motion-information-is-probabilistic-and-therefore-inferred-motion-may-be-modulated-by-the-respective-precisions-of-the-sensory-and-internal-representations-c-such-a-diagonal-delay-compensation-can-be-demonstrated-in-a-two-layered-neural-network-including-a-source-input-and-a-target-predictive-layer-44-the-source-layer-receives-the-delayed-sensory-information-and-encodes-both-position-and-velocity-topographically-within-the-different-retinotopic-maps-of-each-layer-for-the-sake-of-simplicity-we-illustrate-only-one-2d-map-of-the-motions-x-v-the-integration-of-coherent-information-can-either-be-done-in-the-source-layer-push-mode-or-in-the-target-layer-pull-mode-crucially-to-implement-a-delay-compensation-in-this-motion-based-prediction-model-one-may-simply-connect-each-source-neuron-to-a-predictive-neuron-corresponding-to-the-corrected-position-of-stimulus-x--v--τ-v-in-the-target-layer-the-precision-of-this-anisotropic-connectivity-map-can-be-tuned-by-the-width-of-convergence-from-the-source-to-the-target-populations-using-such-a-simple-mapping-we-have-previously-shown-that-the-neuronal-population-activity-can-infer-the-current-position-along-the-trajectory-despite-the-existence-of-neural-delays&#34;&gt;
 
 
@@ -117,6 +125,9 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
 
 Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
 The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&amp;rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
+
+
+
 
 
 
@@ -198,6 +209,11 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+  
+
+
+
   
   
 
@@ -263,6 +279,9 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See a followup in 
 &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Khoei et al, 2013&lt;/a&gt;
+
+
+
 
 
 
@@ -381,6 +400,11 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+  
+
+
+
   
   
 
@@ -415,6 +439,11 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
+
+  
 
 
 
@@ -455,6 +484,11 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+  
+
+
+
   
   
 
@@ -492,6 +526,11 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+  
+
+
+
   
   
 
@@ -526,6 +565,11 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
+
+  
 
 
 
@@ -570,6 +614,9 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/friston-12/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;friston-12.png&#34; alt=&#34;header&#34;&gt;
+
+
+
 
 
 

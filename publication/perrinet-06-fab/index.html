@@ -11,6 +11,9 @@
 
   
   
+
+  
+  
   
   
   
@@ -35,6 +38,15 @@
   
 
 
+
+
+
+
+
+  
+
+
+
   
   
   
@@ -52,8 +64,10 @@
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -65,8 +79,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -78,6 +92,13 @@
     
 
     
+    
+      
+
+      
+      
+
+      
     
       
 
@@ -188,6 +209,13 @@
 
       
     
+      
+
+      
+      
+
+      
+    
 
   
 
@@ -282,8 +310,8 @@
   <meta property="og:site_name" content="Novel visual computations">
   <meta property="og:url" content="https://laurentperrinet.github.io/publication/perrinet-06-fab/">
   <meta property="og:title" content="Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex | Novel visual computations">
-  <meta property="og:description" content="Computations in a cortical column are characterized by the dynamical, event-based nature of neuronal signals and are structured by the layered and parallel structure of cortical areas. But they are also characterized by their efficiency in terms of rapidity and robustness. We propose and study here a model of information integration in the primary visual cortex (V1) thanks to the parallel and interconnected network of similar cortical columns. In particular, we focus on the dynamics of contrast gain control mechanisms as a function of the distribution of information relevance in a small population of cortical columns. This cortical area is modeled as a collection of similar cortical columns which receive input and are linked according to a specific connectivity pattern which is relevant to this area. These columns are simulated using the sc Nest simulator Morrison04 using conductance-based Integrate-and-Fire neurons and consist vertically in 3 different layers. The architecture was inspired by neuro-physiological observations on the influence of neighboring activities on pyramidal cells activity and correlates with the lateral flow of information observed in the primary visual cortex, notably in optical imaging experiments Jancke04, and is similar in its final implementation to local micro-circuitry of the cortical column presented by Grossberg05.  They show prototypical spontaneous dynamical behavior to different levels of noise which are relevant to the generic modeling of biological cortical columns Kremkow05. In the future, the connectivity will be derived from an algorithm that was used for modeling the transient spiking response of a layer of neurons to a flashed image and which was based on the Matching Pursuit algorithm Perrinet04. The visual input is first transmitted from the Lateral Geniculate Nucleus (LGN) using the model of Gazeres98. It transforms the image flow into a stream of spikes with contrast gain control mechanisms specific to the retina and the LGN. This spiking activity converges to the pyramidal cells of layer 2/3 thanks to the specification of receptive fields in layer 4 providing a preference for oriented local contrasts in the spatio-temporal visual flow. In particular, we use in these experiments visual input organized in a center-surround spatial pattern which was optimized in size to maximize the response of a column in the center and to the modulation of this response by the surround (bipartite stimulus). This class of stimuli provide different levels of input activation and of visual ambiguity in the visual space which were present in the spatio-temporal correlations in the input spike flow optimized to the resolution of cortical columns in the visual space. It thus provides a method to reveal the dynamics of information integration and particularly of contrast gain control which are characteristic to the function of V1."><meta property="og:image" content="https://laurentperrinet.github.io/img/hulk.png">
-  <meta property="twitter:image" content="https://laurentperrinet.github.io/img/hulk.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Computations in a cortical column are characterized by the dynamical, event-based nature of neuronal signals and are structured by the layered and parallel structure of cortical areas. But they are also characterized by their efficiency in terms of rapidity and robustness. We propose and study here a model of information integration in the primary visual cortex (V1) thanks to the parallel and interconnected network of similar cortical columns. In particular, we focus on the dynamics of contrast gain control mechanisms as a function of the distribution of information relevance in a small population of cortical columns. This cortical area is modeled as a collection of similar cortical columns which receive input and are linked according to a specific connectivity pattern which is relevant to this area. These columns are simulated using the sc Nest simulator Morrison04 using conductance-based Integrate-and-Fire neurons and consist vertically in 3 different layers. The architecture was inspired by neuro-physiological observations on the influence of neighboring activities on pyramidal cells activity and correlates with the lateral flow of information observed in the primary visual cortex, notably in optical imaging experiments Jancke04, and is similar in its final implementation to local micro-circuitry of the cortical column presented by Grossberg05.  They show prototypical spontaneous dynamical behavior to different levels of noise which are relevant to the generic modeling of biological cortical columns Kremkow05. In the future, the connectivity will be derived from an algorithm that was used for modeling the transient spiking response of a layer of neurons to a flashed image and which was based on the Matching Pursuit algorithm Perrinet04. The visual input is first transmitted from the Lateral Geniculate Nucleus (LGN) using the model of Gazeres98. It transforms the image flow into a stream of spikes with contrast gain control mechanisms specific to the retina and the LGN. This spiking activity converges to the pyramidal cells of layer 2/3 thanks to the specification of receptive fields in layer 4 providing a preference for oriented local contrasts in the spatio-temporal visual flow. In particular, we use in these experiments visual input organized in a center-surround spatial pattern which was optimized in size to maximize the response of a column in the center and to the modulation of this response by the surround (bipartite stimulus). This class of stimuli provide different levels of input activation and of visual ambiguity in the visual space which were present in the spatio-temporal correlations in the input spike flow optimized to the resolution of cortical columns in the visual space. It thus provides a method to reveal the dynamics of information integration and particularly of contrast gain control which are characteristic to the function of V1."><meta property="og:image" content="https://laurentperrinet.github.io/media/hulk.png">
+  <meta property="twitter:image" content="https://laurentperrinet.github.io/media/hulk.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-09-17T00:00:00&#43;00:00">
@@ -351,7 +379,20 @@
   <title>Dynamical contrast gain control mechanisms in a layer 2/3 model of the primary visual cortex | Novel visual computations</title>
 
 </head>
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+
+  
+  
+  
+    <script>window.staDarkLightChooser = true;</script>
+  
+  
+    <script>const isSiteThemeDark = false;</script>
+  
+  
+  <script src="/js/load-theme.js"></script>
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -369,7 +410,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
         
       </div>
 
@@ -386,6 +427,9 @@
 
 
   
+
+
+
 
 
 
@@ -434,16 +478,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -463,16 +515,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -492,16 +552,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -521,16 +589,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -550,16 +626,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -579,16 +663,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -608,16 +700,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -637,16 +737,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -668,10 +776,18 @@
         
 
         
+
         
         
         
         
+
+        
+          
+            
+            
+          
+          
         
 
         <li class="nav-item">
@@ -690,16 +806,24 @@
         
 
         
+
         
         
         
         
+
         
           
+            
+            
           
           
             
-          
+            
+            
+              
+            
+            
           
         
 
@@ -748,6 +872,7 @@
 
   </div>
 </nav>
+
 
 
   <div class="pub">
@@ -1334,14 +1459,17 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
 
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/highlight.min.js" integrity="sha512-7t8APmYpzEsZP7CYoA7RfMPV9Bb+PJHa9x2WiUnDXZx3XHveuyWUtvNOexhkierl5flZ3tr92dP1mMS+SGlD+A==" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.2/languages/latex.min.js"></script>
         
       
 
@@ -1355,11 +1483,6 @@
     
     
     <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -1416,6 +1539,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -1428,7 +1554,7 @@
     
     
     
-    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+    <script src="/js/academic.min.3b2b658c61ebd725bd5fc606c89fe44c.js"></script>
 
     
 
@@ -1494,9 +1620,10 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
 
   <p class="powered-by">
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+    
+    Published with
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
+    
 
     
     <span class="float-right" aria-hidden="true">
