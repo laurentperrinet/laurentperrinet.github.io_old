@@ -1,0 +1,9255 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Laurent U Perrinet">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Researcher in Computational Neuroscience">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/talk/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-140381649-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+  <link rel="alternate" href="/talk/index.xml" type="application/rss+xml" title="Novel visual computations">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://laurentperrinet.github.io/talk/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@laurentperrinet">
+  <meta property="twitter:creator" content="@laurentperrinet">
+  
+  <meta property="og:site_name" content="Novel visual computations">
+  <meta property="og:url" content="https://laurentperrinet.github.io/talk/">
+  <meta property="og:title" content="Recent &amp; Upcoming Talks | Novel visual computations">
+  <meta property="og:description" content="Researcher in Computational Neuroscience"><meta property="og:image" content="https://laurentperrinet.github.io/img/hulk.png">
+  <meta property="twitter:image" content="https://laurentperrinet.github.io/img/hulk.png"><meta property="og:locale" content="en-us">
+  
+    
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Recent &amp; Upcoming Talks | Novel visual computations</title>
+
+</head>
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Novel visual computations</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Novel visual computations</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Featured</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#grants"><span>Grants</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/sciblog/" target="_blank" rel="noopener"><span>BlogBook</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>Recent &amp; Upcoming Talks</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      
+
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2020</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2020-09-14-iwai/" >Visual search as active inference</a>
+    </h3>
+
+    
+    <a href="/talk/2020-09-14-iwai/" class="summary-link">
+      <div class="article-style">
+        Visual search is an essential cognitive ability, offering a prototypical control problem to be addressed with Active Inference. Under a …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Sep 14, 2020 12:40 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Ghent (Belgium), gone virtual</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Emmanuel Daucé</span>, <span >Laurent Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2020-09-14-iwai/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2020-09-14_IWAI" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2020-04-ue-neurosciences-computationnelles/" >From the retina to action: Understanding visual processing</a>
+    </h3>
+
+    
+    <a href="/talk/2020-04-ue-neurosciences-computationnelles/" class="summary-link">
+      <div class="article-style">
+        Visual areas are essential in transforming the raw luminous signal into a representation which efficiently conveys information about …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 3, 2020 4:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2020-04-ue-neurosciences-computationnelles/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2020-04_UE-neurosciences-computationnelles" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2020-01-20-atelier-sciences-cinema/" >Des illusions aux hallucinations visuelles: une porte sur la perception</a>
+    </h3>
+
+    
+    <a href="/talk/2020-01-20-atelier-sciences-cinema/" class="summary-link">
+      <div class="article-style">
+        Les illusions visuelles sont des créations d&rsquo;artistes, de scientifiques et plus récemment, grâce aux réseaux sociaux, du grand …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 20, 2020 10:00 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Lycée Professionnel Domaine Eguille, Vedène (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2020-01-20-atelier-sciences-cinema" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2020-01-20-atelier-sciences-cinema/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2020-01-20_atelier_sciences_cinema" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2019</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-07-15-cns/" >Learning where to look: a foveated visuomotor control model</a>
+    </h3>
+
+    
+    <a href="/talk/2019-07-15-cns/" class="summary-link">
+      <div class="article-style">
+        In computer vision, the visual search task consists in extracting a scarce and specific visual information (the target) from a large …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jul 15, 2019 12:20 PM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Emmanuel Daucé</span>, <span >Pierre Albigès</span>, <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-07-15-cns/2019-07-15-cns.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-07-15-cns/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/SpikeAI/2019-07-15_CNS/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://SpikeAI.github.io/2019-07-15_CNS" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-05-23-neurofrance/" >Should I stay or should I go? Humans adapt to the volatility of visual motion properties, and know about it</a>
+    </h3>
+
+    
+    <a href="/talk/2019-05-23-neurofrance/" class="summary-link">
+      <div class="article-style">
+        Animal behavior must constantly adapt to changes, for example when the state of an environmental context changes unexpectedly. For an …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          May 23, 2019 1:30 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-05-23-neurofrance" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-05-23-neurofrance/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/invibe/2019-05-23_Neurofrance/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://invibe.github.io/2019-05-23_Neurofrance" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-04-18-jnlf/" >Des illusions aux hallucinations visuelles: une porte sur la perception</a>
+    </h3>
+
+    
+    <a href="/talk/2019-04-18-jnlf/" class="summary-link">
+      <div class="article-style">
+        Les objectifs sont : &ndash; mieux comprendre la fonction de la perception visuelle en explorant certaines limites ; &ndash; mieux comprendre l&rsquo;importance de l&rsquo;aspect dynamique de la perception ; &ndash; mieux comprendre le rôle de l&rsquo;action dans la perception.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 18, 2019 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Lille, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-04-18-jnlf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-04-18-jnlf/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-04-18_JNLF/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-04-18_JNLF" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=jJKTdlChefc" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.neurol.2019.01.031" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/talk/2019-04-18-jnlf/" >
+      <img src="/talk/2019-04-18-jnlf/featured_hu232b31e91c800009f2bf7211ce05ca9a_599298_150x0_resize_q90_lanczos.jpeg" alt="Des illusions aux hallucinations visuelles: une porte sur la perception">
+    </a>
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-04-05-bbcp-causal-kickoff/" >Should I stay or should I go? Adaption of human observers to the volatility of visual inputs</a>
+    </h3>
+
+    
+    <a href="/talk/2019-04-05-bbcp-causal-kickoff/" class="summary-link">
+      <div class="article-style">
+        Animal behavior has to constantly adapt to changes, for instance when unexpectedly switching the state of an environmental context. For …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 5, 2019 3:45 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>INT, Marseille (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-04-05-bbcp-causal-kickoff" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-04-05-bbcp-causal-kickoff/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-04-05_BBCP_causal_kickoff/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-04-05_BBCP_causal_kickoff" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-04-03-a-course-on-vision-and-modelization/" >From the retina to action: Understanding visual processing</a>
+    </h3>
+
+    
+    <a href="/talk/2019-04-03-a-course-on-vision-and-modelization/" class="summary-link">
+      <div class="article-style">
+        Visual areas are essential in transforming the raw luminous signal into a representation which efficiently conveys information about …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 3, 2019 4:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-04-03-a-course-on-vision-and-modelization" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-04-03-a-course-on-vision-and-modelization/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-04-03_a_course_on_vision_and_modelization" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-03-25-hdr-robin-baures/" >From the retina to action: Predictive processing in the visual system</a>
+    </h3>
+
+    
+    <a href="/talk/2019-03-25-hdr-robin-baures/" class="summary-link">
+      <div class="article-style">
+        Visual areas are essential in transforming the raw luminous signal into a representation which efficiently conveys information about …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 25, 2019 2:30 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Toulouse (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Victor Boutin</span>, <span >Angelo Franciosini</span>, <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-03-25_HDR_RobinBaures" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-03-25-hdr-robin-baures/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-03-25_HDR_RobinBaures/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-03-25_HDR_RobinBaures" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-01-18-laconeu/" >Should I stay or should I go? Adaption of human observers to the volatility of visual inputs</a>
+    </h3>
+
+    
+    <a href="/talk/2019-01-18-laconeu/" class="summary-link">
+      <div class="article-style">
+         See the final publication @ Pasturel, Montagnini and Perrinet (2020) previous talk @ LAW, Lyon previous talk @ INVIBE FEST, Paris previous talk @ Brain workshop, Marseille next talk @ CAUSAL Kick-off, Marseille  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 18, 2019 10:45 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-01-18-laconeu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-01-18-laconeu/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-01-18_LACONEU/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-01-18_LACONEU/" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-01-17-laconeu/" >Role of dynamics in neural computations underlying visual processing</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 17, 2019 10:45 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-01-17-laconeu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-01-17-laconeu/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-01-17_LACONEU/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-01-17_LACONEU/" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-01-16-laconeu/" >Efficient coding of visual information in neural computations</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 16, 2019 10:45 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-01-16-laconeu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-01-16-laconeu/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-01-16_LACONEU/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-01-16_LACONEU/" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-01-14-laconeu/" >Modelling spiking neural networks using Brian, Nest and pyNN</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 14, 2019 11:00 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-01-14-laconeu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-01-14-laconeu/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-01-14_LACONEU" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-01-14_LACONEU" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2019-01-10-polly-maggoo/" >Rencontre avec les collégiens marseillais</a>
+    </h3>
+
+    
+    <a href="/talk/2019-01-10-polly-maggoo/" class="summary-link">
+      <div class="article-style">
+        Le jeudi 10 janvier 2019, je suis venu échanger au côté de Serge Dentin autour de films traitant du rapport fiction/réel, des illusion …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 10, 2019 9:30 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-01-10-polly-maggoo/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2019-01-10-polly-maggoo/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2018</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2018-10-11-bio-morphisme/" >La modélisation biomorphique de la perception visuelle</a>
+    </h3>
+
+    
+    <a href="/talk/2018-10-11-bio-morphisme/" class="summary-link">
+      <div class="article-style">
+        La modélisation biomorphique de la perception visuelle in &ldquo;La modélisation de la genèse physico-mathématique du vivant&rdquo; BIOMORPHISME ET CREATION ARTISTIQUE – Session 3  Date
+11 Octobre 2018 Atelier
+Séminaire/workshop organisé dans le cadre du projet Biomorphisme.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Oct 11, 2018 6:30 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2018-10-11_BioMorphisme.html" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2018-10-11-bio-morphisme/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2018-10-10-polly-maggoo/" >Intervention fête de la science 2018</a>
+    </h3>
+
+    
+    <a href="/talk/2018-10-10-polly-maggoo/" class="summary-link">
+      <div class="article-style">
+        FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN L&rsquo;Association Polly Maggoo http://www.pollymaggoo.org/ met en place tout le long de l’année, des actions de culture scientifique et artistique en direction du grand public et des lycées, au cours desquelles l&rsquo;association programme des films à caractère scientifique.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Oct 10, 2018 6:30 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2018-10-10-polly-maggoo/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2018-10-10-polly-maggoo/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2018-04-05-bcp-talk/" >Principles and psychophysics of Active Inference in anticipating a dynamic, switching probabilistic bias</a>
+    </h3>
+
+    
+    <a href="/talk/2018-04-05-bcp-talk/" class="summary-link">
+      <div class="article-style">
+         See the final publication @ Pasturel, Montagnini and Perrinet (2020) previous talk @ LAW, Lyon previous talk @ INVIBE FEST, Paris next talk @ LACONEU, Chile next talk @ CAUSAL Kick-off, Marseille next talk @ NeuroFrance, Marseille  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 5, 2018 2:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>INT, Marseille (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Chloé Pasturel</span>, <span >Anna Montagnini</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2018-04-05-bcp-talk/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2018-04-05-bcp-talk/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2018-04-05_BCP_talk/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2018-04-05_BCP_talk/" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2018-03-26-cours-neuro-comp-fep/" >Probabilities, Bayes and the Free-energy principle</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 26, 2018 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>INT, Marseille</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2018-03-26-cours-neuro-comp-fep/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2018-03-26-cours-neuro-comp-fep/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2018-03-26_cours-NeuroComp_FEP" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2018-03-26_cours-NeuroComp_FEP" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2018-02-01-bcp-invibe-fest/" >Estimating and anticipating a dynamic probabilistic bias in visual motion direction</a>
+    </h3>
+
+    
+    <a href="/talk/2018-02-01-bcp-invibe-fest/" class="summary-link">
+      <div class="article-style">
+         See the final publication @ Pasturel, Montagnini and Perrinet (2020) previous talk @ LAW, Lyon next talk @ Brain workshop, Marseille next talk @ LACONEU, Chile next talk @ CAUSAL Kick-off, Marseille next talk @ NeuroFrance, Marseille  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Feb 1, 2018 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Chloé Pasturel</span>, <span >Anna Montagnini</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2018-02-01-bcp-invibe-fest/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2018-02-01-bcp-invibe-fest/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2018-01-25-meetup-neuronautes/" >Expériences autour de la perception de la forme en art et science</a>
+    </h3>
+
+    
+    <a href="/talk/2018-01-25-meetup-neuronautes/" class="summary-link">
+      <div class="article-style">
+        Meetup Art et Neurosciences  Quoi
+Meetup Art et Neurosciences Qui
+Association NeuroNautes Quand
+25 Janvier 2018 Où
+Salle des voutes campus Saint Charles Support visuel
+https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html (notes: la présentation peut mettre un certain temps à charger.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 25, 2018 6:30 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Salle des voutes campus Saint Charles</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Etienne Rey</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2018-01-25-meetup-neuronautes/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2018-01-25-meetup-neuronautes/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/art-science/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2018-01-25_meetup-neuronautes.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2017</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2017-11-24-neurosciences-robotique/" >Unsupervised learning applied to robotic vision</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 24, 2017 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>IMERA (Aix-Marseille Université)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Victor Boutin</span>, <span >Franck Ruffier</span>, <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-11-24-neurosciences-robotique/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2017-11-24-neurosciences-robotique/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2017-11-17-festival-interferences/" >Participation au jury</a>
+    </h3>
+
+    
+    <a href="/talk/2017-11-17-festival-interferences/" class="summary-link">
+      <div class="article-style">
+        FESTIVAL INTERFÉRENCES​ Cinéma Documentaire et Débat Public Le collectif Scènes Publiques composé de citoyens, chercheurs et cinéastes, organise la deuxième édition du Festival Interférences du 8 au 18 novembre 2017 à Lyon.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 17, 2017 6:30 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Lyon, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-11-17-festival-interferences/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2017-11-17-festival-interferences/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2017-11-15-colloque-master/" >What dynamic neural codes for efficient visual processing</a>
+    </h3>
+
+    
+    <a href="/talk/2017-11-15-colloque-master/" class="summary-link">
+      <div class="article-style">
+        This seminar is an exercise to introduce the AMU masters into the format of international conferences. As such, we will try to …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 15, 2017 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Aix-Marseille Université, Campus Saint-Charles, Salle des voûtes</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-11-15-colloque-master/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2017-11-15-colloque-master/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2017-11-15_ColloqueMaster.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2017-06-30-telluride/" >Tutorial on predictive coding</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jun 28, 2017 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Telluride, CO</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-06-30-telluride" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2017-06-30-telluride/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2017-06-30_Telluride.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2017-06-28-telluride/" >Back to the present: dealing with delays in biological and neuromorphic systems</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jun 28, 2017 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Telluride, CO</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-06-28-telluride" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2017-06-28-telluride/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2017-06-28_Telluride.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2017-01-20-laconeu/" >Tutorial: Active inference for eye movements: Bayesian methods, neural inference, dynamics</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 20, 2017 10:45 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-01-20-laconeu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2017-01-20-laconeu/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2017-01-20_LACONEU.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2017-01-19-laconeu/" >Tutorial: Sparse optimization in neural computations</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 19, 2017 10:45 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-01-19-laconeu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2017-01-19-laconeu/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2017-01-19_LACONEU.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2017-01-18-laconeu/" >Back to the present: how neurons deal with delays</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 18, 2017 9:00 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-01-18-laconeu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2017-01-18-laconeu/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2017-01-18_LACONEU.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2016</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-11-20-polly-maggoo/" >Participation au jury et entretien avec Clara Delmon</a>
+    </h3>
+
+    
+    <a href="/talk/2016-11-20-polly-maggoo/" class="summary-link">
+      <div class="article-style">
+        RENCONTRES INTERNATIONALES SCIENCES &amp; CINÉMAS cinéma les Variétés L&rsquo;Association Polly Maggoo http://www.pollymaggoo.org/ programme la 10e édition des RENCONTRES INTERNATIONALES SCIENCES &amp; CINÉMAS (RISC) à Marseille, au cours desquelles l&rsquo;association programme des films à caractère scientifique.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 20, 2016 9:00 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2016-11-20-polly-maggoo/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-11-20-polly-maggoo/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-11-03-sigma/" >The flash-lag effect as a motion-based predictive shift</a>
+    </h3>
+
+    
+    <a href="/talk/2016-11-03-sigma/" class="summary-link">
+      <div class="article-style">
+         Based on Perrinet et al, 2012 and Khoei et al, 2013 See a followup in Khoei et al, 2017  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 3, 2016 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>CIRM</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2016-11-03-sigma/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-11-03-sigma/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-11-03_SIGMA.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-11-03-gdr/" >Reinforcement contingencies modulate anticipatory smooth eye movements</a>
+    </h3>
+
+    
+    <a href="/talk/2016-11-03-gdr/" class="summary-link">
+      <div class="article-style">
+        Natural environments potentially contain several interesting targets for goal-directed behavior. Thus sensorimotor systems need to …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 3, 2016 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Jean-Bernard Damasse</span>, <span >Laurent U Perrinet</span>, <span >Jeremie Jozefowiez</span>, <span >Laurent Madelain</span>, <span >Anna Montagnini</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2016-11-03-gdr/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-11-03-gdr/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/" >Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor</a>
+    </h3>
+
+    
+    <a href="/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/" class="summary-link">
+      <div class="article-style">
+         See a followup in Perrinet and Bednar, 2015  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Oct 26, 2016 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Ecole Centrale Marseille</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Lionel Fillatre</span>, <span >Michel Barlaud</span>, <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal-amu.archives-ouvertes.fr/hal-01461404" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-10-26_FillatreBarlaudPerrinet16EUVIP_talk.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-10-26-perrinet-16-euvip/" >Biologically-inspired characterization of sparseness in natural images</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Oct 26, 2016 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Ecole Centrale Marseille</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/perrinet-16-euvip/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-10-26-perrinet-16-euvip/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal-amu.archives-ouvertes.fr/hal-01461404" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-10-26_Perrinet16EUVIP_talk.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-10-13-law/" >Eye movements as a model for active inference</a>
+    </h3>
+
+    
+    <a href="/talk/2016-10-13-law/" class="summary-link">
+      <div class="article-style">
+         See the final publication @ Pasturel, Montagnini and Perrinet (2020) next talk @ INVIBE FEST, Paris next talk @ Brain workshop, Marseille next talk @ LACONEU, Chile next talk @ CAUSAL Kick-off, Marseille next talk @ NeuroFrance, Marseille  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Oct 13, 2016 10:00 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Lyon, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2016-10-13-law/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-10-13-law/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-10-13_LAW.html" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-07-07-edp-proba/" >Modelling the dynamics of cognitive processes: from the Bayesian brain to particles</a>
+    </h3>
+
+    
+    <a href="/talk/2016-07-07-edp-proba/" class="summary-link">
+      <div class="article-style">
+         See a followup in Perrinet et al, 2012  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jul 7, 2016 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>CIRM, Marseille</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2016-07-07-edp-proba/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-07-07-edp-proba/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-07-07_EDP-proba" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-04-28-mejanes/" >Les illusions visuelles, un révélateur du fonctionnement de notre cerveau</a>
+    </h3>
+
+    
+    <a href="/talk/2016-04-28-mejanes/" class="summary-link">
+      <div class="article-style">
+        Les illusions visuelles sont des créations d&rsquo;artistes, de scientifiques et plus récemment, grâce aux réseaux sociaux, du grand …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 28, 2016 6:30 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-04-28_mejanes/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-04-28-mejanes/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/talk/2016-04-28-mejanes/" >
+      <img src="/talk/2016-04-28-mejanes/featured_hu6f6d5fb2faa25e28f30d4d4a74ac9231_213872_150x0_resize_q90_lanczos.jpg" alt="Les illusions visuelles, un révélateur du fonctionnement de notre cerveau">
+    </a>
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2016-04-25-polly-maggoo/" >Les illusions visuelles, un révélateur du fonctionnement de notre cerveau</a>
+    </h3>
+
+    
+    <a href="/talk/2016-04-25-polly-maggoo/" class="summary-link">
+      <div class="article-style">
+        Ce lundi 25 avril de 9h à 12h, je suis venu échanger au côté de Serge Dentin autour de films traitant du rapport fiction/réel, des …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 25, 2016 9:00 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-04-25_pollymagoo/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2016-04-25-polly-maggoo/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2015</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2015-11-05-chile/" >Motion-based prediction with neuromorphic hardware</a>
+    </h3>
+
+    
+    <a href="/talk/2015-11-05-chile/" class="summary-link">
+      <div class="article-style">
+        We stand at a point in history where our phones have become smart but lack a feature which prevails in most forms of living …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 5, 2015 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Universidad Tecnica Federico Santa Maria, Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2015-11-05-chile/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2015-11-05-chile/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2015-10-07-gdr-bio-comp/" >Motion-based prediction with neuromorphic hardware</a>
+    </h3>
+
+    
+    <a href="/talk/2015-10-07-gdr-bio-comp/" class="summary-link">
+      <div class="article-style">
+        We stand at a point in history where our phones have become smart but lack a feature which prevails in most forms of living …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Oct 7, 2015 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Saint-Paul de Vence</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2015-10-07-gdr-bio-comp/2015-10-07-gdr-bio-comp.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2015-10-07-gdr-bio-comp/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2015-10-07_Perrinet15biocomp_slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/talk/2015-10-07-gdr-bio-comp/" >
+      <img src="/talk/2015-10-07-gdr-bio-comp/featured_hu4941bc7050194ac6f122ccec48ee115d_366303_150x0_resize_lanczos_2.png" alt="Motion-based prediction with neuromorphic hardware">
+    </a>
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2014</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2014-04-25-kaplan-beijing/" >Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</a>
+    </h3>
+
+    
+    <a href="/talk/2014-04-25-kaplan-beijing/" class="summary-link">
+      <div class="article-style">
+         see Kaplan and al, 2014  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 25, 2014 12:00 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Beijing, China</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Bernhard A Kaplan</span>, <span >Mina A Khoei</span>, <span >Anders Lansner</span>, <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2014-04-25-kaplan-beijing/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2014-04-25-kaplan-beijing/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/IJCNN.2014.6889847" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2014-03-20-manchester/" >WP5 - Demo 1.3 : Spiking model of motion-based prediction</a>
+    </h3>
+
+    
+    <a href="/talk/2014-03-20-manchester/" class="summary-link">
+      <div class="article-style">
+        The question how the visual system is able to create a coherent representation of a rapidly changing environment in the presence of …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 20, 2014 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Manchester (UK)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Bernhard A Kaplan</span>, <span >Mina A Khoei</span>, <span >Anders Lansner</span>, <span >Guillaume S Masson</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2014-03-20-manchester/2014-03-20-manchester.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2014-03-20-manchester/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2014-03-20-manchester/14-03-20_BK_LP_MK_handout.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2014-01-10-int-fest/" >Axonal delays and on-time control of eye movements</a>
+    </h3>
+
+    
+    <a href="/talk/2014-01-10-int-fest/" class="summary-link">
+      <div class="article-style">
+        Moving objects generate sensory information that may be noisy and ambiguous, yet it is important to be able to reconstruct object speed …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 10, 2014 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2014-01-10-int-fest/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2014-01-10-int-fest/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2013</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2013-11-26-brain-scales-demos/" >Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</a>
+    </h3>
+
+    
+    <a href="/talk/2013-11-26-brain-scales-demos/" class="summary-link">
+      <div class="article-style">
+        Together with Bernhard Kaplan, we talked about how we aim at &ldquo;compiling&rdquo; a predictive motion-based approach as a spiking neural networks and then as a parallel wafer systems in the BrainscaleS project (Demo 1, Task4).
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 26, 2013 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Bernhard A Kaplan</span>, <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2013-11-26-brain-scales-demos/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2013-11-26-brain-scales-demos/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2013-07-05-cerco/" >Edge co-occurrences and categorizing natural images</a>
+    </h3>
+
+    
+    <a href="/talk/2013-07-05-cerco/" class="summary-link">
+      <div class="article-style">
+         See a followup in Perrinet and Bednar, 2015  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jul 5, 2013 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>CerCo, Toulouse</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >David Fitzpatrick</span>, <span >James A Bednar</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2013-07-05-cerco/2013-07-05-cerco.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2013-07-05-cerco/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2013-07-05-cerco/perrinet13cerco.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2013-03-21-marseille/" >Why methods and tools are the key to artificial brain-like systems</a>
+    </h3>
+
+    
+    <a href="/talk/2013-03-21-marseille/" class="summary-link">
+      <div class="article-style">
+        This session aims at presenting new ideas that emerged during the first years of BrainScaleS. Indeed, the collaborations that were …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 21, 2013 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2013-03-21-marseille/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2013-03-21-marseille/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2012</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2012-05-10-itwist/" >Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</a>
+    </h3>
+
+    
+    <a href="/talk/2012-05-10-itwist/" class="summary-link">
+      <div class="article-style">
+        Oriented edges in images of natural scenes tend to be aligned in collinear or co-circular arrangements, with lines and smooth curves …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          May 10, 2012 1:00 PM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >David Fitzpatrick</span>, <span >James A Bednar</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-05-10-itwist/2012-05-10-itwist.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2012-05-10-itwist/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-05-10-itwist/Perrinet12itwist.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2012-03-23-juelich/" >Apparent motion in V1 - Probabilistic approaches</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 23, 2012 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Forschungszentrum Jülich</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-03-23-juelich/2012-03-23-juelich.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2012-03-23-juelich/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-03-23-juelich/perrinet12wp5_handout.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2012-03-22-juelich/" >MotionClouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 22, 2012 2:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Forschungszentrum Jülich</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-03-22-juelich/2012-03-22-juelich.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2012-03-22-juelich/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-03-22-juelich/perrinet12wp4_handout.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2012-01-27-fil/" >Grabbing, tracking and sniffing as models for motion detection and eye movements</a>
+    </h3>
+
+    
+    <a href="/talk/2012-01-27-fil/" class="summary-link">
+      <div class="article-style">
+        Moving objects generate sensory information that may be noisy and ambiguous, yet it is important to be able to reconstruct object speed …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 27, 2012 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-01-27-fil/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2012-01-27-fil/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2012-01-24-edinburgh/" >Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</a>
+    </h3>
+
+    
+    <a href="/talk/2012-01-24-edinburgh/" class="summary-link">
+      <div class="article-style">
+        Oriented edges in images of natural scenes tend to be aligned in collinear or co-circular arrangements, with lines and smooth curves …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 24, 2012 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Room IF 4.31/4.33, Institute for Adaptive and Neural Computation (ANC) at the University of Edinburgh</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >David Fitzpatrick</span>, <span >James A Bednar</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-01-24-edinburgh/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2012-01-24-edinburgh/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2012-01-12-vision-at-ucl/" >Motion-based prediction is sufficient to solve the aperture problem</a>
+    </h3>
+
+    
+    <a href="/talk/2012-01-12-vision-at-ucl/" class="summary-link">
+      <div class="article-style">
+        In low-level sensory systems, it is still unclear how the noisy information collected locally by neurons may give rise to a coherent …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 12, 2012 5:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Malet Place Eng Bldg 1.03 (first floor).</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-01-12-vision-at-ucl/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2012-01-12-vision-at-ucl/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/perrinet12ucl_handout.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2011</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2011-11-15-sfn/" >Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</a>
+    </h3>
+
+    
+    <a href="/talk/2011-11-15-sfn/" class="summary-link">
+      <div class="article-style">
+        Oriented edges in images of natural scenes tend to be aligned in collinear or co-circular arrangements, with lines and smooth curves …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 15, 2011 8:45 AM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Washington, DC</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >David Fitzpatrick</span>, <span >James A Bednar</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2011-11-15-sfn/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2011-11-15-sfn/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2011-10-05-brain-scales-ess/" >Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Oct 5, 2011 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>TU Dresden, Germany</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2011-10-05-brain-scales-ess/2011-10-05-brain-scales-ess.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2011-10-05-brain-scales-ess/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2011-10-05-brain-scales-ess/2011-10-05-brain-scales-ess-talk.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2011-09-28-ermites/" >Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</a>
+    </h3>
+
+    
+    <a href="/talk/2011-09-28-ermites/" class="summary-link">
+      <div class="article-style">
+        Oriented edges in images of natural scenes tend to be aligned in collinear or co-circular arrangements, with lines and smooth curves …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Sep 28, 2011 1:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Porquerolles la Perle des Iles d&#39;Or - Var (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >David Fitzpatrick</span>, <span >James A Bednar</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2011-09-28-ermites/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2011-09-28-ermites/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2011-07-02-neuro-med-talk/" >Propriétés émergentes d&#39;un modèle de prédiction probabiliste utilisant un champ neural</a>
+    </h3>
+
+    
+    <a href="/talk/2011-07-02-neuro-med-talk/" class="summary-link">
+      <div class="article-style">
+        Sensory informations such as visual images are inherently variable. We use probabilistic models to describe how the low-level visual …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jul 2, 2011 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2011-07-02-neuro-med-talk/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2011-07-02-neuro-med-talk/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2010</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2010-12-17-tauc-talk/" >Probabilistic models of the low-level visual system: the role of prediction in detecting motion</a>
+    </h3>
+
+    
+    <a href="/talk/2010-12-17-tauc-talk/" class="summary-link">
+      <div class="article-style">
+        Sensory informations such as visual images are inherently variable. We use probabilistic models to describe how the low-level visual …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Dec 17, 2010 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2010-12-17-tauc-talk/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2010-12-17-tauc-talk/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2010-04-14-ondes-paralleles/" >Diffraction monochromatique, spectre audiographique</a>
+    </h3>
+
+    
+    <a href="/talk/2010-04-14-ondes-paralleles/" class="summary-link">
+      <div class="article-style">
+        En perception, les neurones « parlent » tous en même temps par de brèves impulsions électrochimiques, générant un mélange de signaux, …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 14, 2010 7:00 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Aix-enProvence (France)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2010-04-14-ondes-paralleles/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2010-04-14-ondes-paralleles/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/art-science/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/talk/2010-04-14-ondes-paralleles/" >
+      <img src="/talk/2010-04-14-ondes-paralleles/featured_huf8e22210a5b712d30ed9259f43294b7e_139525_150x0_resize_q90_lanczos.jpg" alt="Diffraction monochromatique, spectre audiographique">
+    </a>
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2010-01-08-facets/" >Models of low-level vision: linking probabilistic models and neural masses</a>
+    </h3>
+
+    
+    <a href="/talk/2010-01-08-facets/" class="summary-link">
+      <div class="article-style">
+         see this more recent talk @ UCL, London  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 8, 2010 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Guillaume S Masson</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2010-01-08-facets/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2010-01-08-facets/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2009</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2009-11-30-vss/" >Reading out the dynamics of lateral interactions in the primary visual cortex from VSD data</a>
+    </h3>
+
+    
+    <a href="/talk/2009-11-30-vss/" class="summary-link">
+      <div class="article-style">
+        Short presentation of a large moving pattern elicits an ocular following response that exhibits many of the properties attributed to …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 30, 2009 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Alexandre Reynaud</span>, <span >Frédéric Y Chavane</span>, <span >Guillaume S Masson</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2009-11-30-vss/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2009-11-30-vss/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2009-11-24-intelligence-mecanique/" >Peut-on parler d&#39;intelligence mécanique?</a>
+    </h3>
+
+    
+    <a href="/talk/2009-11-24-intelligence-mecanique/" class="summary-link">
+      <div class="article-style">
+        Nous parlerons de cette partie &quot;mécanique&quot; du cerveau animal ou humain qui permet de percevoir les mouvements et de &hellip; …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 24, 2009 6:30 PM
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Marseille, France</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Thierry Viéville</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2009-11-24-intelligence-mecanique/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2009-11-24-intelligence-mecanique/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.neurol.2019.01.031" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2009-07-18-kremkow-09-cnstalk/" >Control of the temporal interplay between excitation and inhibition by the statistics of visual input</a>
+    </h3>
+
+    
+    <a href="/talk/2009-07-18-kremkow-09-cnstalk/" class="summary-link">
+      <div class="article-style">
+         see this subsequent paper in the Journal of Computational Neuroscience  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jul 18, 2009 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Jens Kremkow</span>, <span >Laurent U Perrinet</span>, <span >Cyril Monier</span>, <span >Yves Frégnac</span>, <span >Guillaume S Masson</span>, <span >Ad M Aertsen</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2009-07-18-kremkow-09-cnstalk/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/doi:10.1186/1471-2202-10-S1-O21" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2009-04-01-int/" >Decoding low-level neural information to track visual motion</a>
+    </h3>
+
+    
+    <a href="/talk/2009-04-01-int/" class="summary-link">
+      <div class="article-style">
+        Moving the eyes rapidly to track a visual object moving in a cluttered environment is an essential function. However, doing so rapidly …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 1, 2009 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Guillaume S Masson</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2008-04-01-incm/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2009-04-01-int/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2008</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2008-06-01-ulm/" >Decoding the population dynamics underlying ocular following response using a probabilistic framework</a>
+    </h3>
+
+    
+    <a href="/talk/2008-06-01-ulm/" class="summary-link">
+      <div class="article-style">
+        The machinery behind the visual perception of motion and the subsequent sensorimotor transformation, such as in Ocular Following …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jun 1, 2008 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Guillaume S Masson</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2008-06-01-ulm/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2008-06-01-ulm/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2008-04-01-incm/" >From neural activity to behavior: computational neuroscience as a synthetic approach for understanding the neural code.</a>
+    </h3>
+
+    
+    <a href="/talk/2008-04-01-incm/" class="summary-link">
+      <div class="article-style">
+        Computational Neuroscience is a synthetic, inter-disciplinary approach aiming at understanding cognition by analyzing the mechanisms …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Apr 1, 2008 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2008-04-01-incm/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2008-04-01-incm/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2008-02-01-toledo/" >Modeling of spikes, sparseness and adaptation in the primary visual cortex: applications to imaging</a>
+    </h3>
+
+    
+    <a href="/talk/2008-02-01-toledo/" class="summary-link">
+      <div class="article-style">
+         related publications @ FENS 2006, @ NeuroComp 2008 and @ AREADNE 2008  
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Feb 1, 2008 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2008-02-01-toledo/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2008-02-01-toledo/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2007</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2007-12-01-rankprize/" >What efficient code for adaptive spiking representations?</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Dec 1, 2007 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2007-12-01-rankprize/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2007-12-01-rankprize/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2007-09-01-mipm/" >Neural Codes for Adaptive Sparse Representations of Natural Images</a>
+    </h3>
+
+    
+    <a href="/talk/2007-09-01-mipm/" class="summary-link">
+      <div class="article-style">
+        I will illustrate in this talk how computational neuroscience may inspire and be inspired by mathematical image processing. Focusing on …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Sep 1, 2007 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2007-09-01-mipm" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2007-09-01-mipm/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+      <div class="row" id="talk_list">
+        <div class="col-lg-2">
+          <h3>2006</h3>
+        </div>
+        <div class="col-lg-10">
+
+          
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/2006-01-01-neurocomp/" >Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</a>
+    </h3>
+
+    
+    <a href="/talk/2006-01-01-neurocomp/" class="summary-link">
+      <div class="article-style">
+        The quality of the representation of an object&rsquo;s motion is limited by the noise in the sensory input as well as by an intrinsic …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 1, 2006 12:00 AM
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  
+  <span >Laurent U Perrinet</span>, <span >Frédéric V Barthélemy</span>, <span >Guillaume S Masson</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/perrinet-06-neurocomp/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/talk/2006-01-01-neurocomp/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+            
+          
+
+        </div>
+      </div>
+      
+
+    </div>
+  </div>
+
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
+Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
+  </p>
+
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">
+      <img src="https://search.creativecommons.org/static/img/cc_icon.svg" alt="CC icon">
+      <img src="https://search.creativecommons.org/static/img/cc-by_icon.svg" alt="CC by icon">
+      
+        <img src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" alt="CC NC icon">
+      
+      
+        <img src="https://search.creativecommons.org/static/img/cc-nd_icon.svg" alt="CC ND icon">
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

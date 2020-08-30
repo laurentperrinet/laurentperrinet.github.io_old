@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Novel visual computations</title>
+    <link>https://laurentperrinet.github.io/talk/</link>
+      <atom:link href="https://laurentperrinet.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
+    <image>
+      <url>https://laurentperrinet.github.io/img/hulk.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://laurentperrinet.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Visual search as active inference</title>
+      <link>https://laurentperrinet.github.io/talk/2020-09-14-iwai/</link>
+      <pubDate>Mon, 14 Sep 2020 12:40:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2020-09-14-iwai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From the retina to action: Understanding visual processing</title>
+      <link>https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles/</link>
+      <pubDate>Fri, 03 Apr 2020 16:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Des illusions aux hallucinations visuelles: une porte sur la perception</title>
+      <link>https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema/</link>
+      <pubDate>Mon, 20 Jan 2020 10:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2020-01-20-atelier-sciences-cinema/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;Watch “ÇA TOURNE” on &lt;a href=&#34;https://twitter.com/hashtag/Vimeo?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Vimeo&lt;/a&gt; &lt;a href=&#34;https://t.co/nzUAEwjTeD&#34;&gt;https://t.co/nzUAEwjTeD&lt;/a&gt; (english subs) réalisé par Camille Goujon et par les élèves du Lycée Professionnel Domaine Eguille, Vedène (France) - &lt;a href=&#34;https://t.co/EhVz0YZdPs&#34;&gt;https://t.co/EhVz0YZdPs&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/StopMotion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#StopMotion&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/vision?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#vision&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuroscience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuroscience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/outreach?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#outreach&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1284791644240347138?ref_src=twsrc%5Etfw&#34;&gt;July 19, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://player.vimeo.com/video/398661322&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Le film &amp;ldquo;ÇA TOURNE&amp;rdquo; a été sélectionné pour faire partie de la compétition catégorie «FILMS SCOLAIRES&amp;rdquo; diffusée du 4 au 7 novembre 2020 dans le cadre du festival &amp;ldquo;7ème Art Jeunes Talent! : &lt;a href=&#34;http://www.festivaltournezjeunesse.com&#34;&gt;http://www.festivaltournezjeunesse.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Le texte de cette présentation est reprise dans cet article de 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Conversation&lt;/a&gt; (
+&lt;a href=&#34;https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lien direct&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Voir la @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/post/2019-10-07_neurostories/&#34;&gt;présentation au NeuroStories&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning where to look: a foveated visuomotor control model</title>
+      <link>https://laurentperrinet.github.io/talk/2019-07-15-cns/</link>
+      <pubDate>Mon, 15 Jul 2019 12:20:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-07-15-cns/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;download a 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-07-15-cns/2019-07-15-cns.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preliminary PDF&lt;/a&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Emmanuel Daucé @ &lt;a href=&#34;https://twitter.com/hashtag/CNS2019Barcelona?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CNS2019Barcelona&lt;/a&gt; speaks about our joint work on « Learning where to look: a foveated visuomotor control model » more info @ &lt;a href=&#34;https://t.co/HREjuIgNCn&#34;&gt;https://t.co/HREjuIgNCn&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CNSorg?ref_src=twsrc%5Etfw&#34;&gt;@CNSorg&lt;/a&gt; &lt;a href=&#34;https://t.co/GbbXhWL1k1&#34;&gt;pic.twitter.com/GbbXhWL1k1&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1150713758643380226?ref_src=twsrc%5Etfw&#34;&gt;July 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-problem-setting-in-generic-ecological-settings-the-visual-system-faces-a-tricky-problem-when-searching-for-one-target-from-a-class-of-targets-in-a-cluttered-environment-a-it-is-synthesized-in-the-following-experiment-after-a-fixation-period-of-200-ms-an-observer-is-presented-with-a-luminous-display--showing-a-single-target-from-a-known-class-here-digits-and-at-a-random-position-the-display-is-presented-for-a-short-period-of-500-ms-light-shaded-area-in-b-that-is-enough-to-perform-at-most-one-saccade-here-successful-on-the-potential-target-finally-the-observer-has-to-identify-the-digit-by-a-keypress-b-prototypical-trace-of-a-saccadic-eye-movement-to-the-target-position-in-particular-we-show-the-fixation-window-and-the-temporal-window-during-which-a-saccade-is-possible-green-shaded-area-c-simulated-reconstruction-of-the-visual-information-from-the-interoceptive-retinotopic-map-at-the-onset-of-the-display-and-after-a-saccade-the-dashed-red-box-indicating-the-visual-area-of-the-what-pathway-in-contrast-to-an-exteroceptive-representation-see-a-this-demonstrates-that-the-position-of-the-target-has-to-be-inferred-from-a-degraded-sampled-image-in-particular-the-configuration-of-the-display-is-such-that-by-adding-clutter-and-reducing-the-size-of-the-digit-it-may-become-necessary-to-perform-a-saccade-to-be-able-to-identify-the-digit-the-computational-pathway-mediating-the-action-has-to-infer-the-location-of-the-target-emphbefore-seeing-it-that-is-before-being-able-to-actually-identify-the-targets-category-from-a-central-fixation&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; data-caption=&#34;Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. &amp;lt;strong&amp;gt;A)&amp;lt;/strong&amp;gt; It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. &amp;lt;strong&amp;gt;B)&amp;lt;/strong&amp;gt; Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). &amp;lt;strong&amp;gt;C)&amp;lt;/strong&amp;gt; Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;amp;rsquo;&amp;amp;rsquo; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;amp;rsquo;s category from a central fixation.&#34;&gt;
+
+
+  &lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. &lt;strong&gt;A)&lt;/strong&gt; It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. &lt;strong&gt;B)&lt;/strong&gt; Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). &lt;strong&gt;C)&lt;/strong&gt; Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;rsquo;&amp;rsquo; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;rsquo;s category from a central fixation.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-results-success&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; data-caption=&#34;Results: success&#34;&gt;
+
+
+  &lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Results: success
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-results-failure-to-classify&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; data-caption=&#34;Results: failure to classify&#34;&gt;
+
+
+  &lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Results: failure to classify
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-results-failure-to-locate&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; data-caption=&#34;Results: failure to locate&#34;&gt;
+
+
+  &lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Results: failure to locate
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should I stay or should I go? Humans adapt to the volatility of visual motion properties, and know about it</title>
+      <link>https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/</link>
+      <pubDate>Thu, 23 May 2019 01:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;See the final publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Pasturel, Montagnini and Perrinet (2020)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This is part of the 
+&lt;a href=&#34;https://laurentperrinet.github.io/post/2019-05-23-neurofrance/&#34;&gt;Active Inference symposium&lt;/a&gt; @ 
+&lt;a href=&#34;https://www.neurosciences.asso.fr/V2/colloques/SN19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroFrance&lt;/a&gt; SYMPOSIUM, Room 7
+23.05.2019, 11:00 &amp;ndash; 13:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;in french: Principes et psychophysique de l´Inférence Active dans l&amp;rsquo;estimation d&amp;rsquo;un biais dynamique et volatile de probabilité&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Des illusions aux hallucinations visuelles: une porte sur la perception</title>
+      <link>https://laurentperrinet.github.io/talk/2019-04-18-jnlf/</link>
+      <pubDate>Thu, 18 Apr 2019 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-04-18-jnlf/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Le texte de cette présentation est reprise dans cet article de 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Conversation&lt;/a&gt; (
+&lt;a href=&#34;https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lien direct&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Voir la @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/post/2019-10-07_neurostories/&#34;&gt;présentation au NeuroStories&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should I stay or should I go? Adaption of human observers to the volatility of visual inputs</title>
+      <link>https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/</link>
+      <pubDate>Fri, 05 Apr 2019 15:45:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See the final publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Pasturel, Montagnini and Perrinet (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/&#34;&gt;NeuroFrance, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From the retina to action: Understanding visual processing</title>
+      <link>https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/</link>
+      <pubDate>Wed, 03 Apr 2019 16:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From the retina to action: Predictive processing in the visual system</title>
+      <link>https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/</link>
+      <pubDate>Mon, 25 Mar 2019 14:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;check-out our preprint on 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;SDPC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Should I stay or should I go? Adaption of human observers to the volatility of visual inputs</title>
+      <link>https://laurentperrinet.github.io/talk/2019-01-18-laconeu/</link>
+      <pubDate>Fri, 18 Jan 2019 10:45:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-01-18-laconeu/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See the final publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Pasturel, Montagnini and Perrinet (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Role of dynamics in neural computations underlying visual processing</title>
+      <link>https://laurentperrinet.github.io/talk/2019-01-17-laconeu/</link>
+      <pubDate>Thu, 17 Jan 2019 10:45:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-01-17-laconeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient coding of visual information in neural computations</title>
+      <link>https://laurentperrinet.github.io/talk/2019-01-16-laconeu/</link>
+      <pubDate>Wed, 16 Jan 2019 10:45:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-01-16-laconeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling spiking neural networks using Brian, Nest and pyNN</title>
+      <link>https://laurentperrinet.github.io/talk/2019-01-14-laconeu/</link>
+      <pubDate>Mon, 14 Jan 2019 11:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-01-14-laconeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rencontre avec les collégiens marseillais</title>
+      <link>https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/</link>
+      <pubDate>Thu, 10 Jan 2019 09:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2019-01-10-polly-maggoo/</guid>
+      <description>&lt;h1 id=&#34;cinéma-et-sciences--rencontre-avec-les-collégiens-marseillais&#34;&gt;Cinéma et sciences : rencontre avec les collégiens marseillais&lt;/h1&gt;
+&lt;p&gt;L&amp;rsquo;Association Polly Maggoo &lt;a href=&#34;http://www.pollymaggoo.org/&#34;&gt;http://www.pollymaggoo.org/&lt;/a&gt; met en place
+tout le long de l’année, des actions de culture scientifique et
+artistique en direction du grand public et des lycées, au cours
+desquelles l&amp;rsquo;association programme des films à caractère scientifique.
+Les projections se déroulent en présence de chercheurs et/ou de
+cinéastes dans la perspective d’un développement de la culture
+cinématographique et scientifique en direction des publics scolaires.
+Le jeudi 10 janvier 2019, je suis venu échanger au côté de Serge Dentin
+autour de films traitant du rapport fiction/réel, des illusion visuelles
+(&amp;rdquo; Qu’est ce qu’une image? &amp;ldquo;), des rapports d’échelles, de la
+perception, &amp;hellip; et qui sont projetés lors de la séance, avec les élèves
+de deux classes de 4ème. Une occasion aussi de parler du métier de
+chercheur.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date&lt;br&gt;
+10 janvier 2019&lt;/li&gt;
+&lt;li&gt;Location&lt;br&gt;
+collège André Malraux, Marseille&lt;/li&gt;
+&lt;li&gt;Programmation&lt;br&gt;
+&amp;ldquo;LAZARUS MIRAGES : TÉLÉPATHIE À L&amp;rsquo;UNIVERSITÉ DE SHANGAI&amp;rdquo; de Patric
+JEAN et Henry BROCH (France, 2012, documentaire, 3&#39;21)
+/&amp;ldquo;CARLITOPOLIS&amp;rdquo; / / &amp;ldquo;BIG DATA, BIG BUSINESS&amp;rdquo; / &amp;ldquo;
+&lt;a href=&#34;https://www.youtube.com/watch?v=RVeHxUVkW4w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Centrifuge
+Brain Project, A Short Film by Till
+Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>La modélisation biomorphique de la perception visuelle</title>
+      <link>https://laurentperrinet.github.io/talk/2018-10-11-bio-morphisme/</link>
+      <pubDate>Thu, 11 Oct 2018 18:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2018-10-11-bio-morphisme/</guid>
+      <description>&lt;h1 id=&#34;la-modélisation-biomorphique-de-la-perception-visuelle&#34;&gt;La modélisation biomorphique de la perception visuelle&lt;/h1&gt;
+&lt;h2 id=&#34;in-la-modélisation-de-la-genèse-physico-mathématique-du-vivant&#34;&gt;in &amp;ldquo;La modélisation de la genèse physico-mathématique du vivant&amp;rdquo;&lt;/h2&gt;
+&lt;h2 id=&#34;biomorphisme-et-creation-artistique-session-3&#34;&gt;BIOMORPHISME ET CREATION ARTISTIQUE – Session 3&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Date&lt;br&gt;
+11 Octobre 2018&lt;/li&gt;
+&lt;li&gt;Atelier&lt;br&gt;
+Séminaire/workshop organisé dans le cadre du projet Biomorphisme.
+Approches sensibles et conceptuelles des formes du vivant
+&lt;a href=&#34;http://lesa.univ-amu.fr/?q=node/391&#34;&gt;http://lesa.univ-amu.fr/?q=node/391&lt;/a&gt; &lt;a href=&#34;http://centregranger.cnrs.fr&#34;&gt;http://centregranger.cnrs.fr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Location&lt;br&gt;
+Bâtiment Egger, dans la salle E 215 (2ème étage côté voie ferrée) -
+3 avenue R. Schuman - Aix-en-Provence&lt;/li&gt;
+&lt;li&gt;Visuels&lt;br&gt;
+
+&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2018-10-11_BioMorphisme.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Organisation&lt;br&gt;
+Jean Arnaud, PR arts plastiques au LESA-AMU ; Julien Bernard, MCF
+philosophe des sciences au Centre GG Granger-AMU ; Sylvie Pic,
+artiste&lt;/li&gt;
+&lt;li&gt;Résumé&lt;br&gt;
+La vision utilise un faisceau d&amp;rsquo;informations de différentes qualités
+pour atteindre une perception unifiée du monde environnant. Elle
+interagit avec lui en créant son propre modèle génératif de sa
+structure physico-mathématique. Avec 
+&lt;a href=&#34;https://laurentperrinet.github.io/LaurentPerrinet/EtienneRey&#34;&gt;Etienne
+Rey&lt;/a&gt; de l&amp;rsquo;atelier Ondes Parallèles,
+nous avons utilisé lors de plusieurs projets art-science (voir
+&lt;a href=&#34;https://github.com/NaturalPatterns&#34;&gt;https://github.com/NaturalPatterns&lt;/a&gt;) des installations permettant
+de manipuler explicitement des composantes de ce flux d&amp;rsquo;information
+et de révéler des ambiguités dans notre perception. Dans
+l&amp;rsquo;installation
+
+&lt;a href=&#34;https://github.com/NaturalPatterns/Tropique&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tropique&lt;/a&gt;, des
+faisceaux de lames lumineuses sont arrangés dans l&amp;rsquo;espace assombri
+de l&amp;rsquo;installation. Les spectateurs les observent grâce à leur
+interaction avec une brume invisible qui est diffusée dans l&amp;rsquo;espace.
+L&amp;rsquo;ensemble des faisceaux évolue comme autant de lames lumineuses à
+partir de 6 video-projecteurs placés dans l&amp;rsquo;espace de
+l&amp;rsquo;installation, suivant une dynamique autonome. En même temps, la
+position des spectateurs est captée et permet d&amp;rsquo;alterner entre une
+vision de ces sculptures d&amp;rsquo;un point de vue introceptif à un point de
+vue exteroceptif. Dans «
+&lt;a href=&#34;https://github.com/NaturalPatterns/elasticite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trame
+Élasticité&lt;/a&gt;», 25
+parallélépipèdes de miroirs (3m de haut) sont arrangés verticalement
+sur une ligne horizontale. Ces lames sont rotatives et leurs
+mouvements est synchronisé. Suivant la dyamique qui est imposé à ces
+lames, la perception de l’espace environnent fluctue conduisant à
+recomposer l’espace de la concentration à l’expansion, ou encore à
+générer un surface semblant transparente ou inverser la visons de
+ce qui est située devant et derrière l’observateur. Enfin, dans
+«
+&lt;a href=&#34;https://github.com/NaturalPatterns/TRAMES&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trames&lt;/a&gt;», nous
+explorons l&amp;rsquo;interaction de séries périodiques de points placées sur
+des surfaces transparentes. À partir de premières expérimentations
+utilisant une technique novatrice de sérigraphie, ces trames de
+points sont placées afin de faire émerger des structures selon le
+point de vue du spectateur. Ce qui est en jeu ici c’est l’émergence
+de l’apparition de motifs virtuels résultat de la relation entre une
+réalité physique, la grandeur et l’ordonnancement de trames et notre
+physiologie qui conduit à cette état de perception. Lorsqu’on est
+fasse à ces motifs ce qui saute au yeux plus que le motif réel c’est
+sa résultante, instable et éphémère qui fait apparaitre une richesse
+de figures géométriques qui se transforment et évoluent en fonction
+du temps d’observation et du point de vue. Sur ce principe de
+dispositif optique, le travail de chacun des motifs, lié à un
+séquençage de trames conduit à faire apparaitre une composition et
+des émergences de formes spécifiques. L’expérience de perception de
+chacun des motifs explore les notions d’instabilité, de flux,
+d’émergences … dont l’expérience donne à entrevoir des formes que
+l’on retrouve dans la nature ou les phénomènes naturels: le dessin
+du pelage d’un zèbre, une accumulation de bulles de savons, ou plus
+généralement dans les compositions chimiques issue de la théorie de
+la morphogénèse de Turing. De manière générale, nous montrerons ici
+les différentes méthodes utilisées, comme l&amp;rsquo;utilisation des limites
+perceptives, et aussi les résultats apportés par une telle
+collaboration.&lt;/li&gt;
+&lt;li&gt;Mots-Clés&lt;br&gt;
+art cinétique ; science ; vision ; perception ; modèle interne&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intervention fête de la science 2018</title>
+      <link>https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/</link>
+      <pubDate>Wed, 10 Oct 2018 18:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2018-10-10-polly-maggoo/</guid>
+      <description>&lt;h1 id=&#34;fête-de-la-science-2018--alcazar--merlan&#34;&gt;FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN&lt;/h1&gt;
+&lt;p&gt;L&amp;rsquo;Association Polly Maggoo &lt;a href=&#34;http://www.pollymaggoo.org/&#34;&gt;http://www.pollymaggoo.org/&lt;/a&gt; met en place
+tout le long de l’année, des actions de culture scientifique et
+artistique en direction du grand public et des lycées, au cours
+desquelles l&amp;rsquo;association programme des films à caractère scientifique.
+Les projections se déroulent en présence de chercheurs et/ou de
+cinéastes dans la perspective d’un développement de la culture
+cinématographique et scientifique en direction des publics scolaires.
+Le samedi 6 octobre et le mercredi 10 octobre, je suis venu échanger au
+côté de Serge Dentin autour de films traitant du rapport fiction/réel,
+des illusion visuelles (&amp;rdquo; Qu’est ce qu’une image? &amp;ldquo;), des rapports
+d’échelles, de la perception, &amp;hellip; et qui sont projetés lors de la
+séance, avec tout public (samedi) ou des élèves de lycée (mercredi).
+Une occasion aussi de parler du métier de chercheur.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date&lt;br&gt;
+6 octobre 2018&lt;/li&gt;
+&lt;li&gt;Location&lt;br&gt;
+bibliothèque de l&amp;rsquo;Alcazar (BMVR), Marseille&lt;/li&gt;
+&lt;li&gt;Programmation&lt;br&gt;
+&lt;em&gt;SAMSUNG GALAXY&lt;/em&gt; de Romain CHAMPALAUNE (France, 2015),
+documentaire-fiction, 7′ / &lt;em&gt;LA DRÔLE DE GUERRE D’ALAN TURING&lt;/em&gt; de
+Denis VAN WAEREBEKE (France, 2014), documentaire, 60’&lt;/li&gt;
+&lt;li&gt;URL&lt;br&gt;
+&lt;a href=&#34;http://pollymaggoo.org/fete-de-la-science-2018-alcazar-bmvr/&#34;&gt;http://pollymaggoo.org/fete-de-la-science-2018-alcazar-bmvr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Date&lt;br&gt;
+10 octobre 2018&lt;/li&gt;
+&lt;li&gt;Location&lt;br&gt;
+bibliothèque du Merlan, Marseille&lt;/li&gt;
+&lt;li&gt;Programmation&lt;br&gt;
+&lt;em&gt;SAMSUNG GALAXY&lt;/em&gt; de Romain CHAMPALAUNE (France, 2015),
+documentaire-fiction, 7′ / &amp;ldquo;JE TE SUIS (JAG FÖLJER DIG)&amp;rdquo; / &amp;ldquo;OS
+Love_EN&amp;rdquo; / &amp;ldquo;BIG DATA, BIG BUSINESS&amp;rdquo; / COPIER-CLONER / et en bonus
+&amp;ldquo;
+&lt;a href=&#34;https://www.youtube.com/watch?v=RVeHxUVkW4w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Centrifuge Brain Project, A Short Film by Till
+Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Principles and psychophysics of Active Inference in anticipating a dynamic, switching probabilistic bias</title>
+      <link>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</link>
+      <pubDate>Thu, 05 Apr 2018 14:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See the final publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Pasturel, Montagnini and Perrinet (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/&#34;&gt;NeuroFrance, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilities, Bayes and the Free-energy principle</title>
+      <link>https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/</link>
+      <pubDate>Mon, 26 Mar 2018 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating and anticipating a dynamic probabilistic bias in visual motion direction</title>
+      <link>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See the final publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Pasturel, Montagnini and Perrinet (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;previous talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2016-10-13-law/&#34;&gt;LAW, Lyon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/&#34;&gt;NeuroFrance, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expériences autour de la perception de la forme en art et science</title>
+      <link>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</link>
+      <pubDate>Thu, 25 Jan 2018 18:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</guid>
+      <description>&lt;h1 id=&#34;meetup-art-et-neurosciences&#34;&gt;Meetup Art et Neurosciences&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Quoi&lt;br&gt;
+Meetup Art et Neurosciences&lt;/li&gt;
+&lt;li&gt;Qui&lt;br&gt;
+
+&lt;a href=&#34;https://www.facebook.com/events/211121069456116/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Association
+NeuroNautes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Quand&lt;br&gt;
+25 Janvier 2018&lt;/li&gt;
+&lt;li&gt;Où&lt;br&gt;
+Salle des voutes campus Saint Charles&lt;/li&gt;
+&lt;li&gt;Support visuel&lt;br&gt;
+&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html&#34;&gt;https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html&lt;/a&gt;
+(notes: la présentation peut mettre un certain temps
+à charger. Une fois que le titre apparait, appuyer sur la touche &amp;ldquo;F&amp;rdquo;
+pour mettre en plein écran)
+&lt;img src=&#34;http://www.lafriche.org/public_data/diapo/resident/1454686884/desk/2._elasticite_dynamique-etienne_rey-photoquentin_chevrier_pour_art2m_et_arcadi_ile_de_france.jpg&#34; alt=&#34;Elasticité&#34; title=&#34;Elasticité dynamique est composée des pièces Expansion, Trame et Lignes sonores. Volume hexagonal en miroir de 7 mètres de diamètre, Expansion fonctionne comme une chambre d&#39;écho. A l&#39;intérieur de ce volume se situe Trame. Constituée de 25 lames de miroir en rotation, cette pièce réoriente continuellement le regard. Quant à Lignes sonores, elle est formée de quatre monolithes orientés vers Expansion et émet des sons qui se réorientent en fonction du mouvement des lames. (© Etienne Rey, Adagp Paris&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised learning applied to robotic vision</title>
+      <link>https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/</link>
+      <pubDate>Fri, 24 Nov 2017 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participation au jury</title>
+      <link>https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/</link>
+      <pubDate>Fri, 17 Nov 2017 18:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-11-17-festival-interferences/</guid>
+      <description>&lt;h1 id=&#34;festival-interférences&#34;&gt;FESTIVAL INTERFÉRENCES​&lt;/h1&gt;
+&lt;h2 id=&#34;cinéma-documentaire-et-débat-public&#34;&gt;Cinéma Documentaire et Débat Public&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://static.wixstatic.com/media/e37617_35d8c5b48dd340a481db5f711aeaa35a~mv2_d_1772_2480_s_2.jpg/v1/fill/w_600,h_797,al_c,q_85,usm_0.66_1.00_0.01/e37617_35d8c5b48dd340a481db5f711aeaa35a~mv2_d_1772_2480_s_2.jpg&#34; alt=&#34;FESTIVAL INTERFÉRENCES​&#34; title=&#34;FESTIVAL INTERFÉRENCES​&#34;&gt;
+Le collectif Scènes Publiques composé de citoyens, chercheurs et
+cinéastes, organise la deuxième édition du Festival Interférences du 8
+au 18 novembre 2017 à Lyon. J&amp;rsquo;ai eu la chance de pouvoir participer au
+jury autour de documentaires avec un regard scientifiques. Une occasion
+aussi de parler du métier de chercheur.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date&lt;br&gt;
+17 et 18 Novembre 2017&lt;/li&gt;
+&lt;li&gt;Location&lt;br&gt;
+Lyon&lt;/li&gt;
+&lt;li&gt;Programmation&lt;br&gt;
+&lt;a href=&#34;http://www.lacitedoc.com/interferences-programmation&#34;&gt;http://www.lacitedoc.com/interferences-programmation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What dynamic neural codes for efficient visual processing</title>
+      <link>https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/</link>
+      <pubDate>Wed, 15 Nov 2017 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-11-15-colloque-master/</guid>
+      <description>&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;unsupervised learning : 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet (2010)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biologically inspired computer vision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;supervised learning : &lt;a href=&#34;https://www.nature.com/articles/srep11400&#34;&gt;https://www.nature.com/articles/srep11400&lt;/a&gt; (
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;more info&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;dynamics: Khoei et al (2017) - &lt;a href=&#34;http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005068&#34;&gt;http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005068&lt;/a&gt; ( 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;more info&lt;/a&gt; )&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Back to the present: dealing with delays in biological and neuromorphic systems</title>
+      <link>https://laurentperrinet.github.io/talk/2017-06-28-telluride/</link>
+      <pubDate>Wed, 28 Jun 2017 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-06-28-telluride/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial on predictive coding</title>
+      <link>https://laurentperrinet.github.io/talk/2017-06-30-telluride/</link>
+      <pubDate>Wed, 28 Jun 2017 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-06-30-telluride/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Active inference for eye movements: Bayesian methods, neural inference, dynamics</title>
+      <link>https://laurentperrinet.github.io/talk/2017-01-20-laconeu/</link>
+      <pubDate>Fri, 20 Jan 2017 10:45:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-01-20-laconeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Sparse optimization in neural computations</title>
+      <link>https://laurentperrinet.github.io/talk/2017-01-19-laconeu/</link>
+      <pubDate>Thu, 19 Jan 2017 10:45:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-01-19-laconeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back to the present: how neurons deal with delays</title>
+      <link>https://laurentperrinet.github.io/talk/2017-01-18-laconeu/</link>
+      <pubDate>Wed, 18 Jan 2017 09:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-01-18-laconeu/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://laconeu.cl/wp-content/uploads/2018/04/Valparaiso-3.jpg&#34; alt=&#34;Chile&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participation au jury et entretien avec Clara Delmon</title>
+      <link>https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/</link>
+      <pubDate>Sun, 20 Nov 2016 09:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-11-20-polly-maggoo/</guid>
+      <description>&lt;h1 id=&#34;rencontres-internationales-sciences--cinémas&#34;&gt;RENCONTRES INTERNATIONALES SCIENCES &amp;amp; CINÉMAS&lt;/h1&gt;
+&lt;h2 id=&#34;cinéma-les-variétés&#34;&gt;cinéma les Variétés&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016_A3-724x1024.jpg&#34; alt=&#34;http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016\_A3-724x1024.jpg&#34; title=&#34;http://pollymaggoo.org/wp-content/uploads/2016/10/RISC2016_A3-724x1024.jpg&#34;&gt;
+L&amp;rsquo;Association Polly Maggoo &lt;a href=&#34;http://www.pollymaggoo.org/&#34;&gt;http://www.pollymaggoo.org/&lt;/a&gt; programme la
+10e édition des RENCONTRES INTERNATIONALES SCIENCES &amp;amp; CINÉMAS (RISC) à
+Marseille, au cours desquelles l&amp;rsquo;association programme des films à
+caractère scientifique. Les projections se déroulent en présence de
+chercheurs et/ou de cinéastes dans la perspective d’un développement de
+la culture cinématographique et scientifique en direction des publics
+scolaires.
+Ce dimanche 20 novembre, je suis venu échanger au côté de Serge Dentin
+et Caroline Renard (Maître de conférences en études cinématographiques à
+Aix-Marseille Université), autour de films traitant du rapport
+fiction/réel, de la mémoire, et du temps. Une occasion aussi de parler
+du métier de chercheur.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date&lt;br&gt;
+25 Avril 2016&lt;/li&gt;
+&lt;li&gt;Location&lt;br&gt;
+cinéma les Variétés&lt;/li&gt;
+&lt;li&gt;Programmation&lt;br&gt;
+&amp;ldquo;addendum&amp;rdquo; court métrage de Jérôme Lefdup et &amp;ldquo;Poétique du cerveau&amp;rdquo;
+long métrage de Nurith Aviv&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;entretien-avec-clara-delmon&#34;&gt;entretien avec Clara Delmon&lt;/h1&gt;
+&lt;p&gt;L&amp;rsquo;occasion aussi d&amp;rsquo;un entretien avec Clara Delmon dans le cadre de son
+mémoire de DSAA (Diplôme Supérieur d’Arts Appliqués) mention Design
+Graphique à Marseille, disponible sur
+&lt;a href=&#34;http://www.tonerkebab.fr/wiki/doku.php/wiki:proto-memoires:clara-delmon:clara-delmon&#34;&gt;http://www.tonerkebab.fr/wiki/doku.php/wiki:proto-memoires:clara-delmon:clara-delmon&lt;/a&gt;
+et &lt;a href=&#34;https://www.behance.net/claradelmon&#34;&gt;https://www.behance.net/claradelmon&lt;/a&gt; 
+&lt;a href=&#34;http://www.tonerkebab.fr/wiki/lib/exe/fetch.php/wiki:proto-memoires:clara-delmon:clara_synthe_se.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;L’échec de la
+perception&amp;rdquo;&lt;/a&gt;.
+Entretien avec Laurent PERRINET, rencontré à la 10e édition des RISC
+(Rencontres Internationales de la Science et du Cinéma) chercheur au
+CNRS (Centre National de la Recherche Scientifque) à l’Institut de
+Neurosciences de la Timone à Marseille, spécialisé en perception
+visuelle.&lt;/p&gt;
+&lt;h2 id=&#34;entretien&#34;&gt;Entretien&lt;/h2&gt;
+&lt;p&gt;Entretien avec Laurent PERRINET, rencontré à la 10e édition des RISC
+(Rencontres Internationales de la Science et du Cinéma)chercheur au CNRS
+(Centre National de la Recherche Scientifque) à l’Institut de
+Neurosciences de la Timone à Marseille, spécialisé en perception
+visuelle. ﻿
+&lt;strong&gt;1 / Vous faites les Rencontres Internationales de la Science et du
+Cinéma depuis quelques années déjà, la science est de plus en plus
+présente dans les arts, comme avec certains courants artistiques comme
+l’Art Cinétique ou l’Art Optique, pourquoi pensez-vous qu’une telle
+interaction est présente à notre époque ? J’ai la sensation qu’il y a
+un intérêt grandissant pour l’étude du cerveau dans le domaine des
+arts et de la communication. À votre avis, pourquoi un tel besoin de
+donner de la poésie au cerveau, (ou du cerveau à la poésie) ?&lt;/strong&gt;
+En effet, je participe aux Rencontres Internationales de la Science et
+du Cinéma depuis déjà deux ans déjà. Le but est simplement de
+rentrer en contact avec le grand public et partager ma passion pour
+l’étude de la perception visuelle et du cerveau plus généralement.
+J’attache beaucoup d’importance à ces rencontres car elle nous
+permettent aussi de mieux comprendre l’intérêt public pour le cerveau
+dans son fonctionnement normal mais aussi dans ses dysfonctions. C’est
+aussi une source d’inspiration pour savoir dans quelle direction il est
+important de plus creuser nos recherches.
+&lt;strong&gt;2 / Vous travaillez notamment avec Etienne Rey sur des installations
+interactives, où la place et le ressenti du spectateur font l’œuvre. La
+vue est alors votre outil de travail essentiel, pourquoi ce sens est-il
+plus sensiblement exposé à l’expérience de l’illusion ? Qu’apporte
+l’expérience perceptive au spectateur ?&lt;/strong&gt;
+En effet, en parallèle de ces actions de partage avec le public, je
+travaille aussi avec &lt;em&gt;Étienne Rey&lt;/em&gt;, un artiste plasticien résidant à
+la Friche Belle de mai à Marseille. Notre travail s’articule autour de
+l’ambiguïté de l’expérience perceptive du spectateur.
+Est-il en train de se regarder lui-même dans un miroir ou le miroir
+est-il lui-même une œuvre d’art ?
+&lt;strong&gt;3 / Les graphistes d’aujourd’hui ont tendance à brouiller les codes,
+déformer, rendre illisible, en bref utiliser la complexité de l’image
+pour en complexifier la lecture. Pensez-vous qu’une image où on ne voit
+rien puisse en dire plus ? C’est-à-dire, pensez-vous qu’en accentuant
+l’acte de lecture, le designer graphique amène à son lecteur une
+activité qui consisterait non plus seulement à déchiffrer un message
+(présentation d’un évènement, publicité&amp;hellip;) mais à s’observer
+lui-même en tant que lecteur ?&lt;/strong&gt;
+Le travail du système visuel est de décoder les messages ambigus qui
+lui sont délivrés par la rétine. En créant des oeuvres graphiques
+qui brouillent les codes et en les déformants, on oblige le cerveau à
+avoir une démarche plus active par rapport au décodage du message
+fourni.
+Tout le travail du graphiste consiste donc à indiquer ce processus
+actif tout en conservant l’intégrité du message.
+&lt;strong&gt;4 / Ces images utilisent le plus souvent des trames, des rayures, des
+distorsions qui captent notre attention. Pourquoi notre œil est plus
+attiré par ce qui est en mouvement ?&lt;/strong&gt;
+Notre oeil est attiré par tout ce qui est surprenant. Cela inclut donc
+tout ce qui ne peut pas arriver par hasard comme des bouts de lignes
+alignés. Mais notre oeil est aussi attiré par ce qu’il trouve
+surprenant de ne pas pouvoir prédire, comme par exemple des lignes qui
+sont légèrement décalées ou un objet qui est en mouvement. Un
+processus actif s’établit alors pour comprendre cette stimulation avec
+de nouvelles hypothèses.
+&lt;strong&gt;5 / Il semblerait que notre œil soit attiré par des formes, des
+couleurs, des objets particuliers qui diffèrent pour chacun d’entre
+nous. Il y a dans la perception visuelle des notions de pulsions, de
+désirs, un besoin de voir, comment expliquez-vous que le cerveau soit
+sans cesse en quête et en attente d’images ?&lt;/strong&gt;
+Pour moi la perception visuelle n’est pas juste un cinéma à
+l’intérieur du cerveau !
+C’est un processus vital qui sert à mieux interagir avec
+l’environnement. À ce titre il est toujours en quête de nouvelles
+images pour améliorer ce rapport au monde que l’on construit sans
+cesse. Il faut voir par exemple comment un enfant manipule des objets.
+Il le fait pour mieux comprendre les images de ces objets et la façon
+dont il peut interagir avec le monde.
+&lt;strong&gt;6 / On l’a vu notamment dans le film Poétique du Cerveau de Nurith
+Aviv diffusé à cette 10e édition du RISC, la mémoire et
+l’expérience visuelle de chacun influent sur notre perception. Vous
+avez parlé d’ « autopoïèse », cela signifie-t-il que nous voyons tous
+les choses différemment ? Est-ce qu’un système de données
+pré-établies est formé par notre cerveau au cours de nos années de
+vie et sert de « lunettes » pour voir le monde ?&lt;/strong&gt;
+La perception visuelle est un processus actif de compréhension d’une
+représentation du monde. Elle est donc propre à chacun car elle se
+construit avec notre expérience et la façon dont nous interagissons
+avec le monde visuel. Mais ce monde est le même pour chaque individu et
+nous partageons les mêmes codes et les mêmes systèmes pour apprendre
+à nous représenter ce monde.
+Nos « lunettes » sont donc propres à notre expérience mais elles ont
+sûrement beaucoup en commun entre individus.
+&lt;strong&gt;7 / Peut-on enlever ces lunettes? Des expérimentations optiques comme
+celles d’Etienne Rey ou celles de designers graphiques conduisants une
+réflexion sur notre vision peuvent-elles amener une nouvelle
+expérience visuelle remettant en question notre activité
+perceptive?&lt;/strong&gt;
+On ne pourra jamais enlever ses lunettes ! Pour voir, on est obligé
+d’interagir avec le monde. Toute perception est une interprétation et
+ne pourra jamais être absolue : le monde physique nous est « caché »
+par la médiation avec nos sens, qui par essence sont toujours ambigus.
+Par contre, ces expérimentations optiques permettent de mieux
+comprendre les limites de cet aspect de notre perception visuelle et
+ainsi de donner un accès plus direct avec cette conscience du monde
+visuel.
+&lt;strong&gt;8 / Le mécanisme d’anticipation mis à l’œuvre dans notre cerveau
+faisant intervenir notre mémoire et notre imagination dans la
+constitution d’une image stable ne nous éloigne-t-il pas trop de la
+réalité ? Il y a une « imagination anticipative » et une confirmation
+de ce réel par la mise en tension de nos projections avec la situation
+présente, ce système n’est-il pas proche de celui de l’illusion
+d’optique ?&lt;/strong&gt;
+Au contraire je pense que ces mécanismes d’anticipation sont plus
+proches de la réalité que celle qu’on imagine être la « vraie »
+réalité. Par exemple on ne voit que dans un spectre de lumière très
+défini alors que les objets visuels existent potentiellement par
+exemple dans la lumière ultraviolette. Cette réalité là n’est
+visible qu’avec des appareils spécialisés.
+Pour moi la seule réalité qui vaille, c’est la réalité de la
+construction qui est opérée dans la perception visuelle et non la
+réalité généralement établie du monde physique externe à nos
+sens.
+En comprenant mieux les mécanismes qui nous permettent de simuler cette
+réalité physique externe, nous sommes plus objectifs par rapport aux
+limites de notre connaissance du monde.
+À ce titre je pense que ces mécanismes d’anticipation sont donc plus
+proches de la réalité par rapport à une réalité objective telle
+qu’on se la représente traditionnellement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The flash-lag effect as a motion-based predictive shift</title>
+      <link>https://laurentperrinet.github.io/talk/2016-11-03-sigma/</link>
+      <pubDate>Thu, 03 Nov 2016 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-11-03-sigma/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt; and 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Khoei et al, 2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;Khoei et al, 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement contingencies modulate anticipatory smooth eye movements</title>
+      <link>https://laurentperrinet.github.io/talk/2016-11-03-gdr/</link>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-11-03-gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biologically-inspired characterization of sparseness in natural images</title>
+      <link>https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/</link>
+      <pubDate>Wed, 26 Oct 2016 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor</title>
+      <link>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</link>
+      <pubDate>Wed, 26 Oct 2016 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eye movements as a model for active inference</title>
+      <link>https://laurentperrinet.github.io/talk/2016-10-13-law/</link>
+      <pubDate>Thu, 13 Oct 2016 10:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-10-13-law/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See the final publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Pasturel, Montagnini and Perrinet (2020)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/&#34;&gt;INVIBE FEST, Paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/&#34;&gt;Brain workshop, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-01-18-laconeu/&#34;&gt;LACONEU, Chile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-05-bbcp-causal-kickoff/&#34;&gt;CAUSAL Kick-off, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;next talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/&#34;&gt;NeuroFrance, Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling the dynamics of cognitive processes: from the Bayesian brain to particles</title>
+      <link>https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/</link>
+      <pubDate>Thu, 07 Jul 2016 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-07-07-edp-proba/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Les illusions visuelles, un révélateur du fonctionnement de notre cerveau</title>
+      <link>https://laurentperrinet.github.io/talk/2016-04-28-mejanes/</link>
+      <pubDate>Thu, 28 Apr 2016 18:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-04-28-mejanes/</guid>
+      <description>&lt;h1 id=&#34;les-illusions-visuelles-un-révélateur-du-fonctionnement-de-notre-cerveau&#34;&gt;Les illusions visuelles, un révélateur du fonctionnement de notre cerveau&lt;/h1&gt;
+&lt;h2 id=&#34;cycle-de-conférences-tous-connectés-bibliothèque-de-méjanes&#34;&gt;Cycle de conférences &amp;ldquo;Tous connectés&amp;rdquo;, Bibliothèque de Méjanes&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;conférence tout public à la Bibliothèque de Méjanes (Aix-en-Provence, Avril 2016)&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date&lt;br&gt;
+28 Avril 2016&lt;/li&gt;
+&lt;li&gt;Location&lt;br&gt;
+Bibliothèque de Méjanes&lt;/li&gt;
+&lt;li&gt;Visuels&lt;br&gt;
+
+&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2016-04-28_mejanes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Les illusions visuelles, un révélateur du fonctionnement de notre cerveau</title>
+      <link>https://laurentperrinet.github.io/talk/2016-04-25-polly-maggoo/</link>
+      <pubDate>Mon, 25 Apr 2016 09:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-04-25-polly-maggoo/</guid>
+      <description>&lt;h1 id=&#34;les-illusions-visuelles-un-révélateur-du-fonctionnement-de-notre-cerveau&#34;&gt;Les illusions visuelles, un révélateur du fonctionnement de notre cerveau&lt;/h1&gt;
+&lt;h2 id=&#34;cinésciences-collège-clair-soleil&#34;&gt;Cinésciences, collège Clair Soleil&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;Association Polly Maggoo &lt;a href=&#34;http://www.pollymaggoo.org/&#34;&gt;http://www.pollymaggoo.org/&lt;/a&gt; met en place
+tout le long de l’année, des actions de culture scientifique et
+artistique en direction des collèges et des lycées, les &lt;em&gt;Cinésciences&lt;/em&gt;,
+au cours desquelles l&amp;rsquo;association programme des films à caractère
+scientifique, au sein d’établissements scolaires. Les projections se
+déroulent en présence de chercheurs et/ou de cinéastes dans la
+perspective d’un développement de la culture cinématographique et
+scientifique en direction des publics scolaires.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date&lt;br&gt;
+25 Avril 2016&lt;/li&gt;
+&lt;li&gt;Location&lt;br&gt;
+collège Clair Soleil, Marseille&lt;/li&gt;
+&lt;li&gt;Visuels&lt;br&gt;
+
+&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2016-04-25_pollymagoo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motion-based prediction with neuromorphic hardware</title>
+      <link>https://laurentperrinet.github.io/talk/2015-11-05-chile/</link>
+      <pubDate>Thu, 05 Nov 2015 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2015-11-05-chile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion-based prediction with neuromorphic hardware</title>
+      <link>https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/</link>
+      <pubDate>Wed, 07 Oct 2015 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2015-10-07-gdr-bio-comp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</title>
+      <link>https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/</link>
+      <pubDate>Fri, 25 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/kaplan-khoei-14/&#34;&gt;Kaplan and al, 2014&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WP5 - Demo 1.3 : Spiking model of motion-based prediction</title>
+      <link>https://laurentperrinet.github.io/talk/2014-03-20-manchester/</link>
+      <pubDate>Thu, 20 Mar 2014 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2014-03-20-manchester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axonal delays and on-time control of eye movements</title>
+      <link>https://laurentperrinet.github.io/talk/2014-01-10-int-fest/</link>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2014-01-10-int-fest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</title>
+      <link>https://laurentperrinet.github.io/talk/2013-11-26-brain-scales-demos/</link>
+      <pubDate>Tue, 26 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2013-11-26-brain-scales-demos/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Together with Bernhard Kaplan, we talked about how we aim at &amp;ldquo;compiling&amp;rdquo; a predictive motion-based approach as a spiking neural networks and then as a parallel wafer systems in the BrainscaleS project (Demo 1, Task4).&lt;/li&gt;
+&lt;li&gt;(private to the consortium: &lt;a href=&#34;https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showMeetingInfoPage&amp;amp;meetingID=52&#34;&gt;https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showMeetingInfoPage&amp;amp;meetingID=52&lt;/a&gt;  &lt;a href=&#34;https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&amp;amp;meetingID=52&#34;&gt;https://brainscales.kip.uni-heidelberg.de/internal/jss/AttendMeeting?m=showAgenda&amp;amp;meetingID=52&lt;/a&gt;  including copies of the slides)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edge co-occurrences and categorizing natural images</title>
+      <link>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</link>
+      <pubDate>Fri, 05 Jul 2013 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why methods and tools are the key to artificial brain-like systems</title>
+      <link>https://laurentperrinet.github.io/talk/2013-03-21-marseille/</link>
+      <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2013-03-21-marseille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
+      <link>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</link>
+      <pubDate>Thu, 10 May 2012 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Apparent motion in V1 - Probabilistic approaches</title>
+      <link>https://laurentperrinet.github.io/talk/2012-03-23-juelich/</link>
+      <pubDate>Fri, 23 Mar 2012 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2012-03-23-juelich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MotionClouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</title>
+      <link>https://laurentperrinet.github.io/talk/2012-03-22-juelich/</link>
+      <pubDate>Thu, 22 Mar 2012 14:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2012-03-22-juelich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grabbing, tracking and sniffing as models for motion detection and eye movements</title>
+      <link>https://laurentperrinet.github.io/talk/2012-01-27-fil/</link>
+      <pubDate>Fri, 27 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2012-01-27-fil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
+      <link>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</link>
+      <pubDate>Tue, 24 Jan 2012 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2012-01-24-edinburgh/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motion-based prediction is sufficient to solve the aperture problem</title>
+      <link>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</link>
+      <pubDate>Thu, 12 Jan 2012 17:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
+      <link>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</link>
+      <pubDate>Tue, 15 Nov 2011 08:45:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2011-11-15-sfn/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Abstract Control Number: 17671&lt;/li&gt;
+&lt;li&gt;Presentation Number: 530.04&lt;/li&gt;
+&lt;li&gt;Presentation Time: 8:45am - 9:00am&lt;/li&gt;
+&lt;li&gt;session:&lt;/li&gt;
+&lt;li&gt;Session Type: Nanosymposium&lt;/li&gt;
+&lt;li&gt;Session Number: 530&lt;/li&gt;
+&lt;li&gt;Session Title: Development of Motor and Sensory Systems&lt;/li&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</title>
+      <link>https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/</link>
+      <pubDate>Wed, 05 Oct 2011 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2011-10-05-brain-scales-ess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge statistics in natural images versus laboratory animal environments: implications for understanding lateral connectivity in V1</title>
+      <link>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</link>
+      <pubDate>Wed, 28 Sep 2011 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Propriétés émergentes d&#39;un modèle de prédiction probabiliste utilisant un champ neural</title>
+      <link>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</link>
+      <pubDate>Sat, 02 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2011-07-02-neuro-med-talk/</guid>
+      <description>&lt;p&gt;La finalité de cette manifestation est de permettre à nos chercheurs de se réunir en groupes de travail et en ateliers afin de découvrir la thématique des neurosciences et son interdisciplinarité. La manifestation se tient dans le cadre des activités du laboratoire LAMS, de ABC MATHINFO, du GDRI NeurO et du réseau méditerranéen 
+&lt;a href=&#34;http://www.neuromedproject.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroMed&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;related publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-10-tauc/&#34;&gt;SPIE 2008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;see this more recent talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic models of the low-level visual system: the role of prediction in detecting motion</title>
+      <link>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</link>
+      <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2010-12-17-tauc-talk/</guid>
+      <description>&lt;p&gt;An event ranging &amp;ldquo;From Mathematical Image Analysis to Neurogeometry of the Brain&amp;rdquo; 
+&lt;a href=&#34;http://www.conftauc.cnrs-gif.fr/programme.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LADISLAV TAUC &amp;amp; GDR MSPC NEUROSCIENCES CONFERENCE&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;related publication from Mina Khoei @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-10-tauc/&#34;&gt;TAUC 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;see this more recent talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diffraction monochromatique, spectre audiographique</title>
+      <link>https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/</link>
+      <pubDate>Wed, 14 Apr 2010 19:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2010-04-14-ondes-paralleles/</guid>
+      <description>&lt;h1 id=&#34;diffraction-monochromatique-spectre-audiographique&#34;&gt;Diffraction monochromatique, spectre audiographique&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;ttp://ondesparalleles.org/wp-content/uploads/2014/02/cloche_fiche_a.jpg&#34; alt=&#34;Diffraction&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diffraction est une sculpture en suspension composée d’une multitude de plaques de matière transparente et réfléchissante. L’installation met en jeu notre perception de l’espace par des phénomènes de résonance et de réflection de la lumière. Chaque lieu d’exposition donne à expérimenter et à élaborer, in situ, de nouvelles formes. A Seconde Nature, Etienne Rey abordera la relation entre le volume et le son en prenant comme base de construction un spectre audio, en collaboration avec l’artiste sonore Mathias Delplanque.&lt;/li&gt;
+&lt;li&gt;Live de Mathias Delplanque et rencontre autour de Diffraction, le Mercredi 14 avril 2010: A l’occasion de cette rencontre publique, quatre chercheurs spécialistes de l’architecture, de la perception, du son, et de la lumière exposeront depuis leurs domaines de recherches les processus engagés autour de Diffraction.`&lt;/li&gt;
+&lt;li&gt;Farid Ameziane, Ecole Nationale Supérieure d’Architecture de Marseille Luminy (EAML), Directeur de l’InsARTis, Marseille&lt;/li&gt;
+&lt;li&gt;Guillaume Bonello, Chargé de mission, POPsud, co/OAMP, Marseille&lt;/li&gt;
+&lt;li&gt;Fabrice Mortessagne, Directeur du laboratoire de Physique de la Matière Condensée (LPMC), Nice-Sophia Antipolis&lt;/li&gt;
+&lt;li&gt;Laurent Perrinet, Chercheur à l’Institut de Neurosciences Cognitives de Méditerranée, Equipe DyVA, Marseille&lt;/li&gt;
+&lt;li&gt;Modératrice : Colette Tron, Fondatrice d’Alphabetville, Marseille&lt;/li&gt;
+&lt;li&gt;Entrée libre &amp;amp; gratuite - 19h, durée 2h.&lt;/li&gt;
+&lt;li&gt;Renseignements pratiques :&lt;/li&gt;
+&lt;li&gt;Espace Sextius investi par Seconde Nature  :&lt;/li&gt;
+&lt;li&gt;27bis rue du 11 novembre,&lt;/li&gt;
+&lt;li&gt;13100 Aix-en-Provence&lt;/li&gt;
+&lt;li&gt;(!) visitez le site de Seconde Nature&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;notes-de-lintervention-de-laurent-perrinet&#34;&gt;notes de l&amp;rsquo;intervention de Laurent Perrinet&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Qu&amp;rsquo;est-ce que voir?&lt;/strong&gt; En perception, les neurones « parlent » tous
+en même temps par de brèves impulsions électrochimiques, générant un
+mélange de signaux, un bruit. Pourtant c&amp;rsquo;est par eux que nous
+pensons, voyons, sentons. Les ordinateurs sont différents, plus
+rapides. Ils sont construits avec pour modèle la grammaire humaine
+autour d’une unité centrale, car on imaginait la cognition sous cet
+angle à leur invention. Le bit est le quantum d’un &lt;strong&gt;algorithme
+mécanique&lt;/strong&gt; (thèse de Church-Turing). Une théorie tranche par
+rapport à la précédente, proposée par «von Neumann» : beaucoup
+d’unités sont présentes dans le cerveau. Comparée à la chaîne
+logique du langage, dans cet algorithme, beaucoup d’autres chaînes
+et logiques se mêlent. Comment vont-elles « parler » entre elles ?
+Existe-t-il des &lt;strong&gt;algorithmes biologiques&lt;/strong&gt; ?
+&lt;img src=&#34;ouchi.jpg&#34; alt=&#34;OUCHI&#34;&gt;
+Définir ce « langage », c&amp;rsquo;est comprendre comment une &lt;strong&gt;somme
+d’informations locales&lt;/strong&gt; peut produire une &lt;strong&gt;perception globale&lt;/strong&gt;.
+Comment en jouant avec les atomes du code, en les superposant, les «
+cassant » pour les mettre en résonance, les neurosciences et l&amp;rsquo;artiste
+questionnent le langage de notre pensée ? Quel est le code utilisé par
+les neurones pour communiquer (code neuronal ? existe-t-il un même
+&lt;strong&gt;vocabulaire&lt;/strong&gt; au sens homomorphique ?). En pratique, on apprend par
+exemple la sélectivité à l&amp;rsquo;orientation. Les phénomènes d’orientation
+sont radicaux à la fin de l’expérience, « gelant » son évolution. Un
+lien évident avec l’installation &lt;em&gt;Phytosphère&lt;/em&gt; d’Etienne Rey.
+L’information dans le cerveau se propage &lt;strong&gt;par diffusion, par
+diffraction&lt;/strong&gt; (contamination des informations entre neurones pour
+occuper l’espace), en &lt;strong&gt;lien avec le travail sur la lumière d’Etienne
+Rey.&lt;/strong&gt; L&amp;rsquo;image a besoin de 30 millisecondes pour se diffuser de l’œil
+vers l’arrière du crâne et 85 millisecondes pour produire un réflexe
+oculaire. Les neurosciences cherchent à savoir comment comprendre la
+&lt;strong&gt;globalité par l&amp;rsquo;émergence&lt;/strong&gt;.
+Il y a donc une &lt;strong&gt;superposition d’états&lt;/strong&gt;, comme dans la &lt;em&gt;diffraction&lt;/em&gt;
+d’Etienne Rey.
+En perception, le mécanisme
+neuronal cherche à &lt;strong&gt;sortir de l’ambiguïté&lt;/strong&gt; première quand il connaît
+une image : il &lt;strong&gt;superpose&lt;/strong&gt; des particules élémentaires d&amp;rsquo;information,
+les diffuse pour les prendre toutes. Ce qui émerge est non linéaire. Le
+cerveau interfère ces particules, donc les met en compétition, en
+coopération (voir expérience plus haut avec les neurones rouges et
+bleus), dans une dynamique où ces particules se réorientent elles-mêmes.
+Elles créent des phénomènes d’organisation, se collent, deviennent plus
+lumineuses. &lt;strong&gt;La perception n’est donc pas séquentielle mais fluide&lt;/strong&gt; et
+la sortie de l&amp;rsquo;ambiguité depuis l&amp;rsquo;image pixel vient de l&amp;rsquo;introduction de
+ces contraintes. Ainsi quand nous voyons un objet, nous le « capturons
+». Quand nous sommes vus, nous cherchons à nous séparer de cette
+capture.
+Un problème classique est l&amp;rsquo;ambiguité du monde sensible. Une couleur que
+l’on ne voit pas va apparaître visuellement. &lt;strong&gt;L’inpainting&lt;/strong&gt; créé une
+œuvre qui correspond à un mécanisme neuronal, cherchant à reproduire
+toujours une même structure. La mémoire iconique du monde extérieur va
+imprégner le cerveau, s’y figer. Tout le problème de la perception pour
+les neurosciences repose sur deux dialectiques. La première présente une
+analogie avec les images informatiques par pixels : ce serait en
+neurosciences une métaphore de la sensation pure. La seconde rappelle
+l’image vectorisée : pour s’extraire de la sensation pure, le cerveau
+retiendra des règles proches des algorithmes. En cognition, il permet de
+mettre en lumière le symptome d**&amp;lsquo;autisme**. Dans un schéma montrant un
+bloc derrière un arbre, dépassant des deux côtés, sera découpé
+visuellement par l’autiste en plusieurs morceaux distincts. Il ne
+généralise pas l’information.
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;diffractionFriche_0134.jpg&#34;&gt;
+Comment être sûr d’une perception globale
+en désignant les modules de l’installation d’Etienne Rey, ou signifiants
+des atomes, dans ce passage du local au global ? Les modules ne se
+voient pas forcément dans l’installation, mais d’autres aspects sont
+perçus. La relation à l’atome, même si elle n’est pas signifiante pour
+le public, n’est pas primordiale. Le public voit une accumulation de «
+choses », car par principe quand un phénomène est concentré « il se
+passe des choses » par jeu de contraste. Le fait de bouger face à
+l’installation rend unique à l&amp;rsquo;individu la perception et réalise la
+globalité de l’œuvre: on a alors passage de l’atome à la forme globale.
+Cette résolution rejoint Giotto et les débuts de la perspective en art
+pictural. Il a révélé la question du point de vue, par positionnement et
+déplacement. En effet, les personnes penchent la tête dans
+l’installation s*pirale* en container, d’Etienne Rey, pour le festival
+Ozosphère à Strasbourg. Ce phénomène est à rattaché aux théories sur la
+perception.
+**Biographie** Laurent Perrinet, chercheur à l’Institut de Neurosciences
+Cognitives de la Méditerranée à Marseille, unité mixte du CNRS, aime
+citer « La vie de Brian » des Monty Python : (Brian:) &amp;ldquo;You have to work
+it out for yourselves!&amp;rdquo; (Crowd:) &amp;ldquo;Yes, we have to work it out for
+ourselves&amp;hellip; (silence) Tell us more!&amp;rdquo;. L’individualité et la perception
+du monde… Dans l’équipe DyVA (pour Dynamique de la perception visuelle
+et de l&amp;rsquo;action), Laurent Perrinet s&amp;rsquo;intéresse aux neurones impulsionnels
+et au codage neuronal, ainsi qu’à la perception des mouvements
+spatio-temporels. Ces processus définis comme des algorithmes, la
+représentation du flux vidéo modélise via l’informatique ces
+interactions au niveau cellulaire (colonnes corticales) et au niveau
+cognitif (aires corticales). Il cherche à comprendre le fonctionnement
+des calculs corticaux dans le système visuel. Cette recherche fournit
+des réponses aux problèmes cognitifs. Après un diplôme d&amp;rsquo;ingénieur de
+traitement du signal et de modélisation stochastique de l&amp;rsquo;école
+d’aéronautique Supaéro à Toulouse et des études à San Diego et à
+Pasadena (Californie) pour la Nasa, Laurent Perrinet obtient un doctorat
+de Sciences Cognitives. Répondant aux questions « Peut-on parler
+d’intelligence mécanique ? », « Pourquoi une grenouille gobe mieux une
+mouche qu’un robot ? » ou « Quelle est la différence entre intelligence
+et algorithme ? », il intervient en 2009 au colloque marseillais « Les
+chemins de l’intelligence ». Parmi ses publications : *Role of
+homeostasis in learning sparse representations*, et sa thèse *Comment
+déchiffrer le code impulsionnel de la vision ? Étude du flux parallèle,
+asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Models of low-level vision: linking probabilistic models and neural masses</title>
+      <link>https://laurentperrinet.github.io/talk/2010-01-08-facets/</link>
+      <pubDate>Fri, 08 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2010-01-08-facets/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this more recent talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading out the dynamics of lateral interactions in the primary visual cortex from VSD data</title>
+      <link>https://laurentperrinet.github.io/talk/2009-11-30-vss/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2009-11-30-vss/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this more recent poster @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-09-vss/&#34;&gt;VSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Peut-on parler d&#39;intelligence mécanique?</title>
+      <link>https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/</link>
+      <pubDate>Tue, 24 Nov 2009 18:30:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2009-11-24-intelligence-mecanique/</guid>
+      <description>&lt;p&gt;Nous parlerons de cette partie &amp;ldquo;mécanique&amp;rdquo; du cerveau animal ou humain qui permet de percevoir les mouvements et de &amp;hellip; survivre au sein de l&amp;rsquo;environnement. On verra, par exemple, que notre cerveau peut-être 
+&lt;a href=&#34;http://interstices.info/classificateur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;plus rapide que nous&lt;/a&gt;, qu&amp;rsquo;il y a des solutions &amp;ldquo;stupides&amp;rdquo; qui marchent remarquablement bien pour 
+&lt;a href=&#34;http://interstices.info/generation-trajectoires&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sortir d&amp;rsquo;un labyrinthe&lt;/a&gt;, et qui si la grenouille sait 
+&lt;a href=&#34;http://interstices.info/grenouille&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gober une mouche bien mieux qu&amp;rsquo;un robot&lt;/a&gt; &amp;hellip; elle n&amp;rsquo;est pas plus maligne ! Parce que ce qu&amp;rsquo;il ne faut pas confondre ici c&amp;rsquo;est 
+&lt;a href=&#34;https://interstices.info/calculer-penser/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;la différence entre calculer et penser&lt;/a&gt;, entre 
+&lt;a href=&#34;http://interstices.info/algo-mode-emploi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;intelligence et algorithmes&lt;/a&gt;. En comprenant cela, avec 
+&lt;a href=&#34;http://fr.wikipedia.org/wiki/Alan_Turing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alan Mathison Turing&lt;/a&gt;, le Gutenberg du XXème siècle, l&amp;rsquo;humanité a basculé des temps modernes à l&amp;rsquo;ère du numérique.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(!) visitez le 
+&lt;a href=&#34;https://interstices.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site d&amp;rsquo;interstices&lt;/a&gt;!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control of the temporal interplay between excitation and inhibition by the statistics of visual input</title>
+      <link>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</link>
+      <pubDate>Sat, 18 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2009-07-18-kremkow-09-cnstalk/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this subsequent paper in the 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Decoding low-level neural information to track visual motion</title>
+      <link>https://laurentperrinet.github.io/talk/2009-04-01-int/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2009-04-01-int/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this more recent talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Decoding the population dynamics underlying ocular following response using a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/talk/2008-06-01-ulm/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2008-06-01-ulm/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;related publications  @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-06-fens/&#34;&gt;FENS 2006&lt;/a&gt;,   @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/&#34;&gt;NeuroComp 2008&lt;/a&gt; and   @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-areadne/&#34;&gt;AREADNE 2008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;see this more recent talk @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2012-01-12-vision-at-ucl/&#34;&gt;UCL, London&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From neural activity to behavior: computational neuroscience as a synthetic approach for understanding the neural code.</title>
+      <link>https://laurentperrinet.github.io/talk/2008-04-01-incm/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2008-04-01-incm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling of spikes, sparseness and adaptation in the primary visual cortex: applications to imaging</title>
+      <link>https://laurentperrinet.github.io/talk/2008-02-01-toledo/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2008-02-01-toledo/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;related publications  @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-06-fens/&#34;&gt;FENS 2006&lt;/a&gt;,   @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/&#34;&gt;NeuroComp 2008&lt;/a&gt; and   @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-areadne/&#34;&gt;AREADNE 2008&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What efficient code for adaptive spiking representations?</title>
+      <link>https://laurentperrinet.github.io/talk/2007-12-01-rankprize/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2007-12-01-rankprize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Codes for Adaptive Sparse Representations of Natural Images</title>
+      <link>https://laurentperrinet.github.io/talk/2007-09-01-mipm/</link>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2007-09-01-mipm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/talk/2006-01-01-neurocomp/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2006-01-01-neurocomp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;related publication @ 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-08-spie/&#34;&gt;SPIE 2008&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in 
+&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
