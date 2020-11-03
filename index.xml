@@ -65,11 +65,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/talk/2020-09-25-irphe/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/talk/2020-09-25-irphe/</guid>
-      <description>&lt;h1 id=&#34;understanding-natural-vision-using-deep-predictive-coding&#34;&gt;Understanding natural vision using deep predictive coding&lt;/h1&gt;
-&lt;ul&gt;
+      <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;What:: talk @ 
-&lt;a href=&#34;https://laurentperrinet.github.io/talk/2020-09-25-irphe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seminar at IRPHE (Ex conf)&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://laurentperrinet.github.io/talk/2020-09-25-irphe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Séminaire à l&amp;rsquo;Institut de Recherche sur les Phénomènes Hors Équilibre (IRPHÉ)&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Who:: Perrinet, Laurent U&lt;/p&gt;
@@ -85,7 +84,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;ul&gt;
 &lt;li&gt;Slides @ &lt;a href=&#34;https://laurentperrinet.github.io/2020-09-25_IRPHE&#34;&gt;https://laurentperrinet.github.io/2020-09-25_IRPHE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Code for slides @ &lt;a href=&#34;https://github.com/laurentperrinet/2020-09-25_IRPHE/&#34;&gt;https://github.com/laurentperrinet/2020-09-25_IRPHE/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Abstract: Building models which efficiently process images is a great source of inspiration to better understand the processes which underly our visual perception. I will present some classical models stemming from the Machine Learning community and propose some extensions inspired by Nature. For instance, Sparse Coding (SC) is one of the most successful frameworks to model neural computation at the local scale in the visual cortex. It directly derives from the efficient coding hypothesis and could be thought of as a competitive mechanism that describes visual stimulus using the activity of a small fraction of neurons. At the structural scale of the ventral visual pathways, feedforward models of vision (CNNs in the terminology  of deep learning) take into account neurophysiological observations and provide as of today the most successful framework for object recognition tasks. Nevertheless, these models do not leverage the high density of feedback and lateral interactions observed in the visual cortex. In particular, these connections are known to integrate contextual and attentional modulations to feedforward signals. The Predictive Coding (PC) theory has been proposed to model top-down and bottom-up interaction between cortical regions. We will here introduce a model combining Sparse Coding and Predictive Coding in a hierarchical and convolutional architecture. Our model, called Sparse Deep Predictive Coding (SDPC), was trained on several different databases including faces and natural images. We analyze the SPDC from a computational and a biological perspective and we combine neuroscientific evidence with machine learning methods to analyze the impact of recurrent processing at both the neural organization and representational levels. These results from the SDPC model additionally demonstrate that neuro-inspiration might be the right methodology to design more powerful and more robust computer vision algorithms.&lt;/li&gt;
+&lt;li&gt;Abstract: Building models which efficiently process images is a great source of inspiration to better understand the processes which underly our visual perception. I will present some classical models stemming from the Machine Learning community and propose some extensions inspired by Nature. For instance, Sparse Coding (SC) is one of the most successful frameworks to model neural computations at the local scale in the visual cortex. It directly derives from the efficient coding hypothesis and could be thought of as a competitive mechanism that describes visual stimulus using the activity of a small fraction of neurons. At the structural scale of the ventral visual pathways, feedforward models of vision (CNNs in the terminology  of deep learning) take into account neurophysiological observations and provide as of today the most successful framework for object recognition tasks. Nevertheless, these models do not leverage the high density of feedback and lateral interactions observed in the visual cortex. In particular, these connections are known to integrate contextual and attentional modulations to feedforward signals. The Predictive Coding (PC) theory has been proposed to model top-down and bottom-up interaction between cortical regions. We will here introduce a model combining Sparse Coding and Predictive Coding in a hierarchical and convolutional architecture. Our model, called Sparse Deep Predictive Coding (SDPC), was trained on several different databases including faces and natural images. We analyze the SPDC from a computational and a biological perspective and we combine neuroscientific evidence with machine learning methods to analyze the impact of recurrent processing at both the neural organization and representational levels. These results from the SDPC model additionally demonstrate that neuro-inspiration might be the right methodology to design more powerful and more robust computer vision algorithms.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -95,7 +94,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>Visual search as active inference</title>
       <link>https://laurentperrinet.github.io/talk/2020-09-14-iwai/</link>
-      <pubDate>Mon, 14 Sep 2020 18:00:01 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2020 18:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/talk/2020-09-14-iwai/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;the mathematical details are described as a talk the 1st International WS on &lt;a href=&#34;https://twitter.com/hashtag/ActiveInference?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ActiveInference&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/IWAI2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#IWAI2020&lt;/a&gt; at &lt;a href=&#34;https://twitter.com/ECMLPKDD?ref_src=twsrc%5Etfw&#34;&gt;@ECMLPKDD&lt;/a&gt; &lt;a href=&#34;https://t.co/4s7gHbMxiT&#34;&gt;https://t.co/4s7gHbMxiT&lt;/a&gt; and paper &amp;quot;Visual search as active inference&amp;quot; &lt;a href=&#34;https://t.co/yNCOFHf7FS&#34;&gt;https://t.co/yNCOFHf7FS&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1305488089989754883?ref_src=twsrc%5Etfw&#34;&gt;September 14, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -131,6 +130,29 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;/figure&gt;
 
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;What:: talk @ 
+&lt;a href=&#34;https://iwaiworkshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1st International Workshop on Active Inference (IWAI*2020)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Who:: Emmanuel Daucé and Laurent Perrinet&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Where: Ghent (Belgium), gone virtual, see &lt;a href=&#34;https://laurentperrinet.github.io/talk/2020-09-14-iwai&#34;&gt;https://laurentperrinet.github.io/talk/2020-09-14-iwai&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When: 14/09/2020, time: 12:20:00-12:40:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides @ &lt;a href=&#34;https://laurentperrinet.github.io/2020-09-14_IWAI&#34;&gt;https://laurentperrinet.github.io/2020-09-14_IWAI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code for slides @ &lt;a href=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/&#34;&gt;https://github.com/laurentperrinet/2020-09-14_IWAI/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Abstract: Visual search is an essential cognitive ability, offering a prototypical control problem to be addressed with Active Inference. Under a Naive Bayes assumption, the maximization of the information gain objective is consistent with the separation of the visual sensory flow in two independent pathways, namely the &amp;ldquo;What&amp;rdquo; and the &amp;ldquo;Where&amp;rdquo; pathways. On the &amp;ldquo;What&amp;rdquo; side, the processing of the central part of the visual field (the fovea) provides the current interpretation of the scene, here the category of the target. On the &amp;ldquo;Where&amp;rdquo; side, the processing of the full visual field (at lower resolution) is expected to provide hints about future central foveal processing given the potential realization of saccadic movements. A map of the classification accuracies, as obtained by such counterfactual saccades, defines a utility function on the motor space, whose maximal argument prescribes the next saccade. The comparison of the foveal and the peripheral predictions finally forms an estimate of the future information gain, providing a simple and resource-efficient way to implement information gain seeking policies in active vision. This dual-pathway information processing framework is found efficient on a synthetic visual search task and we show here quantitatively the role of the precision encoded within the accuracy map. More importantly, it is expected to draw connections toward a more general actor-critic principle in action selection, with the accuracy of the central processing taking the role of a value (or intrinsic reward) of the previous saccade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
