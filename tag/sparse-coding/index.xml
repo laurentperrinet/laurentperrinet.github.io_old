@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/sparse-coding/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/sparse-coding/index.xml" rel="self" type="application/rss+xml" />
     <description>sparse coding</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/hulk.png</url>
@@ -66,8 +66,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;presented during this 
-&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -94,8 +93,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/boutin-20-sigma/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;presented during this 
-&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -128,18 +126,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;/video&gt;
 &lt;ul&gt;
 &lt;li&gt;supplementary info : &lt;a href=&#34;https://spikeai.github.io/HULK/&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code for paper: &lt;a href=&#34;https://github.com/SpikeAI/HULK&#34;&gt;https://github.com/SpikeAI/HULK&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code for framework: &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning/&#34;&gt;https://github.com/bicv/SparseHebbianLearning/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code for figures &lt;a href=&#34;https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb&#34;&gt;https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb&lt;/a&gt; (which is rendered @ &lt;a href=&#34;https://spikeai.github.io/HULK/&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the 
-&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating it)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating it)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -158,13 +151,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-neurofrance/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;This work is a followup of 
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;the 
-&lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster (PDF)&lt;/a&gt; will be presented Thursday, May 18 @ 
-&lt;a href=&#34;http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroFrance, Bordeaux&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;see a follow-up publication on 
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/&#34;&gt;BoutinRuffierPerrinet17spars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17neurofrance.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster (PDF)&lt;/a&gt; will be presented Thursday, May 18 @ &lt;a href=&#34;http://www.professionalabstracts.com/sn2017/programme-sn2017.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroFrance, Bordeaux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;see a follow-up publication on &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/&#34;&gt;BoutinRuffierPerrinet17spars&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -175,12 +164,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/boutin-ruffier-perrinet-17-spars/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;This work is a followup of 
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This work is a followup of &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34;&gt;Perrinet, 2010, Neural Computation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code is available @ &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&#34;&gt;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars&lt;/a&gt; and heavily uses &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning&#34;&gt;https://github.com/bicv/SparseHebbianLearning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;the 
-&lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster (PDF)&lt;/a&gt;  will be presented Thursday, June 8 @ 
-&lt;a href=&#34;http://spars2017.lx.it.pt/index_files/SPARS2017_program.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARS, Lisbon&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;https://github.com/laurentperrinet/BoutinRuffierPerrinet17spars/raw/master/docs/BoutinRuffierPerrinet17spars.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster (PDF)&lt;/a&gt;  will be presented Thursday, June 8 @ &lt;a href=&#34;http://spars2017.lx.it.pt/index_files/SPARS2017_program.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPARS, Lisbon&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -223,14 +209,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-15/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;communiqué de presse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementary information&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;PerrinetBednar15supplementary.pdf&#34;&gt;supplementary material&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cnrs.fr/insb/6.recherche/parutions2/articles2015/l-perrinet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;communiqué de presse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nature.com/article-assets/npg/srep/2015/150622/srep11400/extref/srep11400-s1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementary information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;PerrinetBednar15supplementary.pdf&#34;&gt;supplementary material&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;a-study-of-how-people-can-quickly-spot-animals-by-sight-is-helping-uncover-the-workings-of-the-human-brain&#34;&gt;A study of how people can quickly spot animals by sight is helping uncover the workings of the human brain.&lt;/h1&gt;
 &lt;p&gt;Scientists examined why volunteers who were shown hundreds of pictures - some with animals and some without - were able to detect animals in as little as one-tenth of a second.
@@ -464,8 +446,7 @@ More complex parts of the brain are not required at this stage, contrary to what
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;See a followup in 
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -484,8 +465,7 @@ More complex parts of the brain are not required at this stage, contrary to what
       <pubDate>Thu, 10 May 2012 13:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/talk/2012-05-10-itwist/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;See a followup in 
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -504,8 +484,7 @@ More complex parts of the brain are not required at this stage, contrary to what
       <pubDate>Wed, 28 Sep 2011 13:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/talk/2011-09-28-ermites/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;See a followup in 
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Perrinet and Bednar, 2015&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

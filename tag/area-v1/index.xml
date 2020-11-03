@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/area-v1/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/area-v1/index.xml" rel="self" type="application/rss+xml" />
     <description>area-v1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/hulk.png</url>
@@ -27,8 +27,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ladret-20-aes/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;See also 
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-19-sfn/&#34;&gt;Ladret and Perrinet, 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See also &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-19-sfn/&#34;&gt;Ladret and Perrinet, 2019&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -69,18 +68,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;/video&gt;
 &lt;ul&gt;
 &lt;li&gt;supplementary info : &lt;a href=&#34;https://spikeai.github.io/HULK/&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code for paper: &lt;a href=&#34;https://github.com/SpikeAI/HULK&#34;&gt;https://github.com/SpikeAI/HULK&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code for framework: &lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning/&#34;&gt;https://github.com/bicv/SparseHebbianLearning/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code for figures &lt;a href=&#34;https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb&#34;&gt;https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb&lt;/a&gt; (which is rendered @ &lt;a href=&#34;https://spikeai.github.io/HULK/&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt; )&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the 
-&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating it)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating it)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -94,8 +88,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;ul&gt;
-&lt;li&gt;See a followup in 
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-20-aes/&#34;&gt;Ladret and Perrinet, 2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-20-aes/&#34;&gt;Ladret and Perrinet, 2020&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -106,11 +99,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ladret-18-gdr/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;poster présenté au 
-&lt;a href=&#34;https://gdrvision2018.sciencesconf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR vision, Paris&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;poster présenté au &lt;a href=&#34;https://gdrvision2018.sciencesconf.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR vision, Paris&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;program : &lt;a href=&#34;https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf&#34;&gt;https://gdrvision2018.sciencesconf.org/data/pages/posters_GDRVision2018.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poster (pdf)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hugoladret/InternshipM1/raw/master/2018-06_POSTER_final.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poster (pdf)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code : &lt;a href=&#34;https://github.com/hugoladret/InternshipM1&#34;&gt;https://github.com/hugoladret/InternshipM1&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>

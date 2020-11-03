@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/motion-anticipation/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/motion-anticipation/index.xml" rel="self" type="application/rss+xml" />
     <description>motion anticipation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/hulk.png</url>
@@ -85,29 +85,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;p&gt;These theoretical and experimental results show that in this realistic situation in which the context changes at random moments throughout the experiment, our sensory system adapts to volatility in an adaptive manner over the course of the trials. In particular, the experiments show in two behavioural experiments that humans adapt to volatility at the early sensorimotor level, through their anticipatory eye movements, but also at a higher cognitive level, through explicit evaluations. These results thus suggest that humans (and future artificial systems) can use much richer adaptation strategies than previously assumed. They provide a better understanding of how humans adapt to changing environments in order to make judgements or plan responses based on information that varies over time.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;read the 
-&lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt; (or in 
-&lt;a href=&#34;https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007438&amp;amp;type=printable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;get a 
-&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;read the &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt; (or in &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007438&amp;amp;type=printable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;get a &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;supplementary info : &lt;a href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020/blob/master/Pasturel_etal2020_PLoS-CB_SI.pdf&#34;&gt;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020/blob/master/Pasturel_etal2020_PLoS-CB_SI.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code for paper: &lt;a href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34;&gt;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code for framework: &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM&#34;&gt;https://github.com/chloepasturel/AnticipatorySPEM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;code for figures 
-&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/1_protocole.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 1&lt;/a&gt;, 
-&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/2_raw-results.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 2&lt;/a&gt;, 
-&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/3_Results_1-theory_BBCP.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 3&lt;/a&gt;, 
-&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/4_Results_2_fitting_BBCP.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 4&lt;/a&gt;, 
-&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/5_Meta_analysis.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the 
-&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/2020-03_video-abstract/2020-03-24_video-abstract.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating the video abstract)&lt;/li&gt;
+&lt;li&gt;code for figures &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/1_protocole.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 1&lt;/a&gt;, &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/2_raw-results.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 2&lt;/a&gt;, &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/3_Results_1-theory_BBCP.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 3&lt;/a&gt;, &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/4_Results_2_fitting_BBCP.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 4&lt;/a&gt;, &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/5_Meta_analysis.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Figure 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/2020-03_video-abstract/2020-03-24_video-abstract.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating the video abstract)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -133,11 +120,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/pasturel-18-anemo/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;see a write-up in &amp;ldquo;
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;see a write-up in &amp;ldquo;&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;as presented at &lt;a href=&#34;https://eyemovements.sciencesconf.org/&#34;&gt;https://eyemovements.sciencesconf.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;get the 
-&lt;a href=&#34;https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenoble/Pasturel_etal2018_grenoble.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;get the &lt;a href=&#34;https://github.com/invibe/ANEMO/raw/master/2018-05-04_Poster_Grenoble/Pasturel_etal2018_grenoble.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code : &lt;a href=&#34;https://github.com/invibe/ANEMO/&#34;&gt;https://github.com/invibe/ANEMO/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -149,11 +134,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/pasturel-18-grenoble/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;see a write-up in &amp;ldquo;
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;see a write-up in &amp;ldquo;&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;as presented at &lt;a href=&#34;https://eyemovements.sciencesconf.org/&#34;&gt;https://eyemovements.sciencesconf.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;get the 
-&lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/raw/master/Poster/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;get the &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/raw/master/Poster/2018-06-05_Poster_Workshop_Grenoble/Pasturel_etal2018grenoble.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code : &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/&#34;&gt;https://github.com/chloepasturel/AnticipatorySPEM/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -165,8 +148,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/pasturel-18/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;see a write-up in &amp;ldquo;
-&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;see a write-up in &amp;ldquo;&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -184,8 +166,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
 &lt;img src=&#34;http://ondesparalleles.org/wp-content/uploads/2017/01/EtienneRey-TRAME-Vasarely-B.jpg&#34; alt=&#34;Elasticité&#34;&gt;
 &lt;img src=&#34;http://ondesparalleles.org/wp-content/uploads/2017/01/EtienneRey-TRAME-Vasarely-D.jpg&#34; alt=&#34;Elasticité&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;poster présenté au 
-&lt;a href=&#34;https://gdrvision2017.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR vision 2017, Lille&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;poster présenté au &lt;a href=&#34;https://gdrvision2017.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR vision 2017, Lille&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;abstract: &lt;a href=&#34;https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017abstract_168363.pdf&#34;&gt;https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017abstract_168363.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;poster : &lt;a href=&#34;https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017poster.pdf&#34;&gt;https://github.com/NaturalPatterns/2017-10-12_GDR/raw/master/2017-10-12_PerrinetRey2017poster.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;poster (code) : &lt;a href=&#34;https://github.com/NaturalPatterns/2017-10-12_GDR/blob/master/2017-10-12_PerrinetRey2017poster.ipynb&#34;&gt;https://github.com/NaturalPatterns/2017-10-12_GDR/blob/master/2017-10-12_PerrinetRey2017poster.ipynb&lt;/a&gt;&lt;/li&gt;
