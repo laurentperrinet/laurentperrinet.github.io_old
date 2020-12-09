@@ -14384,7 +14384,6 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
       <description>&lt;!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) --&gt;
 &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/header.png&#34; alt=&#34;ANR&#34; height=&#34;60%&#34;&gt;
 &lt;h2 id=&#34;réunion-de-lancement--présentation-du-projet-agileneurobothttpslaurentperrinetgithubioslides2020-12-10_agileneurobot-img-srchttpslaurentperrinetgithubiograntanr-anbfeaturedpng-altanr-height10&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Réunion de lancement : présentation du projet AgileNeuroBot&lt;/a&gt; &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/featured.png&#34; alt=&#34;ANR&#34; height=&#34;10%&#34;&gt;&lt;/h2&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;agileneurobot-fiche-didentité&#34;&gt;AgileNeuroBot: Fiche d&amp;rsquo;identité&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles&lt;/li&gt;
@@ -14412,10 +14411,10 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment-this-project-will-provide-with-a-novel-neuromorphic-architecture-designed-to-meet-these-requirements-thanks-to-an-event-based-two-way-processing&#34;&gt;
+&lt;figure id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; data-caption=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment. This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; data-caption=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment.&#34;&gt;
 
 
   &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; alt=&#34;&#34;  &gt;
@@ -14425,7 +14424,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
   
   
   &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-    An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment. This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.
+    An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment.
   &lt;/figcaption&gt;
 
 
@@ -14450,10 +14449,10 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 
 
 
-&lt;figure id=&#34;figure-a-miniature-event-based-atis-sensor-from-classical-frame-based-camera-to-event-based-camera-provides-with-events-at-the-micro-second-resolution&#34;&gt;
+&lt;figure id=&#34;figure-from-classical-frame-based-to-event-based-cameras&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png&#34; data-caption=&#34;A miniature, event-based ATIS sensor, from classical frame-based camera to event-based camera provides with events at the micro-second resolution.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png&#34; data-caption=&#34;From classical frame-based to event-based cameras.&#34;&gt;
 
 
   &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png&#34; alt=&#34;&#34;  &gt;
@@ -14463,7 +14462,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
   
   
   &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-    A miniature, event-based ATIS sensor, from classical frame-based camera to event-based camera provides with events at the micro-second resolution.
+    From classical frame-based to event-based cameras.
   &lt;/figcaption&gt;
 
 
@@ -14508,7 +14507,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;hr&gt;
-&lt;h2 id=&#34;consortium&#34;&gt;consortium&lt;/h2&gt;
+&lt;h2 id=&#34;consortium&#34;&gt;Consortium&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -14526,7 +14525,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Inst Sciences Mouvement&lt;/td&gt;
 &lt;td&gt;Inst de la Vision&lt;/td&gt;
-&lt;td&gt;Inst Neurosciences de la Timone&lt;/td&gt;
+&lt;td&gt;Inst Neurosci de la Timone&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
