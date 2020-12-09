@@ -14381,21 +14381,14 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
       <link>https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot/</guid>
-      <description>&lt;!-- # [Le projet AgileNeuroBot](https://laurentperrinet.github.io/grant/anr-anb/) --&gt;
-&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/header.png&#34; alt=&#34;ANR&#34; height=&#34;60%&#34;&gt;
-[Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot) &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/featured.png&#34; alt=&#34;ANR&#34; height=&#34;10%&#34;&gt;
----
-&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/header.png&#34; alt=&#34;ANR&#34; height=&#34;60%&#34;&gt;
-[Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot) - &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/featured.png&#34; alt=&#34;ANR&#34; height=&#34;10%&#34;&gt;
----
-&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/header.png&#34; alt=&#34;ANR&#34; height=&#34;60%&#34;&gt;
+      <description>&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/header.png&#34; alt=&#34;ANR&#34; height=&#34;60%&#34;&gt;
 &lt;table&gt;
 &lt;tr&gt;
 	&lt;th&gt;[Réunion de lancement : présentation du projet AgileNeuroBot](https://laurentperrinet.github.io/slides/2020-12-10_agileneurobot)&lt;/th&gt;
 	&lt;th&gt;&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/featured.png&#34; alt=&#34;ANR&#34; height=&#34;10%&#34;&gt;/th&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
----
+&lt;hr&gt;
 &lt;h2 id=&#34;agileneurobot-fiche-didentité&#34;&gt;AgileNeuroBot: Fiche d&amp;rsquo;identité&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles&lt;/li&gt;
@@ -14405,6 +14398,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;Budget total: 435 k€&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks&#34;&gt;Spiking neural networks&lt;/h2&gt;
 
 
 
@@ -14443,6 +14437,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;hr&gt;
+&lt;h2 id=&#34;recurrent-processing&#34;&gt;Recurrent processing&lt;/h2&gt;
 
 
 
@@ -14504,6 +14499,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;organization&#34;&gt;Organization&lt;/h2&gt;
 
 
 
