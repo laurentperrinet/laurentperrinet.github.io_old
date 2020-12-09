@@ -60,6 +60,90 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;/figure&gt;
 
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-miniature-event-based-atis-sensor-contrary-to-a-classical-frame-based-camera-for-which-a-full-dense-image-representation-is-given-at-discrete-regularly-spaced-timings-the-event-based-camera-provides-with-events-at-the-micro-second-resolution-these-are-sparse-as-they-represent-luminance-increments-or-decrements-on-and-off-events-respectively&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2267&#34; height=&#34;647&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-our-system-is-divided-into-3-units-to-process-visual-inputs-atis-until-the-rotors-the-camera-processor-and-motor-units-each-represents-respectively-multi-channel-feature-maps-c_i-an-estimate-of-the-depth-of-field-p-and-a-navigation-map-for-instance-time-of-contacts-on-a-polar-map-m-compared-to-a-discrete-time-pipeline-we-will-design-an-integrated-back-to-back-event-driven-system-based-on-a-fast-two-way-processing-between-the-c-p-and-m-units-event-driven-feed-forward-and-feed-back-communications-are-denoted-respectively-in-yellow-black-and-red-notice-the-attention-module-a-from-p-to-c-and-the-feed-back-of-navigation-information-from-m-and-the-imu-to-p&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_2000x2000_fit_q75_lanczos.jpg&#34; data-caption=&#34;Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the &amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;C&amp;lt;/strong&amp;gt;&amp;lt;/em&amp;gt;amera, &amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;P&amp;lt;/strong&amp;gt;&amp;lt;/em&amp;gt;rocessor and &amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;M&amp;lt;/strong&amp;gt;&amp;lt;/em&amp;gt;otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the &amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;C&amp;lt;/strong&amp;gt;&amp;lt;/em&amp;gt;, &amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;P&amp;lt;/strong&amp;gt;&amp;lt;/em&amp;gt; and &amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;M&amp;lt;/strong&amp;gt;&amp;lt;/em&amp;gt; units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_2000x2000_fit_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3122&#34; height=&#34;929&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the &lt;em&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/em&gt;amera, &lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;/em&gt;rocessor and &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt;otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the &lt;em&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt; units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 &lt;h2 id=&#34;fiche-didentité&#34;&gt;Fiche d&amp;rsquo;identité&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Acronyme : AgileNeuroBot&lt;/li&gt;
