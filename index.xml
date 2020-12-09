@@ -18,13 +18,58 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/grant/anr-anb/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/anr-anb/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Type de contrat : Subvention / Aide&lt;/li&gt;
+      <description>
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment-would-require-the-agility-to-navigate-rapidly-by-detecting-as-fast-as-possible-potential-obstacles-as-represented-here-by-the-collision-zone-given-a-cruising-speed-associated-to-slow-or-fast-latencies-respectively-red-and-blue-shaded-areas-this-project-will-provide-with-a-novel-neuromorphic-architecture-designed-to-meet-these-requirements-thanks-to-an-event-based-two-way-processing&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_2000x2000_fit_q75_lanczos.jpg&#34; data-caption=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_2000x2000_fit_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2749&#34; height=&#34;879&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;fiche-didentité&#34;&gt;Fiche d&amp;rsquo;identité&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Acronyme : AgileNeuroBot&lt;/li&gt;
+&lt;li&gt;Titre : Robots aériens agiles bio-mimetiques pour le vol en conditions réelles&lt;/li&gt;
+&lt;li&gt;Titre en anglais : Bio-mimetic Agile aerial roBots flying in real-life conditions&lt;/li&gt;
+&lt;li&gt;CES : CE23 - Intelligence Artificielle / Instrument de financement : Projet de recherche collaborative (PRC) / Catégorie R&amp;amp;D : Recherche fondamentale&lt;/li&gt;
 &lt;li&gt;Coordinateur Scientifique : PERRINET Laurent (UMR7289)&lt;/li&gt;
 &lt;li&gt;Durée: 3 ans, à partir du 1er avril 2021&lt;/li&gt;
-&lt;li&gt;Budget total: 435 k€ , bugdget INT: 170 k€&lt;/li&gt;
-&lt;li&gt;Partenaire(s) : AGENCE NATIONALE DE LA RECHERCHE&lt;/li&gt;
-&lt;li&gt;Responsable Scientifique INT : PERRINET Laurent (UMR7289)&lt;/li&gt;
+&lt;li&gt;Budget total: 435 k€&lt;/li&gt;
+&lt;li&gt;Responsable Scientifiques : PERRINET Laurent (INT, UMR7289),&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;résumé&#34;&gt;Résumé&lt;/h2&gt;
 &lt;p&gt;Des robots aériens autonomes seraient des outils essentiels dans les opérations de recherche et de sauvetage. Toutefois, voler dans des environnements complexes exige un haut niveau d&amp;rsquo;agilité, ce qui implique par exemple la capacité de déclencher des manœuvres agressives pour esquiver les obstacles: Les caméras et algorithmes d&amp;rsquo;intelligence artificielle conventionnels n&amp;rsquo;ont pas ces capacités. Dans ce projet, nous proposerons une solution associant de manière bio-inspirée une dynamique rapide de détection visuelle et de stabilisation. Nous intégrerons ces différents aspects dans un système neuromorphique événementiel de bout en bout. La clé de cette approche est l&amp;rsquo;optimisation des délais du système par traitement prédictif. Ceci permettra de voler indépendamment, sans aucune intervention de l&amp;rsquo;utilisateur. Notre objectif à plus long terme est de satisfaire ces besoins avec un minimum d&amp;rsquo;énergie et de fournir des solutions novatrices aux défis des algorithmes traditionnels d&amp;rsquo;IA.&lt;/p&gt;
@@ -14276,10 +14321,10 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;figure id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment-would-require-the-agility-to-navigate-rapidly-by-detecting-as-fast-as-possible-potential-obstacles-as-represented-here-by-the-collision-zone-given-a-cruising-speed-associated-to-slow-or-fast-latencies-respectively-red-and-blue-shaded-areas-this-project-will-provide-with-a-novel-neuromorphic-architecture-designed-to-meet-these-requirements-thanks-to-an-event-based-two-way-processing&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;agile_UAV.jpg&#34; data-caption=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; data-caption=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34;&gt;
 
 
-  &lt;img src=&#34;agile_UAV.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -14292,6 +14337,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;/figure&gt;
 
+&lt;hr&gt;
 &lt;h2 id=&#34;fiche-didentité&#34;&gt;Fiche d&amp;rsquo;identité&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Acronyme : AgileNeuroBot&lt;/li&gt;
