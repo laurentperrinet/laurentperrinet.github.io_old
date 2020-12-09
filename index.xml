@@ -14395,44 +14395,6 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;Budget total: 435 k€&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment-would-require-the-agility-to-navigate-rapidly-by-detecting-as-fast-as-possible-potential-obstacles-as-represented-here-by-the-collision-zone-given-a-cruising-speed-associated-to-slow-or-fast-latencies-respectively-red-and-blue-shaded-areas-this-project-will-provide-with-a-novel-neuromorphic-architecture-designed-to-meet-these-requirements-thanks-to-an-event-based-two-way-processing&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; data-caption=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34;&gt;
-
-
-  &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-    An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;hr&gt;
 &lt;h2 id=&#34;consortium&#34;&gt;consortium&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -14469,12 +14431,123 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment-this-project-will-provide-with-a-novel-neuromorphic-architecture-designed-to-meet-these-requirements-thanks-to-an-event-based-two-way-processing&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; data-caption=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment. This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34;&gt;
+
+
+  &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment. This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-a-miniature-event-based-atis-sensor-from-classical-frame-based-camera-to-event-based-camera-provides-with-events-at-the-micro-second-resolution&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png&#34; data-caption=&#34;A miniature, event-based ATIS sensor, from classical frame-based camera to event-based camera provides with events at the micro-second resolution.&#34;&gt;
+
+
+  &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    A miniature, event-based ATIS sensor, from classical frame-based camera to event-based camera provides with events at the micro-second resolution.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-our-system-is-divided-into-3-units-to-process-visual-inputs-atiscommunicating-by-event-driven-feed-forward-and-feed-back-communications&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg&#34; data-caption=&#34;Our system is divided into 3 units to process visual inputs (ATIS)communicating by event-driven, feed-forward and feed-back communications.&#34;&gt;
+
+
+  &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Our system is divided into 3 units to process visual inputs (ATIS)communicating by event-driven, feed-forward and feed-back communications.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;  &amp;lt;i class=&amp;quot;fa-li fas fa-envelope fa-2x&amp;quot; aria-hidden=&amp;quot;true&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Ask info @ &lt;a href=&#34;https://laurentperrinet.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;i class=&#34;fa-li fas fa-envelope fa-2x&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ask info @ &lt;a href=&#34;https://laurentperrinet.github.io/#contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-mail&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;More info @ &lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-anb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/grant/anr-anb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ask info @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More info @ &lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-anb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web-site&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
