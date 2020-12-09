@@ -14404,29 +14404,6 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;Budget total: 435 k€&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;consortium&#34;&gt;consortium&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;img src=&#34;https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg&#34; alt=&#34;SV&#34; height=&#34;200px&#34;&gt;&lt;/th&gt;
-&lt;th&gt;&lt;img src=&#34;https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg&#34; alt=&#34;RB&#34; height=&#34;200px&#34;&gt;&lt;/th&gt;
-&lt;th&gt;&lt;img src=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg&#34; alt=&#34;LP&#34; height=&#34;200px&#34;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Stéphane Viollet&lt;/td&gt;
-&lt;td&gt;Ryad Benosman&lt;/td&gt;
-&lt;td&gt;Laurent Perrinet&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Inst Sciences Mouvement&lt;/td&gt;
-&lt;td&gt;Inst de la Vision&lt;/td&gt;
-&lt;td&gt;Inst Neurosciences de la Timone&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;
 
 
 
@@ -14535,6 +14512,67 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
   
   &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
     Our system is divided into 3 units to process visual inputs (ATIS)communicating by event-driven, feed-forward and feed-back communications.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;consortium&#34;&gt;consortium&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img src=&#34;https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg&#34; alt=&#34;SV&#34; height=&#34;200px&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg&#34; alt=&#34;RB&#34; height=&#34;200px&#34;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img src=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg&#34; alt=&#34;LP&#34; height=&#34;200px&#34;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Stéphane Viollet&lt;/td&gt;
+&lt;td&gt;Ryad Benosman&lt;/td&gt;
+&lt;td&gt;Laurent Perrinet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Inst Sciences Mouvement&lt;/td&gt;
+&lt;td&gt;Inst de la Vision&lt;/td&gt;
+&lt;td&gt;Inst Neurosciences de la Timone&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-gantt-chart-of-project-organization&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/grant/anr-anb/gantt.png&#34; data-caption=&#34;Gantt Chart of project organization.&#34;&gt;
+
+
+  &lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anb/gantt.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+    Gantt Chart of project organization.
   &lt;/figcaption&gt;
 
 
