@@ -1,0 +1,13 @@
+@inproceedings{Simoncini13vss,
+ abstract = {The visual system does not process information instantaneously, but rather integrates over time. Integration occurs both for stationary objects and moving objects, with very similar time constants (Burr, 1981). We measured, as a function of exposure duration, speed discrimination and ocular following performance for rich textured motion stimuli of varying spatial frequency bandwidth. Psychometric sensitivity and Oculometric sensitivity for these patterns increased with exposure duration. However the best stimuli for ocular following (namely those with a large bandwidth for spatial frequency) was well integrated up to about 150 - 200 msec, while the best stimuli for speed discrimination (small bandwidth) was well integrated up to about 300 msec. Interestingly, discriminability of ocular tracking eye movements follow a non-monotonic time course, due to the contribution of motor noise. These results suggest that although perception and action relies work in synergy, they may be described by two different integrating mechanisms: A low level, fast one guiding the ocular movement to enable one to catch stimuli in the visual fi eld quickly; and a slower one being able to measure the speed difference between two objects translating in the visual fi eld. Burr, D.C. (1981). Temporal summation of moving images by the human visual system. Proceedings of Royal Society, B211, 321 - 339},
+ author = {Simoncini, Claudio and Perrinet, Laurent U and Montagnini, Anna and Masson, Guillaume S},
+ booktitle = {VSS Conference Abstract},
+ date = {2013},
+ date-modified = {2020-03-31 11:07:30 +0200},
+ grants = {brain-scales,codde},
+ journal = {Journal of Vision},
+ keywords = {eye movements,motion detection,motion-clouds,psychophysics},
+ title = {Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception},
+ year = {2013}
+}
+
