@@ -181,7 +181,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</guid>
       <description>&lt;h1 id=&#34;active-inference-tracking-eye-movements-and-oculomotor-delays&#34;&gt;Active Inference, tracking eye movements and oculomotor delays&lt;/h1&gt;
-&lt;p&gt;Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future. The tracking eye movement system is however able to respond swiftly and even to anticipate repetitive movements (e.g. Barnes et al, 2000 – refs in manuscript). In that case, it means that information in a cortical area is both predicted from the past sensory information but also anticipated to give an optimal response in the future. Even if numerous models have been described to model different mechanisms to account for delays, no theoretical approach has tackled the whole problem explicitly. In several areas of vision research, authors have proposed models at different levels of abstractions from biomechanical models, to neurobiological implementations (e.g. Robinson, 1986) or Bayesian models. This study is both novel and important because – using a neurobiologically plausible hierarchical Bayesian model – it demonstrates that using generalized coordinates to finesse the prediction of a target&amp;rsquo;s motion, the model can reproduce characteristic properties of tracking eye movements in the presence of delays. Crucially, the different refinements to the model that we propose – pursuit initiation, smooth pursuit eye movements, and anticipatory response – are consistent with the different types of tracking eye movements that may be observed experimentally.&lt;/p&gt;
+&lt;p&gt;Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future. The tracking eye movement system is however able to respond swiftly and even to anticipate repetitive movements (e.g. Barnes et al, 2000 – refs in manuscript). In that case, it means that information in a cortical area is both predicted from the past sensory information but also anticipated to give an optimal response in the future. Even if numerous models have been described to model different mechanisms to account for delays, no theoretical approach has tackled the whole problem explicitly. In several areas of vision research, authors have proposed models at different levels of abstractions from biomechanical models, to neurobiological implementations (e.g. Robinson, 1986) or Bayesian models. This study is both novel and important because – using a neurobiologically plausible hierarchical Bayesian model – it demonstrates that using generalized coordinates to finesse the prediction of a target&amp;rsquo;s motion, the model can reproduce characteristic properties of tracking eye movements in the presence of delays. Crucially, the different refinements to the model that we propose – pursuit initiation, smooth pursuit eye movements, and anticipatory response – are consistent with the different types of tracking eye movements that may be observed experimentally.
 
 
 
@@ -223,7 +223,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 &lt;/figure&gt;
-
+&lt;/p&gt;
 </description>
     </item>
     
@@ -741,8 +741,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
   
 
-&lt;/li&gt;
-&lt;/ul&gt;
+
 
 
 
@@ -779,18 +778,18 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 &lt;/figure&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Motion-based prediction explains the role of tracking in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-jpp/</link>
-      <pubDate>Sun, 03 Nov 2013 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Based on 
+&lt;li&gt;Based on 
 
 
 
@@ -859,10 +858,8 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
   
 
-&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;see  follow-up on the flash-lag effect: 
+&lt;li&gt;see  follow-up on the flash-lag effect: 
 
 
 
@@ -953,13 +950,9 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
   
 
-&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;Khoei et al, 2017&lt;/a&gt;
+&lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;Khoei et al, 2017&lt;/a&gt;
 
 
 
@@ -1001,7 +994,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 &lt;/figure&gt;
-&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -1719,7 +1711,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     <item>
       <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
-      <pubDate>Sun, 03 Feb 2008 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;barthelemy-08.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
 </description>
@@ -1744,7 +1736,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Sat, 03 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>

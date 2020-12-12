@@ -58,7 +58,7 @@ pour mettre en plein écran)
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
     </item>
@@ -248,7 +248,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
@@ -256,7 +256,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
@@ -306,7 +306,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -314,7 +314,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -450,7 +450,7 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; 
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -698,7 +698,7 @@ More complex parts of the brain are not required at this stage, contrary to what
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</guid>
       <description>&lt;h1 id=&#34;active-inference-tracking-eye-movements-and-oculomotor-delays&#34;&gt;Active Inference, tracking eye movements and oculomotor delays&lt;/h1&gt;
-&lt;p&gt;Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future. The tracking eye movement system is however able to respond swiftly and even to anticipate repetitive movements (e.g. Barnes et al, 2000 – refs in manuscript). In that case, it means that information in a cortical area is both predicted from the past sensory information but also anticipated to give an optimal response in the future. Even if numerous models have been described to model different mechanisms to account for delays, no theoretical approach has tackled the whole problem explicitly. In several areas of vision research, authors have proposed models at different levels of abstractions from biomechanical models, to neurobiological implementations (e.g. Robinson, 1986) or Bayesian models. This study is both novel and important because – using a neurobiologically plausible hierarchical Bayesian model – it demonstrates that using generalized coordinates to finesse the prediction of a target&amp;rsquo;s motion, the model can reproduce characteristic properties of tracking eye movements in the presence of delays. Crucially, the different refinements to the model that we propose – pursuit initiation, smooth pursuit eye movements, and anticipatory response – are consistent with the different types of tracking eye movements that may be observed experimentally.&lt;/p&gt;
+&lt;p&gt;Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future. The tracking eye movement system is however able to respond swiftly and even to anticipate repetitive movements (e.g. Barnes et al, 2000 – refs in manuscript). In that case, it means that information in a cortical area is both predicted from the past sensory information but also anticipated to give an optimal response in the future. Even if numerous models have been described to model different mechanisms to account for delays, no theoretical approach has tackled the whole problem explicitly. In several areas of vision research, authors have proposed models at different levels of abstractions from biomechanical models, to neurobiological implementations (e.g. Robinson, 1986) or Bayesian models. This study is both novel and important because – using a neurobiologically plausible hierarchical Bayesian model – it demonstrates that using generalized coordinates to finesse the prediction of a target&amp;rsquo;s motion, the model can reproduce characteristic properties of tracking eye movements in the presence of delays. Crucially, the different refinements to the model that we propose – pursuit initiation, smooth pursuit eye movements, and anticipatory response – are consistent with the different types of tracking eye movements that may be observed experimentally.
 
 
 
@@ -740,7 +740,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 &lt;/figure&gt;
-
+&lt;/p&gt;
 </description>
     </item>
     
@@ -1196,8 +1196,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
   
 
-&lt;/li&gt;
-&lt;/ul&gt;
+
 
 
 
@@ -1234,7 +1233,8 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 &lt;/figure&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1325,8 +1325,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
   
 
-&lt;/li&gt;
-&lt;/ul&gt;
+
 
 
 
@@ -1363,7 +1362,8 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 &lt;/figure&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1454,8 +1454,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
   
 
-&lt;/li&gt;
-&lt;/ul&gt;
+
 
 
 
@@ -1492,14 +1491,15 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 &lt;/figure&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Fri, 03 Sep 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;perrinet-03-ieee.png&#34; alt=&#34;header&#34;&gt;
 

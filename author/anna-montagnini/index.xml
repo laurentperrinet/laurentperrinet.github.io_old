@@ -65,7 +65,7 @@ We propose to use dynamic inference as an efficient theoretical framework to und
   &lt;source src=&#34;https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;h2 id=&#34;at-what-point-should-we-become-alarmed-when-faced-with-changes-in-the-environment-the-sensory-system-provides-an-effective-response&#34;&gt;At what point should we become alarmed? When faced with changes in the environment, the sensory system provides an effective response.&lt;/h2&gt;
-&lt;p&gt;The current health situation has shown us how abruptly our environment can change from one state to another, tragically illustrating the volatility we can face. To understand this notion of volatility, let&amp;rsquo;s take the case of a doctor who, among the patients he receives, usually diagnoses one out of ten cases of flu. Suddenly, he gets 5 out of 10 patients who test positive. Is this an unfortunate coincidence or are we now sure that there is a switch to a flu episode? Recent events have shown us how difficult it is to make a rational decision in times of uncertainty, and in particular to decide &lt;em&gt;when&lt;/em&gt; to act. However, mathematical solutions exist that adapt our behavior by optimally combining the information explored recently with that exploited in the past. In an article published in PLoS Computational Biology, Pasturel, Montagnini and Perrinet show that our brain responds to changes in the sensory environment in the same way as this mathematical model.&lt;/p&gt;
+&lt;p&gt;The current health situation has shown us how abruptly our environment can change from one state to another, tragically illustrating the volatility we can face. To understand this notion of volatility, let&amp;rsquo;s take the case of a doctor who, among the patients he receives, usually diagnoses one out of ten cases of flu. Suddenly, he gets 5 out of 10 patients who test positive. Is this an unfortunate coincidence or are we now sure that there is a switch to a flu episode? Recent events have shown us how difficult it is to make a rational decision in times of uncertainty, and in particular to decide &lt;em&gt;when&lt;/em&gt; to act. However, mathematical solutions exist that adapt our behavior by optimally combining the information explored recently with that exploited in the past. In an article published in PLoS Computational Biology, Pasturel, Montagnini and Perrinet show that our brain responds to changes in the sensory environment in the same way as this mathematical model.
 
 
 
@@ -108,7 +108,7 @@ We propose to use dynamic inference as an efficient theoretical framework to und
 
 &lt;/figure&gt;
 
-&lt;p&gt;These theoretical and experimental results show that in this realistic situation in which the context changes at random moments throughout the experiment, our sensory system adapts to volatility in an adaptive manner over the course of the trials. In particular, the experiments show in two behavioural experiments that humans adapt to volatility at the early sensorimotor level, through their anticipatory eye movements, but also at a higher cognitive level, through explicit evaluations. These results thus suggest that humans (and future artificial systems) can use much richer adaptation strategies than previously assumed. They provide a better understanding of how humans adapt to changing environments in order to make judgements or plan responses based on information that varies over time.&lt;/p&gt;
+These theoretical and experimental results show that in this realistic situation in which the context changes at random moments throughout the experiment, our sensory system adapts to volatility in an adaptive manner over the course of the trials. In particular, the experiments show in two behavioural experiments that humans adapt to volatility at the early sensorimotor level, through their anticipatory eye movements, but also at a higher cognitive level, through explicit evaluations. These results thus suggest that humans (and future artificial systems) can use much richer adaptation strategies than previously assumed. They provide a better understanding of how humans adapt to changing environments in order to make judgements or plan responses based on information that varies over time.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;read the &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt; (or in &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007438&amp;amp;type=printable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;get a &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt;&lt;/li&gt;
@@ -440,7 +440,7 @@ We propose to use dynamic inference as an efficient theoretical framework to und
     <item>
       <title>Operant reinforcement versus reward expectancy: effects on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-vss/</link>
-      <pubDate>Sat, 03 Sep 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/damasse-16-vss/</guid>
       <description></description>
     </item>
@@ -508,7 +508,7 @@ We propose to use dynamic inference as an efficient theoretical framework to und
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -1008,7 +1008,7 @@ We propose to use dynamic inference as an efficient theoretical framework to und
     <item>
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
-      <pubDate>Wed, 03 Jan 2007 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;montagnini-07.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
 </description>
