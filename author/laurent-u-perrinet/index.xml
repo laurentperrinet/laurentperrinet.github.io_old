@@ -657,6 +657,28 @@ We propose to use dynamic inference as an efficient theoretical framework to und
     </item>
     
     <item>
+      <title>ANR ShootingStar (2021/2024)</title>
+      <link>https://laurentperrinet.github.io/grant/anr-shootingstar/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/grant/anr-shootingstar/</guid>
+      <description>&lt;p&gt;The natural visual environments in which we have evolved have shaped and constrained the neural mechanisms of vision. Rapid progress has been made in recent years in understanding how the retina and visual cortex are specifically adapted to processing natural scenes.1–3 However, studies in this research tradition have mainly addressed the processing of natural images in the spatial domain. Although the processing of temporal properties of visual stimuli is just as important as spatial properties, &lt;strong&gt;stimuli with naturalistically valid temporal dynamics have not been sufficiently investigated&lt;/strong&gt;. Although objects and creatures we view undergo a variety of intrinsic movements, probably the most common motions on the retina are image shifts due to our own eye movements: in free viewing in humans, ocular saccades occur about three times every second, shifting the retinal image at speeds of 100-500 degrees of visual angle per second.4 How these very fast shifts are suppressed, leading to clear, accurate and stable representations of the visual scene is an fundamental unsolved problem in visual neuroscience known as &lt;strong&gt;saccadic suppression&lt;/strong&gt;. One reason why this problem is difficult is technological: to make progress we need to visually simulate these fast retinal shifts, but computer displays have been too slow to produce adequate simulations.&lt;/p&gt;
+&lt;p&gt;In this project we propose a &lt;strong&gt;unique convergence between neurophysiology, modeling and psychophysics&lt;/strong&gt;, aided by recent technological developments. Some of the partners have been at the forefront of recent developments that have led to a realization that moving stimuli lead to &lt;strong&gt;traveling waves of activity in primary visual cortex,&lt;/strong&gt; propagating at speeds similar to those produced by saccades. Other partners have developed &lt;strong&gt;detailed models of the retina and primary visual cortex&lt;/strong&gt; based on &lt;strong&gt;multielectrode recordings from the retina and optical imaging of the cortex&lt;/strong&gt; that have been able to account for these wave phenomena. Finally, another partner recently made psychophysical observations—aided by new, ultrafast computer displays that allow us to realistically simulate saccadic dynamics on a static retina—that show how &lt;strong&gt;image dynamics alone can account for saccadic suppression phenomena&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We expect that the convergence of these three research currents and methodologies will lead to rapid progress in understanding &lt;strong&gt;how the visual system is adapted to naturalistic dynamics&lt;/strong&gt;. The psychophysical observations will provide new leads and targets for the neurophysiology and modeling, which in turn may provide detailed neural explanations for the psychophysics. Our main hypothesis is that the neural architectures that have been uncovered in the retina and the primary visual cortex will be revealed as most effective when processing naturalistic, fast stimuli that arise as the consequence of eye movements.&lt;/p&gt;
+&lt;h2 id=&#34;carte-didentité-du-projet&#34;&gt;carte d&amp;rsquo;identité du projet&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Type de contrat : CRCNS US-French Research Proposal&lt;/li&gt;
+&lt;li&gt;Durée: 4 ans, à partir du 1er avril 2021&lt;/li&gt;
+&lt;li&gt;Budget total (partenaire français): 665 k€&lt;/li&gt;
+&lt;li&gt;Coordinateur Scientifique : Mark WEXLER (CNRS‐INCC)&lt;/li&gt;
+&lt;li&gt;Partenaire(s) : AGENCE NATIONALE DE LA RECHERCHE&lt;/li&gt;
+&lt;li&gt;Responsable Scientifique INT : Frédéric CHAVANE (UMR7289)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
+&lt;p&gt;This work was supported by ANR project &amp;ldquo;ShootingStar&amp;rdquo; N° ANR-XX-XXX-XXXX.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>From the retina to action: Understanding visual processing</title>
       <link>https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles/</link>
       <pubDate>Fri, 03 Apr 2020 16:00:00 +0000</pubDate>
