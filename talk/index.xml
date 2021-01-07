@@ -57,8 +57,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/dauce-20-iwai/&#34;&gt;Visual search as active inference&lt;/a&gt;.
@@ -77,16 +78,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20-iwai/dauce-20-iwai.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20-iwai/dauce-20-iwai.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/dauce-20-iwai/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -100,7 +101,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/978-3-030-64919-7_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/978-3-030-64919-7_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -379,8 +380,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
@@ -396,7 +399,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -409,23 +412,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -440,7 +443,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -501,8 +504,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
@@ -518,7 +523,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -531,23 +536,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -562,7 +567,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -616,8 +621,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -633,7 +642,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -646,16 +655,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -696,8 +705,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -713,7 +725,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -724,16 +736,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -747,7 +759,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -788,8 +800,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
@@ -805,7 +819,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -818,23 +832,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -849,7 +863,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1080,8 +1094,10 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
@@ -1097,7 +1113,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1110,23 +1126,23 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1141,7 +1157,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1195,8 +1211,10 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
@@ -1212,7 +1230,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1225,23 +1243,23 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1256,7 +1274,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1611,8 +1629,9 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -1628,7 +1647,7 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1641,23 +1660,23 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1672,7 +1691,7 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1713,8 +1732,10 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
@@ -1730,7 +1751,7 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1743,23 +1764,23 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1774,7 +1795,7 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1931,8 +1952,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -1948,7 +1970,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1961,23 +1983,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1992,7 +2014,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2033,8 +2055,15 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-p-davison/&#34;&gt;Andrew P Davison&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/daniel-bruderle/&#34;&gt;Daniel Bruderle&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/jochen-eppler/&#34;&gt;Jochen Eppler&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/jens-kremkow/&#34;&gt;Jens Kremkow&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/eilif-muller/&#34;&gt;Eilif Muller&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/dejan-pecevski/&#34;&gt;Dejan Pecevski&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-yger/&#34;&gt;Pierre Yger&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-p-davison/&#34;&gt;Andrew P Davison&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/daniel-bruderle/&#34;&gt;Daniel Bruderle&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jochen-eppler/&#34;&gt;Jochen Eppler&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jens-kremkow/&#34;&gt;Jens Kremkow&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/eilif-muller/&#34;&gt;Eilif Muller&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/dejan-pecevski/&#34;&gt;Dejan Pecevski&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-yger/&#34;&gt;Pierre Yger&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2008).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/davison-08/&#34;&gt;PyNN: A Common Interface for Neuronal Network Simulators&lt;/a&gt;.
@@ -2050,7 +2079,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00586786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00586786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2061,23 +2090,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/davison-08/davison-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/davison-08/davison-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/davison-08/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/project/open-science/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/project/open-science/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -2090,7 +2119,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/neuro.11.011.2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/neuro.11.011.2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2131,8 +2160,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -2148,7 +2178,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2161,23 +2191,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -2192,7 +2222,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2257,8 +2287,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -2274,7 +2305,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2287,23 +2318,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -2318,7 +2349,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2377,8 +2408,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -2394,7 +2426,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2407,23 +2439,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -2438,7 +2470,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2487,8 +2519,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -2504,7 +2537,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2517,23 +2550,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -2548,7 +2581,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 

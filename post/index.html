@@ -60,7 +60,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#1565c0">
   
 
   
@@ -78,7 +78,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -89,14 +89,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -234,8 +234,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -243,7 +243,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.1c55e0a47f7e1b9753c5a31f7b7f455d.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.3848b427d7eb1e57a64b3ba29764068e.css">
 
   
 
@@ -300,7 +301,10 @@
   <link rel="alternate" href="/post/index.xml" type="application/rss+xml" title="Novel visual computations">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
@@ -356,9 +360,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7264cf0eba3b66951b36da7d2cecf9c5.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -367,16 +376,19 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
 
     </section>
     <section class="section-search-results">
@@ -388,6 +400,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -806,6 +819,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -900,9 +919,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2020-06-30_phd-position/" >PhD offer &#34;Ultra-fast vision using Spiking Neural Networks&#34;</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2020-06-30_phd-position/"  class="summary-link">
@@ -929,8 +948,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1008,9 +1027,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2020-09-11_seminaire-thomas-serre/" >2020-09-11 : Feedforward and feedback processes in visual recognition (T Serre)</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2020-09-11_seminaire-thomas-serre/"  class="summary-link">
@@ -1037,8 +1056,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1116,9 +1135,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2020-03-13_soutenance-victor-boutin/" >2020-03-13: Soutenance Victor Boutin</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2020-03-13_soutenance-victor-boutin/"  class="summary-link">
@@ -1145,8 +1164,9 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/victor-boutin/">Victor Boutin</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>
   </div>
   
   
@@ -1224,9 +1244,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-10-28_postdoc-position/" >Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-10-28_postdoc-position/"  class="summary-link">
@@ -1253,8 +1273,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1332,9 +1352,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-10-10_gdrvision/" >2019-10-10: GDR vision 2019</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-10-10_gdrvision/"  class="summary-link">
@@ -1361,8 +1381,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1440,9 +1460,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-10-10_gdrvision-atelier/" >2019-10-10: Atelier Utiliser l&#39;apprentissage profond en vision</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-10-10_gdrvision-atelier/"  class="summary-link">
@@ -1469,8 +1489,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1548,9 +1568,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-10-07_neurostories/" >2019-10-07: Le temps des sens</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-10-07_neurostories/"  class="summary-link">
@@ -1577,8 +1597,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1656,9 +1676,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-06-06-theconversation/" >Illusions et hallucinations visuelles : une porte sur la perception</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-06-06-theconversation/"  class="summary-link">
@@ -1685,8 +1705,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1764,9 +1784,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-05-23-neurofrance/" >2019-05-20: Symposium on Active Inference at NeuroFrance 2019</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-05-23-neurofrance/"  class="summary-link">
@@ -1793,8 +1813,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1865,9 +1885,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2018-11-09_seminaire-escobar/" >2018-11-09 : Retinal computations</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2018-11-09_seminaire-escobar/"  class="summary-link">
@@ -1894,8 +1914,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1973,9 +1993,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2018-04-05_optimal-inference-brain-workshop/" >2018-04-05 : *Probabilities and Optimal Inference to understand the Brain* Workshop</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2018-04-05_optimal-inference-brain-workshop/"  class="summary-link">
@@ -2002,8 +2022,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2081,9 +2101,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2018-03-26-cours-neuro-comp-fep/" >2018-03-26 : PhD Program: course in Computational Neuroscience</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2018-03-26-cours-neuro-comp-fep/"  class="summary-link">
@@ -2110,8 +2130,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2182,9 +2202,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2016-10-26_euvip-bicv/" >2016-10-26 : EUVIP BICV</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2016-10-26_euvip-bicv/"  class="summary-link">
@@ -2211,8 +2231,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2290,9 +2310,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2016-06-02_elasticite/" >Elasticité dynamique</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2016-06-02_elasticite/"  class="summary-link">
@@ -2319,8 +2339,9 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/etienne-rey/">Étienne Rey</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/etienne-rey/">Étienne Rey</a></span>
   </div>
   
   
@@ -2398,9 +2419,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2018-09-09_artorama/" >Instabilité (series) @ Art-O-Rama</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2018-09-09_artorama/"  class="summary-link">
@@ -2427,8 +2448,9 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/etienne-rey/">Étienne Rey</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/etienne-rey/">Étienne Rey</a></span>
   </div>
   
   
@@ -2506,9 +2528,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/proverbes-et-citations/" >Proverbes Et Citations</a>
-    </h3>
+    </div>
 
     
     <a href="/post/proverbes-et-citations/"  class="summary-link">
@@ -2535,8 +2557,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2607,9 +2629,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-06-22_ardemone/" >Sans gravité – une poétique de l’air</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-06-22_ardemone/"  class="summary-link">
@@ -2636,8 +2658,9 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/etienne-rey/">Étienne Rey</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/etienne-rey/">Étienne Rey</a></span>
   </div>
   
   
@@ -2715,9 +2738,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2018-04-10_trames/" >TRAMES</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2018-04-10_trames/"  class="summary-link">
@@ -2744,8 +2767,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2823,9 +2846,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2013-10-10_tropique/" >TROPIQUE</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2013-10-10_tropique/"  class="summary-link">
@@ -2852,8 +2875,9 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/etienne-rey/">Étienne Rey</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/etienne-rey/">Étienne Rey</a></span>
   </div>
   
   
@@ -2931,9 +2955,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2018-01-20_turbulences/" >Turbulences</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2018-01-20_turbulences/"  class="summary-link">
@@ -2960,8 +2984,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/etienne-rey/">Étienne Rey</a></span>
+  <span >
+      <a href="/author/etienne-rey/">Étienne Rey</a></span>
   </div>
   
   
@@ -3039,9 +3063,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2010-06-22_codejam-nr4/" >2010-06-22 : CodeJamNr4</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2010-06-22_codejam-nr4/"  class="summary-link">
@@ -3068,8 +3092,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -3147,9 +3171,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2008-10-08_neurocomp/" >2010-05-27 : Neurocomp08</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2008-10-08_neurocomp/"  class="summary-link">
@@ -3176,8 +3200,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -3255,9 +3279,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2010-05-27_neurocomp-marseille-workshop/" >Computational Neuroscience: From Representations to Behavior</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2010-05-27_neurocomp-marseille-workshop/"  class="summary-link">
@@ -3284,8 +3308,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -3412,7 +3436,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder that empowers creators.
     
@@ -3502,7 +3526,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks",
+        'event' : "Events",
         'slides' : "Slides"
         };
     </script>
@@ -3554,12 +3578,12 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     
+    
+      
       
     
     
-    
-    
-    <script src="/js/wowchemy.min.ffabb05383f1b16d83e7181a605e644c.js"></script>
+    <script src="/js/wowchemy.min.aeecf26c1eff6b9588dbafc1a9f3953c.js"></script>
 
     
 

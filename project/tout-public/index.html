@@ -60,7 +60,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#1565c0">
   
 
   
@@ -78,7 +78,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -89,14 +89,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -234,8 +234,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -243,7 +243,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.1c55e0a47f7e1b9753c5a31f7b7f455d.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.3848b427d7eb1e57a64b3ba29764068e.css">
 
   
 
@@ -298,7 +299,10 @@
 
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
@@ -404,9 +408,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7264cf0eba3b66951b36da7d2cecf9c5.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -415,16 +424,19 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
 
     </section>
     <section class="section-search-results">
@@ -436,6 +448,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -854,6 +867,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -1388,9 +1407,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-10-07_neurostories/" >2019-10-07: Le temps des sens</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-10-07_neurostories/"  class="summary-link">
@@ -1417,8 +1436,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1496,9 +1515,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-06-06-theconversation/" >Illusions et hallucinations visuelles : une porte sur la perception</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-06-06-theconversation/"  class="summary-link">
@@ -1525,8 +1544,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -1614,9 +1633,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/perrinet-19-illusions/" >Illusions et hallucinations visuelles : une porte sur la perception</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/perrinet-19-illusions/"  class="summary-link">
@@ -1634,8 +1653,8 @@
       <div>
         
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -1652,7 +1671,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -1665,23 +1684,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/perrinet-19-illusions/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/perrinet-19-illusions/" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/perrinet-19-illusions/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tout-public/">
     Project
   </a>
   
@@ -1696,7 +1715,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=jJKTdlChefc" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=jJKTdlChefc" target="_blank" rel="noopener">
   Video
 </a>
 
@@ -1739,9 +1758,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/perrinet-19-temps/" >Temps et cerveau : comment notre perception nous fait voyager dans le temps</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/perrinet-19-temps/"  class="summary-link">
@@ -1759,8 +1778,8 @@
       <div>
         
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -1777,7 +1796,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -1790,23 +1809,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/perrinet-19-temps/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/perrinet-19-temps/" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/perrinet-19-temps/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tout-public/">
     Project
   </a>
   
@@ -1863,9 +1882,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/perrinet-17-gdr/" >Expériences autour de la perception de la forme en art et science</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/perrinet-17-gdr/"  class="summary-link">
@@ -1883,8 +1902,9 @@
       <div>
         
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/etienne-rey/">Étienne Rey</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/etienne-rey/">Étienne Rey</a></span>
       </div>
       
     </div>
@@ -1906,29 +1926,29 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/NaturalPatterns/2017-10-12_GDR" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/NaturalPatterns/2017-10-12_GDR" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/perrinet-17-gdr/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/art-science/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/art-science/">
     Project
   </a>
   
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tout-public/">
     Project
   </a>
   
@@ -1985,9 +2005,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/perrinet-10-doc-sciences/" >Qui créera le premier ordinateur intelligent?</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/perrinet-10-doc-sciences/"  class="summary-link">
@@ -2005,8 +2025,8 @@
       <div>
         
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -2028,23 +2048,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://interstices.info/qui-creera-le-premier-ordinateur-intelligent/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://interstices.info/qui-creera-le-premier-ordinateur-intelligent/" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/perrinet-10-doc-sciences/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tout-public/">
     Project
   </a>
   
@@ -2101,9 +2121,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/davison-07-cns/" >PyNN: towards a universal neural simulator API in Python</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/davison-07-cns/"  class="summary-link">
@@ -2121,8 +2141,12 @@
       <div>
         
 
-  
-  <span ><a href="/author/andrew-p-davison/">Andrew P Davison</a></span>, <span ><a href="/author/pierre-yger/">Pierre Yger</a></span>, <span ><a href="/author/jens-kremkow/">Jens Kremkow</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/eilif-muller/">Eilif Muller</a></span>
+  <span >
+      <a href="/author/andrew-p-davison/">Andrew P Davison</a></span>, <span >
+      <a href="/author/pierre-yger/">Pierre Yger</a></span>, <span >
+      <a href="/author/jens-kremkow/">Jens Kremkow</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/eilif-muller/">Eilif Muller</a></span>
       </div>
       
     </div>
@@ -2144,23 +2168,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://dx.doi.org/10.1186/1471-2202-8-S2-P2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://dx.doi.org/10.1186/1471-2202-8-S2-P2" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/davison-07-cns/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tout-public/">
     Project
   </a>
   
@@ -2173,7 +2197,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/1471-2202-8-S2-P2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1186/1471-2202-8-S2-P2" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2195,1427 +2219,6 @@
 
       
       
-      
-        <h2>Talks</h2>
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Jan 20, 2020 10:00 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Lycée Professionnel Domaine Eguille, Vedène (France)</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2020-01-20-atelier-sciences-cinema/">Des illusions aux hallucinations visuelles: une porte sur la perception</a>
-  </h3>
-
-  
-  <a href="/talk/2020-01-20-atelier-sciences-cinema/" class="summary-link">
-    <div class="article-style">
-      <p>Les illusions visuelles sont des créations d&rsquo;artistes, de scientifiques et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des situations souvent incongrues, dans lesquelles l&rsquo;eau remonte une cascade, les personnes volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable coté ludique, ces illusions nous apprennent beaucoup sur le fonctionnement du cerveau, notamment quand celles-ci se transforment en hallucinations visuelles, dépassant ainsi les limites des capacités de notre perception. En tant que chercheur en Neurosciences à l&rsquo;Institut de Neurosciences de la Timone à Marseille, je vous dévoilerai des aspects du fonctionnement du cerveau qui sont souvent méconnus. En particulier, nous verrons pourquoi un magicien peut tromper nos sens ou comment des objets peuvent voyager dans le temps. Surtout nous essaierons de comprendre le fonctionnement de notre perception visuelle sur les bases d&rsquo;une théorie de la vision non pas comme une simple caméra qui enregistre des images mais comme un processus actif en relation avec le monde qui nous entoure.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2020-01-20-atelier-sciences-cinema" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2020-01-20-atelier-sciences-cinema/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2020-01-20_atelier_sciences_cinema" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Apr 18, 2019 1:00 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Lille, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-  
-  
-  
-  <a href="/talk/2019-04-18-jnlf/">
-    <div class="img-hover-zoom"><img src="/talk/2019-04-18-jnlf/featured_hu232b31e91c800009f2bf7211ce05ca9a_599298_debfaf442cf16af03f48f705dae65ebf.jpeg" data-src="/talk/2019-04-18-jnlf/featured_hu232b31e91c800009f2bf7211ce05ca9a_599298_808x455_fill_q75_lanczos_smart1.jpeg" class="article-banner lazyload" alt="Des illusions aux hallucinations visuelles: une porte sur la perception"></div>
-  </a>
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2019-04-18-jnlf/">Des illusions aux hallucinations visuelles: une porte sur la perception</a>
-  </h3>
-
-  
-  <a href="/talk/2019-04-18-jnlf/" class="summary-link">
-    <div class="article-style">
-      <p>Les objectifs sont : &ndash; mieux comprendre la fonction de la perception visuelle en explorant certaines limites ; &ndash; mieux comprendre l&rsquo;importance de l&rsquo;aspect dynamique de la perception ; &ndash; mieux comprendre le rôle de l&rsquo;action dans la perception.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.em-consulte.com/e-tap/1283936/ftafhrsrftfxjyjaaumj" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-04-18-jnlf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2019-04-18-jnlf/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-04-18_JNLF/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-04-18_JNLF" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=jJKTdlChefc" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.neurol.2019.01.031" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Jan 10, 2019 9:30 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Marseille, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2019-01-10-polly-maggoo/">Rencontre avec les collégiens marseillais</a>
-  </h3>
-
-  
-  <a href="/talk/2019-01-10-polly-maggoo/" class="summary-link">
-    <div class="article-style">
-      <p>Le jeudi 10 janvier 2019, je suis venu échanger au côté de Serge Dentin autour de films traitant du rapport fiction/réel, des illusion visuelles (&quot; Qu&rsquo;est ce qu&rsquo;une image? &quot;), des rapports d&rsquo;échelles, de la perception, &hellip; et qui sont projetés lors de la séance, avec les élèves de deux classes de 4ème. Une occasion aussi de parler du métier de chercheur.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-01-10-polly-maggoo/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2019-01-10-polly-maggoo/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Oct 11, 2018 6:30 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Marseille, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2018-10-11-bio-morphisme/">La modélisation biomorphique de la perception visuelle</a>
-  </h3>
-
-  
-  <a href="/talk/2018-10-11-bio-morphisme/" class="summary-link">
-    <div class="article-style">
-      <p>La modélisation biomorphique de la perception visuelle in &ldquo;La modélisation de la genèse physico-mathématique du vivant&rdquo; BIOMORPHISME ET CREATION ARTISTIQUE – Session 3  Date
-11 Octobre 2018 Atelier
-Séminaire/workshop organisé dans le cadre du projet Biomorphisme.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2018-10-11_BioMorphisme.html" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2018-10-11-bio-morphisme/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Oct 10, 2018 6:30 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Marseille, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2018-10-10-polly-maggoo/">Intervention fête de la science 2018</a>
-  </h3>
-
-  
-  <a href="/talk/2018-10-10-polly-maggoo/" class="summary-link">
-    <div class="article-style">
-      <p>FÊTE DE LA SCIENCE 2018 : Alcazar / MERLAN L&rsquo;Association Polly Maggoo http://www.pollymaggoo.org/ met en place tout le long de l’année, des actions de culture scientifique et artistique en direction du grand public et des lycées, au cours desquelles l&rsquo;association programme des films à caractère scientifique.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2018-10-10-polly-maggoo/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2018-10-10-polly-maggoo/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/etienne-rey/">Étienne Rey</a></span>
-    </div>
-    
-    <span>
-      Jan 25, 2018 6:30 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Salle des voutes campus Saint Charles</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2018-01-25-meetup-neuronautes/">Expériences autour de la perception de la forme en art et science</a>
-  </h3>
-
-  
-  <a href="/talk/2018-01-25-meetup-neuronautes/" class="summary-link">
-    <div class="article-style">
-      <p>Meetup Art et Neurosciences  Quoi
-Meetup Art et Neurosciences Qui
-Association NeuroNautes Quand
-25 Janvier 2018 Où
-Salle des voutes campus Saint Charles Support visuel
-https://laurentperrinet.github.io/sciblog/files/2018-01-25_meetup-neuronautes.html (notes: la présentation peut mettre un certain temps à charger.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2018-01-25-meetup-neuronautes/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2018-01-25-meetup-neuronautes/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/art-science/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2018-01-25_meetup-neuronautes.html" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Nov 17, 2017 6:30 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Lyon, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2017-11-17-festival-interferences/">Participation au jury</a>
-  </h3>
-
-  
-  <a href="/talk/2017-11-17-festival-interferences/" class="summary-link">
-    <div class="article-style">
-      <p>FESTIVAL INTERFÉRENCES​ Cinéma Documentaire et Débat Public Le collectif Scènes Publiques composé de citoyens, chercheurs et cinéastes, organise la deuxième édition du Festival Interférences du 8 au 18 novembre 2017 à Lyon.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-11-17-festival-interferences/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2017-11-17-festival-interferences/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Nov 20, 2016 9:00 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Marseille, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2016-11-20-polly-maggoo/">Participation au jury et entretien avec Clara Delmon</a>
-  </h3>
-
-  
-  <a href="/talk/2016-11-20-polly-maggoo/" class="summary-link">
-    <div class="article-style">
-      <p>RENCONTRES INTERNATIONALES SCIENCES &amp; CINÉMAS cinéma les Variétés L&rsquo;Association Polly Maggoo http://www.pollymaggoo.org/ programme la 10e édition des RENCONTRES INTERNATIONALES SCIENCES &amp; CINÉMAS (RISC) à Marseille, au cours desquelles l&rsquo;association programme des films à caractère scientifique.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2016-11-20-polly-maggoo/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2016-11-20-polly-maggoo/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Apr 28, 2016 6:30 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Marseille, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-  
-  
-  
-  <a href="/talk/2016-04-28-mejanes/">
-    <div class="img-hover-zoom"><img src="/talk/2016-04-28-mejanes/featured_hu6f6d5fb2faa25e28f30d4d4a74ac9231_213872_e7b2c1e6bda7aa56802bd70394048e32.jpg" data-src="/talk/2016-04-28-mejanes/featured_hu6f6d5fb2faa25e28f30d4d4a74ac9231_213872_808x455_fill_q75_lanczos_smart1.jpg" class="article-banner lazyload" alt="Les illusions visuelles, un révélateur du fonctionnement de notre cerveau"></div>
-  </a>
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2016-04-28-mejanes/">Les illusions visuelles, un révélateur du fonctionnement de notre cerveau</a>
-  </h3>
-
-  
-  <a href="/talk/2016-04-28-mejanes/" class="summary-link">
-    <div class="article-style">
-      <p>Les illusions visuelles sont des créations d&rsquo;artistes, de scientifiques et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des situations souvent incongrues, dans lesquelles l&rsquo;eau remonte une cascade, les personnes volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable coté ludique, ces illusions nous apprennent beaucoup sur le fonctionnement du cerveau. En tant que chercheur en Neurosciences à l&rsquo;Institut de Neurosciences de la Timone à Marseille, je vous dévoilerai des aspects du fonctionnement du cerveau qui sont souvent méconnus. En particulier, nous verrons pourquoi un magicien peut tromper nos sens ou comment des objets peuvent voyager dans le temps. Surtout nous essaierons de comprendre le fonctionnement de notre perception visuelle sur les bases d&rsquo;une théorie de la vision non pas comme une simple caméra qui enregistre des images mais comme un processus actif en relation avec le monde qui nous entoure.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-04-28_mejanes/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2016-04-28-mejanes/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Apr 25, 2016 9:00 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Marseille, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2016-04-25-polly-maggoo/">Les illusions visuelles, un révélateur du fonctionnement de notre cerveau</a>
-  </h3>
-
-  
-  <a href="/talk/2016-04-25-polly-maggoo/" class="summary-link">
-    <div class="article-style">
-      <p>Ce lundi 25 avril de 9h à 12h, je suis venu échanger au côté de Serge Dentin autour de films traitant du rapport fiction/réel, des illusion visuelles (&quot; Qu&rsquo;est ce qu&rsquo;une image? &quot;), des rapports d&rsquo;échelles, de la perception, &hellip; et qui sont projetés lors de la séance, avec des élèves de 4e lors d&rsquo;une séance Cinésciences au collège Clair Soleil, 53 Boulevard Charles Moretti, 13014 Marseille. Une occasion aussi de parler du métier de chercheur.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2016-04-25_pollymagoo/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2016-04-25-polly-maggoo/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Apr 14, 2010 7:00 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Aix-enProvence (France)</span>
-    
-  </div>
-  
-
-  
-  
-  
-  
-  
-  
-  <a href="/talk/2010-04-14-ondes-paralleles/">
-    <div class="img-hover-zoom"><img src="/talk/2010-04-14-ondes-paralleles/featured_huf8e22210a5b712d30ed9259f43294b7e_139525_e22bb6555f6d97ec7800b62e21d71477.jpg" data-src="/talk/2010-04-14-ondes-paralleles/featured_huf8e22210a5b712d30ed9259f43294b7e_139525_808x455_fill_q75_lanczos_smart1.jpg" class="article-banner lazyload" alt="Diffraction monochromatique, spectre audiographique"></div>
-  </a>
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2010-04-14-ondes-paralleles/">Diffraction monochromatique, spectre audiographique</a>
-  </h3>
-
-  
-  <a href="/talk/2010-04-14-ondes-paralleles/" class="summary-link">
-    <div class="article-style">
-      <p>En perception, les neurones « parlent » tous en même temps par de brèves impulsions électrochimiques, générant un mélange de signaux, un bruit. Pourtant c&rsquo;est par eux que nous pensons, voyons, sentons. Les ordinateurs sont différents, plus rapides. Ils sont construits avec pour modèle la grammaire humaine autour d&rsquo;une unité centrale, car on imaginait la cognition sous cet angle à leur invention. Le bit est le quantum d&rsquo;un algorithme mécanique (thèse de Church-Turing). Une théorie tranche par rapport à la précédente, proposée par «von Neumann» : beaucoup d&rsquo;unités sont présentes dans le cerveau. Comparée à la chaı̂ne logique du langage, dans cet algorithme, beaucoup d&rsquo;autres chan̂es et logiques se mêlent. Comment vont-elles « parler » entre elles ? Existe-t-il des algorithmes biologiques ?</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2010-04-14-ondes-paralleles/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2010-04-14-ondes-paralleles/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/art-science/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/thierry-vieville/">Thierry Vieville</a></span>
-    </div>
-    
-    <span>
-      Nov 24, 2009 6:30 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Marseille, France</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2009-11-24-intelligence-mecanique/">Peut-on parler d&#39;intelligence mécanique?</a>
-  </h3>
-
-  
-  <a href="/talk/2009-11-24-intelligence-mecanique/" class="summary-link">
-    <div class="article-style">
-      <p>Nous parlerons de cette partie &quot;mécanique&quot; du cerveau animal ou humain qui permet de percevoir les mouvements et de &hellip; survivre au sein de l&rsquo;environnement. On verra, par exemple, que notre cerveau peut-être plus rapide que nous, qu&rsquo;il y a des solutions &quot;stupides&quot; qui marchent remarquablement bien pour sortir d&rsquo;un labyrinthe, et qui si la grenouille sait gober une mouche bien mieux qu&rsquo;un robot &hellip; elle n&rsquo;est pas plus maligne ! Parce que ce qu&rsquo;il ne faut pas confondre ici c&rsquo;est la différence entre calculer et penser, entre intelligence et algorithmes. En comprenant cela, avec Alan Mathison Turing, le Gutenberg du XXème siècle, l&rsquo;humanité a basculé des temps modernes à l&rsquo;ère du numérique.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2009-11-24-intelligence-mecanique/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2009-11-24-intelligence-mecanique/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.neurol.2019.01.031" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
       
     </div>
   </div>
@@ -3684,7 +2287,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder that empowers creators.
     
@@ -3774,7 +2377,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks",
+        'event' : "Events",
         'slides' : "Slides"
         };
     </script>
@@ -3826,12 +2429,12 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     
+    
+      
       
     
     
-    
-    
-    <script src="/js/wowchemy.min.ffabb05383f1b16d83e7181a605e644c.js"></script>
+    <script src="/js/wowchemy.min.aeecf26c1eff6b9588dbafc1a9f3953c.js"></script>
 
     
 

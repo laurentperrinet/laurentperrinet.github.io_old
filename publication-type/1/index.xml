@@ -36,8 +36,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-albiges/&#34;&gt;Pierre Albigès&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-albiges/&#34;&gt;Pierre Albigès&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34;&gt;A dual foveal-peripheral visual processing model implements efficient saccade selection&lt;/a&gt;.
@@ -53,7 +55,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -66,23 +68,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/dauce-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/WhereIsMyMNIST&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/WhereIsMyMNIST&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -97,7 +99,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1167/jov.20.8.22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1167/jov.20.8.22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -223,8 +225,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -240,7 +246,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -253,16 +259,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -303,8 +309,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -320,7 +329,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -331,16 +340,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -354,7 +363,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -416,8 +425,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/dauce-20-iwai/&#34;&gt;Visual search as active inference&lt;/a&gt;.
@@ -436,16 +446,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20-iwai/dauce-20-iwai.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20-iwai/dauce-20-iwai.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/dauce-20-iwai/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -459,7 +469,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/978-3-030-64919-7_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/978-3-030-64919-7_17&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -555,8 +565,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -572,7 +586,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -585,16 +599,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -635,8 +649,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -652,7 +669,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -663,16 +680,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -686,7 +703,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -929,8 +946,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
@@ -946,7 +965,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -959,23 +978,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -990,7 +1009,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1045,8 +1064,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -1062,7 +1085,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1075,16 +1098,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1125,8 +1148,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -1142,7 +1168,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1153,16 +1179,16 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1176,7 +1202,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1251,8 +1277,12 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -1268,7 +1298,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1281,16 +1311,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1331,8 +1361,11 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -1348,7 +1381,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1359,16 +1392,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1382,7 +1415,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1423,8 +1456,12 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -1440,7 +1477,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1453,16 +1490,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1503,8 +1540,11 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -1520,7 +1560,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1531,16 +1571,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1554,7 +1594,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1612,8 +1652,12 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -1629,7 +1673,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1642,16 +1686,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1692,8 +1736,11 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -1709,7 +1756,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1720,16 +1767,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1743,7 +1790,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1784,8 +1831,12 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -1801,7 +1852,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1814,16 +1865,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1864,8 +1915,11 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -1881,7 +1935,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1892,16 +1946,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -1915,7 +1969,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2143,8 +2197,12 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -2160,7 +2218,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2173,16 +2231,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -2223,8 +2281,11 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -2240,7 +2301,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2251,16 +2312,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -2274,7 +2335,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2323,8 +2384,12 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -2340,7 +2405,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2353,16 +2418,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -2403,8 +2468,11 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -2420,7 +2488,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2431,16 +2499,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -2454,7 +2522,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2517,8 +2585,12 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -2534,7 +2606,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2547,16 +2619,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -2597,8 +2669,11 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -2614,7 +2689,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2625,16 +2700,16 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -2648,7 +2723,7 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2713,8 +2788,12 @@ Lyon&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
@@ -2730,7 +2809,7 @@ Lyon&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2743,16 +2822,16 @@ Lyon&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -2793,8 +2872,11 @@ Lyon&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
@@ -2810,7 +2892,7 @@ Lyon&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2821,16 +2903,16 @@ Lyon&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -2844,7 +2926,7 @@ Lyon&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2893,8 +2975,8 @@ Lyon&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2010).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34;&gt;Role of homeostasis in learning sparse representations&lt;/a&gt;.
@@ -2910,7 +2992,7 @@ Lyon&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00156610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00156610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2921,23 +3003,23 @@ Lyon&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/perrinet-10-shl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/perrinet-10-shl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-10-shl/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -2952,7 +3034,7 @@ Lyon&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco.2010.05-08-795&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco.2010.05-08-795&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -2984,8 +3066,8 @@ Lyon&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2019).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-hulk/&#34;&gt;An adaptive homeostatic algorithm for the unsupervised learning of visual features&lt;/a&gt;.
@@ -3001,7 +3083,7 @@ Lyon&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-hulk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-hulk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -3012,23 +3094,23 @@ Lyon&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-hulk/perrinet-19-hulk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-hulk/perrinet-19-hulk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-19-hulk/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/SpikeAI/HULK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/SpikeAI/HULK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -3043,7 +3125,7 @@ Lyon&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3390/vision3030047&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3390/vision3030047&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -3450,8 +3532,11 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/jonathan-vacher/&#34;&gt;Jonathan Vacher&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-isaac-meso/&#34;&gt;Andrew Isaac Meso&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-peyre/&#34;&gt;Gabriel Peyré&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jonathan-vacher/&#34;&gt;Jonathan Vacher&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-isaac-meso/&#34;&gt;Andrew Isaac Meso&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-peyre/&#34;&gt;Gabriel Peyré&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2018).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/vacher-16/&#34;&gt;Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures&lt;/a&gt;.
@@ -3467,7 +3552,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1611.01390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1611.01390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -3480,16 +3565,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/vacher-16/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -3503,7 +3588,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -3603,8 +3688,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -3620,7 +3706,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -3633,23 +3719,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -3664,7 +3750,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -3705,8 +3791,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -3725,16 +3812,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-12-pred/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -3775,8 +3862,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -3795,16 +3884,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -3818,7 +3907,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -3849,8 +3938,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -3866,7 +3957,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -3879,23 +3970,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -3910,7 +4001,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -3981,8 +4072,11 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/jonathan-vacher/&#34;&gt;Jonathan Vacher&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-isaac-meso/&#34;&gt;Andrew Isaac Meso&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-peyre/&#34;&gt;Gabriel Peyré&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jonathan-vacher/&#34;&gt;Jonathan Vacher&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-isaac-meso/&#34;&gt;Andrew Isaac Meso&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-peyre/&#34;&gt;Gabriel Peyré&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2018).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/vacher-16/&#34;&gt;Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures&lt;/a&gt;.
@@ -3998,7 +4092,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://arxiv.org/abs/1611.01390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1611.01390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -4011,16 +4105,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/vacher-16/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -4034,7 +4128,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -4083,8 +4177,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -4100,7 +4195,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -4113,23 +4208,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -4144,7 +4239,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -4185,8 +4280,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -4205,16 +4301,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-12-pred/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -4255,8 +4351,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -4275,16 +4373,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -4298,7 +4396,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -4329,8 +4427,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -4346,7 +4446,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -4359,23 +4459,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -4390,7 +4490,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -4500,8 +4600,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -4520,16 +4621,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-12-pred/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -4570,8 +4671,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -4590,16 +4693,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -4613,7 +4716,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -4644,8 +4747,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -4661,7 +4766,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -4674,23 +4779,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -4705,7 +4810,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -4789,8 +4894,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -4809,16 +4915,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-12-pred/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -4859,8 +4965,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -4879,16 +4987,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -4902,7 +5010,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -4933,8 +5041,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -4950,7 +5060,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -4963,23 +5073,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -4994,7 +5104,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -5043,8 +5153,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -5060,7 +5171,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -5073,23 +5184,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -5104,7 +5215,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -5145,8 +5256,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -5165,16 +5277,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-12-pred/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -5215,8 +5327,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -5235,16 +5349,16 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -5258,7 +5372,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -5289,8 +5403,10 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -5306,7 +5422,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -5319,23 +5435,23 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -5350,7 +5466,7 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -5537,8 +5653,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -5557,16 +5674,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-12-pred/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -5607,8 +5724,10 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -5627,16 +5746,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -5650,7 +5769,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -5681,8 +5800,10 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -5698,7 +5819,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -5711,23 +5832,23 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -5742,7 +5863,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -5791,8 +5912,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2010).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/&#34;&gt;Phase space analysis of networks based on biologically realistic parameters&lt;/a&gt;.
@@ -5811,16 +5933,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-10-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -5834,7 +5956,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -5865,8 +5987,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-12/&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities&lt;/a&gt;.
@@ -5885,16 +6008,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-12/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -5908,7 +6031,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -5980,8 +6103,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2010).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/&#34;&gt;Phase space analysis of networks based on biologically realistic parameters&lt;/a&gt;.
@@ -6000,16 +6124,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-10-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -6023,7 +6147,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6054,8 +6178,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-12/&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities&lt;/a&gt;.
@@ -6074,16 +6199,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-12/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -6097,7 +6222,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6138,8 +6263,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2010).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/&#34;&gt;Phase space analysis of networks based on biologically realistic parameters&lt;/a&gt;.
@@ -6158,16 +6284,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-10-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -6181,7 +6307,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6212,8 +6338,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-12/&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities&lt;/a&gt;.
@@ -6232,16 +6359,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-12/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -6255,7 +6382,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6315,8 +6442,15 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-p-davison/&#34;&gt;Andrew P Davison&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/daniel-bruderle/&#34;&gt;Daniel Bruderle&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/jochen-eppler/&#34;&gt;Jochen Eppler&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/jens-kremkow/&#34;&gt;Jens Kremkow&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/eilif-muller/&#34;&gt;Eilif Muller&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/dejan-pecevski/&#34;&gt;Dejan Pecevski&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-yger/&#34;&gt;Pierre Yger&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-p-davison/&#34;&gt;Andrew P Davison&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/daniel-bruderle/&#34;&gt;Daniel Bruderle&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jochen-eppler/&#34;&gt;Jochen Eppler&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jens-kremkow/&#34;&gt;Jens Kremkow&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/eilif-muller/&#34;&gt;Eilif Muller&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/dejan-pecevski/&#34;&gt;Dejan Pecevski&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-yger/&#34;&gt;Pierre Yger&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2008).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/davison-08/&#34;&gt;PyNN: A Common Interface for Neuronal Network Simulators&lt;/a&gt;.
@@ -6332,7 +6466,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00586786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00586786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -6343,23 +6477,23 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/davison-08/davison-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/davison-08/davison-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/davison-08/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/project/open-science/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/project/open-science/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -6372,7 +6506,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/neuro.11.011.2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/neuro.11.011.2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6413,8 +6547,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2010).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/&#34;&gt;Phase space analysis of networks based on biologically realistic parameters&lt;/a&gt;.
@@ -6433,16 +6568,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-10-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -6456,7 +6591,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6487,8 +6622,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-12/&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities&lt;/a&gt;.
@@ -6507,16 +6643,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-12/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -6530,7 +6666,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6609,8 +6745,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2010).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/&#34;&gt;Phase space analysis of networks based on biologically realistic parameters&lt;/a&gt;.
@@ -6629,16 +6766,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-10-jpp/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -6652,7 +6789,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2009.11.004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6683,8 +6820,9 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-12/&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities&lt;/a&gt;.
@@ -6703,16 +6841,16 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/voges-12/voges-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/voges-12/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
@@ -6726,7 +6864,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/fncom.2012.00041&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6819,8 +6957,15 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-p-davison/&#34;&gt;Andrew P Davison&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/daniel-bruderle/&#34;&gt;Daniel Bruderle&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/jochen-eppler/&#34;&gt;Jochen Eppler&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/jens-kremkow/&#34;&gt;Jens Kremkow&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/eilif-muller/&#34;&gt;Eilif Muller&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/dejan-pecevski/&#34;&gt;Dejan Pecevski&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-yger/&#34;&gt;Pierre Yger&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-p-davison/&#34;&gt;Andrew P Davison&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/daniel-bruderle/&#34;&gt;Daniel Bruderle&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jochen-eppler/&#34;&gt;Jochen Eppler&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jens-kremkow/&#34;&gt;Jens Kremkow&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/eilif-muller/&#34;&gt;Eilif Muller&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/dejan-pecevski/&#34;&gt;Dejan Pecevski&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-yger/&#34;&gt;Pierre Yger&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2008).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/davison-08/&#34;&gt;PyNN: A Common Interface for Neuronal Network Simulators&lt;/a&gt;.
@@ -6836,7 +6981,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00586786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00586786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -6847,23 +6992,23 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/davison-08/davison-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/davison-08/davison-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/davison-08/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
 
 
 
   
-  &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/project/open-science/&#34;&gt;
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/project/open-science/&#34;&gt;
     Project
   &lt;/a&gt;
   
@@ -6876,7 +7021,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.3389/neuro.11.011.2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/neuro.11.011.2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -6987,8 +7132,12 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2007).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
@@ -7007,23 +7156,23 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/fischer-07-cv/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -7038,7 +7187,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -7116,8 +7265,12 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2007).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
@@ -7136,23 +7289,23 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/fischer-07-cv/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -7167,7 +7320,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -7253,8 +7406,12 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2007).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
@@ -7273,23 +7430,23 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/fischer-07-cv/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -7304,7 +7461,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 

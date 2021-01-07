@@ -60,7 +60,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#1565c0">
   
 
   
@@ -78,7 +78,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -89,14 +89,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -234,8 +234,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -243,7 +243,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.1c55e0a47f7e1b9753c5a31f7b7f455d.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.3848b427d7eb1e57a64b3ba29764068e.css">
 
   
 
@@ -300,7 +301,10 @@
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Novel visual computations">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
@@ -370,9 +374,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7264cf0eba3b66951b36da7d2cecf9c5.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -381,16 +390,19 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
 
     </section>
     <section class="section-search-results">
@@ -402,6 +414,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -820,6 +833,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -899,12 +918,12 @@
   
     
     
-      
     
     
     
-    
-    
+  
+
+  
     
   
 
@@ -941,7 +960,7 @@
 
   
   <section id="hero" class="home-section wg-hero dark "  >
-   <div class="home-section-bg  bg-image parallax" style="background-image: linear-gradient(#4bb4e3, #2b94c3);background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(&#39;https://laurentperrinet.github.io/media/Etienne-Rey-TROPIQUE_small.jpg&#39;);"></div>
+   <div class="home-section-bg  bg-image parallax" style="background-image: linear-gradient(#4bb4e3, #2b94c3);background-image: url(&#39;https://laurentperrinet.github.io/media/Etienne-Rey-TROPIQUE_small.jpg&#39;);filter: brightness(0.5);"></div>
     <div class="container">
 
     
@@ -985,6 +1004,8 @@
   
   
   
+  
+
   
 
   
@@ -1270,14 +1291,16 @@
     
     <h1>Biography</h1>
 
-    <p>Laurent Perrinet is a computational neuroscientist specialized in large scale neural network models of low-level vision, perception and action, currently at the &ldquo;Institut de Neurosciences de la Timone&rdquo; (France), a joint research unit (CNRS / Aix-Marseille Université). He co-authored more than 40 articles in computational neuroscience and computer vision. He graduated from the aeronautics engineering school SUPAERO, in Toulouse (France) with a signal processing and applied mathematics degree. He received a PhD in Cognitive Science in 2003 on the mathematical analysis of temporal spike coding of images by using a multi-scale and adaptive representation of natural scenes. His research program is focusing in bridging the complex dynamics of realistic, large-scale models of spiking neurons with functional models of low-level vision. In particular, as part of the FACETS and BrainScaleS consortia, he has developed experimental protocols in collaboration with neurophysiologists to characterize the response of population of neurons. Recently, he extended models of visual processing in the framework of predictive processing in collaboration with the team of Karl Friston at the University College of London. This method aims at characterizing the processing of dynamical flow of information as an active inference process. His current challenge within the <a href="https://www.int.univ-amu.fr/spip.php?page=equipe&equipe=NeOpTo&lang=en">NeOpTo team</a> is to translate, or <em>compile</em> in computer terminology, this mathematical formalism with the event-based nature of neural information with the aim of pushing forward the frontiers of Artificial Intelligence systems.</p>
+    <div class="article-style">
+      <p>Laurent Perrinet is a computational neuroscientist specialized in large scale neural network models of low-level vision, perception and action, currently at the &ldquo;Institut de Neurosciences de la Timone&rdquo; (France), a joint research unit (CNRS / Aix-Marseille Université). He co-authored more than 40 articles in computational neuroscience and computer vision. He graduated from the aeronautics engineering school SUPAERO, in Toulouse (France) with a signal processing and applied mathematics degree. He received a PhD in Cognitive Science in 2003 on the mathematical analysis of temporal spike coding of images by using a multi-scale and adaptive representation of natural scenes. His research program is focusing in bridging the complex dynamics of realistic, large-scale models of spiking neurons with functional models of low-level vision. In particular, as part of the FACETS and BrainScaleS consortia, he has developed experimental protocols in collaboration with neurophysiologists to characterize the response of population of neurons. Recently, he extended models of visual processing in the framework of predictive processing in collaboration with the team of Karl Friston at the University College of London. This method aims at characterizing the processing of dynamical flow of information as an active inference process. His current challenge within the <a href="https://www.int.univ-amu.fr/spip.php?page=equipe&equipe=NeOpTo&lang=en">NeOpTo team</a> is to translate, or <em>compile</em> in computer terminology, this mathematical formalism with the event-based nature of neural information with the aim of pushing forward the frontiers of Artificial Intelligence systems.</p>
 
+    </div>
 
     <div class="row">
 
       
       <div class="col-md-5">
-        <h3>Interests</h3>
+        <div class="section-subheading">Interests</div>
         <ul class="ul-interests">
           
           <li>Computational Neuroscience</li>
@@ -1292,7 +1315,7 @@
 
       
       <div class="col-md-7">
-        <h3>Education</h3>
+        <div class="section-subheading">Education</div>
         <ul class="ul-edu fa-ul">
           
           <li>
@@ -1336,6 +1359,8 @@
   
   
   
+  
+
   
 
   
@@ -1470,9 +1495,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/dauce-20-iwai/" >Visual search as active inference</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/dauce-20-iwai/"  class="summary-link">
@@ -1490,8 +1515,9 @@
       <div>
         
 
-  
-  <span ><a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -1511,16 +1537,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/dauce-20-iwai/dauce-20-iwai.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dauce-20-iwai/dauce-20-iwai.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dauce-20-iwai/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1534,7 +1560,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-64919-7_17" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-64919-7_17" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1575,9 +1601,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/franciosini-20-cosyne/" >Modelling Complex-cells and topological structure in the visual cortex of mammals using Sparse Predictive Coding</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/franciosini-20-cosyne/"  class="summary-link">
@@ -1595,8 +1621,10 @@
       <div>
         
 
-  
-  <span ><a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span ><a href="/author/victor-boutin/">Victor Boutin</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -1618,16 +1646,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/franciosini-20-cosyne/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/franciosini-20-cosyne/" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/franciosini-20-cosyne/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1678,9 +1706,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/dauce-20/" >A dual foveal-peripheral visual processing model implements efficient saccade selection</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/dauce-20/"  class="summary-link">
@@ -1698,8 +1726,10 @@
       <div>
         
 
-  
-  <span ><a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span ><a href="/author/pierre-albiges/">Pierre Albigès</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
+      <a href="/author/pierre-albiges/">Pierre Albigès</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -1716,7 +1746,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/725879v3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/725879v3" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -1729,23 +1759,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/dauce-20/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dauce-20/" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dauce-20/cite.bib">
   Cite
-</button>
+</a>
 
 
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/WhereIsMyMNIST" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/WhereIsMyMNIST" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1760,7 +1790,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1167/jov.20.8.22" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1167/jov.20.8.22" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1801,9 +1831,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/" >Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/"  class="summary-link">
@@ -1821,8 +1851,12 @@
       <div>
         
 
-  
-  <span ><a href="/author/victor-boutin/">Victor Boutin</a></span>, <span ><a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span ><a href="/author/frederic-chavane/">Frédéric Chavane</a></span>, <span ><a href="/author/franck-ruffier/">Franck Ruffier</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/frederic-chavane/">Frédéric Chavane</a></span>, <span >
+      <a href="/author/franck-ruffier/">Franck Ruffier</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -1839,7 +1873,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -1852,16 +1886,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1919,9 +1953,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/franciosini-20-sigma/" >Modelling Complex-cells and topological structure in the visual cortex of mammals using Sparse Predictive Coding</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/franciosini-20-sigma/"  class="summary-link">
@@ -1939,8 +1973,10 @@
       <div>
         
 
-  
-  <span ><a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span ><a href="/author/victor-boutin/">Victor Boutin</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -1962,16 +1998,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://conferences.cirm-math.fr/2152.html" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://conferences.cirm-math.fr/2152.html" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/franciosini-20-sigma/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2032,6 +2068,8 @@
   
   
   
+  
+
   
 
   
@@ -2158,9 +2196,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2020-06-30_phd-position/" >PhD offer &#34;Ultra-fast vision using Spiking Neural Networks&#34;</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2020-06-30_phd-position/"  class="summary-link">
@@ -2187,8 +2225,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2266,9 +2304,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2020-09-11_seminaire-thomas-serre/" >2020-09-11 : Feedforward and feedback processes in visual recognition (T Serre)</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2020-09-11_seminaire-thomas-serre/"  class="summary-link">
@@ -2295,8 +2333,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2374,9 +2412,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2020-03-13_soutenance-victor-boutin/" >2020-03-13: Soutenance Victor Boutin</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2020-03-13_soutenance-victor-boutin/"  class="summary-link">
@@ -2403,8 +2441,9 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/victor-boutin/">Victor Boutin</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>
   </div>
   
   
@@ -2482,9 +2521,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-10-28_postdoc-position/" >Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-10-28_postdoc-position/"  class="summary-link">
@@ -2511,8 +2550,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2590,9 +2629,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/post/2019-10-10_gdrvision/" >2019-10-10: GDR vision 2019</a>
-    </h3>
+    </div>
 
     
     <a href="/post/2019-10-10_gdrvision/"  class="summary-link">
@@ -2619,8 +2658,8 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -2715,6 +2754,8 @@
 
   
     
+  
+
   
 
   
@@ -2896,7 +2937,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/slides/2020-12-10_agileneurobot_anr/" target="_blank">
+  <a class="btn btn-outline-primary btn-page-header" href="/slides/2020-12-10_agileneurobot_anr/" target="_blank">
     Slides
   </a>
   
@@ -4642,6 +4683,8 @@
   
 
   
+
+  
   
 
   
@@ -4899,6 +4942,8 @@
   
   
   
+  
+
   
 
   
@@ -6879,6 +6924,8 @@
   
 
   
+
+  
   
 
   
@@ -6984,9 +7031,6 @@
 
 
 
-  
-  
-
 
 
 
@@ -6997,9 +7041,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/2020-09-25-irphe/" >Understanding natural vision &lt;BR&gt; using deep predictive coding</a>
-    </h3>
+    </div>
 
     
     <a href="/talk/2020-09-25-irphe/"  class="summary-link">
@@ -7012,90 +7056,56 @@
     <div class="stream-meta article-metadata">
 
       
-      <div>
-        <span>
-          Sep 25, 2020 3:45 PM
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Marseille (France)</span>
-        
-      </div>
-      
 
       
-      <div>
         
+
+
+<div class="article-metadata">
 
   
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Dec 12, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
       
     </div>
 
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2020-09-25-irphe" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2020-09-25-irphe/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2020-09-25_IRPHE/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-    
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2020-09-25_IRPHE" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-    </div>
     
 
   </div>
@@ -7117,9 +7127,6 @@
 
 
 
-  
-  
-
 
 
 
@@ -7130,9 +7137,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/2020-09-14-iwai/" >Visual search as active inference</a>
-    </h3>
+    </div>
 
     
     <a href="/talk/2020-09-14-iwai/"  class="summary-link">
@@ -7145,86 +7152,57 @@
     <div class="stream-meta article-metadata">
 
       
-      <div>
-        <span>
-          Sep 14, 2020 6:00 PM
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Ghent (Belgium), gone virtual</span>
-        
-      </div>
-      
 
       
-      <div>
         
+
+
+<div class="article-metadata">
 
   
-  <span ><a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span ><a href="/author/laurent-perrinet/">Laurent Perrinet</a></span>
-      </div>
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
+      <a href="/author/laurent-perrinet/">Laurent Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Dec 21, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
       
     </div>
 
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://whova.com/embedded/subsession/ecmlp_202009/1215095/1215123/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2020-09-14-iwai/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2020-09-14_IWAI" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-    </div>
     
 
   </div>
@@ -7246,9 +7224,6 @@
 
 
 
-  
-  
-
 
 
 
@@ -7259,9 +7234,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/2020-04-ue-neurosciences-computationnelles/" >From the retina to action: Understanding visual processing</a>
-    </h3>
+    </div>
 
     
     <a href="/talk/2020-04-ue-neurosciences-computationnelles/"  class="summary-link">
@@ -7274,86 +7249,56 @@
     <div class="stream-meta article-metadata">
 
       
-      <div>
-        <span>
-          Apr 3, 2020 4:00 PM
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Marseille (France)</span>
-        
-      </div>
-      
 
       
-      <div>
         
+
+
+<div class="article-metadata">
 
   
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Dec 12, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
       
     </div>
 
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2020-04-ue-neurosciences-computationnelles/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2020-04_UE-neurosciences-computationnelles" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-    </div>
     
 
   </div>
@@ -7375,9 +7320,6 @@
 
 
 
-  
-  
-
 
 
 
@@ -7388,9 +7330,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/2020-01-20-atelier-sciences-cinema/" >Des illusions aux hallucinations visuelles: une porte sur la perception</a>
-    </h3>
+    </div>
 
     
     <a href="/talk/2020-01-20-atelier-sciences-cinema/"  class="summary-link">
@@ -7403,92 +7345,56 @@
     <div class="stream-meta article-metadata">
 
       
-      <div>
-        <span>
-          Jan 20, 2020 10:00 AM
-        </span>
-        
-        <span class="middot-divider"></span>
-        <span>Lycée Professionnel Domaine Eguille, Vedène (France)</span>
-        
-      </div>
-      
 
       
-      <div>
         
+
+
+<div class="article-metadata">
 
   
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Dec 12, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
       
     </div>
 
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2020-01-20-atelier-sciences-cinema" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2020-01-20-atelier-sciences-cinema/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2020-01-20_atelier_sciences_cinema/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/tout-public/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2020-01-20_atelier_sciences_cinema" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-    </div>
     
 
   </div>
@@ -7510,9 +7416,6 @@
 
 
 
-  
-  
-
 
 
 
@@ -7523,9 +7426,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/2019-07-15-cns/" >Learning where to look: a foveated visuomotor control model</a>
-    </h3>
+    </div>
 
     
     <a href="/talk/2019-07-15-cns/"  class="summary-link">
@@ -7538,81 +7441,58 @@
     <div class="stream-meta article-metadata">
 
       
-      <div>
-        <span>
-          Jul 15, 2019 12:20 PM
-        </span>
-        
-      </div>
-      
 
       
-      <div>
         
+
+
+<div class="article-metadata">
 
   
-  <span ><a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span ><a href="/author/pierre-albiges/">Pierre Albigès</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
+      <a href="/author/pierre-albiges/">Pierre Albigès</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Dec 12, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
       
     </div>
 
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-07-15-cns/2019-07-15-cns.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2019-07-15-cns/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/SpikeAI/2019-07-15_CNS/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://SpikeAI.github.io/2019-07-15_CNS" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-    </div>
     
 
   </div>
@@ -7638,7 +7518,7 @@
 
     <div class="see-all">
       <a href="/talk/">
-        See all talks
+        See all
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
@@ -7657,6 +7537,8 @@
   
   
   
+  
+
   
 
   
@@ -7785,8 +7667,10 @@
   <div>
     
 
-  
-  <span ><a href="/author/chloe-pasturel/">Chloé Pasturel</a></span>, <span ><a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/chloe-pasturel/">Chloé Pasturel</a></span>, <span >
+      <a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -7836,9 +7720,9 @@
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/publication/pasturel-montagnini-perrinet-20/">Humans adapt their anticipatory eye movements to the volatility of visual motion properties</a>
-  </h3>
+  </div>
 
   
   <a href="/publication/pasturel-montagnini-perrinet-20/" class="summary-link">
@@ -7860,7 +7744,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/784116v3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/784116v3" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -7873,23 +7757,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/784116v3.full.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/784116v3.full.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/pasturel-montagnini-perrinet-20/cite.bib">
   Cite
-</button>
+</a>
 
 
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -7904,7 +7788,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1371/journal.pcbi.1007438" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pcbi.1007438" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -7948,8 +7832,10 @@
   <div>
     
 
-  
-  <span ><a href="/author/mina-a-khoei/">Mina A Khoei</a></span>, <span ><a href="/author/guillaume-s-masson/">Guillaume S Masson</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/mina-a-khoei/">Mina A Khoei</a></span>, <span >
+      <a href="/author/guillaume-s-masson/">Guillaume S Masson</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -7999,9 +7885,9 @@
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/publication/khoei-masson-perrinet-17/">The flash-lag effect as a motion-based predictive shift</a>
-  </h3>
+  </div>
 
   
   <a href="/publication/khoei-masson-perrinet-17/" class="summary-link">
@@ -8023,7 +7909,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal-amu.archives-ouvertes.fr/hal-01771125" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hal-amu.archives-ouvertes.fr/hal-01771125" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -8036,23 +7922,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/khoei-masson-perrinet-17/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/khoei-masson-perrinet-17/" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/khoei-masson-perrinet-17/cite.bib">
   Cite
-</button>
+</a>
 
 
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/Khoei_2017_PLoSCB" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/Khoei_2017_PLoSCB" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -8067,7 +7953,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1371/journal.pcbi.1005068" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pcbi.1005068" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -8111,8 +7997,10 @@
   <div>
     
 
-  
-  <span ><a href="/author/gabriel-cristobal/">Gabriel Cristóbal</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/matthias-s-keil/">Matthias S Keil</a></span>
+  <span >
+      <a href="/author/gabriel-cristobal/">Gabriel Cristóbal</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/matthias-s-keil/">Matthias S Keil</a></span>
   </div>
   
   
@@ -8160,9 +8048,9 @@
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/publication/cristobal-perrinet-keil-15-bicv/">Biologically Inspired Computer Vision</a>
-  </h3>
+  </div>
 
   
   <a href="/publication/cristobal-perrinet-keil-15-bicv/" class="summary-link">
@@ -8184,7 +8072,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://bicv.github.io/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://bicv.github.io/" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -8197,23 +8085,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://onlinelibrary.wiley.com/book/10.1002/9783527680863" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://onlinelibrary.wiley.com/book/10.1002/9783527680863" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/cristobal-perrinet-keil-15-bicv/cite.bib">
   Cite
-</button>
+</a>
 
 
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://bicv.github.io/toc/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://bicv.github.io/toc/" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -8228,7 +8116,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1002/9783527680863" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1002/9783527680863" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -8272,8 +8160,9 @@
   <div>
     
 
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/james-a-bednar/">James A Bednar</a></span>
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/james-a-bednar/">James A Bednar</a></span>
   </div>
   
   
@@ -8323,9 +8212,9 @@
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/publication/perrinet-bednar-15/">Edge co-occurrences can account for rapid categorization of natural versus animal images</a>
-  </h3>
+  </div>
 
   
   <a href="/publication/perrinet-bednar-15/" class="summary-link">
@@ -8347,7 +8236,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal-amu.archives-ouvertes.fr/hal-01202447" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hal-amu.archives-ouvertes.fr/hal-01202447" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -8360,23 +8249,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.nature.com/articles/srep11400" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.nature.com/articles/srep11400" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/perrinet-bednar-15/cite.bib">
   Cite
-</button>
+</a>
 
 
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/PerrinetBednar15" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/PerrinetBednar15" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -8391,7 +8280,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/srep11400" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/srep11400" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -8435,8 +8324,12 @@
   <div>
     
 
-  
-  <span ><a href="/author/claudio-simoncini/">Claudio Simoncini</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span ><a href="/author/pascal-mamassian/">Pascal Mamassian</a></span>, <span ><a href="/author/guillaume-s-masson/">Guillaume S Masson</a></span>
+  <span >
+      <a href="/author/claudio-simoncini/">Claudio Simoncini</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span >
+      <a href="/author/pascal-mamassian/">Pascal Mamassian</a></span>, <span >
+      <a href="/author/guillaume-s-masson/">Guillaume S Masson</a></span>
   </div>
   
   
@@ -8486,9 +8379,9 @@
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/publication/simoncini-12/">More is not always better: dissociation between perception and action explained by adaptive gain control</a>
-  </h3>
+  </div>
 
   
   <a href="/publication/simoncini-12/" class="summary-link">
@@ -8513,16 +8406,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/simoncini-12/simoncini-12.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/simoncini-12/simoncini-12.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/simoncini-12/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -8536,7 +8429,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/nn.3229" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/nn.3229" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -8580,8 +8473,11 @@
   <div>
     
 
-  
-  <span ><a href="/author/karl-friston/">Karl Friston</a></span>, <span ><a href="/author/rick-a-adams/">Rick A Adams</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/michael-breakspear/">Michael Breakspear</a></span>
+  <span >
+      <a href="/author/karl-friston/">Karl Friston</a></span>, <span >
+      <a href="/author/rick-a-adams/">Rick A Adams</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/michael-breakspear/">Michael Breakspear</a></span>
   </div>
   
   
@@ -8631,9 +8527,9 @@
   </a>
   
 
-  <h3 class="article-title mb-1 mt-3">
+  <div class="section-subheading article-title mb-1 mt-3">
     <a href="/publication/friston-12/">Perceptions as Hypotheses: Saccades as Experiments</a>
-  </h3>
+  </div>
 
   
   <a href="/publication/friston-12/" class="summary-link">
@@ -8658,16 +8554,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/friston-12/friston-12.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/friston-12/friston-12.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/friston-12/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -8681,7 +8577,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3389/fpsyg.2012.00151" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fpsyg.2012.00151" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -8712,6 +8608,8 @@
   
   
   
+  
+
   
 
   
@@ -8916,6 +8814,8 @@
   
   
   
+  
+
   
 
   
@@ -9194,7 +9094,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder that empowers creators.
     
@@ -9284,7 +9184,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks",
+        'event' : "Events",
         'slides' : "Slides"
         };
     </script>
@@ -9336,12 +9236,12 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     
+    
+      
       
     
     
-    
-    
-    <script src="/js/wowchemy.min.ffabb05383f1b16d83e7181a605e644c.js"></script>
+    <script src="/js/wowchemy.min.aeecf26c1eff6b9588dbafc1a9f3953c.js"></script>
 
     
 

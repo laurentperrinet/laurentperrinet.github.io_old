@@ -52,8 +52,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2020).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
@@ -69,7 +71,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -82,23 +84,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -113,7 +115,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 

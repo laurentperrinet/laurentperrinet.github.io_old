@@ -94,8 +94,9 @@ pour mettre en plein écran)
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -111,7 +112,7 @@ pour mettre en plein écran)
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -124,23 +125,23 @@ pour mettre en plein écran)
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -155,7 +156,7 @@ pour mettre en plein écran)
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -767,8 +768,9 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -784,7 +786,7 @@ More complex parts of the brain are not required at this stage, contrary to what
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -797,23 +799,23 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -828,7 +830,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -880,8 +882,9 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2015).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
@@ -897,7 +900,7 @@ More complex parts of the brain are not required at this stage, contrary to what
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -910,23 +913,23 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -941,7 +944,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -982,8 +985,12 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2007).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
@@ -1002,23 +1009,23 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/fischer-07-cv/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1033,7 +1040,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1132,8 +1139,12 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2007).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
@@ -1152,23 +1163,23 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/fischer-07-cv/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1183,7 +1194,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1261,8 +1272,12 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2007).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
@@ -1281,23 +1296,23 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/fischer-07-cv/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1312,7 +1327,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -1390,8 +1405,12 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
     
 
-  
-  &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2007).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
@@ -1410,23 +1429,23 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
-&lt;button type=&#34;button&#34; class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal&#34;
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
         data-filename=&#34;/publication/fischer-07-cv/cite.bib&#34;&gt;
   Cite
-&lt;/button&gt;
+&lt;/a&gt;
 
 
   
   
     
   
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Code
 &lt;/a&gt;
 
@@ -1441,7 +1460,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 

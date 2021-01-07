@@ -60,7 +60,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#1565c0">
   
 
   
@@ -78,7 +78,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -89,14 +89,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -234,8 +234,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -243,7 +243,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.1c55e0a47f7e1b9753c5a31f7b7f455d.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.3848b427d7eb1e57a64b3ba29764068e.css">
 
   
 
@@ -298,7 +299,10 @@
 
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
@@ -404,9 +408,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.7264cf0eba3b66951b36da7d2cecf9c5.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -415,16 +424,19 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
 
     </section>
     <section class="section-search-results">
@@ -436,6 +448,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -854,6 +867,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -1017,8 +1036,10 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span ><a href="/author/chloe-pasturel/">Chloé Pasturel</a></span>, <span ><a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/chloe-pasturel/">Chloé Pasturel</a></span>, <span >
+      <a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </span>
   (2020).
   <a href="/publication/pasturel-montagnini-perrinet-20/">Humans adapt their anticipatory eye movements to the volatility of visual motion properties</a>.
@@ -1034,7 +1055,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/784116v3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/784116v3" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -1047,23 +1068,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/784116v3.full.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/784116v3.full.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/pasturel-montagnini-perrinet-20/cite.bib">
   Cite
-</button>
+</a>
 
 
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -1078,7 +1099,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1371/journal.pcbi.1007438" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pcbi.1007438" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1552,9 +1573,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/pasturel-18-anemo/" >ANEMO: Quantitative tools for the ANalysis of Eye MOvements</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/pasturel-18-anemo/"  class="summary-link">
@@ -1572,8 +1593,10 @@
       <div>
         
 
-  
-  <span ><a href="/author/chloe-pasturel/">Chloé Pasturel</a></span>, <span ><a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  <span >
+      <a href="/author/chloe-pasturel/">Chloé Pasturel</a></span>, <span >
+      <a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
       </div>
       
     </div>
@@ -1595,23 +1618,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/pasturel-18-anemo" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/pasturel-18-anemo" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/pasturel-18-anemo/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/open-science/">
     Project
   </a>
   
@@ -1668,9 +1691,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/yger-09-gns/" >NeuralEnsemble: Towards a meta-environment for network modeling and data analysis</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/yger-09-gns/"  class="summary-link">
@@ -1688,8 +1711,16 @@
       <div>
         
 
-  
-  <span ><a href="/author/pierre-yger/">Pierre Yger</a></span>, <span ><a href="/author/daniel-bruderle/">Daniel Bruderle</a></span>, <span ><a href="/author/jochen-eppler/">Jochen Eppler</a></span>, <span ><a href="/author/jens-kremkow/">Jens Kremkow</a></span>, <span ><a href="/author/dejan-pecevski/">Dejan Pecevski</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/michael-schmuker/">Michael Schmuker</a></span>, <span ><a href="/author/eilif-muller/">Eilif Muller</a></span>, <span ><a href="/author/andrew-p-davison/">Andrew P Davison</a></span>
+  <span >
+      <a href="/author/pierre-yger/">Pierre Yger</a></span>, <span >
+      <a href="/author/daniel-bruderle/">Daniel Bruderle</a></span>, <span >
+      <a href="/author/jochen-eppler/">Jochen Eppler</a></span>, <span >
+      <a href="/author/jens-kremkow/">Jens Kremkow</a></span>, <span >
+      <a href="/author/dejan-pecevski/">Dejan Pecevski</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/michael-schmuker/">Michael Schmuker</a></span>, <span >
+      <a href="/author/eilif-muller/">Eilif Muller</a></span>, <span >
+      <a href="/author/andrew-p-davison/">Andrew P Davison</a></span>
       </div>
       
     </div>
@@ -1711,17 +1742,17 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/yger-09-gns/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/open-science/">
     Project
   </a>
   
@@ -1771,9 +1802,9 @@
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/davison-08/" >PyNN: A Common Interface for Neuronal Network Simulators</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/davison-08/"  class="summary-link">
@@ -1791,8 +1822,15 @@
       <div>
         
 
-  
-  <span ><a href="/author/andrew-p-davison/">Andrew P Davison</a></span>, <span ><a href="/author/daniel-bruderle/">Daniel Bruderle</a></span>, <span ><a href="/author/jochen-eppler/">Jochen Eppler</a></span>, <span ><a href="/author/jens-kremkow/">Jens Kremkow</a></span>, <span ><a href="/author/eilif-muller/">Eilif Muller</a></span>, <span ><a href="/author/dejan-pecevski/">Dejan Pecevski</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/pierre-yger/">Pierre Yger</a></span>
+  <span >
+      <a href="/author/andrew-p-davison/">Andrew P Davison</a></span>, <span >
+      <a href="/author/daniel-bruderle/">Daniel Bruderle</a></span>, <span >
+      <a href="/author/jochen-eppler/">Jochen Eppler</a></span>, <span >
+      <a href="/author/jens-kremkow/">Jens Kremkow</a></span>, <span >
+      <a href="/author/eilif-muller/">Eilif Muller</a></span>, <span >
+      <a href="/author/dejan-pecevski/">Dejan Pecevski</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/pierre-yger/">Pierre Yger</a></span>
       </div>
       
     </div>
@@ -1809,7 +1847,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal-amu.archives-ouvertes.fr/hal-00586786" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hal-amu.archives-ouvertes.fr/hal-00586786" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -1820,23 +1858,23 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/davison-08/davison-08.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/davison-08/davison-08.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/davison-08/cite.bib">
   Cite
-</button>
+</a>
 
 
 
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/open-science/">
     Project
   </a>
   
@@ -1849,7 +1887,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3389/neuro.11.011.2008" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/neuro.11.011.2008" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1871,919 +1909,6 @@
 
       
       
-      
-        <h2>Talks</h2>
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Jan 14, 2019 11:00 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Valparaiso (Chile)</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2019-01-14-laconeu/">Modelling spiking neural networks using Brian, Nest and pyNN</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2019-01-14-laconeu/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2019-01-14-laconeu/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2019-01-14_LACONEU" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2019-01-14_LACONEU" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Mar 26, 2018 1:00 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>INT, Marseille</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2018-03-26-cours-neuro-comp-fep/">Probabilities, Bayes and the Free-energy principle</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2018-03-26-cours-neuro-comp-fep/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2018-03-26-cours-neuro-comp-fep/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/laurentperrinet/2018-03-26_cours-NeuroComp_FEP" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2018-03-26_cours-NeuroComp_FEP" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Jan 20, 2017 10:45 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Valparaiso (Chile)</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2017-01-20-laconeu/">Tutorial: Active inference for eye movements: Bayesian methods, neural inference, dynamics</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-01-20-laconeu/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2017-01-20-laconeu/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2017-01-20_LACONEU.html" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Jan 19, 2017 10:45 AM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Valparaiso (Chile)</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2017-01-19-laconeu/">Tutorial: Sparse optimization in neural computations</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2017-01-19-laconeu/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2017-01-19-laconeu/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/courses/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/sciblog/files/2017-01-19_LACONEU.html" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span ><a href="/author/bernhard-a-kaplan/">Bernhard A Kaplan</a></span>, <span ><a href="/author/mina-a-khoei/">Mina A Khoei</a></span>, <span ><a href="/author/anders-lansner/">Anders Lansner</a></span>, <span ><a href="/author/guillaume-s-masson/">Guillaume S Masson</a></span>
-    </div>
-    
-    <span>
-      Mar 20, 2014 1:00 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Manchester (UK)</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2014-03-20-manchester/">WP5 - Demo 1.3 : Spiking model of motion-based prediction</a>
-  </h3>
-
-  
-  <a href="/talk/2014-03-20-manchester/" class="summary-link">
-    <div class="article-style">
-      <p>The question how the visual system is able to create a coherent representation of a rapidly changing environment in the presence of neural delays is not fully resolved. In this paper we use an abstract probabilistic framework and a spiking neural network (SNN) implementation to investigate the role of motion-based prediction in estimating motion trajectories with delayed information sampling. In particular, we investigate how anisotropic diffusion of information may explain the development of anticipatory response in neural populations to an approaching stimulus. Inspired by a mechanism proposed by Nijhawan [2009], we use a Bayesian particle filter framework and introduce a diagonal motion-based prediction model which extrapolates the estimated response to delayed stimulus in the direction of the trajectory. In the SNN implementation, we have used anisotropic recurrent connections between excitatory cells as mechanism for motion-extrapolation. Consistent with recent experimental data collected in extracellular recordings of macaque primary visual cortex [Benvenuti et al 2011], we have simulated different trajectory lengths and have explored how anticipatory response may be dependent to the information accumulated along the trajectory. We show that both our probabilistic framework and the SNN can replicate the experimental data qualitatively. Most importantly, we highlight requirements for the development of a trajectory-dependent anticipatory response, and in particular the anisotropic nature of the diagonal motion extrapolation mechanism.</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2014-03-20-manchester/2014-03-20-manchester.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2014-03-20-manchester/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2014-03-20-manchester/14-03-20_BK_LP_MK_handout.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/bernhard-a-kaplan/">Bernhard A Kaplan</a></span>, <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Nov 26, 2013 12:00 AM
-    </span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2013-11-26-brain-scales-demos/">Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</a>
-  </h3>
-
-  
-  <a href="/talk/2013-11-26-brain-scales-demos/" class="summary-link">
-    <div class="article-style">
-      <p>Together with Bernhard Kaplan, we talked about how we aim at &ldquo;compiling&rdquo; a predictive motion-based approach as a spiking neural networks and then as a parallel wafer systems in the BrainscaleS project (Demo 1, Task4).</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2013-11-26-brain-scales-demos/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2013-11-26-brain-scales-demos/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Mar 21, 2013 12:00 AM
-    </span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2013-03-21-marseille/">Why methods and tools are the key to artificial brain-like systems</a>
-  </h3>
-
-  
-  <a href="/talk/2013-03-21-marseille/" class="summary-link">
-    <div class="article-style">
-      <p>This session aims at presenting new ideas that emerged during the first years of BrainScaleS. Indeed, the collaborations that were initiated within the consortium led to the creation of novel tools as planned in the proposal but also some of which were unforeseen, like the Motion Clouds that we presented previously. We present here some prototypical and inspiring examples of such collaborative work on: 1) tool chains from experimental (Davison), computational (Antolik) or integrative (Petrovici) perspectives, 2) original methods inspired by novel types of analysis for propagating waves (Schmidt, Muller) or by novel magnetrodes (Pannetier Lecoeur).</p>
-    </div>
-  </a>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2013-03-21-marseille/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2013-03-21-marseille/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-  
-
-
-
-
-
-
-<div class="card-simple">
-
-  
-  <div class="article-metadata">
-    
-    <div>
-      
-
-  
-  <span ><a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-    </div>
-    
-    <span>
-      Mar 22, 2012 2:00 PM
-    </span>
-    
-    <span class="middot-divider"></span>
-    <span>Forschungszentrum Jülich</span>
-    
-  </div>
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/talk/2012-03-22-juelich/">MotionClouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</a>
-  </h3>
-
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-03-22-juelich/2012-03-22-juelich.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/talk/2012-03-22-juelich/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/open-science/">
-    Project
-  </a>
-  
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/talk/2012-03-22-juelich/perrinet12wp4_handout.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-
-
-  </div>
-  
-
-</div>
-
-          
-        
       
     </div>
   </div>
@@ -2852,7 +1977,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder that empowers creators.
     
@@ -2942,7 +2067,7 @@ Please note that multiple distribution, publication or commercial usage of copyr
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks",
+        'event' : "Events",
         'slides' : "Slides"
         };
     </script>
@@ -2994,12 +2119,12 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     
+    
+      
       
     
     
-    
-    
-    <script src="/js/wowchemy.min.ffabb05383f1b16d83e7181a605e644c.js"></script>
+    <script src="/js/wowchemy.min.aeecf26c1eff6b9588dbafc1a9f3953c.js"></script>
 
     
 
