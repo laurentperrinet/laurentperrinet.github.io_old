@@ -96,3 +96,8 @@
   }
   var mermaidOptions;
 })();
+);
+    });
+  }
+  var mermaidOptions;
+})();
