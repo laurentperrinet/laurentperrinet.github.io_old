@@ -101,6 +101,8 @@
     
     
     
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
 
     
 
@@ -359,7 +361,13 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite","url": "https://laurentperrinet.github.io/"
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://laurentperrinet.github.io/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://laurentperrinet.github.io/"
 }
 </script>
 
@@ -392,6 +400,43 @@
 
   
 
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
 
 
 
@@ -818,6 +863,10 @@
       
 
       
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
       
 
       
@@ -1325,739 +1374,6 @@
 </div>
 
 
-    
-
-    </div>
-  </section>
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
-  <section id="publications" class="home-section wg-pages  "  >
-   <div class="home-section-bg " ></div>
-    <div class="container">
-
-    
-      <div class="row  ">
-      
-        
-          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-            <h1 class="mb-0">Recent Publications</h1>
-            
-          </div>
-        
-      
-    
-
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-<div class="col-12 col-lg-8">
-
-  <div class="alert alert-note">
-  <div>
-    Quickly discover relevant content by <a href="./publication/">filtering publications</a>.
-  </div>
-</div>
-
-
-  
-    
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/dauce-20-iwai/" >Visual search as active inference</a>
-    </div>
-
-    
-    <a href="/publication/dauce-20-iwai/"  class="summary-link">
-      <div class="article-style">
-        a follow-up of:  Emmanuel Daucé, Pierre Albigès, Laurent U Perrinet  (2020). A dual foveal-peripheral visual processing model implements efficient saccade selection. Journal of Vision.  Preprint  PDF  Cite  Code  DOI   the mathematical details are described as a talk the 1st International WS on #ActiveInference #IWAI2020 at @ECMLPKDD https://t.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
-      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dauce-20-iwai/dauce-20-iwai.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/dauce-20-iwai/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/2020-09-14_IWAI" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-64919-7_17" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/franciosini-20-cosyne/" >Modelling Complex-cells and topological structure in the visual cortex of mammals using Sparse Predictive Coding</a>
-    </div>
-
-    
-    <a href="/publication/franciosini-20-cosyne/"  class="summary-link">
-      <div class="article-style">
-        Cells in the primary visual cortex of mammals (V1) have historically been divided into two classes: simple and complex. Simple cells …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
-      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
-      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/franciosini-20-cosyne/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/franciosini-20-cosyne/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/dauce-20/" >A dual foveal-peripheral visual processing model implements efficient saccade selection</a>
-    </div>
-
-    
-    <a href="/publication/dauce-20/"  class="summary-link">
-      <div class="article-style">
-        In computer vision, the visual search task consists in extracting a scarce and specific visual information (the target) from a large …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
-      <a href="/author/pierre-albiges/">Pierre Albigès</a></span>, <span >
-      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/725879v3" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dauce-20/" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/dauce-20/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/WhereIsMyMNIST" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1167/jov.20.8.22" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/" >Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system</a>
-    </div>
-
-    
-    <a href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/"  class="summary-link">
-      <div class="article-style">
-        Both neurophysiological and psychophysical experiments have pointed out the crucial role of recurrent and feedback connections to …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
-      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
-      <a href="/author/frederic-chavane/">Frédéric Chavane</a></span>, <span >
-      <a href="/author/franck-ruffier/">Franck Ruffier</a></span>, <span >
-      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/VictorBoutin/InteractionMap" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pcbi.1008629" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/" >
-      <img src="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/featured_hu574754a65aa93c4d768eb15e6a7a5fb0_205921_150x0_resize_lanczos_2.png" alt="Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system" loading="lazy">
-    </a>
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/franciosini-20-sigma/" >Modelling Complex-cells and topological structure in the visual cortex of mammals using Sparse Predictive Coding</a>
-    </div>
-
-    
-    <a href="/publication/franciosini-20-sigma/"  class="summary-link">
-      <div class="article-style">
-        Cells in the primary visual cortex of mammals (V1) have historically been divided into two classes: simple and complex. Simple cells …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
-      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
-      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://conferences.cirm-math.fr/2152.html" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/franciosini-20-sigma/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-
-  
-  
-  
-
-    
-    
-      
-    
-
-    
-
-    <div class="see-all">
-      <a href="/publication/">
-        See all publications
-        <i class="fas fa-angle-right"></i>
-      </a>
-    </div>
-  
-
-</div>
-
-
-    
-      </div>
     
 
     </div>
@@ -8907,6 +8223,551 @@
   
 
   
+  <section id="publications" class="home-section wg-pages  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Recent Publications</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  <div class="alert alert-note">
+  <div>
+    Quickly discover relevant content by <a href="./publication/">filtering publications</a>.
+  </div>
+</div>
+
+
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2020).
+  <a href="/publication/dauce-20-iwai/">Visual search as active inference</a>.
+  <em>IWAI</em>2020*.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dauce-20-iwai/dauce-20-iwai.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dauce-20-iwai/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/2020-09-14_IWAI" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-64919-7_17" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2020).
+  <a href="/publication/franciosini-20-cosyne/">Modelling Complex-cells and topological structure in the visual cortex of mammals using Sparse Predictive Coding</a>.
+  <em>Computational and Systems Neuroscience (Cosyne) 2020</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/franciosini-20-cosyne/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/franciosini-20-cosyne/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
+      <a href="/author/pierre-albiges/">Pierre Albigès</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2020).
+  <a href="/publication/dauce-20/">A dual foveal-peripheral visual processing model implements efficient saccade selection</a>.
+  <em>Journal of Vision</em>.
+  
+  <p>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/725879v3" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dauce-20/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dauce-20/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/WhereIsMyMNIST" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1167/jov.20.8.22" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/frederic-chavane/">Frédéric Chavane</a></span>, <span >
+      <a href="/author/franck-ruffier/">Franck Ruffier</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2020).
+  <a href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/">Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system</a>.
+  <em>PLoS Computational Biology</em>.
+  
+  <p>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/VictorBoutin/InteractionMap" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pcbi.1008629" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+    
+      
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2020).
+  <a href="/publication/franciosini-20-sigma/">Modelling Complex-cells and topological structure in the visual cortex of mammals using Sparse Predictive Coding</a>.
+  <em>SIGMA'2020 (Signal, Image, Geometry, Modelling, Approximation)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://conferences.cirm-math.fr/2152.html" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/franciosini-20-sigma/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+    
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/publication/">
+        See all publications
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
   <section id="tags" class="home-section wg-tag-cloud  "  >
    <div class="home-section-bg " ></div>
     <div class="container">
@@ -9264,6 +9125,16 @@
   </ul>
 
   
+  <div class="d-none">
+    <input id="map-provider" value="mapnik">
+    <input id="map-lat" value="43.2869">
+    <input id="map-lng" value="5.4035">
+    <input id="map-dir" value="NeOpTo Team   Institut de Neurosciences de la Timone (UMR 7289)  Aix Marseille Université, CNRS  Faculté de Médecine - Bâtiment Neurosciences, 27, Bd Jean Moulin, Marseille, PACA 13385 Marseille Cedex 05">
+    <input id="map-zoom" value="10">
+    <input id="map-api-key" value="">
+  </div>
+  <div id="map"></div>
+  
 
 </div>
 
@@ -9414,12 +9285,31 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
 
     
     
 
     
     
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
     
 
     
@@ -9434,6 +9324,14 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
     
     
+      
+      
+      
+      
+      
+      
+      
+    
 
     
     
@@ -9443,8 +9341,11 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
     
     
+      
+      
     
-    <script src="/en/js/wowchemy.min.0a233ecde900ea57d5cd5ad14636ad45.js"></script>
+    
+    <script src="/en/js/wowchemy.min.da24410d66bdccf1befef1852c04514b.js"></script>
 
     
 
