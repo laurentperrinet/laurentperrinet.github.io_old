@@ -8,7 +8,7 @@
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
     <image>
-      <url>https://laurentperrinet.github.io/media/hulk.png</url>
+      <url>https://laurentperrinet.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://laurentperrinet.github.io/talk/</link>
     </image>
@@ -48,7 +48,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -145,25 +147,8 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; &gt;
-
-
-  &lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;li&gt;What:: talk @ &lt;a href=&#34;https://iwaiworkshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1st International Workshop on Active Inference (IWAI*2020)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Who:: Emmanuel Daucé and Laurent Perrinet&lt;/li&gt;
@@ -230,6 +215,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+&lt;figure  id=&#34;figure-problem-setting-in-generic-ecological-settings-the-visual-system-faces-a-tricky-problem-when-searching-for-one-target-from-a-class-of-targets-in-a-cluttered-environment-a-it-is-synthesized-in-the-following-experiment-after-a-fixation-period-of-200-ms-an-observer-is-presented-with-a-luminous-display--showing-a-single-target-from-a-known-class-here-digits-and-at-a-random-position-the-display-is-presented-for-a-short-period-of-500-ms-light-shaded-area-in-b-that-is-enough-to-perform-at-most-one-saccade-here-successful-on-the-potential-target-finally-the-observer-has-to-identify-the-digit-by-a-keypress-b-prototypical-trace-of-a-saccadic-eye-movement-to-the-target-position-in-particular-we-show-the-fixation-window-and-the-temporal-window-during-which-a-saccade-is-possible-green-shaded-area-c-simulated-reconstruction-of-the-visual-information-from-the-interoceptive-retinotopic-map-at-the-onset-of-the-display-and-after-a-saccade-the-dashed-red-box-indicating-the-visual-area-of-the-what-pathway-in-contrast-to-an-exteroceptive-representation-see-a-this-demonstrates-that-the-position-of-the-target-has-to-be-inferred-from-a-degraded-sampled-image-in-particular-the-configuration-of-the-display-is-such-that-by-adding-clutter-and-reducing-the-size-of-the-digit-it-may-become-necessary-to-perform-a-saccade-to-be-able-to-identify-the-digit-the-computational-pathway-mediating-the-action-has-to-infer-the-location-of-the-target-emphbefore-seeing-it-that-is-before-being-able-to-actually-identify-the-targets-category-from-a-central-fixation&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; alt=&#34;Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. **A)** It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. **B)** Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). **C)** Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;#39;&amp;#39; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;#39;s category from a central fixation. &#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. &lt;strong&gt;A)&lt;/strong&gt; It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. &lt;strong&gt;B)&lt;/strong&gt; Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). &lt;strong&gt;C)&lt;/strong&gt; Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&#39;&#39; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;rsquo;s category from a central fixation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -237,24 +226,18 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;figure id=&#34;figure-problem-setting-in-generic-ecological-settings-the-visual-system-faces-a-tricky-problem-when-searching-for-one-target-from-a-class-of-targets-in-a-cluttered-environment-a-it-is-synthesized-in-the-following-experiment-after-a-fixation-period-of-200-ms-an-observer-is-presented-with-a-luminous-display--showing-a-single-target-from-a-known-class-here-digits-and-at-a-random-position-the-display-is-presented-for-a-short-period-of-500-ms-light-shaded-area-in-b-that-is-enough-to-perform-at-most-one-saccade-here-successful-on-the-potential-target-finally-the-observer-has-to-identify-the-digit-by-a-keypress-b-prototypical-trace-of-a-saccadic-eye-movement-to-the-target-position-in-particular-we-show-the-fixation-window-and-the-temporal-window-during-which-a-saccade-is-possible-green-shaded-area-c-simulated-reconstruction-of-the-visual-information-from-the-interoceptive-retinotopic-map-at-the-onset-of-the-display-and-after-a-saccade-the-dashed-red-box-indicating-the-visual-area-of-the-what-pathway-in-contrast-to-an-exteroceptive-representation-see-a-this-demonstrates-that-the-position-of-the-target-has-to-be-inferred-from-a-degraded-sampled-image-in-particular-the-configuration-of-the-display-is-such-that-by-adding-clutter-and-reducing-the-size-of-the-digit-it-may-become-necessary-to-perform-a-saccade-to-be-able-to-identify-the-digit-the-computational-pathway-mediating-the-action-has-to-infer-the-location-of-the-target-emphbefore-seeing-it-that-is-before-being-able-to-actually-identify-the-targets-category-from-a-central-fixation&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; data-caption=&#34;Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. &amp;lt;strong&amp;gt;A)&amp;lt;/strong&amp;gt; It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. &amp;lt;strong&amp;gt;B)&amp;lt;/strong&amp;gt; Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). &amp;lt;strong&amp;gt;C)&amp;lt;/strong&amp;gt; Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;#39;&amp;#39; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;amp;rsquo;s category from a central fixation.&#34;&gt;
 
 
-  &lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
 
+&lt;figure  id=&#34;figure-results-success&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; alt=&#34;Results: success&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Results: success
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
-  
-  
-  &lt;figcaption&gt;
-    Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. &lt;strong&gt;A)&lt;/strong&gt; It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. &lt;strong&gt;B)&lt;/strong&gt; Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). &lt;strong&gt;C)&lt;/strong&gt; Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&#39;&#39; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;rsquo;s category from a central fixation.
-  &lt;/figcaption&gt;
 
 
-&lt;/figure&gt;
 
 
 
@@ -264,6 +247,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+&lt;figure  id=&#34;figure-results-failure-to-classify&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; alt=&#34;Results: failure to classify&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Results: failure to classify
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -274,98 +261,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;figure id=&#34;figure-results-success&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; data-caption=&#34;Results: success&#34;&gt;
-
-
-  &lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Results: success
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-results-failure-to-classify&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; data-caption=&#34;Results: failure to classify&#34;&gt;
-
-
-  &lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Results: failure to classify
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-results-failure-to-locate&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; data-caption=&#34;Results: failure to locate&#34;&gt;
-
-
-  &lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Results: failure to locate
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-results-failure-to-locate&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; alt=&#34;Results: failure to locate&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Results: failure to locate
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -385,7 +286,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -509,7 +412,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -626,7 +531,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -720,7 +627,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -815,7 +724,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1109,7 +1020,9 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1226,7 +1139,9 @@ Nowak&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1644,7 +1559,9 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1747,7 +1664,9 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1967,7 +1886,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2070,7 +1991,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2175,7 +2098,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2302,7 +2227,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2423,7 +2350,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2534,7 +2463,9 @@ collège Clair Soleil, Marseille&lt;/li&gt;
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   

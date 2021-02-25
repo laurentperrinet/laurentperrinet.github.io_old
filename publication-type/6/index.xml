@@ -8,7 +8,7 @@
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://laurentperrinet.github.io/media/hulk.png</url>
+      <url>https://laurentperrinet.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>6</title>
       <link>https://laurentperrinet.github.io/publication-type/6/</link>
     </image>
@@ -60,7 +60,7 @@ List of Contributors :&lt;/li&gt;
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
@@ -68,41 +68,23 @@ List of Contributors :&lt;/li&gt;
 
 
 
-  
-
-
-
-  
-  
 
 
 
 
 
-
-
-
-
-
-
-&lt;figure id=&#34;figure-mindmap-of-the-book-contents-cross-links-between-chapters-have-been-indicated-as-thin-lines&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1280&#34; height=&#34;1276&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-mindmap-of-the-book-contents-cross-links-between-chapters-have-been-indicated-as-thin-lines&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;
+      &lt;img alt=&#34;Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.&#34; srcset=&#34;
+             /publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_97b62f4e990f914c7f2f68fece8e3ba6.png 400w,
+             /publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_43a19ac9dfe438c67f1f116490a4715e.png 760w,
+             /publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_1200x1200_fit_lanczos_2.png 1200w&#34;
+             src=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/mindmap_hu43e8df124a30549f11198e3614cbf641_509301_97b62f4e990f914c7f2f68fece8e3ba6.png&#34;
+             width=&#34;760&#34;
+             height=&#34;757&#34;
+             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Mindmap of the book contents. Cross-links between chapters have been indicated as thin lines.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 </description>
     </item>
@@ -110,7 +92,7 @@ List of Contributors :&lt;/li&gt;
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -118,7 +100,7 @@ List of Contributors :&lt;/li&gt;
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -126,7 +108,7 @@ List of Contributors :&lt;/li&gt;
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Fri, 02 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>
@@ -135,7 +117,7 @@ List of Contributors :&lt;/li&gt;
     <item>
       <title>Introduction to Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07-a/</link>
-      <pubDate>Fri, 02 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07-a/</guid>
       <description></description>
     </item>

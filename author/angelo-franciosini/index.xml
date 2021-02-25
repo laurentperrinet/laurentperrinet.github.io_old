@@ -27,35 +27,21 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-  
-
-
-
-  
-  
 
 
 
 
 
-
-
-
-
-
-
-&lt;figure &gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_2000x2000_fit_q75_lanczos.jpg&#34; &gt;
-
-
-  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_2000x2000_fit_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;100%&#34; height=&#34;1080&#34;&gt;
-&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;
+      &lt;img alt=&#34;&#34; srcset=&#34;
+             /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_7b1ba1bd24a9ac870619b5a01afce506.jpg 400w,
+             /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_4df08bb9aec35464458273efa7becba8.jpg 760w,
+             /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+             src=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_7b1ba1bd24a9ac870619b5a01afce506.jpg&#34;
+             width=&#34;100%&#34;
+             height=&#34;540&#34;
+             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;see a follow-up in: 
@@ -66,7 +52,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -160,7 +148,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -246,10 +236,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;My latest work with &lt;a href=&#34;https://twitter.com/Angelo_RDN?ref_src=twsrc%5Etfw&#34;&gt;@Angelo_RDN&lt;/a&gt;, Frederic Chavane, Franck Ruffier and &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; has been released in PLOS CB (&lt;a href=&#34;https://t.co/0uvFeiSuOR&#34;&gt;https://t.co/0uvFeiSuOR&lt;/a&gt;). Our model combines Sparse Coding and Predictive Coding and introduce a novel way to visualize neural representation : the interaction map &lt;a href=&#34;https://t.co/AORwdFAMw3&#34;&gt;pic.twitter.com/AORwdFAMw3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Victor Boutin (@VictorBoutin) &lt;a href=&#34;https://twitter.com/VictorBoutin/status/1355810283835564033?ref_src=twsrc%5Etfw&#34;&gt;January 31, 2021&lt;/a&gt;&lt;/blockquote&gt;
+      <description>&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;My latest work with &lt;a href=&#34;https://twitter.com/Angelo_RDN?ref_src=twsrc%5Etfw&#34;&gt;@Angelo_RDN&lt;/a&gt;, Frederic Chavane, Franck Ruffier and &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; has been released in PLOS CB (&lt;a href=&#34;https://t.co/0uvFeiSuOR&#34;&gt;https://t.co/0uvFeiSuOR&lt;/a&gt;). Our model combines Sparse Coding and Predictive Coding and introduce a novel way to visualize neural representation : the interaction map &lt;a href=&#34;https://t.co/AORwdFAMw3&#34;&gt;pic.twitter.com/AORwdFAMw3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Victor Boutin (@VictorBoutin) &lt;a href=&#34;https://twitter.com/VictorBoutin/status/1355810283835564033?ref_src=twsrc%5Etfw&#34;&gt;January 31, 2021&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-&lt;p&gt;
 
 
 
@@ -261,30 +250,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-
-
-
-
-
-
-&lt;figure id=&#34;figure-fig-1-architecture-of-a-2-layered-sdpc-model&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; data-caption=&#34;Fig 1. Architecture of a 2-layered SDPC model.&#34;&gt;
-
-
-  &lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Fig 1. Architecture of a 2-layered SDPC model.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-fig-1-architecture-of-a-2-layered-sdpc-model&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; alt=&#34;Fig 1. Architecture of a 2-layered SDPC model.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Fig 1. Architecture of a 2-layered SDPC model.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 One often compares biological vision to a camera-like system where an image would be processed according to a sequence of successive transformations. In particular, this “feedforward” view is prevalent in models of visual processing such as deep learning. However, neuroscientists have long stressed that more complex information flow is necessary to reach natural vision efficiency. In particular, recurrent and feedback connections in the visual cortex allow to integrate contextual information in our representation of visual stimuli. These modulations have been observed both at the low-level of neural activity and at the higher level of perception.
 
@@ -298,31 +267,10 @@ One often compares biological vision to a camera-like system where an image woul
 
 
 
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-fig-2-results-of-training-sdpc-on-the-natural-images-left-column-and-on-the-face-database-right-column-with-a-feedback-strength-kfb--1&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g002&#34; data-caption=&#34;Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.&#34;&gt;
-
-
-  &lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g002&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-fig-2-results-of-training-sdpc-on-the-natural-images-left-column-and-on-the-face-database-right-column-with-a-feedback-strength-kfb--1&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g002&#34; alt=&#34;Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -335,31 +283,10 @@ One often compares biological vision to a camera-like system where an image woul
 
 
 
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-fig-14-illustration-of-the-hierarchical-generative-model-learned-by-the-sdpc-model-on-the-face-database&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; data-caption=&#34;Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.&#34;&gt;
-
-
-  &lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-fig-14-illustration-of-the-hierarchical-generative-model-learned-by-the-sdpc-model-on-the-face-database&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; alt=&#34;Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 In this study, we present an architecture that describes biological vision at both levels of analysis. It suggests that the brain uses feedforward and feedback connections to compare the sensory stimulus with its own internal representation. In contrast to classical deep learning approaches, we show that our model learns interpretable features.
 
@@ -373,31 +300,10 @@ In this study, we present an architecture that describes biological vision at bo
 
 
 
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-fig-5-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-30&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g005&#34; data-caption=&#34;Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.&#34;&gt;
-
-
-  &lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g005&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-fig-5-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-30&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g005&#34; alt=&#34;Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -410,31 +316,10 @@ In this study, we present an architecture that describes biological vision at bo
 
 
 
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-fig-7-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-45-and-colored-with-the-relative-response-wrt-no-feedback&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; data-caption=&#34;Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.&#34;&gt;
-
-
-  &lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-fig-7-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-45-and-colored-with-the-relative-response-wrt-no-feedback&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; alt=&#34;Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 Moreover, we demonstrate that feedback signals modulate neural activity to promote good continuity of contours. Finally, the same model can disambiguate images corrupted by noise. To the best of our knowledge, this is the first time that the same model describes the effect of recurrent and feedback modulations at both neural and representational levels.
 
@@ -448,31 +333,10 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-fig-10-effect-of-the-feedback-strength-on-noisy-images-from-natural-images-database&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; data-caption=&#34;Fig 10. Effect of the feedback strength on noisy images from natural images database.&#34;&gt;
-
-
-  &lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Fig 10. Effect of the feedback strength on noisy images from natural images database.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-fig-10-effect-of-the-feedback-strength-on-noisy-images-from-natural-images-database&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; alt=&#34;Fig 10. Effect of the feedback strength on noisy images from natural images database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Fig 10. Effect of the feedback strength on noisy images from natural images database.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;more about the role of top-down connections: 
@@ -483,7 +347,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -568,7 +434,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -667,7 +535,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -761,7 +631,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -870,7 +742,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -964,7 +838,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1060,7 +936,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1154,7 +1032,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1249,7 +1129,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1343,7 +1225,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1438,7 +1322,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1532,7 +1418,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1630,7 +1518,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1724,7 +1614,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1819,7 +1711,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1913,7 +1807,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2013,7 +1909,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2107,7 +2005,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2202,7 +2102,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2296,7 +2198,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2391,7 +2295,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2485,7 +2391,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2580,7 +2488,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -2674,7 +2584,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   

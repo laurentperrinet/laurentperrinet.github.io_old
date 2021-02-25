@@ -8,7 +8,7 @@
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://laurentperrinet.github.io/media/hulk.png</url>
+      <url>https://laurentperrinet.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>matching pursuit</title>
       <link>https://laurentperrinet.github.io/tag/matching-pursuit/</link>
     </image>
@@ -72,7 +72,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Fri, 02 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>
@@ -103,7 +103,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
   
-    &lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -192,31 +194,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; data-caption=&#34;Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).&#34;&gt;
-
-
-  &lt;img src=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; alt=&#34;Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections). &#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -225,7 +206,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Thu, 02 Sep 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;perrinet-03-ieee.png&#34; alt=&#34;header&#34;&gt;
 
@@ -234,41 +215,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-  
-
-
-
-  
-  
 
 
 
 
 
-
-
-
-
-
-
-&lt;figure id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-multi-scale-oriented-representation&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_2000x2000_fit_lanczos.gif&#34; data-caption=&#34;&amp;lt;em&amp;gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&amp;lt;/em&amp;gt;&#34;&gt;
-
-
-  &lt;img data-src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_2000x2000_fit_lanczos.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;320&#34; height=&#34;240&#34;&gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
+&lt;figure  id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-multi-scale-oriented-representation&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;
+      &lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*&#34; srcset=&#34;
+             /publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_d497c01de804286ee4e54a784523f307.gif 400w,
+             /publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_d64198da9191161a1914e4acb3914858.gif 760w,
+             /publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_1200x1200_fit_lanczos.gif 1200w&#34;
+             src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_d497c01de804286ee4e54a784523f307.gif&#34;
+             width=&#34;320&#34;
+             height=&#34;240&#34;
+             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -276,7 +239,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>Feature detection using spikes : the greedy approach</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
-      <pubDate>Fri, 02 Jul 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Jul 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
       <description></description>
     </item>
@@ -284,7 +247,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
-      <pubDate>Tue, 02 Mar 2004 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Mar 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>
