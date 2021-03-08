@@ -129,9 +129,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  &gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;/figure&gt;
-&lt;/li&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;li&gt;What:: talk @ &lt;a href=&#34;https://iwaiworkshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1st International Workshop on Active Inference (IWAI*2020)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Who:: Emmanuel Daucé and Laurent Perrinet&lt;/li&gt;
 &lt;li&gt;Where: Ghent (Belgium), gone virtual, see &lt;a href=&#34;https://laurentperrinet.github.io/talk/2020-09-14-iwai&#34;&gt;https://laurentperrinet.github.io/talk/2020-09-14-iwai&lt;/a&gt;&lt;/li&gt;
@@ -163,19 +167,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment-would-require-the-agility-to-navigate-rapidly-by-detecting-as-fast-as-possible-potential-obstacles-as-represented-here-by-the-collision-zone-given-a-cruising-speed-associated-to-slow-or-fast-latencies-respectively-red-and-blue-shaded-areas-this-project-will-provide-with-a-novel-neuromorphic-architecture-designed-to-meet-these-requirements-thanks-to-an-event-based-two-way-processing&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34; srcset=&#34;
-             /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_866073ec4484157254b1bd69b555bfea.jpg 400w,
-             /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_31294ebfcca46c116d39971b2518f39a.jpg 760w,
-             /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-             src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_866073ec4484157254b1bd69b555bfea.jpg&#34;
-             width=&#34;760&#34;
-             height=&#34;243&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34; srcset=&#34;
+               /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_866073ec4484157254b1bd69b555bfea.jpg 400w,
+               /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_31294ebfcca46c116d39971b2518f39a.jpg 760w,
+               /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_866073ec4484157254b1bd69b555bfea.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;243&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 &lt;h2 id=&#34;fiche-didentité&#34;&gt;Fiche d&amp;rsquo;identité&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Acronyme : AgileNeuroBot (ANR-20-CE23-0021)&lt;/li&gt;
@@ -198,19 +206,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-a-miniature-event-based-atis-sensor-contrary-to-a-classical-frame-based-camera-for-which-a-full-dense-image-representation-is-given-at-discrete-regularly-spaced-timings-the-event-based-camera-provides-with-events-at-the-micro-second-resolution-these-are-sparse-as-they-represent-luminance-increments-or-decrements-on-and-off-events-respectively&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).&#34; srcset=&#34;
-             /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_52fd80a35dfa4e6ed6c405416b00c43e.png 400w,
-             /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_a0cf10ff72cc5e70530be81add023a4d.png 760w,
-             /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_1200x1200_fit_lanczos_2.png 1200w&#34;
-             src=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_52fd80a35dfa4e6ed6c405416b00c43e.png&#34;
-             width=&#34;760&#34;
-             height=&#34;217&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).&#34; srcset=&#34;
+               /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_52fd80a35dfa4e6ed6c405416b00c43e.png 400w,
+               /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_a0cf10ff72cc5e70530be81add023a4d.png 760w,
+               /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_52fd80a35dfa4e6ed6c405416b00c43e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;217&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 &lt;h2 id=&#34;résumé&#34;&gt;Résumé&lt;/h2&gt;
 &lt;p&gt;Des robots aériens autonomes seraient des outils essentiels dans les opérations de recherche et de sauvetage. Toutefois, voler dans des environnements complexes exige un haut niveau d&amp;rsquo;agilité, ce qui implique par exemple la capacité de déclencher des manœuvres agressives pour esquiver les obstacles: Les caméras et algorithmes d&amp;rsquo;intelligence artificielle conventionnels n&amp;rsquo;ont pas ces capacités. Dans ce projet, nous proposerons une solution associant de manière bio-inspirée une dynamique rapide de détection visuelle et de stabilisation. Nous intégrerons ces différents aspects dans un système neuromorphique événementiel de bout en bout. La clé de cette approche est l&amp;rsquo;optimisation des délais du système par traitement prédictif. Ceci permettra de voler indépendamment, sans aucune intervention de l&amp;rsquo;utilisateur. Notre objectif à plus long terme est de satisfaire ces besoins avec un minimum d&amp;rsquo;énergie et de fournir des solutions novatrices aux défis des algorithmes traditionnels d&amp;rsquo;IA.&lt;/p&gt;
 
@@ -224,19 +236,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-our-system-is-divided-into-3-units-to-process-visual-inputs-atis-until-the-rotors-the-camera-processor-and-motor-units-each-represents-respectively-multi-channel-feature-maps-c_i-an-estimate-of-the-depth-of-field-p-and-a-navigation-map-for-instance-time-of-contacts-on-a-polar-map-m-compared-to-a-discrete-time-pipeline-we-will-design-an-integrated-back-to-back-event-driven-system-based-on-a-fast-two-way-processing-between-the-c-p-and-m-units-event-driven-feed-forward-and-feed-back-communications-are-denoted-respectively-in-yellow-black-and-red-notice-the-attention-module-a-from-p-to-c-and-the-feed-back-of-navigation-information-from-m-and-the-imu-to-p&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the ***C***amera, ***P***rocessor and ***M***otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the ***C***, ***P*** and ***M*** units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.&#34; srcset=&#34;
-             /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_24a2babba7e24f9fd4663d9761b2aa70.jpg 400w,
-             /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_db3bcfadf4807d086490512f5a7f15dc.jpg 760w,
-             /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-             src=&#34;https://laurentperrinet.github.io/grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_24a2babba7e24f9fd4663d9761b2aa70.jpg&#34;
-             width=&#34;760&#34;
-             height=&#34;226&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the ***C***amera, ***P***rocessor and ***M***otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the ***C***, ***P*** and ***M*** units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.&#34; srcset=&#34;
+               /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_24a2babba7e24f9fd4663d9761b2aa70.jpg 400w,
+               /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_db3bcfadf4807d086490512f5a7f15dc.jpg 760w,
+               /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_24a2babba7e24f9fd4663d9761b2aa70.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;226&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the &lt;em&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/em&gt;amera, &lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;/em&gt;rocessor and &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt;otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the &lt;em&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt; units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Autonomous aerial robots would be essential tools in search and rescue operations. But flying in complex environments requires a high level of agility, which implies the ability to initiate aggressive maneuvers to avoid obstacles: Conventional AI cameras and algorithms do not have these capabilities. In this project, we propose a solution that will integrate bio-inspired rapid visual detection and stabilization dynamics into an end-to-end event based neuromorphic system. The key to this approach will be the optimization of delays through predictive processing. This will allow these robots to fly independently, without any user intervention. Our longer-term goal is to meet the requirements with very little power and provide innovative solutions to the challenges of traditional AI algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
@@ -357,9 +373,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  &gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;/figure&gt;
-&lt;/li&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;li&gt;What:: talk @ &lt;a href=&#34;https://iwaiworkshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1st International Workshop on Active Inference (IWAI*2020)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Who:: Emmanuel Daucé and Laurent Perrinet&lt;/li&gt;
 &lt;li&gt;Where: Ghent (Belgium), gone virtual, see &lt;a href=&#34;https://laurentperrinet.github.io/talk/2020-09-14-iwai&#34;&gt;https://laurentperrinet.github.io/talk/2020-09-14-iwai&lt;/a&gt;&lt;/li&gt;
@@ -394,9 +414,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  &gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -421,8 +445,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-problem-setting-in-generic-ecological-settings-the-visual-system-faces-a-tricky-problem-when-searching-for-one-target-from-a-class-of-targets-in-a-cluttered-environment-a-it-is-synthesized-in-the-following-experiment-after-a-fixation-period-of-200-ms-an-observer-is-presented-with-a-luminous-display--showing-a-single-target-from-a-known-class-here-digits-and-at-a-random-position-the-display-is-presented-for-a-short-period-of-500-ms-light-shaded-area-in-b-that-is-enough-to-perform-at-most-one-saccade-here-successful-on-the-potential-target-finally-the-observer-has-to-identify-the-digit-by-a-keypress-b-prototypical-trace-of-a-saccadic-eye-movement-to-the-target-position-in-particular-we-show-the-fixation-window-and-the-temporal-window-during-which-a-saccade-is-possible-green-shaded-area-c-simulated-reconstruction-of-the-visual-information-from-the-interoceptive-retinotopic-map-at-the-onset-of-the-display-and-after-a-saccade-the-dashed-red-box-indicating-the-visual-area-of-the-what-pathway-in-contrast-to-an-exteroceptive-representation-see-a-this-demonstrates-that-the-position-of-the-target-has-to-be-inferred-from-a-degraded-sampled-image-in-particular-the-configuration-of-the-display-is-such-that-by-adding-clutter-and-reducing-the-size-of-the-digit-it-may-become-necessary-to-perform-a-saccade-to-be-able-to-identify-the-digit-the-computational-pathway-mediating-the-action-has-to-infer-the-location-of-the-target-emphbefore-seeing-it-that-is-before-being-able-to-actually-identify-the-targets-category-from-a-central-fixation&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; alt=&#34;Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. **A)** It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. **B)** Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). **C)** Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;#39;&amp;#39; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;#39;s category from a central fixation. &#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; alt=&#34;Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. **A)** It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. **B)** Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). **C)** Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;#39;&amp;#39; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;#39;s category from a central fixation. &#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. &lt;strong&gt;A)&lt;/strong&gt; It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. &lt;strong&gt;B)&lt;/strong&gt; Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). &lt;strong&gt;C)&lt;/strong&gt; Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&#39;&#39; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;rsquo;s category from a central fixation.
     &lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -437,8 +466,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
 &lt;figure  id=&#34;figure-results-success&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; alt=&#34;Results: success&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-20.png&#34; alt=&#34;Results: success&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Results: success
     &lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -453,8 +486,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
 &lt;figure  id=&#34;figure-results-failure-to-classify&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; alt=&#34;Results: failure to classify&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; alt=&#34;Results: failure to classify&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Results: failure to classify
     &lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -469,11 +506,14 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
 &lt;figure  id=&#34;figure-results-failure-to-locate&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; alt=&#34;Results: failure to locate&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; alt=&#34;Results: failure to locate&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Results: failure to locate
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/li&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

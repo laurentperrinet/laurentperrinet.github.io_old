@@ -30,19 +30,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment-would-require-the-agility-to-navigate-rapidly-by-detecting-as-fast-as-possible-potential-obstacles-as-represented-here-by-the-collision-zone-given-a-cruising-speed-associated-to-slow-or-fast-latencies-respectively-red-and-blue-shaded-areas-this-project-will-provide-with-a-novel-neuromorphic-architecture-designed-to-meet-these-requirements-thanks-to-an-event-based-two-way-processing&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34; srcset=&#34;
-             /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_866073ec4484157254b1bd69b555bfea.jpg 400w,
-             /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_31294ebfcca46c116d39971b2518f39a.jpg 760w,
-             /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-             src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_866073ec4484157254b1bd69b555bfea.jpg&#34;
-             width=&#34;760&#34;
-             height=&#34;243&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34; srcset=&#34;
+               /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_866073ec4484157254b1bd69b555bfea.jpg 400w,
+               /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_31294ebfcca46c116d39971b2518f39a.jpg 760w,
+               /grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anb/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_866073ec4484157254b1bd69b555bfea.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;243&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 &lt;h2 id=&#34;fiche-didentité&#34;&gt;Fiche d&amp;rsquo;identité&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Acronyme : AgileNeuroBot (ANR-20-CE23-0021)&lt;/li&gt;
@@ -65,19 +69,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-a-miniature-event-based-atis-sensor-contrary-to-a-classical-frame-based-camera-for-which-a-full-dense-image-representation-is-given-at-discrete-regularly-spaced-timings-the-event-based-camera-provides-with-events-at-the-micro-second-resolution-these-are-sparse-as-they-represent-luminance-increments-or-decrements-on-and-off-events-respectively&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).&#34; srcset=&#34;
-             /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_52fd80a35dfa4e6ed6c405416b00c43e.png 400w,
-             /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_a0cf10ff72cc5e70530be81add023a4d.png 760w,
-             /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_1200x1200_fit_lanczos_2.png 1200w&#34;
-             src=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_52fd80a35dfa4e6ed6c405416b00c43e.png&#34;
-             width=&#34;760&#34;
-             height=&#34;217&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).&#34; srcset=&#34;
+               /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_52fd80a35dfa4e6ed6c405416b00c43e.png 400w,
+               /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_a0cf10ff72cc5e70530be81add023a4d.png 760w,
+               /grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_52fd80a35dfa4e6ed6c405416b00c43e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;217&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 &lt;h2 id=&#34;résumé&#34;&gt;Résumé&lt;/h2&gt;
 &lt;p&gt;Des robots aériens autonomes seraient des outils essentiels dans les opérations de recherche et de sauvetage. Toutefois, voler dans des environnements complexes exige un haut niveau d&amp;rsquo;agilité, ce qui implique par exemple la capacité de déclencher des manœuvres agressives pour esquiver les obstacles: Les caméras et algorithmes d&amp;rsquo;intelligence artificielle conventionnels n&amp;rsquo;ont pas ces capacités. Dans ce projet, nous proposerons une solution associant de manière bio-inspirée une dynamique rapide de détection visuelle et de stabilisation. Nous intégrerons ces différents aspects dans un système neuromorphique événementiel de bout en bout. La clé de cette approche est l&amp;rsquo;optimisation des délais du système par traitement prédictif. Ceci permettra de voler indépendamment, sans aucune intervention de l&amp;rsquo;utilisateur. Notre objectif à plus long terme est de satisfaire ces besoins avec un minimum d&amp;rsquo;énergie et de fournir des solutions novatrices aux défis des algorithmes traditionnels d&amp;rsquo;IA.&lt;/p&gt;
 
@@ -91,19 +99,23 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-our-system-is-divided-into-3-units-to-process-visual-inputs-atis-until-the-rotors-the-camera-processor-and-motor-units-each-represents-respectively-multi-channel-feature-maps-c_i-an-estimate-of-the-depth-of-field-p-and-a-navigation-map-for-instance-time-of-contacts-on-a-polar-map-m-compared-to-a-discrete-time-pipeline-we-will-design-an-integrated-back-to-back-event-driven-system-based-on-a-fast-two-way-processing-between-the-c-p-and-m-units-event-driven-feed-forward-and-feed-back-communications-are-denoted-respectively-in-yellow-black-and-red-notice-the-attention-module-a-from-p-to-c-and-the-feed-back-of-navigation-information-from-m-and-the-imu-to-p&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the ***C***amera, ***P***rocessor and ***M***otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the ***C***, ***P*** and ***M*** units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.&#34; srcset=&#34;
-             /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_24a2babba7e24f9fd4663d9761b2aa70.jpg 400w,
-             /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_db3bcfadf4807d086490512f5a7f15dc.jpg 760w,
-             /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-             src=&#34;https://laurentperrinet.github.io/grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_24a2babba7e24f9fd4663d9761b2aa70.jpg&#34;
-             width=&#34;760&#34;
-             height=&#34;226&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the ***C***amera, ***P***rocessor and ***M***otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the ***C***, ***P*** and ***M*** units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.&#34; srcset=&#34;
+               /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_24a2babba7e24f9fd4663d9761b2aa70.jpg 400w,
+               /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_db3bcfadf4807d086490512f5a7f15dc.jpg 760w,
+               /grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anb/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_24a2babba7e24f9fd4663d9761b2aa70.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;226&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the &lt;em&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/em&gt;amera, &lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;/em&gt;rocessor and &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt;otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the &lt;em&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt; units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Autonomous aerial robots would be essential tools in search and rescue operations. But flying in complex environments requires a high level of agility, which implies the ability to initiate aggressive maneuvers to avoid obstacles: Conventional AI cameras and algorithms do not have these capabilities. In this project, we propose a solution that will integrate bio-inspired rapid visual detection and stabilization dynamics into an end-to-end event based neuromorphic system. The key to this approach will be the optimization of delays through predictive processing. This will allow these robots to fly independently, without any user intervention. Our longer-term goal is to meet the requirements with very little power and provide innovative solutions to the challenges of traditional AI algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
@@ -329,9 +341,13 @@ We propose to use dynamic inference as an efficient theoretical framework to und
 
 
 
-&lt;figure  &gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; alt=&#34;We were open :-)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;/figure&gt;
 
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://static.tvtropes.org/pmwiki/pub/images/R.E.M..jpg&#34; alt=&#34;We were open :-)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Reinforcement learning theory provides a general conceptual framework to account for behavioral changes. Recently the idea that reinforcement may be used to explain learning in motor responses has emerged. In particular, there is a growing interest in studying the effects of reinforcement learning in arm movements trajectories (Dam, Kording, &amp;amp; Wei, 2013), pointing movements (Trommershauser, Landy, &amp;amp; Maloney, 2006), or eye movements (Madelain, Champrenaut, &amp;amp; Chauvin, 2007; Madelain &amp;amp; Krauzlis, 2003b; Madelain, Paeye, &amp;amp; Wallman, 2011; Sugrue, Corrado, &amp;amp; Newsome, 2004; Takikawa, Kawagoe, Itoh, Nakahara, &amp;amp; Hikosaka, 2002; Xu-Wilson, Zee, &amp;amp; Shadmehr, 2009). However, and despite these few seminal studies, much is still unknown about both the details of the effects of reward on motor control and the underlying mechanisms. &lt;strong&gt;This proposal aims at a better understanding of how skilled motor responses are learned focusing on voluntary eye movements.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Although learning is often regarded as a restricted period of time during which a behavior undergo some changes we view learning as a continuously ongoing process. In the case of motor control every instance of a behavior is followed by some consequences that will affect some dimensions of the future response. These changes will in return affect the functional relations with the environment and this feedback process continues through lifetime. Therefore we do not regard motor learning as a special phase that allows the emergence of a particular motor response but as a continuous adaptation to the changes within the organism that affect the functional relations with her environment. This distinction is important because the learning situations that are experimentally tested over a short period of time may then be viewed as a condensed version of motor learning in the real life: the same adaptive processes are responsible for the changes in the response in both situations.&lt;/p&gt;
 &lt;p&gt;An important aspect of this fundamental research project is that the theoretical propositions addressed provide a new view on motor learning that departs from conventional wisdom. We expect to gain considerable knowledge on learning by constructing new experimental paradigms to collect behavioural data, implementing new learning models based on Bayesian theories and testing dynamical mathematical models of behavioural changes. &lt;strong&gt;Whichever way the results turn out, we anticipate that these studies will provide a better understanding of motor learning and provide a well-defined and solid framework for studying other forms of motor plasticity.&lt;/strong&gt; If eye movement learning follows the rules of other operant responses (i.e. responses reinforced by their consequences), this will constitute a minor revolution in the study of motor control, both at the behavioral and neural levels, with important implications for the understanding of plasticity in other motor systems.&lt;/p&gt;
@@ -394,19 +410,23 @@ We propose to use dynamic inference as an efficient theoretical framework to und
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-a-predictive-sequence-is-essential-in-resolving-the-coherence-problem--the-sequence-in-which-a-set-of-local-motion-is-shown-is-essential-for-the-detection-of-global-motion-we-replicate-here-the-experiments-by-scott-watamaniuk-and-colleagues-they-have-shown-behaviourally-that-a-dot-in-noise-is-much-more-detectable-when-it-follows-a-coherent-trajectory-up-to-an-order-of-magnitude-of-10-times-what-would-be-predicted-by-the-local-components-of-the-trajectory-in-this--movie-we-observe-white-noise-and-at-first-sight-no-information-is-detectable-in-fact-there-is-a-dot-moving-along-some-smooth-linear-trajectory-since-this-is-compatible-with-a-predictive-sequence-it-is-much-easier-to-see-the-dot-from-left-to-right-in-the-top-of-the-image-a-smooth-pursuit-helps-to-catch-it-this-simple-experiment-shows-that-even-if-local-motion-is-similar-in-both-movies-a-coherent-trajectory-is-more-easy-to-track-obviously-we-may-thus-conclude-that-the-whole-trajectory-is-more-that-its-individual-parts-and-that-the-independence-hypothesis-does-not-hold-if-we-want-to-account-for-the-predictive-information-in-input-sequences-such-as-seems-to-be-crucial-for-the-ap&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;*A predictive sequence is essential in resolving the coherence problem.*  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.&#34; srcset=&#34;
-             /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_a8ea11bcec2db3258deea5906016036f.gif 400w,
-             /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_28fa3f783cdef19188c283016a5d15c2.gif 760w,
-             /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_1200x1200_fit_lanczos.gif 1200w&#34;
-             src=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_a8ea11bcec2db3258deea5906016036f.gif&#34;
-             width=&#34;400&#34;
-             height=&#34;300&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;*A predictive sequence is essential in resolving the coherence problem.*  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.&#34; srcset=&#34;
+               /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_a8ea11bcec2db3258deea5906016036f.gif 400w,
+               /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_28fa3f783cdef19188c283016a5d15c2.gif 760w,
+               /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_1200x1200_fit_lanczos.gif 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_a8ea11bcec2db3258deea5906016036f.gif&#34;
+               width=&#34;400&#34;
+               height=&#34;300&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;A predictive sequence is essential in resolving the coherence problem.&lt;/em&gt;  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 &lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
 &lt;p&gt;This work was supported by ANR project &amp;ldquo;TRAJECTORY&amp;rdquo; N° ANR-15-CE37-0011.&lt;/p&gt;
 </description>

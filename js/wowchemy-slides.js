@@ -1,8 +1,8 @@
 (() => {
   // ns-params:@params
-  var slides = {"font-size": "10pt", "font-style": "bold", theme: "white"};
+  var slides = {theme: "white"};
 
-  // ns-hugo:/var/folders/3p/m0g52j9j69z3gj8ktpgg1dm00000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20210222223615-40e01c083e6f/assets/js/wowchemy-utils.js
+  // ns-hugo:/var/folders/3p/m0g52j9j69z3gj8ktpgg1dm00000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20210306223413-f9505c280342/assets/js/wowchemy-utils.js
   function fixMermaid() {
     let mermaids = [];
     [].push.apply(mermaids, document.getElementsByClassName("language-mermaid"));
@@ -15,7 +15,7 @@
     }
   }
 
-  // js/wowchemy-slides.js
+  // <stdin>
   var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath, RevealZoom];
   var isObject = function(o) {
     return o === Object(o) && !isArray(o) && typeof o !== "function";

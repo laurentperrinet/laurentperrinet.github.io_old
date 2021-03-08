@@ -32,11 +32,15 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-fig-1-architecture-of-a-2-layered-sdpc-model&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; alt=&#34;Fig 1. Architecture of a 2-layered SDPC model.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; alt=&#34;Fig 1. Architecture of a 2-layered SDPC model.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Fig 1. Architecture of a 2-layered SDPC model.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 One often compares biological vision to a camera-like system where an image would be processed according to a sequence of successive transformations. In particular, this “feedforward” view is prevalent in models of visual processing such as deep learning. However, neuroscientists have long stressed that more complex information flow is necessary to reach natural vision efficiency. In particular, recurrent and feedback connections in the visual cortex allow to integrate contextual information in our representation of visual stimuli. These modulations have been observed both at the low-level of neural activity and at the higher level of perception.
 
 
@@ -49,8 +53,13 @@ One often compares biological vision to a camera-like system where an image woul
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-fig-2-results-of-training-sdpc-on-the-natural-images-left-column-and-on-the-face-database-right-column-with-a-feedback-strength-kfb--1&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g002&#34; alt=&#34;Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g002&#34; alt=&#34;Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.
     &lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -65,11 +74,14 @@ One often compares biological vision to a camera-like system where an image woul
 
 
 
+
+
 &lt;figure  id=&#34;figure-fig-14-illustration-of-the-hierarchical-generative-model-learned-by-the-sdpc-model-on-the-face-database&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; alt=&#34;Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; alt=&#34;Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 In this study, we present an architecture that describes biological vision at both levels of analysis. It suggests that the brain uses feedforward and feedback connections to compare the sensory stimulus with its own internal representation. In contrast to classical deep learning approaches, we show that our model learns interpretable features.
 
 
@@ -82,8 +94,13 @@ In this study, we present an architecture that describes biological vision at bo
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-fig-5-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-30&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g005&#34; alt=&#34;Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g005&#34; alt=&#34;Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.
     &lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -98,11 +115,14 @@ In this study, we present an architecture that describes biological vision at bo
 
 
 
+
+
 &lt;figure  id=&#34;figure-fig-7-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-45-and-colored-with-the-relative-response-wrt-no-feedback&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; alt=&#34;Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; alt=&#34;Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.
     &lt;/figcaption&gt;&lt;/figure&gt;
-
 Moreover, we demonstrate that feedback signals modulate neural activity to promote good continuity of contours. Finally, the same model can disambiguate images corrupted by noise. To the best of our knowledge, this is the first time that the same model describes the effect of recurrent and feedback modulations at both neural and representational levels.
 
 
@@ -115,11 +135,15 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
+
 &lt;figure  id=&#34;figure-fig-10-effect-of-the-feedback-strength-on-noisy-images-from-natural-images-database&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; alt=&#34;Fig 10. Effect of the feedback strength on noisy images from natural images database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;&lt;figcaption&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; alt=&#34;Fig 10. Effect of the feedback strength on noisy images from natural images database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
       Fig 10. Effect of the feedback strength on noisy images from natural images database.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;more about the role of top-down connections: 
 
