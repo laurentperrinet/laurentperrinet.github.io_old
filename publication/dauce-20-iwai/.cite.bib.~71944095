@@ -1,0 +1,16 @@
+@inproceedings{Dauce20iwai,
+ author = {Daucé, Emmanuel and Perrinet, Laurent U},
+ booktitle = {IWAI*2020},
+ date = {2020-12-17},
+ doi = {10.1007/978-3-030-64919-7_17},
+ grants = {aprovis-3-d},
+ keywords = {Active Inference,Deep Learning,Object localization,Visual search,Visuomotor control},
+ time_start = {2020-09-14T18:00:00},
+ title = {Visual search as active inference},
+ url = {https://laurentperrinet.github.io/publication/dauce-20-iwai},
+ url_code = {https://github.com/laurentperrinet/2020-09-14_IWAI/},
+ url_pdf = {https://iwaiworkshop.github.io/papers/2020/IWAI_2020_paper_19.pdf},
+ url_slides = {https://laurentperrinet.github.io/2020-09-14_IWAI},
+ year = {2020}
+}
+

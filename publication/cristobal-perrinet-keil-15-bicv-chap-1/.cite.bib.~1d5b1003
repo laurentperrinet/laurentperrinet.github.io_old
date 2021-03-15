@@ -1,0 +1,18 @@
+@incollection{CristobalPerrinetKeil15bicv_chap1,
+ abstract = {This is the introductory chapter of the book, which serves as a comprehensive but rigorous reference in the area of biologically inspired computer vision modeling. Biological vision shows excellence in terms of performance and robustness. Biologically inspired vision, that is, the study of visual systems of living beings, can be considered as a two-way process. The book often follows Marr's classical, three-level approach to vision, but also goes beyond Marr's approach in the design of novel and more advanced vision sensors. It provides an overview of a few representative applications and current state of the art of the research in this area. The book also provides an overview of bioinspired computer vision, starting from fundamentals to the most recent advances and applications in the field.},
+ author = {Cristóbal, Gabriel and Perrinet, Laurent U and Keil, Matthias S},
+ bdsk-url-1 = {http://bicv.github.io/chap1/},
+ bdsk-url-2 = {https://doi.org/10.1002/9783527680863.ch1},
+ booktitle = {Biologically Inspired Computer Vision},
+ chapter = {1},
+ date = {2015-11},
+ date-modified = {2020-03-31 11:07:30 +0200},
+ doi = {10.1002/9783527680863.ch1},
+ editor = {Cristóbal, Gabriel and Perrinet, Laurent U and Keil, Matthias S},
+ keywords = {Biologically Inspired Computer vision},
+ publisher = {Wiley-VCH Verlag GmbH and Co. KGaA},
+ title = {Introduction},
+ url = {http://bicv.github.io/chap1/},
+ year = {2015}
+}
+

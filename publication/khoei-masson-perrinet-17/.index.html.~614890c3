@@ -1,0 +1,1740 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.0.0-beta.3 for Hugo" />
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Laurent U Perrinet" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Due to its inherent neural delays, the visual system has an outdated access to sensory information about the current position of moving objects. In contrast, living organisms are remarkably able to track and intercept moving objects under a large range of challenging environmental conditions. Physiological, behavioral and psychophysical evidences strongly suggest that position coding is extrapolated using an explicit and reliable representation of object&#39;s motion but it is still unclear how these two representations interact. For instance, the so-called flash-lag effect supports the idea of a differential processing of position between moving and static objects. Although elucidating such mechanisms is crucial in our understanding of the dynamics of visual processing, a theory is still missing to explain the different facets of this visual illusion. Here, we reconsider several of the key aspects of the flash-lag effect in order to explore the role of motion upon neural coding of objects&#39; position. First, we formalize the problem using a Bayesian modeling framework which includes a graded representation of the degree of belief about visual motion. We introduce a motion-based prediction model as a candidate explanation for the perception of coherent motion. By including the knowledge of a fixed delay, we can model the dynamics of sensory information integration by extrapolating the information acquired at previous instants in time. Next, we simulate the optimal estimation of object position with and without delay compensation and compared it with human perception under a broad range of different psychophysical conditions. Our computational study suggests that the explicit, probabilistic representation of velocity information is crucial in explaining position coding, and therefore the flash-lag effect. We discuss these theoretical results in light of the putative corrective mechanisms that can be used to cancel out the detrimental effects of neural delays and illuminate the more general question of the dynamical representation of spatial information at the present time in the visual pathways." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.14ed061da97974d1963d99308520201c.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-140381649-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@laurentperrinet" />
+    <meta property="twitter:creator" content="@laurentperrinet" />
+  
+  <meta property="og:site_name" content="Novel visual computations" />
+  <meta property="og:url" content="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/" />
+  <meta property="og:title" content="The flash-lag effect as a motion-based predictive shift | Novel visual computations" />
+  <meta property="og:description" content="Due to its inherent neural delays, the visual system has an outdated access to sensory information about the current position of moving objects. In contrast, living organisms are remarkably able to track and intercept moving objects under a large range of challenging environmental conditions. Physiological, behavioral and psychophysical evidences strongly suggest that position coding is extrapolated using an explicit and reliable representation of object&#39;s motion but it is still unclear how these two representations interact. For instance, the so-called flash-lag effect supports the idea of a differential processing of position between moving and static objects. Although elucidating such mechanisms is crucial in our understanding of the dynamics of visual processing, a theory is still missing to explain the different facets of this visual illusion. Here, we reconsider several of the key aspects of the flash-lag effect in order to explore the role of motion upon neural coding of objects&#39; position. First, we formalize the problem using a Bayesian modeling framework which includes a graded representation of the degree of belief about visual motion. We introduce a motion-based prediction model as a candidate explanation for the perception of coherent motion. By including the knowledge of a fixed delay, we can model the dynamics of sensory information integration by extrapolating the information acquired at previous instants in time. Next, we simulate the optimal estimation of object position with and without delay compensation and compared it with human perception under a broad range of different psychophysical conditions. Our computational study suggests that the explicit, probabilistic representation of velocity information is crucial in explaining position coding, and therefore the flash-lag effect. We discuss these theoretical results in light of the putative corrective mechanisms that can be used to cancel out the detrimental effects of neural delays and illuminate the more general question of the dynamical representation of spatial information at the present time in the visual pathways." /><meta property="og:image" content="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/featured.png" />
+    <meta property="twitter:image" content="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2017-01-26T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2017-01-26T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/"
+  },
+  "headline": "The flash-lag effect as a motion-based predictive shift",
+  
+  "image": [
+    "https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/featured.png"
+  ],
+  
+  "datePublished": "2017-01-26T00:00:00Z",
+  "dateModified": "2017-01-26T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mina A Khoei"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Novel visual computations",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Due to its inherent neural delays, the visual system has an outdated access to sensory information about the current position of moving objects. In contrast, living organisms are remarkably able to track and intercept moving objects under a large range of challenging environmental conditions. Physiological, behavioral and psychophysical evidences strongly suggest that position coding is extrapolated using an explicit and reliable representation of object's motion but it is still unclear how these two representations interact. For instance, the so-called flash-lag effect supports the idea of a differential processing of position between moving and static objects. Although elucidating such mechanisms is crucial in our understanding of the dynamics of visual processing, a theory is still missing to explain the different facets of this visual illusion. Here, we reconsider several of the key aspects of the flash-lag effect in order to explore the role of motion upon neural coding of objects' position. First, we formalize the problem using a Bayesian modeling framework which includes a graded representation of the degree of belief about visual motion. We introduce a motion-based prediction model as a candidate explanation for the perception of coherent motion. By including the knowledge of a fixed delay, we can model the dynamics of sensory information integration by extrapolating the information acquired at previous instants in time. Next, we simulate the optimal estimation of object position with and without delay compensation and compared it with human perception under a broad range of different psychophysical conditions. Our computational study suggests that the explicit, probabilistic representation of velocity information is crucial in explaining position coding, and therefore the flash-lag effect. We discuss these theoretical results in light of the putative corrective mechanisms that can be used to cancel out the detrimental effects of neural delays and illuminate the more general question of the dynamical representation of spatial information at the present time in the visual pathways."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>The flash-lag effect as a motion-based predictive shift | Novel visual computations</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="bfd147642e8504d567d1d4628f16966a" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.b024895df05e271929739bb54886c674.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Novel visual computations</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Novel visual computations</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Featured</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#grants"><span>Grants</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/sciblog/" target="_blank" rel="noopener"><span>BlogBook</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>The flash-lag effect as a motion-based predictive shift</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/mina-a-khoei/">Mina A Khoei</a></span>, <span >
+      <a href="/author/guillaume-s-masson/">Guillaume S Masson</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2017-01-26
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://hal-amu.archives-ouvertes.fr/hal-01771125" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/publication/khoei-masson-perrinet-17/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/khoei-masson-perrinet-17/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/laurentperrinet/Khoei_2017_PLoSCB" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1371/journal.pcbi.1005068" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 471px; max-height: 317px;">
+  <div style="position: relative">
+    <img src="/publication/khoei-masson-perrinet-17/featured.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Due to its inherent neural delays, the visual system has an outdated access to sensory information about the current position of moving objects. In contrast, living organisms are remarkably able to track and intercept moving objects under a large range of challenging environmental conditions. Physiological, behavioral and psychophysical evidences strongly suggest that position coding is extrapolated using an explicit and reliable representation of object&rsquo;s motion but it is still unclear how these two representations interact. For instance, the so-called flash-lag effect supports the idea of a differential processing of position between moving and static objects. Although elucidating such mechanisms is crucial in our understanding of the dynamics of visual processing, a theory is still missing to explain the different facets of this visual illusion. Here, we reconsider several of the key aspects of the flash-lag effect in order to explore the role of motion upon neural coding of objects' position. First, we formalize the problem using a Bayesian modeling framework which includes a graded representation of the degree of belief about visual motion. We introduce a motion-based prediction model as a candidate explanation for the perception of coherent motion. By including the knowledge of a fixed delay, we can model the dynamics of sensory information integration by extrapolating the information acquired at previous instants in time. Next, we simulate the optimal estimation of object position with and without delay compensation and compared it with human perception under a broad range of different psychophysical conditions. Our computational study suggests that the explicit, probabilistic representation of velocity information is crucial in explaining position coding, and therefore the flash-lag effect. We discuss these theoretical results in light of the putative corrective mechanisms that can be used to cancel out the detrimental effects of neural delays and illuminate the more general question of the dynamical representation of spatial information at the present time in the visual pathways.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>PLoS Computational Biology</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><ul>
+<li><a href="http://www.cnrs.fr/insb/recherche/parutions/articles2017/l-perrinet.html%22" target="_blank" rel="noopener">Press release</a></li>
+</ul>
+<h1 id="visual-illusions-their-origin-lies-in-prediction">Visual illusions: their origin lies in prediction</h1>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-flash-lag-effect-when-a-visual-stimulus-moves-along-a-continuous-trajectory-it-may-be-seen-ahead-of-its-veridical-position-with-respect-to-an-unpredictable-event-such-as-a-punctuate-flash-this-illusion-tells-us-something-important-about-the-visual-system-contrary-to-classical-computers-neural-activity-travels-at-a-relatively-slow-speed-it-is-largely-accepted-that-the-resulting-delays-cause-this-perceived-spatial-lag-of-the-flash-still-after-several-decades-of-debates-there-is-no-consensus-regarding-the-underlying-mechanisms">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" >
+        <img alt="*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms." srcset="
+               /publication/khoei-masson-perrinet-17/flash_lag_hu277740dce32a2754cb1ad98f4208cb67_31157_42eff4b408a292dfdfd1e5e6e2e6abe9.gif 400w,
+               /publication/khoei-masson-perrinet-17/flash_lag_hu277740dce32a2754cb1ad98f4208cb67_31157_8150842463d8df9760684bb4ed9a5f75.gif 760w,
+               /publication/khoei-masson-perrinet-17/flash_lag_hu277740dce32a2754cb1ad98f4208cb67_31157_1200x1200_fit_lanczos.gif 1200w"
+               src="/publication/khoei-masson-perrinet-17/flash_lag_hu277740dce32a2754cb1ad98f4208cb67_31157_42eff4b408a292dfdfd1e5e6e2e6abe9.gif"
+               width="760"
+               height="456"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      <em>Flash-Lag Effect.</em> When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.
+    </figcaption></figure>
+<strong>Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.</strong>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Research: The Flash-Lag Effect as a Motion-Based Predictive Shift <a href="https://t.co/K3KWPO8l4a">https://t.co/K3KWPO8l4a</a> Khoei et al. <a href="https://twitter.com/hashtag/vision?src=hash&amp;ref_src=twsrc%5Etfw">#vision</a> <a href="https://twitter.com/hashtag/motion?src=hash&amp;ref_src=twsrc%5Etfw">#motion</a> <a href="https://twitter.com/hashtag/neuralnetworks?src=hash&amp;ref_src=twsrc%5Etfw">#neuralnetworks</a> <a href="https://t.co/RElm4Qqo58">pic.twitter.com/RElm4Qqo58</a></p>&mdash; PLOS Comp Biol (@PLOSCompBiol) <a href="https://twitter.com/PLOSCompBiol/status/829354100273745920?ref_src=twsrc%5Etfw">February 8, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Visual illusions are still popular: in a quasi-magical way, they can make objects appear where they are not expected&hellip; They are also excellent opportunities to question the constraints of our perceptual system. Many illusions are based on motion, such as the flash-lag effect. Observe a luminous dot that moves along a rectilinear trajectory. If a second light dot is flashed very briefly just above the first, the moving point will always be perceived in front of the flash while they are vertically aligned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-fig-2-diagonal-markov-chain-in-the-current-study-the-estimated-state-vector-z--x-y-u-v-is-composed-of-the-2d-position-x-and-y-and-velocity-u-and-v-of-a-moving-stimulus-a-first-we-extend-a-classical-markov-chain-using-nijhawans-diagonal-model-in-order-to-take-into-account-the-known-neural-delay-τ-at-time-t-information-is-integrated-until-time-t--τ-using-a-markov-chain-and-a-model-of-state-transitions-pztztδt-such-that-one-can-infer-the-state-until-the-last-accessible-information-pztτi0tτ-this-information-can-then-be-pushed-forward-in-time-by-predicting-its-trajectory-from-t--τ-to-t-in-particular-pzti0tτ-can-be-predicted-by-the-same-internal-model-by-using-the-state-transition-at-the-time-scale-of-the-delay-that-is-pztztτ-this-is-virtually-equivalent-to-a-motion-extrapolation-model-but-without-sensory-measurements-during-the-time-window-between-t--τ-and-t-note-that-both-predictions-in-this-model-are-based-on-the-same-model-of-state-transitions-b-one-can-write-a-second-equivalent-pull-mode-for-the-diagonal-model-now-the-current-state-is-directly-estimated-based-on-a-markov-chain-on-the-sequence-of-delayed-estimations-while-being-equivalent-to-the-push-mode-described-above-such-a-direct-computation-allows-to-more-easily-combine-information-from-areas-with-different-delays-such-a-model-implements-nijhawans-diagonal-model-but-now-motion-information-is-probabilistic-and-therefore-inferred-motion-may-be-modulated-by-the-respective-precisions-of-the-sensory-and-internal-representations-c-such-a-diagonal-delay-compensation-can-be-demonstrated-in-a-two-layered-neural-network-including-a-source-input-and-a-target-predictive-layer-44-the-source-layer-receives-the-delayed-sensory-information-and-encodes-both-position-and-velocity-topographically-within-the-different-retinotopic-maps-of-each-layer-for-the-sake-of-simplicity-we-illustrate-only-one-2d-map-of-the-motions-x-v-the-integration-of-coherent-information-can-either-be-done-in-the-source-layer-push-mode-or-in-the-target-layer-pull-mode-crucially-to-implement-a-delay-compensation-in-this-motion-based-prediction-model-one-may-simply-connect-each-source-neuron-to-a-predictive-neuron-corresponding-to-the-corrected-position-of-stimulus-x--v--τ-v-in-the-target-layer-the-precision-of-this-anisotropic-connectivity-map-can-be-tuned-by-the-width-of-convergence-from-the-source-to-the-target-populations-using-such-a-simple-mapping-we-have-previously-shown-that-the-neuronal-population-activity-can-infer-the-current-position-along-the-trajectory-despite-the-existence-of-neural-delays">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=info:doi/10.1371/journal.pcbi.1005068.g002" alt=" Fig 2. *Diagonal Markov chain.* In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. (C) Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x &#43; v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays. " loading="lazy" data-zoomable width="80%" /></div>
+  </div><figcaption>
+      Fig 2. <em>Diagonal Markov chain.</em> In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. (C) Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x + v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays.
+    </figcaption></figure>
+Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
+The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-fig-5-histogram-of-the-estimated-positions-as-a-function-of-time-for-the-dmbp-model-histograms-of-the-inferred-horizontal-positions-blueish-bottom-panel-and-horizontal-velocity-reddish-top-panel-as-a-function-of-time-frame-from-the-dmbp-model-darker-levels-correspond-to-higher-probabilities-while-a-light-color-corresponds-to-an-unlikely-estimation-we-highlight-three-successive-epochs-along-the-trajectory-corresponding-to-the-flash-initiated-standard-mid-point-and-flash-terminated-cycles-the-timing-of-the-flashes-are-respectively-indicated-by-the-dashed-vertical-lines-in-dark-the-physical-time-and-in-green-the-delayed-input-knowing-τ--100-ms-histograms-are-plotted-at-two-different-levels-of-our-model-in-the-push-mode-the-left-hand-column-illustrates-the-source-layer-that-corresponds-to-the-integration-of-delayed-sensory-information-including-the-prior-on-motion-the-right-hand-illustrates-the-target-layer-corresponding-to-the-same-information-but-after-the-occurrence-of-some-motion-extrapolation-compensating-for-the-known-neural-delay-τ">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10.1371/journal.pcbi.1005068.g005" alt="Fig 5. *Histogram of the estimated positions as a function of time for the dMBP model.* Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.  " loading="lazy" data-zoomable width="80%" /></div>
+  </div><figcaption>
+      Fig 5. <em>Histogram of the estimated positions as a function of time for the dMBP model.</em> Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.
+    </figcaption></figure>
+Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &ldquo;hidden&rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &ldquo;simulation&rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &ldquo;science fiction&rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New from Khoei et al. The Flash-Lag Effect as a <a href="https://twitter.com/hashtag/Motion?src=hash&amp;ref_src=twsrc%5Etfw">#Motion</a>-Based Predictive Shift <a href="https://t.co/K3KWPO8l4a">https://t.co/K3KWPO8l4a</a> <a href="https://twitter.com/hashtag/neuralnetworks?src=hash&amp;ref_src=twsrc%5Etfw">#neuralnetworks</a> <a href="https://t.co/iWsd9nK5qp">pic.twitter.com/iWsd9nK5qp</a></p>&mdash; PLOS Comp Biol (@PLOSCompBiol) <a href="https://twitter.com/PLOSCompBiol/status/829474896023474176?ref_src=twsrc%5Etfw">February 8, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+</div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/bayesian-model/">Bayesian model</a>
+  
+  <a class="badge badge-light" href="/tag/motion-prediction/">motion prediction</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&amp;text=The%20flash-lag%20effect%20as%20a%20motion-based%20predictive%20shift" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&amp;t=The%20flash-lag%20effect%20as%20a%20motion-based%20predictive%20shift" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=The%20flash-lag%20effect%20as%20a%20motion-based%20predictive%20shift&amp;body=https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&amp;title=The%20flash-lag%20effect%20as%20a%20motion-based%20predictive%20shift" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=The%20flash-lag%20effect%20as%20a%20motion-based%20predictive%20shift%20https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&amp;title=The%20flash-lag%20effect%20as%20a%20motion-based%20predictive%20shift" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/mina-a-khoei/"><img class="avatar mr-3 avatar-circle" src="/author/mina-a-khoei/avatar_hu5529952055b822b4cca806b537b8ea77_67608_270x270_fill_q75_lanczos_center.jpg" alt="Mina A Khoei"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/mina-a-khoei/">Mina A Khoei</a></h5>
+      <h6 class="card-subtitle">Phd in Computational Neuroscience</h6>
+      <p class="card-text">During my PhD, I focused on predictive coding and motion coherence.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=oHLjQTEAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/mina-a-khoei-58673526" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://laurentperrinet.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/laurent-u-perrinet/avatar_hu34ad5b8db880542c60288aed1996fc62_245755_270x270_fill_q75_lanczos_center.jpg" alt="Laurent U Perrinet"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://laurentperrinet.github.io/">Laurent U Perrinet</a></h5>
+      <h6 class="card-subtitle">Researcher in Computational Neuroscience</h6>
+      <p class="card-text">My research interests include Machine Learning and computational neuroscience applied to Vision.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-9536-010X" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/kaplan-khoei-14/">Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</a></li>
+      
+      <li><a href="/publication/kaplan-13/">Anisotropic connectivity implements motion-based prediction in a spiking neural network</a></li>
+      
+      <li><a href="/publication/khoei-13-cns/">Motion-based prediction and development of the response to an &#39;on the way&#39; stimulus</a></li>
+      
+      <li><a href="/talk/2012-01-12-vision-at-ucl/">Motion-based prediction is sufficient to solve the aperture problem</a></li>
+      
+      <li><a href="/publication/perrinet-12-pred/">Motion-based prediction is sufficient to solve the aperture problem</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  <p class="powered-by">
+    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
+Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
+  </p>
+
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    <script src="/js/_vendor/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.f3e5a2ed0c33ddcaef88a720b0abe966.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>
