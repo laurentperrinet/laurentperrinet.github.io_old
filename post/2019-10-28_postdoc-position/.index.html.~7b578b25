@@ -1,0 +1,1570 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.0.0-beta.3 for Hugo" />
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Laurent U Perrinet" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&amp;lang=fr) (UNIC-NeuroPSI, Gif)." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.14ed061da97974d1963d99308520201c.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-140381649-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@laurentperrinet" />
+    <meta property="twitter:creator" content="@laurentperrinet" />
+  
+  <meta property="og:site_name" content="Novel visual computations" />
+  <meta property="og:url" content="https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/" />
+  <meta property="og:title" content="Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves | Novel visual computations" />
+  <meta property="og:description" content="THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934&amp;lang=fr) (UNIC-NeuroPSI, Gif)." /><meta property="og:image" content="https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/featured.jpg" />
+    <meta property="twitter:image" content="https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2019-10-21T09:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2019-10-21T09:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/"
+  },
+  "headline": "Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves",
+  
+  "image": [
+    "https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/featured.jpg"
+  ],
+  
+  "datePublished": "2019-10-21T09:00:00Z",
+  "dateModified": "2019-10-21T09:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Laurent U Perrinet"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Novel visual computations",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by [Laurent Perrinet](https://laurentperrinet.github.io/), supported by (INT, Marseille) and [Yves Frégnac](http://neuro-psi.cnrs.fr/spip.php?article934\u0026lang=fr) (UNIC-NeuroPSI, Gif)."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves | Novel visual computations</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="bcec3e4d5dc3336840b18108295d2f83" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.b024895df05e271929739bb54886c674.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Novel visual computations</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Novel visual computations</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Featured</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#grants"><span>Grants</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/sciblog/" target="_blank" rel="noopener"><span>BlogBook</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Postdoc position on Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves</h1>
+
+  
+  <p class="page-subtitle">THE POSITION HAS BEEN FILLED. 18 month Post-doc position coordinated by <a href="https://laurentperrinet.github.io/">Laurent Perrinet</a>, supported by (INT, Marseille) and <a href="http://neuro-psi.cnrs.fr/spip.php?article934&amp;lang=fr">Yves Frégnac</a> (UNIC-NeuroPSI, Gif).</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 21, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    8 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 1200px; max-height: 675px;">
+  <div style="position: relative">
+    <img src="/post/2019-10-28_postdoc-position/featured.jpg" alt="" class="featured-image">
+    <span class="article-header-caption">Artwork by <a href="https://laurentperrinet.github.io/post/2019-06-22_ardemone/">Etienne Rey</a>, photo <a href="https://www.enrevenantdelexpo.com/2019/05/17/sans-gravite-une-poetique-de-air-ardenome-avignon/">Jean Luc Cougy</a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <div class="alert alert-warning">
+  <div>
+    THE POSITION HAS BEEN FILLED.
+  </div>
+</div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Applications are welcome for a post-doctoral position at INT-Marseille, France exploring novel visual computations using spatio-temporal diffusion kernels and travelling waves. More info @ <a href="https://t.co/f6tUR8XW6y">https://t.co/f6tUR8XW6y</a> <a href="https://t.co/odzckjtloa">pic.twitter.com/odzckjtloa</a></p>&mdash; laurentperrinet (@laurentperrinet) <a href="https://twitter.com/laurentperrinet/status/1188940039293751297?ref_src=twsrc%5Etfw">October 28, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Dear colleagues,</p>
+<p>Applications are welcome for a post-doctoral position at <a href="http://www.int.univ-amu.fr/?lang=en" target="_blank" rel="noopener">INT</a> in <a href="https://en.wikipedia.org/wiki/Marseille" target="_blank" rel="noopener">Marseille</a>, France. Your mission will be to explore novel visual computations using spatio-temporal diffusion kernels and traveling waves. The project is funded by the <a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" target="_blank" rel="noopener">ANR Horizontal V1</a> grant (ANR-17-CE37-0006) from the French National Research Agency (ANR) and will be coordinated by <a href="https://laurentperrinet.github.io/" target="_blank" rel="noopener">Laurent Perrinet</a>, in collaboration with <a href="https://www.mullerlab.ca" target="_blank" rel="noopener">Lyle Muller</a> and <a href="http://www.int.univ-amu.fr/spip.php?page=equipe&amp;equipe=NeOpTo&amp;lang=en" target="_blank" rel="noopener">Frédéric Chavane</a> at INT and <a href="http://neuro-psi.cnrs.fr/spip.php?article934&amp;lang=fr" target="_blank" rel="noopener">Yves Frégnac</a> and Jan Antolik at UNIC-NeuroPSI, Gif. We are seeking candidates with a strong background in machine learning, computer vision and computational neuroscience.</p>
+<p>For more information, visit <a href="https://laurentperrinet.github.io/post/2019-10-28_postdoc-position" target="_blank" rel="noopener">https://laurentperrinet.github.io/post/2019-10-28_postdoc-position</a>.</p>
+<p>The starting date is set to January 6th, 2020 but can be flexibly extended. To obtain further information or send applications (including a full CV, a letter of motivation, 2 reference names), please contact: <a href="mailto:Laurent.Perrinet@univ-amu.fr">Laurent.Perrinet@univ-amu.fr</a>. The appointment is for 18 month. Applications are welcome immediately and until the end of year 2019.</p>
+<p>Thanks for distributing this announcement to potential candidates!</p>
+<h1 id="detailed-description-visual-computations-using-spatio-temporal-diffusion-kernels-and-traveling-waves">Detailed description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves</h1>
+<p>Biological vision is surprisingly efficient. To take advantage of this efficiency, Deep learning and convolutional neural networks (CNNs) have recently produced great advances in artificial computer vision. However, these algorithms now face multiple challenges: learned architectures are often not interpretable, disproportionally energy greedy, and often lack the integration of contextual information that seems optimized in biological vision and human perception. It is clear from recent advances in system and computational neuroscience that nonlinear, recurrent interactions in visual cortical networks are key to this efficiency (<a href="#Tang18">Tang et al., 2018</a>; <a href="#Kietzmann19">Kietzmann et al., 2019</a>). We will use inspiration from neurophysiology and brain imaging to resolve this apparent gap between traditional CNNs and biological visual systems.</p>
+<p><strong>In this post-doctoral project, we propose to address these major limitations by focusing on specific dynamical features of cortical circuits: <em>lateral diffusion of sensory-evoked traveling waves</em> (<a href="#Chavane2000">Chavane et al., 2011</a>; <a href="#muller2018cortical">Muller et al., 2018</a>) and <em>dynamic neuronal association fields</em> (<a href="#Fr%c3%a9gnac2012">Frégnac et al., 2012</a>; <a href="#Fr%c3%a9gnac2016">Frégnac et al., 2016</a>; <a href="#gerard2016synaptic">Gerard-Mercier et al., 2016</a>)</strong>. Indeed, the architecture of primary visual cortex (V1), the direct target of the feedforward visual flow, contains dense local recurrent connectivity with sparse long-range connections (<a href="#Voges12">Voges and Perrinet, 2012</a>). Such connections add to the traditional convolutional kernels representing feedforward and local recurrent amplification a novel lateral interaction kernel within a single layer (across positions and channels). Less studied, but probably decisive in active vision, recurrent cortico-cortical loops add a level of distributed top-down complexity which participates to the lateral integration of sensory input and perceptual context (<a href="#Keller2019">Keller et al., 2019</a>). Coupled with the continuous time dynamics of cortical circuits, this elaborate multiplexed architecture provides the conditions possible for generating information diffusion through traveling waves. Inspired by recent work in neuroscience uncovering the ubiquity of these waves during visual processing, we aim to design a self-supervised CNN that will exploit these dynamics for new applications in computer vision.</p>
+<p>The proposed work will be organized as a collaboration between two labs (INT, Marseille and UNIC, Gif) along three tasks to be integrated in a unified model:</p>
+<ol>
+<li>
+<p>The starting point will be to extend results of self-supervised learning that we have obtained on static, natural images (<a href="#BoutinFranciosiniChavaneRuffierPerrinet20">Boutin et al., 2019</a>) showing in a recurrent cortical-like artificial CNN architecture the emergence of interactions which phenomenologically correspond to the &ldquo;association field&rdquo; described at the psychophysical (<a href="#Field1993">Field et al., 1993</a>), spiking (<a href="#Li2002">Li and Gilbert, 2002</a>) and synaptic (<a href="#gerard2016synaptic">Gerard-Mercier et al., 2016</a>) levels.</p>
+</li>
+<li>
+<p>The central aim will be to develop a dynamical version of this feedback/lateral kernel in the context of the <a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" target="_blank" rel="noopener">ANR Horizontal-V1</a> project, linking the two labs and confronted to their recent electrophysiological data pointing to different classes of spatio-temporal diffusion and different degree of anisotropies during apparent and continuous motion.</p>
+</li>
+<li>
+<p>The implementation of this kernel inspired by CNN theory will be compared with a biologically realistic models of the early visual system (<a href="#Antolik2019">Antolik et al., 2019</a>), and simulations of the lateral diffusion kernel will be developed in collaboration with <a href="http://antolik.net/" target="_blank" rel="noopener">Jan Antolik</a>, external collaborator to the ANR grant.  In parallel, using tools linking neural activity to VSD imaging (<a href="#muller2014stimulus">Muller et al., 2014</a>; <a href="#Chemla2018">Chemla et al., 2019</a>), we will analyze at a more mesocopic level the role of observed traveling waves in forming efficient representations of the visual world.</p>
+</li>
+</ol>
+<h2 id="expected-profile-of-the-candidate">Expected profile of the candidate</h2>
+<p>Candidates should have at least a PhD degree in the domain of computational neuroscience, physics, engineering or related, and a solid training in machine learning and computer vision.</p>
+<p>The candidate has to show good skills in computer science (programming skills, architecture understanding, git versioning, &hellip;), and in image processing methods. Good command of programming tools (Python scripting) is required. Multidisciplinary background would be strongly appreciated and in particular an advanced knowledge in mathematics, for a deep understanding of signal processing methods, along with strong computational skills. The candidate needs to show a keen interest in neuroscience. It is a bonus if the candidate is curious about neuroscience and visual perception.</p>
+<p>The candidate has to fluently speak English to understand publications and to attend international conferences and workshops. The preferred candidate will have the ability to work autonomously, and needs to be flexible to comply with the working method of the supervisors.</p>
+<h2 id="research-context">Research context</h2>
+<p>This project is funded by the French National Research Agency (ANR) under the <a href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" target="_blank" rel="noopener">ANR Horizontal V1</a> grant (coordinator Y. Frégnac) which aims at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). The cross-talk between physiological and theoretical approaches will be fostered by the close collaboration with the teams of Frédéric Chavane at INT and Yves Frégnac at UNIC. The theoretical work will be performed in close collaboration with <a href="https://www.mullerlab.ca/" target="_blank" rel="noopener">Lyle Muller</a> (Western U) and Jan Antolik (Prague). The project will be primarily hosted at the <a href="http://www.int.univ-amu.fr/?lang=en" target="_blank" rel="noopener">Institut de Neurosciences de la Timone</a> in <a href="https://en.wikipedia.org/wiki/Marseille" target="_blank" rel="noopener">Marseille</a>, a lively town by the Mediterranean sea in the south of France, but the applicant will be asked also to show mobility to visit the other partner lab when needed.</p>
+<h1 id="references">References</h1>
+<ul>
+<li>
+<p><a name="Antolik2019"> Antolik, J, C Monier, Y Frégnac, AP Davison. (2019). </a> &ldquo;<a href="https://www.biorxiv.org/content/10.1101/416156v1" target="_blank" rel="noopener">A comprehensive data-driven model of cat primary visual cortex.</a>&rdquo; <em>BioRxiv</em>, 416156.</p>
+</li>
+<li>
+<p><a name="BoutinFranciosiniChavaneRuffierPerrinet20"> Boutin, Victor, Angelo Franciosini, Frédéric Chavane, Franck Ruffier, and Laurent U Perrinet. (2019). </a> &ldquo;<a href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system.</a>&rdquo; <em>arXiv</em></p>
+</li>
+<li>
+<p><a name="Chavane2000"> Chavane, F., C. Monier, V. Bringuier, P. Baudot, L. Borg-Graham, J. Lorenceau, and Y. Frégnac. 2000. </a> &ldquo;The Visual Cortical Association Field: A Gestalt Concept or a Psychophysiological Entity?&rdquo; <em>Frontiers in System Neuroscience</em> 4(5): 1-26.</p>
+</li>
+<li>
+<p><a name="Chavane2011"> Chavane, F., Sharon, D., Jancke, D., Marre, O., Frégnac, Y. and Grinvald, A.  (2011). </a> &ldquo;<a href="https://doi.org/10.1016/S0928-4257%2800%2901096-2" target="_blank" rel="noopener">Lateral spread of orientation selectivity in V1 is controlled by intracortical cooperativity.</a>&rdquo; <em>Journal of Physiology Paris</em> 94 (5-6): 333&ndash;42.</p>
+</li>
+<li>
+<p><a name="Chemla2018"> Chemla, Sandrine, Alexandre Reynaud, Matteo diVolo, Yann Zerlaut, Laurent Perrinet, Alain Destexhe, and Frédéric Chavane. </a> (2018). &ldquo;<a href="https://doi.org/10.1523/JNEUROSCI.2792-18.2019" target="_blank" rel="noopener">Suppressive Waves Disambiguate the Representation of Long-Range Apparent Motion in Awake Monkey V1.</a>&rdquo; <em>Journal of Neuroscience</em> 39 (22) 4282-4298.</p>
+</li>
+<li>
+<p><a name="Field1993"> Field, D.J., Hayes, A. and Hess, R.F. (1993). </a> &ldquo;<a href="https://doi.org/10.1016/0042-6989%2893%2990156-Q" target="_blank" rel="noopener">Contour integration by the human visual system: Evidence for a local “association field”.</a>&rdquo; <em>Vision Research</em> 33 (2), pp. 173-193.</p>
+</li>
+<li>
+<p><a name="Frégnac2012"> Frégnac, Y. (2012)  </a> &ldquo;<a href="https://hal.archives-ouvertes.fr/hal-01685152/" target="_blank" rel="noopener">Reading out the synaptic echoes of low-level perception in V1.</a>&rdquo; <em>European Conference in Computer Vision</em> 486-495. Springer, Berlin, Heidelberg.</p>
+</li>
+<li>
+<p><a name="Frégnac2016"> Frégnac, Y., Fournier, J., Gerard-Mercier, F., Monier, C., Carelli, P., , M., Troncoso, X. (2016).  </a> &ldquo;<a href="https://link-springer-com.insb.bib.cnrs.fr/content/pdf/10.1007%2F978-3-319-28802-4_4.pdf" target="_blank" rel="noopener">The Visual Brain: Computing Through Multiscale Complexity.</a>&rdquo; In <em>Micro-, Meso- and Macro-Dynamics of the Brain</em> pp 43-57.</p>
+</li>
+<li>
+<p><a name="gerard2016synaptic"> Gerard-Mercier, Florian, Pedro V Carelli, Marc Pananceau, Xoana G Troncoso, and Yves Frégnac. (2016). </a> &ldquo;<a href="https://www.jneurosci.org/content/36/14/3925" target="_blank" rel="noopener">Synaptic Correlates of Low-Level Perception in V1.</a>&rdquo; <em>Journal of Neuroscience</em> 36 (14): 3925&ndash;42.</p>
+</li>
+<li>
+<p><a name="Keller2019">Keller, A., Roth, M.M. and Scanziani, M. (2019).  </a> 2019. &ldquo;<a href="https://www.abstractsonline.com/pp8/#!/7883/presentation/65856" target="_blank" rel="noopener">The feedback receptive field of neurons in the mammalian primary visual cortex.</a>&rdquo; <em>American Society for Neuroscience Abstracts</em>,  403.13. Chicago.</p>
+</li>
+<li>
+<p><a name="Kietzmann19">Kietzmann, Tim C., Courtney J. Spoerer, Lynn K. A. Sörensen, Radoslaw M. Cichy, Olaf Hauk, and Nikolaus Kriegeskorte. </a> (2019). &ldquo;<a href="https://doi.org/10/gf9j2t" target="_blank" rel="noopener">Recurrence Is Required to Capture the Representational Dynamics of the Human Visual System.</a>&rdquo; <em>Proceedings of the National Academy of Sciences</em>, October, 201905544.</p>
+</li>
+<li>
+<p><a name="Li2002">Li W, Piëch V, Gilbert CD</a>  (2006). &ldquo;<a href="http://www.paper.edu.cn/scholar/showpdf/MUz2UN2INTA0eQxeQh" target="_blank" rel="noopener">Contour saliency in primary visual cortex.</a>&rdquo; <em>Neuron</em>, 50(6):951–962.</p>
+</li>
+<li>
+<p><a name="muller2014stimulus">Muller, Lyle, Alexandre Reynaud, Frédéric Chavane, and Alain Destexhe. </a> (2014). &ldquo;<a href="http://www.int.univ-amu.fr/IMG/pdf/Muller_Nature_Communications2014.pdf" target="_blank" rel="noopener">The Stimulus-Evoked Population Response in Visual Cortex of Awake Monkey Is a Propagating Wave.</a>&rdquo; <em>Nature Communications</em> 5: 3675.</p>
+</li>
+<li>
+<p><a name="muller2018cortical"> Muller, Lyle, Frédéric Chavane, John Reynolds, and Terrence J Sejnowski. </a> (2018). &ldquo;<a href="https://papers.cnl.salk.edu/PDFs/Cortical%20travelling%20waves_%20mechanisms%20and%20computational%20principles.%202018-4515.pdf" target="_blank" rel="noopener">Cortical Travelling Waves: Mechanisms and Computational Principles.</a>&rdquo; <em>Nature Reviews Neuroscience</em> 19 (5): 255.</p>
+</li>
+<li>
+<p><a name="Tang18">Tang, Hanlin, Martin Schrimpf, William Lotter, Charlotte Moerman, Ana Paredes, Josue Ortega Caro, Walter Hardesty, David Cox, and Gabriel Kreiman. </a> (2018). &ldquo;<a href="https://doi.org/10.1073/pnas.1719397115" target="_blank" rel="noopener">Recurrent computations for visual pattern completion.</a>&rdquo; <em>Proceedings of the National Academy of Sciences</em> 115 (35) 8835-8840.</p>
+</li>
+<li>
+<p><a name="Voges12"> Voges, Nicole, and Laurent U Perrinet.</a> (2012). &ldquo;<a href="https://doi.org/10.3389/fncom.2012.00041" target="_blank" rel="noopener">Complex Dynamics in Recurrent Cortical Networks Based on Spatially Realistic Connectivities.</a>&rdquo; <em>Frontiers in Computational Neuroscience</em> 6.</p>
+</li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/events/">events</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/&amp;text=Postdoc%20position%20on%20Visual%20computations%20using%20Spatio-temporal%20Diffusion%20Kernels%20and%20Traveling%20Waves" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/&amp;t=Postdoc%20position%20on%20Visual%20computations%20using%20Spatio-temporal%20Diffusion%20Kernels%20and%20Traveling%20Waves" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Postdoc%20position%20on%20Visual%20computations%20using%20Spatio-temporal%20Diffusion%20Kernels%20and%20Traveling%20Waves&amp;body=https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/&amp;title=Postdoc%20position%20on%20Visual%20computations%20using%20Spatio-temporal%20Diffusion%20Kernels%20and%20Traveling%20Waves" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Postdoc%20position%20on%20Visual%20computations%20using%20Spatio-temporal%20Diffusion%20Kernels%20and%20Traveling%20Waves%20https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/post/2019-10-28_postdoc-position/&amp;title=Postdoc%20position%20on%20Visual%20computations%20using%20Spatio-temporal%20Diffusion%20Kernels%20and%20Traveling%20Waves" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://laurentperrinet.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/laurent-u-perrinet/avatar_hu34ad5b8db880542c60288aed1996fc62_245755_270x270_fill_q75_lanczos_center.jpg" alt="Laurent U Perrinet"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://laurentperrinet.github.io/">Laurent U Perrinet</a></h5>
+      <h6 class="card-subtitle">Researcher in Computational Neuroscience</h6>
+      <p class="card-text">My research interests include Machine Learning and computational neuroscience applied to Vision.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-9536-010X" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/2020-06-30_phd-position/">PhD offer &#34;Ultra-fast vision using Spiking Neural Networks&#34;</a></li>
+      
+      <li><a href="/post/2020-09-11_seminaire-thomas-serre/">2020-09-11 : Feedforward and feedback processes in visual recognition (T Serre)</a></li>
+      
+      <li><a href="/post/2020-03-13_soutenance-victor-boutin/">2020-03-13: Soutenance Victor Boutin</a></li>
+      
+      <li><a href="/post/2019-10-10_gdrvision/">2019-10-10: GDR vision 2019</a></li>
+      
+      <li><a href="/post/2019-10-10_gdrvision-atelier/">2019-10-10: Atelier Utiliser l&#39;apprentissage profond en vision</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  <p class="powered-by">
+    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
+Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
+  </p>
+
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    <script src="/js/_vendor/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.f3e5a2ed0c33ddcaef88a720b0abe966.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>
