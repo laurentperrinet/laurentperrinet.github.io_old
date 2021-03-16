@@ -1521,7 +1521,7 @@ These theoretical and experimental results show that in this realistic situation
 &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/2020-03_video-abstract/2020-03-24_video-abstract.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating the video abstract)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Notre papier avec Chloé Pasturel et @MontagniniAnna  figure dans les &lt;a href=&#34;https://indd.adobe.com/view/ea980f21-e298-43e8-abd7-fff6909d6755&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;faits marquants 2020 de la Société des Neurosciences&lt;/a&gt;! Voir aussi  &lt;a href=&#34;https://lejournal.cnrs.fr/nos-blogs/aux-frontieres-du-cerveau/les-faits-marquants-2020-de-la-societe-de-neurosciences&#34;&gt;https://lejournal.cnrs.fr/nos-blogs/aux-frontieres-du-cerveau/les-faits-marquants-2020-de-la-societe-de-neurosciences&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Notre papier avec Chloé Pasturel et @MontagniniAnna  figure dans les &lt;a href=&#34;https://indd.adobe.com/view/ea980f21-e298-43e8-abd7-fff6909d6755&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;faits marquants 2020 de la Société des Neurosciences&lt;/a&gt;! Voir aussi  &lt;a href=&#34;https://lejournal.cnrs.fr/nos-blogs/aux-frontieres-du-cerveau/les-faits-marquants-2020-de-la-societe-de-neurosciences&#34;&gt;https://lejournal.cnrs.fr/nos-blogs/aux-frontieres-du-cerveau/les-faits-marquants-2020-de-la-societe-de-neurosciences&lt;/a&gt; :&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;Notre papier avec Chloé Pasturel et &lt;a href=&#34;https://twitter.com/MontagniniAnna?ref_src=twsrc%5Etfw&#34;&gt;@MontagniniAnna&lt;/a&gt;  figure dans les faits marquants 2020 de la Société des Neurosciences! &lt;a href=&#34;https://t.co/w825oTz1o5&#34;&gt;https://t.co/w825oTz1o5&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/neuroscience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuroscience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/actu?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#actu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/sciences?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#sciences&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/SocNeuro_Tweets?ref_src=twsrc%5Etfw&#34;&gt;@SocNeuro_Tweets&lt;/a&gt;&lt;a href=&#34;https://twitter.com/CNRS?ref_src=twsrc%5Etfw&#34;&gt;@CNRS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://t.co/KeKh5MNWu2&#34;&gt;https://t.co/KeKh5MNWu2&lt;/a&gt; &lt;a href=&#34;https://t.co/eojTqsp6gD&#34;&gt;https://t.co/eojTqsp6gD&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1371420462056620036?ref_src=twsrc%5Etfw&#34;&gt;March 15, 2021&lt;/a&gt;&lt;/blockquote&gt;
@@ -6473,7 +6473,8 @@ Bibliothèque de Méjanes&lt;/li&gt;
 &lt;!-- Place this tag in your head or just before your close body tag. --&gt;
 &lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;
 &lt;h1 id=&#34;bayesianchangepoint&#34;&gt;bayesianchangepoint&lt;/h1&gt;
-&lt;p&gt;An implementation of &lt;a href=&#34;http://arxiv.org/abs/0710.3742&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adams &amp;amp; MacKay 2007 &amp;ldquo;Bayesian Online Changepoint Detection&amp;rdquo;&lt;/a&gt; for binary inputs in Python.&lt;/p&gt;
+&lt;p&gt;An implementation of &lt;a href=&#34;http://arxiv.org/abs/0710.3742&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adams &amp;amp; MacKay 2007 &amp;ldquo;Bayesian Online Changepoint Detection&amp;rdquo;&lt;/a&gt; for binary inputs in 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/bayesianchangepoint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See the final publication @ 
@@ -6584,7 +6585,8 @@ Bibliothèque de Méjanes&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/LeCheapEyeTracker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;biologically-inspired-computer-vision&#34;&gt;Biologically inspired computer vision&lt;/h1&gt;
+&lt;h1 id=&#34;biologically-inspired-computer-vision-hahahugoshortcode-s5-hbhb-python&#34;&gt;Biologically inspired computer vision (
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python)&lt;/h1&gt;
 &lt;h2 id=&#34;slip-a-simple-library-for-image-processing&#34;&gt;SLIP: a Simple Library for Image Processing&lt;/h2&gt;
 &lt;p&gt;This library collects different Image Processing tools for use with the  &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; and  &lt;a href=&#34;https://pythonhosted.org/SparseEdges/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SparseEdges&lt;/a&gt; libraries.&lt;/p&gt;
 &lt;ul&gt;
@@ -6614,10 +6616,12 @@ Bibliothèque de Méjanes&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/MotionClouds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; using 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;pynn&#34;&gt;PyNN&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;PyNN&lt;/strong&gt; is a simulator-independent language for building neuronal network models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PyNN&lt;/strong&gt; is a simulator-independent language for building neuronal network models using 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/PyNN/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/PyNN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;

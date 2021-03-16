@@ -40,7 +40,8 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;!-- Place this tag in your head or just before your close body tag. --&gt;
 &lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;
 &lt;h1 id=&#34;bayesianchangepoint&#34;&gt;bayesianchangepoint&lt;/h1&gt;
-&lt;p&gt;An implementation of &lt;a href=&#34;http://arxiv.org/abs/0710.3742&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adams &amp;amp; MacKay 2007 &amp;ldquo;Bayesian Online Changepoint Detection&amp;rdquo;&lt;/a&gt; for binary inputs in Python.&lt;/p&gt;
+&lt;p&gt;An implementation of &lt;a href=&#34;http://arxiv.org/abs/0710.3742&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adams &amp;amp; MacKay 2007 &amp;ldquo;Bayesian Online Changepoint Detection&amp;rdquo;&lt;/a&gt; for binary inputs in 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/bayesianchangepoint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See the final publication @ 
@@ -151,7 +152,8 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/LeCheapEyeTracker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;biologically-inspired-computer-vision&#34;&gt;Biologically inspired computer vision&lt;/h1&gt;
+&lt;h1 id=&#34;biologically-inspired-computer-vision-hahahugoshortcode-s5-hbhb-python&#34;&gt;Biologically inspired computer vision (
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python)&lt;/h1&gt;
 &lt;h2 id=&#34;slip-a-simple-library-for-image-processing&#34;&gt;SLIP: a Simple Library for Image Processing&lt;/h2&gt;
 &lt;p&gt;This library collects different Image Processing tools for use with the  &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; and  &lt;a href=&#34;https://pythonhosted.org/SparseEdges/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SparseEdges&lt;/a&gt; libraries.&lt;/p&gt;
 &lt;ul&gt;
@@ -181,10 +183,12 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;p&gt;&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/MotionClouds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; using 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;pynn&#34;&gt;PyNN&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;PyNN&lt;/strong&gt; is a simulator-independent language for building neuronal network models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PyNN&lt;/strong&gt; is a simulator-independent language for building neuronal network models using 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/PyNN/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/PyNN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
