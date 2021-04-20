@@ -79,16 +79,14 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
 
-
-
-
-
-
   
 
 
-&lt;video controls &gt;
-  &lt;source src=&#34;video_perrinet.mp4&#34; type=&#34;video/mp4&#34;&gt;
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/ravello-19/video_perrinet.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 Cette vidéo montre les trois classes de stimulations utilisées dans cette étude. En plus des réseaux sinusoïdaux (“Grating”) qui sont classiquement utilisés en neurosciences, cette étude a utilisé des textures aléatoires (Motion Clouds (MC)) qui sont inspirées de modèles du traitement visuel. Ils permettent en particulier de manipuler des paramètres visuels critiques comme la variété de fréquences spatiales qui sont superposées: soit unique (“Grating”), fine (“MC Narrow”), soit plus large (“MC Broad”). Ces vidéos ont été directement projetées sur des rétines posées sur des grilles d’électrodes qui permettent de mesurer l’activité neurale (voir figure). © Laurent Perrinet / Cesar Ravello&lt;/p&gt;
 </description>
@@ -97,7 +95,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
     </item>
