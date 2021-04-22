@@ -1594,7 +1594,15 @@ We propose to use dynamic inference as an efficient theoretical framework to und
       <link>https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles/</link>
       <pubDate>Fri, 03 Apr 2020 16:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/talk/2020-04-ue-neurosciences-computationnelles/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;2020-04_ue-neurosciences-computationnelles-matériel-pour-le-cours-de-modélisation&#34;&gt;2020-04_UE-neurosciences-computationnelles, matériel pour le cours de modélisation&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Où: Marseille (France)&lt;/li&gt;
+&lt;li&gt;Quoi: Master Neurosciences et Sciences Cognitives&lt;/li&gt;
+&lt;li&gt;But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d&amp;rsquo;un neurone et afin d&amp;rsquo;améliorer sa compréhension.&lt;/li&gt;
+&lt;li&gt;Modalités: les étudiants s&amp;rsquo;organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de &lt;a href=&#34;https://jupyter.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;notebook&lt;/a&gt; complété à partir &lt;a href=&#34;https://raw.githubusercontent.com/laurentperrinet/2020-04_UE-neurosciences-computationnelles/master/MainenSejnowski1995.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;du modèle qui est fourni&lt;/a&gt;. Suivez les balises &lt;code&gt;TODO&lt;/code&gt; dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n&amp;rsquo;oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence avant le 31 avri).&lt;/li&gt;
+&lt;li&gt;Outils nécessaires: &lt;a href=&#34;https://jupyter.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jupyter&lt;/a&gt;, avec &lt;a href=&#34;https://numpy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;numpy&lt;/a&gt; et &lt;a href=&#34;https://matplotlib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;matplotlib&lt;/a&gt;. Ce sont des outils standard et qui sont facilement installables sur toute plateforme. Si vous avez des problèmes, me joindre par e-mail ou sur le &lt;a href=&#34;https://spik.xyz/nc/index.php/call/xuswegwv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;forum&lt;/a&gt; 👇&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
