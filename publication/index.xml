@@ -6,12 +6,100 @@
       <atom:link href="https://laurentperrinet.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://laurentperrinet.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A homeostatic gain control mechanism to improve event-driven object recognition</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;to be presented at the &lt;a href=&#34;https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bio-inspired circuits, systems and algorithms for multimedia&lt;/a&gt; special session of the &lt;a href=&#34;https://cbmi2021.univ-lille.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Content-Based Multimedia Indexing (CBMI) 2021&lt;/a&gt; conference&lt;/li&gt;
+&lt;li&gt;this proceedings paper follows up he poster presented in : 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sio-hoi-ieng/&#34;&gt;Sio-Hoi Ieng&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/ryad-benosman/&#34;&gt;Ryad Benosman&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2021).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/&#34;&gt;A robust bio-inspired approach to event-driven object recognition&lt;/a&gt;.
+  &lt;em&gt;Computational and Systems Neuroscience (Cosyne) 2021&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/grimaldi-21-cosyne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/grimaldi-21-cosyne/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;Antoine Grimaldi and Laurent Perrinet received funding from the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant agreement No ANR-19-CHR3-0008-03.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Pooling in a predictive model of V1 explains functional and structural diversity across species</title>
@@ -290,94 +378,6 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     </item>
     
     <item>
-      <title>A homeostatic gain control mechanism to improve event-driven object recognition</title>
-      <link>https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;to be presented at the &lt;a href=&#34;https://cbmi2021.univ-lille.fr/call-for-contributions#callforpapersspecialbioinspired&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bio-inspired circuits, systems and algorithms for multimedia&lt;/a&gt; special session of the &lt;a href=&#34;https://cbmi2021.univ-lille.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Content-Based Multimedia Indexing (CBMI) 2021&lt;/a&gt; conference&lt;/li&gt;
-&lt;li&gt;this proceedings paper follows up he poster presented in : 
-
-
-
-
-
-
-  
-    
-
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/sio-hoi-ieng/&#34;&gt;Sio-Hoi Ieng&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/ryad-benosman/&#34;&gt;Ryad Benosman&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2021).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/&#34;&gt;A robust bio-inspired approach to event-driven object recognition&lt;/a&gt;.
-  &lt;em&gt;Computational and Systems Neuroscience (Cosyne) 2021&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/grimaldi-21-cosyne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/grimaldi-21-cosyne/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-  
-
-&lt;/li&gt;
-&lt;li&gt;Antoine Grimaldi and Laurent Perrinet received funding from the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant agreement No ANR-19-CHR3-0008-03.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A robust bio-inspired approach to event-driven object recognition</title>
       <link>https://laurentperrinet.github.io/publication/grimaldi-21-cosyne/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
@@ -478,6 +478,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1109/CBMI50038.2021.9461901&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
 
 
 &lt;/p&gt;
@@ -636,7 +640,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/franciosini-20-cosyne/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/franciosini-20-cosyne/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Presenting my poster tonight at 8:00p &lt;a href=&#34;https://twitter.com/hashtag/cosyne2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#cosyne2020&lt;/a&gt;, a work developed using Sparse Deep Predictive Coding (SDPC) during my PhD &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; &lt;a href=&#34;https://twitter.com/NeuroSchool_mrs?ref_src=twsrc%5Etfw&#34;&gt;@NeuroSchool_mrs&lt;/a&gt; &lt;a href=&#34;https://t.co/LtUEBnlPNt&#34;&gt;pic.twitter.com/LtUEBnlPNt&lt;/a&gt;&lt;/p&gt;&amp;mdash; Angelo Franciosini (@Angelo_RDN) &lt;a href=&#34;https://twitter.com/Angelo_RDN/status/1233458739220504578?ref_src=twsrc%5Etfw&#34;&gt;February 28, 2020&lt;/a&gt;&lt;/blockquote&gt;
+      <description>&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Presenting my poster tonight at 8:00p &lt;a href=&#34;https://twitter.com/hashtag/cosyne2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#cosyne2020&lt;/a&gt;, a work developed using Sparse Deep Predictive Coding (SDPC) during my PhD &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; &lt;a href=&#34;https://twitter.com/NeuroSchool_mrs?ref_src=twsrc%5Etfw&#34;&gt;@NeuroSchool_mrs&lt;/a&gt; &lt;a href=&#34;https://t.co/LtUEBnlPNt&#34;&gt;pic.twitter.com/LtUEBnlPNt&lt;/a&gt;&lt;/p&gt;&amp;mdash; Angelo Franciosini (@Angelo_RDN) &lt;a href=&#34;https://twitter.com/Angelo_RDN/status/1233458739220504578?ref_src=twsrc%5Etfw&#34;&gt;February 28, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 
@@ -664,7 +668,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
                width=&#34;100%&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;see the follow-up paper in: 
 
@@ -937,11 +941,11 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
   
 
-&lt;/li&gt;
-&lt;/ul&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This is from:&lt;br&gt;Koray Kavukcuoglu, Marc&amp;#39;Aurelio Ranzato, Rob Fergus and Yann LeCun: Learning Invariant Features through Topographic Filter Maps, Proc. International Conference on Computer Vision and Pattern Recognition (CVPR&amp;#39;09), IEEE, 2009 &lt;a href=&#34;https://t.co/4gH6L3dmaJ&#34;&gt;pic.twitter.com/4gH6L3dmaJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Yann LeCun (@ylecun) &lt;a href=&#34;https://twitter.com/ylecun/status/1384940135419101187?ref_src=twsrc%5Etfw&#34;&gt;April 21, 2021&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -4056,7 +4060,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
     </item>
@@ -4064,7 +4068,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
@@ -4072,7 +4076,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Operant reinforcement versus reward expectancy: effects on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-vss/</link>
-      <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/damasse-16-vss/</guid>
       <description></description>
     </item>
@@ -4164,7 +4168,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
@@ -4200,7 +4204,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -4208,7 +4212,7 @@ Dans l&amp;rsquo;installation «Tropique», des faisceaux de lames lumineuses so
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -4307,7 +4311,7 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; 
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -5652,7 +5656,7 @@ More complex parts of the brain are not required at this stage, contrary to what
     <item>
       <title>Motion-based prediction explains the role of tracking in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-jpp/</link>
-      <pubDate>Fri, 22 Nov 2013 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
@@ -7708,7 +7712,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Functional consequences of correlated excitatory and inhibitory conductances in cortical networks</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</link>
-      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jun 2010 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;kremkow-10-jcns.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
 </description>
@@ -8643,7 +8647,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
       <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
-      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
@@ -8807,7 +8811,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Functional properties of feed-forward inhibition</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
-      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -8818,7 +8822,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Proceedings of the second french conference on Computational Neuroscience, Marseille</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</link>
-      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</guid>
       <description></description>
     </item>
@@ -8826,7 +8830,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
-      <pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;barthelemy-08.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
 </description>
@@ -9063,7 +9067,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Thu, 22 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>
@@ -9072,7 +9076,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Introduction to Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07-a/</link>
-      <pubDate>Thu, 22 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07-a/</guid>
       <description></description>
     </item>
@@ -9080,7 +9084,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07/</link>
-      <pubDate>Thu, 22 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07/</guid>
       <description></description>
     </item>
@@ -9088,7 +9092,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
-      <pubDate>Mon, 22 Jan 2007 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;montagnini-07.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
 </description>
@@ -9461,7 +9465,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
       <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
-      <pubDate>Mon, 22 Aug 2005 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Aug 2005 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;relies on log-Gabor filters: 
@@ -9831,7 +9835,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Wed, 22 Sep 2004 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;perrinet-03-ieee.png&#34; alt=&#34;header&#34;&gt;
 
@@ -9868,7 +9872,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Feature detection using spikes : the greedy approach</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
-      <pubDate>Thu, 22 Jul 2004 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Jul 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
       <description></description>
     </item>
@@ -9876,7 +9880,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
-      <pubDate>Mon, 22 Mar 2004 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Mar 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>
@@ -9884,7 +9888,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Finding Independent Components using spikes : a natural result of Hebbian learning in a sparse spike coding scheme</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04/</link>
-      <pubDate>Thu, 22 Jan 2004 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Jan 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04/</guid>
       <description></description>
     </item>
@@ -9936,7 +9940,7 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
     <item>
       <title>Coherence detection in a spiking neuron via Hebbian learning</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</link>
-      <pubDate>Sat, 22 Jun 2002 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Jun 2002 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;perrinet-02-stdp.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
 </description>
