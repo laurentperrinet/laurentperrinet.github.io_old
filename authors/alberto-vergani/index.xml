@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Novel visual computations</title>
+    <title>Alberto Arturo Vergani | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/authors/alberto-vergani/</link>
       <atom:link href="https://laurentperrinet.github.io/authors/alberto-vergani/index.xml" rel="self" type="application/rss+xml" />
-    <description>Novel visual computations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright>
+    <description>Alberto Arturo Vergani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://laurentperrinet.github.io/img/hulk.png</url>
-      <title>Novel visual computations</title>
+      <url>https://laurentperrinet.github.io/authors/alberto-vergani/avatar_hu87e2f7c3276e79b9f6b4b7da9ab11035_8487_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alberto Arturo Vergani</title>
       <link>https://laurentperrinet.github.io/authors/alberto-vergani/</link>
     </image>
+    
+    <item>
+      <title>Neural Turing Patterns</title>
+      <link>https://laurentperrinet.github.io/post/2021-06-15_neural-turing/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/post/2021-06-15_neural-turing/</guid>
+      <description>&lt;h1 id=&#34;neural-turing-patterns&#34;&gt;Neural Turing Patterns&lt;/h1&gt;
+&lt;p&gt;Il y a des structures dans la nature qui émergent spontanément. Ils ont été étudiés pour la première fois par le mathématicien anglais Alan Turing (1912 – 1954), qui a également introduit le concept de machine informatique contemporaine. Des exemples de ces formes sont les rayures, les taches, les grilles, les pavages, les bulles, les spirales, les mousses et les vagues. Dans le cas spécifique de cette œuvre, il est montré une collection de modèles de Turing générés via des simulations neuronales. Chaque carré est un réseau neuronal de cellules qui se déclenchent avec des intensités faibles (bleues), moyennes (blanches) et élevées (rouge). Beaucoup d&amp;rsquo;entre eux se ressemblent beaucoup, tandis que d&amp;rsquo;autres sont très différents. Regroupées comme elles le sont, les images semblent avoir une continuité graphique avec leurs voisins plus proches. Mais, cette fonctionnalité visuelle est bien une illusion de la Gestalt, car ce sont des résultats de simulation complètement indépendants.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;There are structures in nature that spontaneously emerge. They were studied for the first time by the English mathematician Alan Turing (1912 – 1954), who also introduced the concept of the contemporary computational machine. Examples of those shapes are stripes, spots, grids, tessellations, bubbles, spirals, foams and waves. In the specific case of this artwork, a collection of Turing patterns are generated via brain simulations.  Each square is a network of neural cells that fire with low (blue), medium (white) and high (red) intensities. Many of them look very similar, while others are very different. Grouped as they are, pictures seem to have a graphical continuity with their closest. But, this visual feature is indeed a Gestalt illusion, because they are completely independent simulation results.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

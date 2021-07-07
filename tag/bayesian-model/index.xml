@@ -90,15 +90,9 @@ List of Contributors :&lt;/li&gt;
 
 &lt;figure  id=&#34;figure-flash-lag-effect-when-a-visual-stimulus-moves-along-a-continuous-trajectory-it-may-be-seen-ahead-of-its-veridical-position-with-respect-to-an-unpredictable-event-such-as-a-punctuate-flash-this-illusion-tells-us-something-important-about-the-visual-system-contrary-to-classical-computers-neural-activity-travels-at-a-relatively-slow-speed-it-is-largely-accepted-that-the-resulting-delays-cause-this-perceived-spatial-lag-of-the-flash-still-after-several-decades-of-debates-there-is-no-consensus-regarding-the-underlying-mechanisms&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&#34; srcset=&#34;
-               /publication/khoei-masson-perrinet-17/flash_lag_hu277740dce32a2754cb1ad98f4208cb67_31157_42eff4b408a292dfdfd1e5e6e2e6abe9.gif 400w,
-               /publication/khoei-masson-perrinet-17/flash_lag_hu277740dce32a2754cb1ad98f4208cb67_31157_8150842463d8df9760684bb4ed9a5f75.gif 760w,
-               /publication/khoei-masson-perrinet-17/flash_lag_hu277740dce32a2754cb1ad98f4208cb67_31157_1200x1200_fit_lanczos.gif 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/flash_lag_hu277740dce32a2754cb1ad98f4208cb67_31157_42eff4b408a292dfdfd1e5e6e2e6abe9.gif&#34;
-               width=&#34;760&#34;
-               height=&#34;456&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&#34;
+           src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/flash_lag.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Flash-Lag Effect.&lt;/em&gt; When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -206,8 +200,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 &lt;figure  id=&#34;figure-a-this-figure-reports-the-response-of-predictive-processing-during-the-simulation-of-pursuit-initiation-using-a-single-sweep-of-a-visual-target-while-compensating-for-sensory-motor-delays-here-we-see-horizontal-excursions-of-oculomotor-angle-red-line-one-can-see-clearly-the-initial-displacement-of-the-target-that-is-suppressed-by-action-after-a-few-hundred-milliseconds-additionally-we-illustrate-the-effects-of-assuming-wrong-sensorimotor-delays-on-pursuit-initiation-under-pure-sensory-delays-blue-dotted-line-one-can-see-clearly-the-delay-in-sensory-predictions-in-relation-to-the-true-inputs-with-pure-motor-delays-blue-dashed-line-and-with-combined-sensorimotor-delays-blue-line-there-is-a-failure-of-optimal-control-with-oscillatory-fluctuations-in-oculomotor-trajectories-which-may-become-unstable-b-this-figure-reports-the-simulation-of-smooth-pursuit-when-the-target-motion-is-hemi-sinusoidal-as-would-happen-for-a-pendulum-that-would-be-stopped-at-each-half-cycle-left-of-the-vertical-broken-black-lines-in-the-lower-right-panel-we-report-the-horizontal-excursions-of-oculomotor-angle-the-generative-model-used-here-has-been-equipped-with-a-second-hierarchical-level-that-contains-hidden-states-modeling-latent-periodic-behavior-of-the-hidden-causes-of-target-motion-with-this-addition-the-improvement-in-pursuit-accuracy-apparent-at-the-onset-of-the-second-cycle-of-motion-is-observed-pink-shaded-area-similar-to-psychophysical-experimentss&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34; srcset=&#34;
                /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_543276db98d0a4743451eed80bc2b08b.png 400w,
                /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_ceb3d0a2860ec222e4853d61e1c22982.png 760w,
                /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_1200x1200_fit_lanczos_2.png 1200w&#34;
@@ -266,8 +259,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -339,9 +332,9 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -417,9 +410,9 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -543,8 +536,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -616,9 +609,9 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -694,9 +687,9 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -801,8 +794,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -874,9 +867,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -952,9 +945,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -1037,7 +1030,34 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <link>https://laurentperrinet.github.io/publication/adams-12/</link>
       <pubDate>Fri, 26 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/adams-12/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;adams-12.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_c5baa2a4c5c5d62f82401ce58f6115d0.png 400w,
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_32afb9a20858e8551526a49e05317ca3.png 760w,
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_c5baa2a4c5c5d62f82401ce58f6115d0.png&#34;
+               width=&#34;760&#34;
+               height=&#34;188&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -1076,7 +1096,34 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <link>https://laurentperrinet.github.io/publication/perrinet-12-pred/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-12-pred/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-12-pred.png&#34; alt=&#34;header&#34;&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/perrinet-12-pred/perrinet-12-pred_hud71ae606cf067d7c8c576f18c76b5351_58874_5000e0d0f833a5bbd6800fd81072dad8.png 400w,
+               /publication/perrinet-12-pred/perrinet-12-pred_hud71ae606cf067d7c8c576f18c76b5351_58874_3e8bfa989c01dd469796826939986b7b.png 760w,
+               /publication/perrinet-12-pred/perrinet-12-pred_hud71ae606cf067d7c8c576f18c76b5351_58874_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred_hud71ae606cf067d7c8c576f18c76b5351_58874_5000e0d0f833a5bbd6800fd81072dad8.png&#34;
+               width=&#34;661&#34;
+               height=&#34;301&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
 
 
 
@@ -1093,15 +1140,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 &lt;figure  id=&#34;figure-the-estimation-of-the-motion-of-an-elongated-slanted-segment-here-moving-horizontally-to-the-right-on-a-limited-area-such-as-the-receptive-field-of-a-neuron-leads-to-ambiguous-velocity-measurements-compared-to-physical-motion-its-the-aperture-problem-we-represent-as-arrows-the-velocity-vectors-that-are-most-likely-detected-by-a-motion-energy-model-hue-indicates-direction-angle-introducing-predictive-coding-resolves-the-aperture-problem&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.&#34; srcset=&#34;
-               /publication/perrinet-12-pred/line_particles_hu7e6cd28581c7ffe8e1cbeb15ea016578_13208353_3a37ec9fc8a9a9bc8e6d67c8917f17b8.gif 400w,
-               /publication/perrinet-12-pred/line_particles_hu7e6cd28581c7ffe8e1cbeb15ea016578_13208353_57bf0b80a55c659be6b53aa588cfcb2c.gif 760w,
-               /publication/perrinet-12-pred/line_particles_hu7e6cd28581c7ffe8e1cbeb15ea016578_13208353_1200x1200_fit_lanczos.gif 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/line_particles_hu7e6cd28581c7ffe8e1cbeb15ea016578_13208353_3a37ec9fc8a9a9bc8e6d67c8917f17b8.gif&#34;
-               width=&#34;80%&#34;
-               height=&#34;300&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.&#34;
+           src=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/line_particles.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -1121,8 +1162,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 &lt;figure  id=&#34;figure-figure-1-a-the-estimation-of-the-motion-of-an-elongated-slanted-segment-here-moving-horizontally-to-the-right-on-a-limited-area-such-as-the-dotted-circle-leads-to-ambiguous-velocity-measurements-compared-to-physical-motion-its-the-aperture-problem-we-represent-as-arrows-the-velocity-vectors-that-are-most-likely-detected-by-a-motion-energy-model-hue-indicates-direction-angle-due-to-the-limited-size-of-receptive-fields-in-sensory-cortical-areas-such-as-shown-by-the-dotted-white-circle-such-problem-is-faced-by-local-populations-of-neurons-that-visually-estimate-the-motion-of-objects-a-inset-on-a-polar-representation-of-possible-velocity-vectors-the-cross-in-the-center-corresponds-to-the-null-velocity-the-outer-circle-corresponding-to-twice-the-amplitude-of-physical-speed-we-plot-the-empirical-histogram-of-detected-velocity-vectors-this-representation-gives-a-quantification-of-the-aperture-problem-in-the-velocity-domain-at-the-onset-of-motion-detection-information-is-concentrated-along-an-elongated-constraint-line-whitehigh-probability-blackzero-probability-b-we-use-the-prior-knowledge-that-in-natural-scenes-motion-as-defined-by-its-position-and-velocity-is-following-smooth-trajectories-quantitatively-it-means-that-velocity-is-approximately-conserved-and-that-position-is-transported-according-to-the-known-velocity-we-show-here-such-a-transition-on-position-and-velocity-respectively-x_t-and-v_t-from-time-t-to-t--dt-with-the-perturbation-modeling-the-smoothness-of-prediction-in-position-and-velocity-respectively-n_x-and-n_v-c-applying-such-a-prior-on-a-dynamical-system-detecting-motion-we-show-that-motion-converges-to-the-physical-motion-after-approximately-one-spatial-period-the-line-moved-by-twice-its-height-c-inset-the-read-out-of-the-system-converged-to-the-physical-motion-motion-based-prediction-is-sufficient-to-resolve-the-aperture-problem-d-as-observed-at-the-perceptual-level-castet-et-al-1993-pei-et-al-2010-size-and-duration-of-the-tracking-angle-bias-decreased-with-respect-to-the-height-of-the-line-height-was-measured-relative-to-a-spatial-period-respectively-60-40-and-20-here-we-show-the-average-tracking-angle-red-out-from-the-probabilistic-representation-as-a-function-of-time-averaged-over-20-trials-error-bars-show-one-standard-deviation&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;Figure 1: *(A)* The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the dotted circle) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Due to the limited size of receptive fields in sensory cortical areas (such as shown by the dotted white circle), such problem is faced by local populations of neurons that visually estimate the motion of objects. *(A-inset)* On a polar representation of possible velocity vectors (the cross in the center corresponds to the null velocity, the outer circle corresponding to twice the amplitude of physical speed), we plot the empirical histogram of detected velocity vectors. This representation gives a quantification of the aperture problem in the velocity domain: At the onset of motion detection, information is concentrated along an elongated constraint line (white=high probability, black=zero probability). *(B)* We use the prior knowledge that in natural scenes, motion as defined by its position and velocity is following smooth trajectories. Quantitatively, it means that velocity is approximately conserved and that position is transported according to the known velocity. We show here such a transition on position and velocity (respectively $x_t$ and $V_t$) from time t to t &amp;#43; dt with the perturbation modeling the smoothness of prediction in position and velocity (respectively $N_x$ and $N_V$). *(C)* Applying such a prior on a dynamical system detecting motion, we show that motion converges to the physical motion after approximately one spatial period (the line moved by twice its height). *(C-Inset)* The read-out of the system converged to the physical motion: Motion-based prediction is sufficient to resolve the aperture problem. *(D)* As observed at the perceptual level [Castet et al., 1993, Pei et al., 2010], size and duration of the tracking angle bias decreased with respect to the height of the line. Height was measured relative to a spatial period (respectively 60%, 40% and 20%). Here we show the average tracking angle red-out from the probabilistic representation as a function of time, averaged over 20 trials (error bars show one standard deviation).&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: *(A)* The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the dotted circle) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Due to the limited size of receptive fields in sensory cortical areas (such as shown by the dotted white circle), such problem is faced by local populations of neurons that visually estimate the motion of objects. *(A-inset)* On a polar representation of possible velocity vectors (the cross in the center corresponds to the null velocity, the outer circle corresponding to twice the amplitude of physical speed), we plot the empirical histogram of detected velocity vectors. This representation gives a quantification of the aperture problem in the velocity domain: At the onset of motion detection, information is concentrated along an elongated constraint line (white=high probability, black=zero probability). *(B)* We use the prior knowledge that in natural scenes, motion as defined by its position and velocity is following smooth trajectories. Quantitatively, it means that velocity is approximately conserved and that position is transported according to the known velocity. We show here such a transition on position and velocity (respectively $x_t$ and $V_t$) from time t to t &amp;#43; dt with the perturbation modeling the smoothness of prediction in position and velocity (respectively $N_x$ and $N_V$). *(C)* Applying such a prior on a dynamical system detecting motion, we show that motion converges to the physical motion after approximately one spatial period (the line moved by twice its height). *(C-Inset)* The read-out of the system converged to the physical motion: Motion-based prediction is sufficient to resolve the aperture problem. *(D)* As observed at the perceptual level [Castet et al., 1993, Pei et al., 2010], size and duration of the tracking angle bias decreased with respect to the height of the line. Height was measured relative to a spatial period (respectively 60%, 40% and 20%). Here we show the average tracking angle red-out from the probabilistic representation as a function of time, averaged over 20 trials (error bars show one standard deviation).&#34; srcset=&#34;
                /publication/perrinet-12-pred/figure1_hu50c6c0e86a1c3fa8f91372ed4700c982_114936_657da2821018ad03fa48e296624edb8a.jpg 400w,
                /publication/perrinet-12-pred/figure1_hu50c6c0e86a1c3fa8f91372ed4700c982_114936_8642e0010f13cd06d9649c1e9e5a9b56.jpg 760w,
                /publication/perrinet-12-pred/figure1_hu50c6c0e86a1c3fa8f91372ed4700c982_114936_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
@@ -1149,8 +1189,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 &lt;figure  id=&#34;figure-figure-2-architecture-of-the-model-the-model-is-constituted-by-a-classical-measurement-stage-and-of-a-predictive-coding-layer-the-measurement-stage-consists-of-a-inferring-from-two-consecutive-frames-of-the-input-flow-b-a-likelihood-distribution-of-motion-this-layer-interacts-with-the-predictive-layer-which-consists-of-c-a-prediction-stage-that-infers-from-the-current-estimate-and-the-transition-prior-the-upcoming-state-estimate-and-d-an-estimation-stage-that-merges-the-current-prediction-of-motion-with-the-likelihood-measured-at-the-same-instant-in-the-previous-layer-b&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of (C) a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of (C) a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).&#34; srcset=&#34;
                /publication/perrinet-12-pred/figure2_hua58f2c4d512bd134e26bfd0c1b490549_114366_79b923828f8e98e870b0687f27406cb6.jpg 400w,
                /publication/perrinet-12-pred/figure2_hua58f2c4d512bd134e26bfd0c1b490549_114366_9b6a135ecfc13a6f8fbed33bbb033b0a.jpg 760w,
                /publication/perrinet-12-pred/figure2_hua58f2c4d512bd134e26bfd0c1b490549_114366_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
@@ -1177,8 +1216,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 &lt;figure  id=&#34;figure-figure-3-to-explore-the-state-space-of-the-dynamical-system-we-simulated-motion-based-prediction-for-a-simple-small-dot-size-25-of-a-spatial-period-moving-horizontally-from-the-left-to-the-right-of-the-screen-we-tested-different-levels-of-sensory-noise-with-respect-to-different-levels-of-internal-noise-that-is-to-different-values-of-the-strength-of-prediction-right-results-show-the-emergence-of-different-states-for-different-prediction-precisions-a-regime-when-prediction-is-weak-and-which-shows-high-tracking-error-and-variability-no-tracking---nt-a-phase-for-intermediate-values-of-prediction-strength-as-in-figure-1-exhibiting-a-low-tracking-error-and-low-variability-in-the-tracking-phase-true-tracking---tt-and-finally-a-phase-corresponding-to-higher-precisions-with-relatively-efficient-mean-detection-but-high-variability-false-tracking---ft-we-give-3-representative-examples-of-the-emerging-states-at-one-contrast-level-c--01-with-starting-red-and-ending-blue-points-and-respectively-nt-tt-and-ft-by-showing-inferred-trajectories-for-each-trial-left-we-define-tracking-error-as-the-ratio-between-detected-speed-and-target-speed-and-we-plot-it-with-respect-to-the-stimulus-contrast-as-given-by-the-inverse-of-sensory-noise-error-bars-give-the-variability-in-tracking-error-as-averaged-over-20-trials-as-prediction-strength-increases-there-is-a-transition-from-smooth-contrast-response-function-nt-to-more-binary-responses-tt-and-ft&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;Figure 3: To explore the state-space of the dynamical system, we simulated motion-based prediction for a simple small dot (size 2.5% of a spatial period) moving horizontally from the left to the right of the screen. We tested different levels of sensory noise with respect to different levels of internal noise, that is, to different values of the strength of prediction. *(Right)* Results show the emergence of different states for different prediction precisions: a regime when prediction is weak and which shows high tracking error and variability (No Tracking - NT), a phase for intermediate values of prediction strength (as in Figure 1) exhibiting a low tracking error and low variability in the tracking phase (True Tracking - TT) and finally a phase corresponding to higher precisions with relatively efficient mean detection but high variability (False Tracking - FT). We give 3 representative examples of the emerging states at one contrast level (C = 0.1) with starting (red) and ending (blue) points and respectively NT, TT and FT by showing inferred trajectories for each trial. *(Left)* We define tracking error as the ratio between detected speed and target speed and we plot it with respect to the stimulus contrast as given by the inverse of sensory noise. Error bars give the variability in tracking error as averaged over 20 trials. As prediction strength increases, there is a transition from smooth contrast response function (NT) to more binary responses (TT and FT).&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3: To explore the state-space of the dynamical system, we simulated motion-based prediction for a simple small dot (size 2.5% of a spatial period) moving horizontally from the left to the right of the screen. We tested different levels of sensory noise with respect to different levels of internal noise, that is, to different values of the strength of prediction. *(Right)* Results show the emergence of different states for different prediction precisions: a regime when prediction is weak and which shows high tracking error and variability (No Tracking - NT), a phase for intermediate values of prediction strength (as in Figure 1) exhibiting a low tracking error and low variability in the tracking phase (True Tracking - TT) and finally a phase corresponding to higher precisions with relatively efficient mean detection but high variability (False Tracking - FT). We give 3 representative examples of the emerging states at one contrast level (C = 0.1) with starting (red) and ending (blue) points and respectively NT, TT and FT by showing inferred trajectories for each trial. *(Left)* We define tracking error as the ratio between detected speed and target speed and we plot it with respect to the stimulus contrast as given by the inverse of sensory noise. Error bars give the variability in tracking error as averaged over 20 trials. As prediction strength increases, there is a transition from smooth contrast response function (NT) to more binary responses (TT and FT).&#34; srcset=&#34;
                /publication/perrinet-12-pred/figure3_hub57ab3bf4b1a67c5e3a894ed7253439e_82715_edcfcdaf6cfbae5a805ec192c57e9fed.jpg 400w,
                /publication/perrinet-12-pred/figure3_hub57ab3bf4b1a67c5e3a894ed7253439e_82715_ca12c826175ee98f9dc9450e54ac50c6.jpg 760w,
                /publication/perrinet-12-pred/figure3_hub57ab3bf4b1a67c5e3a894ed7253439e_82715_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
@@ -1205,8 +1243,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 &lt;figure  id=&#34;figure-figure-4-top-prediction-implements-a-competition-between-different-trajectories-here-we-focus-on-one-step-of-the-algorithm-by-testing-different-trajectories-at-three-key-positions-of-the-segment-stimulus-the-two-edges-and-the-center-dashed-circles-compared-to-the-pure-sensory-velocity-likelihood-left-insets-in-grayscale-prediction-modulates-response-as-shown-by-the-velocity-vectors-direction-coded-as-hue-as-in-figure-1-and-by-the-ratio-of-velocity-probabilities-log-ratio-in-bits-right-insets-there-is-no-change-for-the-middle-of-the-segment-yellow-tone-but-trajectories-that-are-predicted-out-of-the-line-are-explained-away-navy-tone-while-others-may-be-amplified-orange-tone-notice-the-asymmetry-between-both-edges-the-upper-edge-carrying-a-suppressive-predictive-information-while-the-bottom-edge-diffuses-coherent-motion-bottom-finally-the-aperture-problem-is-solved-due-to-the-repeated-application-of-this-spatio-temporal-contextual-information-modulation-to-highlight-the-anisotropic-diffusion-of-information-over-the-rest-of-the-line-we-plot-as-a-function-of-time-horizontal-axis-the-histogram-of-the-detected-motion-marginalized-over-horizontal-positions-vertical-axis-while-detected-direction-of-velocity-is-given-by-the-distribution-of-hues-blueish-colors-correspond-to-the-direction-perpendicular-to-the-diagonal-while-a-green-color-represents-a-disambiguated-motion-to-the-right-as-in-figure-1-the-plot-shows-that-motion-is-disambiguated-by-progressively-explaining-away-incoherent-motion-note-the-asymmetry-in-the-propagation-of-coherent-information&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;Figure 4: *(Top)* Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. *(Bottom)* Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 4: *(Top)* Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. *(Bottom)* Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.&#34; srcset=&#34;
                /publication/perrinet-12-pred/figure4_hu0046952bdf6ba50e9f2bcf443e1786e1_145753_b4b0b2437b231deace63fa498f130d7f.jpg 400w,
                /publication/perrinet-12-pred/figure4_hu0046952bdf6ba50e9f2bcf443e1786e1_145753_4d6f2469da439d61a981c7cb3ed99edf.jpg 760w,
                /publication/perrinet-12-pred/figure4_hu0046952bdf6ba50e9f2bcf443e1786e1_145753_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
@@ -1225,7 +1262,34 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <link>https://laurentperrinet.github.io/publication/friston-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/friston-12/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;friston-12.png&#34; alt=&#34;header&#34;&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_61e7561e55cf9821f83f7c2954673d65.png 400w,
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_9ed18d7aabd16d3c3b8d11619f1b974c.png 760w,
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_61e7561e55cf9821f83f7c2954673d65.png&#34;
+               width=&#34;760&#34;
+               height=&#34;196&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
 
 
 
@@ -1275,8 +1339,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -1348,9 +1412,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -1426,9 +1490,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -1524,7 +1588,34 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <link>https://laurentperrinet.github.io/publication/bogadhi-11/</link>
       <pubDate>Fri, 22 Apr 2011 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/bogadhi-11/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;bogadhi-11.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/bogadhi-11/bogadhi-11_hu80486606c0922d9e2f48872699e8bedf_125662_6a18d1126718f72494fcf51423c30023.png 400w,
+               /publication/bogadhi-11/bogadhi-11_hu80486606c0922d9e2f48872699e8bedf_125662_a9febcf8894505ffc5b21a05edbe5320.png 760w,
+               /publication/bogadhi-11/bogadhi-11_hu80486606c0922d9e2f48872699e8bedf_125662_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/bogadhi-11/bogadhi-11_hu80486606c0922d9e2f48872699e8bedf_125662_6a18d1126718f72494fcf51423c30023.png&#34;
+               width=&#34;760&#34;
+               height=&#34;300&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;See a followup in 
 
@@ -1546,8 +1637,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -1629,8 +1720,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -1702,9 +1793,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -1780,9 +1871,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -1918,8 +2009,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
@@ -1991,9 +2082,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2013).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
@@ -2069,9 +2160,9 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2017).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
@@ -2181,7 +2272,27 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
       <pubDate>Fri, 29 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;barthelemy-08.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;barthelemy-08.png&#34; alt=&#34;header&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -2206,7 +2317,27 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <link>https://laurentperrinet.github.io/publication/perrinet-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-08/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-08.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;perrinet-08.png&#34; alt=&#34;header&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -2224,7 +2355,34 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
       <pubDate>Mon, 29 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;montagnini-07.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/montagnini-07/montagnini-07_hubcd9364771dda868695d1ad41f1e39ed_88325_52b1791510400e338a7ae678db4725bc.png 400w,
+               /publication/montagnini-07/montagnini-07_hubcd9364771dda868695d1ad41f1e39ed_88325_6432c27893ed7d9cdcd3e5127de4cb80.png 760w,
+               /publication/montagnini-07/montagnini-07_hubcd9364771dda868695d1ad41f1e39ed_88325_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/montagnini-07/montagnini-07_hubcd9364771dda868695d1ad41f1e39ed_88325_52b1791510400e338a7ae678db4725bc.png&#34;
+               width=&#34;760&#34;
+               height=&#34;248&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -2233,7 +2391,34 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <link>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-07-neurocomp.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_6acead00b18320afd6f5a04885cdb1b5.png 400w,
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_e074dbdaa5c977f7156675b9e46a258d.png 760w,
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_6acead00b18320afd6f5a04885cdb1b5.png&#34;
+               width=&#34;760&#34;
+               height=&#34;275&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

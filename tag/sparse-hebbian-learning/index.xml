@@ -55,7 +55,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/perrinet-10-shl/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-shl/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-10-shl.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_cb08d2a9dfa20741e90760e234a944f2.png 400w,
+               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_41254407e104e1c470b12312a526068a.png 760w,
+               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_cb08d2a9dfa20741e90760e234a944f2.png&#34;
+               width=&#34;657&#34;
+               height=&#34;215&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -72,7 +99,27 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/perrinet-08/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-08/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-08.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;perrinet-08.png&#34; alt=&#34;header&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -90,7 +137,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
       <pubDate>Wed, 29 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-03-ieee.png&#34; alt=&#34;header&#34;&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_11e0f20801012106c5adb4fd45c983e0.png 400w,
+               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_44a337dc468c5c18c19ce55b6890b0c4.png 760w,
+               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_11e0f20801012106c5adb4fd45c983e0.png&#34;
+               width=&#34;760&#34;
+               height=&#34;164&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
 
 
 
@@ -107,15 +181,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;figure  id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-multi-scale-oriented-representation&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*&#34; srcset=&#34;
-               /publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_d497c01de804286ee4e54a784523f307.gif 400w,
-               /publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_d64198da9191161a1914e4acb3914858.gif 760w,
-               /publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_1200x1200_fit_lanczos.gif 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger_hue35305ea0fde0004c7038403208fa3b1_2047419_d497c01de804286ee4e54a784523f307.gif&#34;
-               width=&#34;320&#34;
-               height=&#34;240&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*&#34;
+           src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -135,7 +203,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</link>
       <pubDate>Sat, 29 Jun 2002 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-02-stdp.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/perrinet-02-stdp/perrinet-02-stdp_hu60f829489c9a7aebaadc63d33e7200c8_35612_a107842c237b648a7e1e4118a79ba5ca.png 400w,
+               /publication/perrinet-02-stdp/perrinet-02-stdp_hu60f829489c9a7aebaadc63d33e7200c8_35612_4de4b7f9286e1b28d568dd84074153c1.png 760w,
+               /publication/perrinet-02-stdp/perrinet-02-stdp_hu60f829489c9a7aebaadc63d33e7200c8_35612_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-02-stdp/perrinet-02-stdp_hu60f829489c9a7aebaadc63d33e7200c8_35612_a107842c237b648a7e1e4118a79ba5ca.png&#34;
+               width=&#34;760&#34;
+               height=&#34;165&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

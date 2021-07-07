@@ -132,8 +132,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;figure  id=&#34;figure-a-this-figure-reports-the-response-of-predictive-processing-during-the-simulation-of-pursuit-initiation-using-a-single-sweep-of-a-visual-target-while-compensating-for-sensory-motor-delays-here-we-see-horizontal-excursions-of-oculomotor-angle-red-line-one-can-see-clearly-the-initial-displacement-of-the-target-that-is-suppressed-by-action-after-a-few-hundred-milliseconds-additionally-we-illustrate-the-effects-of-assuming-wrong-sensorimotor-delays-on-pursuit-initiation-under-pure-sensory-delays-blue-dotted-line-one-can-see-clearly-the-delay-in-sensory-predictions-in-relation-to-the-true-inputs-with-pure-motor-delays-blue-dashed-line-and-with-combined-sensorimotor-delays-blue-line-there-is-a-failure-of-optimal-control-with-oscillatory-fluctuations-in-oculomotor-trajectories-which-may-become-unstable-b-this-figure-reports-the-simulation-of-smooth-pursuit-when-the-target-motion-is-hemi-sinusoidal-as-would-happen-for-a-pendulum-that-would-be-stopped-at-each-half-cycle-left-of-the-vertical-broken-black-lines-in-the-lower-right-panel-we-report-the-horizontal-excursions-of-oculomotor-angle-the-generative-model-used-here-has-been-equipped-with-a-second-hierarchical-level-that-contains-hidden-states-modeling-latent-periodic-behavior-of-the-hidden-causes-of-target-motion-with-this-addition-the-improvement-in-pursuit-accuracy-apparent-at-the-onset-of-the-second-cycle-of-motion-is-observed-pink-shaded-area-similar-to-psychophysical-experimentss&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34; srcset=&#34;
                /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_543276db98d0a4743451eed80bc2b08b.png 400w,
                /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_ceb3d0a2860ec222e4853d61e1c22982.png 760w,
                /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_1200x1200_fit_lanczos_2.png 1200w&#34;
@@ -184,7 +183,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/adams-12/</link>
       <pubDate>Fri, 26 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/adams-12/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;adams-12.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_c5baa2a4c5c5d62f82401ce58f6115d0.png 400w,
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_32afb9a20858e8551526a49e05317ca3.png 760w,
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_c5baa2a4c5c5d62f82401ce58f6115d0.png&#34;
+               width=&#34;760&#34;
+               height=&#34;188&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -193,7 +219,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/masson-12/</link>
       <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/masson-12/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;masson-12.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_af0d7e34d49487160101988d004ac351.png 400w,
+               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_8ff8bbe60039b7d1ee7365802ffcfa15.png 760w,
+               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_af0d7e34d49487160101988d004ac351.png&#34;
+               width=&#34;760&#34;
+               height=&#34;168&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -237,7 +290,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/simoncini-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/simoncini-12/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;simoncini-12.png&#34; alt=&#34;header&#34;&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_1d184cccf3ea3a620d6fa33a9a9326db.png 400w,
+               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_9a656bcf01f9376a317a3efb357115ee.png 760w,
+               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_1d184cccf3ea3a620d6fa33a9a9326db.png&#34;
+               width=&#34;760&#34;
+               height=&#34;318&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
 
 
 
@@ -254,15 +334,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;figure  id=&#34;figure-band-pass-motion-stimuli-for-perception-and-action-tasks-a-in-the-space-representing-temporal-against-spatial-frequency-each-line-going-through-the-origin-corresponds-to-stimuli-moving-at-the-same-speed-a-simple-drifting-grating-is-a-single-point-in-this-space-our-moving-texture-stimuli-had-their-energy-distributed-within-an-ellipse-elongated-along-a-given-speed-line-keeping-constant-the-mean-spatial-and-temporal-frequencies-the-spatio-temporal-bandwidth-was-manipulated-by-co-varying-bsf-and-btf-as-illustrated-by-the-xyt-examples-human-performance-was-measured-for-two-different-tasks-run-in-parallel-blocks-b-for-ocular-tracking-motion-stimuli-were-presented-for-a-short-duration-200ms-in-the-wake-of-a-centering-saccade-to-control-both-attention-and-fixation-states-c-for-speed-discrimination-test-and-reference-stimuli-were-presented-successively-for-the-same-duration-and-subjects-were-instructed-to-indicate-whether-the-test-stimulus-was-perceived-as-slower-or-faster-than-reference&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;*Band-pass motion stimuli for perception and action tasks.* (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference. &#34; srcset=&#34;
-               /publication/simoncini-12/grating_hu30edaebf880fa16017958e882ef41604_19283739_bdca28c638f584fe1353860d3a8d0382.gif 400w,
-               /publication/simoncini-12/grating_hu30edaebf880fa16017958e882ef41604_19283739_b26689c102db40d72f5450100b2b51c9.gif 760w,
-               /publication/simoncini-12/grating_hu30edaebf880fa16017958e882ef41604_19283739_1200x1200_fit_lanczos.gif 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/simoncini-12/grating_hu30edaebf880fa16017958e882ef41604_19283739_bdca28c638f584fe1353860d3a8d0382.gif&#34;
-               width=&#34;80%&#34;
-               height=&#34;256&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Band-pass motion stimuli for perception and action tasks.* (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference. &#34;
+           src=&#34;https://laurentperrinet.github.io/publication/simoncini-12/grating.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -282,7 +356,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/friston-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/friston-12/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;friston-12.png&#34; alt=&#34;header&#34;&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_61e7561e55cf9821f83f7c2954673d65.png 400w,
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_9ed18d7aabd16d3c3b8d11619f1b974c.png 760w,
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_61e7561e55cf9821f83f7c2954673d65.png&#34;
+               width=&#34;760&#34;
+               height=&#34;196&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
 
 
 
@@ -353,7 +454,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/perrinet-10-shl/</link>
       <pubDate>Sat, 17 Jul 2010 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-10-shl/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-10-shl.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_cb08d2a9dfa20741e90760e234a944f2.png 400w,
+               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_41254407e104e1c470b12312a526068a.png 760w,
+               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_cb08d2a9dfa20741e90760e234a944f2.png&#34;
+               width=&#34;657&#34;
+               height=&#34;215&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -408,7 +536,27 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
       <pubDate>Fri, 29 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;barthelemy-08.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;barthelemy-08.png&#34; alt=&#34;header&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -442,7 +590,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;perrinet-07-neurocomp.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_6acead00b18320afd6f5a04885cdb1b5.png 400w,
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_e074dbdaa5c977f7156675b9e46a258d.png 760w,
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_6acead00b18320afd6f5a04885cdb1b5.png&#34;
+               width=&#34;760&#34;
+               height=&#34;275&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

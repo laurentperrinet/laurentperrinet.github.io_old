@@ -154,7 +154,34 @@ List of Contributors :&lt;/li&gt;
       <link>https://laurentperrinet.github.io/publication/voges-10-jpp/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/voges-10-jpp/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;voges-10-jpp.png&#34; alt=&#34;header&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/voges-10-jpp/voges-10-jpp_hub79743c5c01dc5a8eb9377f833fa2918_121540_f98a9f049034f43fdf2d15469aa264ac.png 400w,
+               /publication/voges-10-jpp/voges-10-jpp_hub79743c5c01dc5a8eb9377f833fa2918_121540_29f11fdb6dadb2f035c1fb4b56aa4b93.png 760w,
+               /publication/voges-10-jpp/voges-10-jpp_hub79743c5c01dc5a8eb9377f833fa2918_121540_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/voges-10-jpp/voges-10-jpp_hub79743c5c01dc5a8eb9377f833fa2918_121540_f98a9f049034f43fdf2d15469aa264ac.png&#34;
+               width=&#34;760&#34;
+               height=&#34;244&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;see  follow-up : 
 
@@ -176,8 +203,8 @@ List of Contributors :&lt;/li&gt;
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/nicole-voges/&#34;&gt;Nicole Voges&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2012).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/voges-12/&#34;&gt;Complex dynamics in recurrent cortical networks based on spatially realistic connectivities&lt;/a&gt;.
@@ -271,11 +298,11 @@ List of Contributors :&lt;/li&gt;
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/authors/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2007).
   &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
@@ -400,15 +427,9 @@ List of Contributors :&lt;/li&gt;
 
 &lt;figure  id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-laplacian-pyramid&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*&#34; srcset=&#34;
-               /publication/perrinet-02-esann/lena256pyr_hu10a5fd7b14a34cb61c37032ce2cfe15e_3122787_e8092ba3762a4a37f225fba840f4071e.gif 400w,
-               /publication/perrinet-02-esann/lena256pyr_hu10a5fd7b14a34cb61c37032ce2cfe15e_3122787_ec893b8a817776a618b1df00a2303ad5.gif 760w,
-               /publication/perrinet-02-esann/lena256pyr_hu10a5fd7b14a34cb61c37032ce2cfe15e_3122787_1200x1200_fit_lanczos.gif 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-02-esann/lena256pyr_hu10a5fd7b14a34cb61c37032ce2cfe15e_3122787_e8092ba3762a4a37f225fba840f4071e.gif&#34;
-               width=&#34;256&#34;
-               height=&#34;256&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a Laplacian pyramid.*&#34;
+           src=&#34;https://laurentperrinet.github.io/publication/perrinet-02-esann/lena256pyr.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Progressive reconstruction of a static image using spikes in a Laplacian pyramid.&lt;/em&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
