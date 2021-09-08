@@ -8,7 +8,7 @@
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://laurentperrinet.github.io/author/frederic-chavane/avatar_hu939e22bfda132e5dfe756f4281477277_68002_270x270_fill_lanczos_center_2.png</url>
+      <url>https://laurentperrinet.github.io/author/frederic-chavane/avatar_hu939e22bfda132e5dfe756f4281477277_68002_270x270_fill_lanczos_center_3.png</url>
       <title>Frédéric Chavane</title>
       <link>https://laurentperrinet.github.io/author/frederic-chavane/</link>
     </image>
@@ -515,89 +515,6 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
-  
-    
-
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2019).
-  &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;From the retina to action: Predictive processing in the visual system&lt;/a&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/talk/2019-03-25-hdr-robin-baures/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/2019-03-25_HDR_RobinBaures/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Code
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Slides
-&lt;/a&gt;
-
-
-
-
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-  
-
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -1075,7 +992,7 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 &lt;h2 id=&#34;wp3-task-1-theoretically-oriented-workplan--lead-int-laurent-perrinet&#34;&gt;WP3-Task 1: Theoretically oriented workplan – Lead INT (Laurent Perrinet)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;WP3-Task 1.1 - theory : we will exploit our current expertise in integrating these statistics in the form of probabilistic models to make predictions both at the physiological and modelling levels. First, we will take advantage of our previous work on the quantification of the association field in different classes of natural images (Perrinet &amp;amp; Bednar, 2015). Using an existing library (&lt;a href=&#34;https://github.com/bicv/SparseEdges),&#34;&gt;https://github.com/bicv/SparseEdges),&lt;/a&gt; we will use the sparse representation of static natural images to compute histograms of edge co-occurrences. Using an existing algorithm for unsupervised learning (&lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning),&#34;&gt;https://github.com/bicv/SparseHebbianLearning),&lt;/a&gt; we will learn the different independent components of edge co-occurrences. Such an algorithm fits well a traditional deep-learning convolutional neural network, but, in addition, will include constraints imposed by intra-layer horizontal connectivity. We expect that relevant features will be co-linear or co-circular pairs of edges, but also T-junctions or end-stopping features.&lt;/p&gt;
+&lt;p&gt;WP3-Task 1.1 - theory : we will exploit our current expertise in integrating these statistics in the form of probabilistic models to make predictions both at the physiological and modelling levels. First, we will take advantage of our previous work on the quantification of the association field in different classes of natural images (Perrinet &amp;amp; Bednar, 2015). Using an existing library (&lt;a href=&#34;https://github.com/bicv/SparseEdges%29,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/bicv/SparseEdges),&lt;/a&gt; we will use the sparse representation of static natural images to compute histograms of edge co-occurrences. Using an existing algorithm for unsupervised learning (&lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning%29,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/bicv/SparseHebbianLearning),&lt;/a&gt; we will learn the different independent components of edge co-occurrences. Such an algorithm fits well a traditional deep-learning convolutional neural network, but, in addition, will include constraints imposed by intra-layer horizontal connectivity. We expect that relevant features will be co-linear or co-circular pairs of edges, but also T-junctions or end-stopping features.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;WP3-Task 1.2 - image/film synthesis : We have previously found that random synthetic textures, coined &amp;ldquo;Motion Clouds&amp;rdquo;, can be used to quantify V1 implication in visual motion perception (Leon et al, 2012; Simoncini et al, 2012). Recently, the INT and UNIC, partners proved mathematically that these stimuli were optimal with respect to some common geometrical transformations, such as translation, zoom or rotations (Vacher et al, 2015). A main characteristic of these textures is to be generated with a maximally entropic arrangement of elementary textures (so-called textons).&lt;/p&gt;
@@ -1120,8 +1037,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 &lt;li&gt;Time    January 15th, 2018&lt;/li&gt;
 &lt;li&gt;Location     INT&lt;/li&gt;
 &lt;li&gt;General presentation of the grant, see &lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anr TRAJECTORY&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Overview of my current projects    &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html&#34;&gt;https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;MotionClouds with trajectories    &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html&lt;/a&gt; or &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Overview of my current projects    &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MotionClouds with trajectories    &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html&lt;/a&gt; or &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -1139,15 +1056,9 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;figure  id=&#34;figure-a-predictive-sequence-is-essential-in-resolving-the-coherence-problem--the-sequence-in-which-a-set-of-local-motion-is-shown-is-essential-for-the-detection-of-global-motion-we-replicate-here-the-experiments-by-scott-watamaniuk-and-colleagues-they-have-shown-behaviourally-that-a-dot-in-noise-is-much-more-detectable-when-it-follows-a-coherent-trajectory-up-to-an-order-of-magnitude-of-10-times-what-would-be-predicted-by-the-local-components-of-the-trajectory-in-this--movie-we-observe-white-noise-and-at-first-sight-no-information-is-detectable-in-fact-there-is-a-dot-moving-along-some-smooth-linear-trajectory-since-this-is-compatible-with-a-predictive-sequence-it-is-much-easier-to-see-the-dot-from-left-to-right-in-the-top-of-the-image-a-smooth-pursuit-helps-to-catch-it-this-simple-experiment-shows-that-even-if-local-motion-is-similar-in-both-movies-a-coherent-trajectory-is-more-easy-to-track-obviously-we-may-thus-conclude-that-the-whole-trajectory-is-more-that-its-individual-parts-and-that-the-independence-hypothesis-does-not-hold-if-we-want-to-account-for-the-predictive-information-in-input-sequences-such-as-seems-to-be-crucial-for-the-ap&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;
-        &lt;img alt=&#34;*A predictive sequence is essential in resolving the coherence problem.*  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.&#34; srcset=&#34;
-               /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_a8ea11bcec2db3258deea5906016036f.gif 400w,
-               /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_28fa3f783cdef19188c283016a5d15c2.gif 760w,
-               /grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_1200x1200_fit_lanczos.gif 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/sequence_ABCD_huc740b9c3e27c30fe69cba33adb5a642d_17610017_a8ea11bcec2db3258deea5906016036f.gif&#34;
-               width=&#34;400&#34;
-               height=&#34;300&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*A predictive sequence is essential in resolving the coherence problem.*  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.&#34;
+           src=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/sequence_ABCD.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;A predictive sequence is essential in resolving the coherence problem.&lt;/em&gt;  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.
     &lt;/figcaption&gt;&lt;/figure&gt;
