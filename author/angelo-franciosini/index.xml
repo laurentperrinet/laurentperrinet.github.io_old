@@ -6,12 +6,44 @@
       <atom:link href="https://laurentperrinet.github.io/author/angelo-franciosini/index.xml" rel="self" type="application/rss+xml" />
     <description>Angelo Franciosini</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 15 Jun 2021 11:15:00 +0000</lastBuildDate>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 09 Sep 2021 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/angelo-franciosini/avatar_huf20cb217f6bf92656c2488dfbefe1a2d_4587_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Angelo Franciosini</title>
       <link>https://laurentperrinet.github.io/author/angelo-franciosini/</link>
     </image>
+    
+    <item>
+      <title>2021-09-28: Soutenance Angelo Franciosini</title>
+      <link>https://laurentperrinet.github.io/post/2021-09-28_soutenance-angelo-franciosini/</link>
+      <pubDate>Thu, 09 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/post/2021-09-28_soutenance-angelo-franciosini/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Date : Mardi 28 septembre 2021 à 13h (CEST)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lieu: en virtuel et salle Henri Gastaut, au rez de chaussée de l&amp;rsquo;INT  (how to &lt;a href=&#34;http://www.int.univ-amu.fr/contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;get there&lt;/a&gt;). La thèse était suivie d’un pot au R+4 de l’&lt;a href=&#34;http://www.int.univ-amu.fr/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institut de Neurosciences de la Timone&lt;/a&gt; (how to &lt;a href=&#34;http://www.int.univ-amu.fr/contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;get there&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quoi: le manuscrit sera disponible après la soutenance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;jury&#34;&gt;Jury&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://findanexpert.unimelb.edu.au/profile/5669-anthony-burkitt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof Anthony Burkitt&lt;/a&gt;, University of Melbourne, Rapporteur&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/faculty/thomas-serre&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Serre&lt;/a&gt;, Brown University, Rapporteur&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://incc-paris.fr/people/laura-dugue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laura Dugué&lt;/a&gt;, Integrative Neuroscience &amp;amp; Cognition Center, Examinateur&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://emmanuel.dauce.free.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emmanuel Daucé&lt;/a&gt;, CNRS, Examinateur&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ism.univ-amu.fr/viollet/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stéphane Viollet&lt;/a&gt;, CNRS, Examinateur&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Perrinet&lt;/a&gt;, CNRS, Directeur de thèse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;One goal of visual neuroscience is to understand how the brain interprets sen- sory information and to describe cortical representations according to a specific computational model. In this thesis, we describe how a successful model for visual perception, Predictive Coding (PC), can be extended to account for highly nonlin- ear operations in the primary visual cortex of mammals (V1). In this thesis, we generalize PC in a convolutional network and propose an algorithm called Sparse Deep Predictive Coding (SDPC), which models the properties of the early visual cortex. We present the SDPC framework in two scientific articles: in the first, we use our network to model local interactions in the early visual system (V1/V2) and we show how feedback connectivity allows the visual system to adapt to the statistics of natural images. In a second article, we show that the SDPC can predict the emergence of nonlinear responses in V1 (complex cells) and explain the link between complex cells and higher-level structures like cortical orientation maps, across species. Finally, we will propose some extensions that will allow the SDPC to serve as a general model of the visual system.&lt;/p&gt;
+&lt;h2 id=&#34;résumé&#34;&gt;Résumé&lt;/h2&gt;
+&lt;p&gt;Un des objectifs des neurosciences visuelles est de comprendre comment le cerveau interprète les informations sensorielles et de décrire les représentations corticales grâce à un modèle computationnel. Dans cette thèse, nous décrivons comment un modèle de perception visuelle, le Codage Prédictif, peut être étendu pour rendre compte des opérations non linéaires dans le cortex visuel primaire des mammifères (V1). Dans cette thèse, nous généralisons le Codage Prédictif dans un réseau convolutif pour créer un modèle appelé Sparse Deep Predictive Coding (SDPC). Nous présentons le SDPC dans deux articles scientifiques : dans le premier, nous utilisons notre réseau pour modéliser les interactions locales dans le système visuel précoce (V1/V2) et nous montrons comment la connectivité de rétroaction permet au système visuel de s’adapter aux statistiques des images naturelles. Dans un second article, nous montrons que le SDPC peut prédire l’émergence de réponses non linéaires dans V1 (cellules complexes) et expliquer le lien entre cellules complexes et des structures de plus haut niveau comme les cartes d’orientation corticales, et ceci pour différentes espèces. Enfin, nous proposerons quelques extensions qui permettront au SDPC de servir de modèle général du système visuel.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Pooling in a predictive model of V1 explains functional and structural diversity across species</title>
