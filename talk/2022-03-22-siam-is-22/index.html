@@ -4,38 +4,37 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  
-  
-  
+
+
+
     <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
-  
 
-  
 
-  
-  
-  
-  
-  
-    
-    
-    
-  
-  
+
+
+
+
+
+
+
+
+
+
+
+
 
   <meta name="author" content="Laurent U Perrinet" />
 
-  
-  
-  
-    
-  
+
+
+
+
+
   <meta name="description" content="In most mammals, the primary visual cortex (V1) processes complex mixtures of orientations to construct an accurate neural representation of our visual environment. Sparse coding has been used to model the emergence of orientation-selective localized receptive fields and in particular the diversity of their shapes which reflects the richness of textures found in natural images. However, it is not yet known whether the corresponding sparse coefficients follow consistent patterns in natural images. Here, we explored the statistics of the distribution of sparse coefficients extracted from a sequence of images in a database of natural scenes. We first replicated previous results showing that sparse coefficients decrease with prototypical shapes. Then, we extended these results by showing the dependence of sparse coefficients on their relative position but also on the inverse variance of their orientation selectivity, that is, its precision. This demonstrates that orientation precision is an important variable in the encoding of visual information. The analysis also showed that different precisions followed different dynamics, a prior information which could be further exploited in a dynamical model. This model-based hypothesis is finally confronted with neurophysiological recordings made in V1." />
 
-  
+
   <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/" />
 
-  
 
 
 
@@ -45,214 +44,215 @@
 
 
 
-  
 
 
 
 
-  
-  
+
+
+
+
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  
 
-  
-  
-  
+
+
+
+
     <meta name="theme-color" content="#1565c0" />
-  
 
-  
-  
 
-  
+
+
+
+
 
   <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
 
-  
-  
-  
-    
-    
+
+
+
+
+
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
-    
 
-    
-    
-    
-    
-      
-      
-    
-    
-    
 
-    
-    
-    
-      
-    
-    
-      
-      
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
-        
-      
-    
 
-    
-    
-    
+
+
+
+
+
+
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
-    
 
-    
 
-    
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
-        
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-      
-      
 
-      
-      
 
-      
-    
-  
 
-  
-  
-  
-    
-      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
-    
-  
 
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
   <link rel="stylesheet" href="/css/wowchemy.870e6f163646cd8a2733286eb13ffb65.css" />
 
-  
+
 
 
 
@@ -283,80 +283,80 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
   gtag('config', 'UA-140381649-1', {});
   gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
 
-  
+
   document.addEventListener('click', onClickCallback, false);
 </script>
 
 
-  
-
-  
-
-  
 
 
 
 
-  
-  
-  
 
-  
 
-  
+
+
+
+
+
+
+
+
+
+
     <link rel="manifest" href="/manifest.webmanifest" />
-  
+
 
   <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/" />
 
-  
-  
-  
-  
-  
-  
-  
-  
-    
-    
-  
-  
+
+
+
+
+
+
+
+
+
+
+
+
   <meta property="twitter:card" content="summary" />
-  
+
     <meta property="twitter:site" content="@laurentperrinet" />
     <meta property="twitter:creator" content="@laurentperrinet" />
-  
+
   <meta property="og:site_name" content="Novel visual computations" />
   <meta property="og:url" content="https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/" />
   <meta property="og:title" content="Statistics of the Sparse Representations of Natural Images | Novel visual computations" />
   <meta property="og:description" content="In most mammals, the primary visual cortex (V1) processes complex mixtures of orientations to construct an accurate neural representation of our visual environment. Sparse coding has been used to model the emergence of orientation-selective localized receptive fields and in particular the diversity of their shapes which reflects the richness of textures found in natural images. However, it is not yet known whether the corresponding sparse coefficients follow consistent patterns in natural images. Here, we explored the statistics of the distribution of sparse coefficients extracted from a sequence of images in a database of natural scenes. We first replicated previous results showing that sparse coefficients decrease with prototypical shapes. Then, we extended these results by showing the dependence of sparse coefficients on their relative position but also on the inverse variance of their orientation selectivity, that is, its precision. This demonstrates that orientation precision is an important variable in the encoding of visual information. The analysis also showed that different precisions followed different dynamics, a prior information which could be further exploited in a dynamical model. This model-based hypothesis is finally confronted with neurophysiological recordings made in V1." /><meta property="og:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
-  
-    
+
+
       <meta
         property="article:published_time"
         content="2021-09-20T11:10:44&#43;00:00"
       />
-    
+
     <meta property="article:modified_time" content="2021-09-20T13:10:44&#43;02:00">
-  
-
-  
 
 
 
-  
-    
+
+
+
+
+
 
 
 
@@ -370,25 +370,25 @@
     "@id": "https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/"
   },
   "name": "Statistics of the Sparse Representations of Natural Images",
-  
-  
+
+
   "startDate": "2022-03-22T00:00:00Z",
-  
-  
+
+
   "performer": {
     "@type": "Person",
     "name": "Hugo Ladret"
   },
-  
+
   "description": "In most mammals, the primary visual cortex (V1) processes complex mixtures of orientations to construct an accurate neural representation of our visual environment. Sparse coding has been used to model the emergence of orientation-selective localized receptive fields and in particular the diversity of their shapes which reflects the richness of textures found in natural images. However, it is not yet known whether the corresponding sparse coefficients follow consistent patterns in natural images. Here, we explored the statistics of the distribution of sparse coefficients extracted from a sequence of images in a database of natural scenes. We first replicated previous results showing that sparse coefficients decrease with prototypical shapes. Then, we extended these results by showing the dependence of sparse coefficients on their relative position but also on the inverse variance of their orientation selectivity, that is, its precision. This demonstrates that orientation precision is an important variable in the encoding of visual information. The analysis also showed that different precisions followed different dynamics, a prior information which could be further exploited in a dynamical model. This model-based hypothesis is finally confronted with neurophysiological recordings made in V1."
 }
 </script>
 
-  
 
-  
 
-  
+
+
+
 
 
 
@@ -400,18 +400,18 @@
 
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="53c20175f7d0913eaca62686b28fdf51" >
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
   <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
 
-  
+
 
 
 <aside class="search-modal" id="search">
@@ -428,23 +428,23 @@
       </div>
 
       <div id="search-box">
-        
+
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
         aria-label="Search...">
-        
+
       </div>
 
-      
-      
 
-      
+
+
+
 
     </section>
     <section class="section-search-results">
 
       <div id="search-hits">
-        
+
       </div>
 
     </section>
@@ -454,7 +454,7 @@
 
 
   <div class="page-header">
-    
+
 
 
 
@@ -470,420 +470,420 @@
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container-xl">
 
-    
+
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Novel visual computations</a>
     </div>
-    
 
-    
+
+
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
-    
 
-    
+
+
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
       <a class="navbar-brand" href="/">Novel visual computations</a>
     </div>
-    
 
-    
-    
+
+
+
     <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
 
-      
+
       <ul class="navbar-nav d-md-inline-flex">
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#featured"><span>Featured</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#posts"><span>Events</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#projects"><span>Projects</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#people"><span>People</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#talks"><span>Talks</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#grants"><span>Grants</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-            
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/sciblog/" target="_blank" rel="noopener"><span>BlogBook</span></a>
         </li>
 
-        
-        
 
-        
 
-        
-        
-        
-          
-        
 
-        
 
-        
-        
-        
-        
 
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
-        
-        
 
-      
 
-        
+
+
+
+
       </ul>
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
 
-      
-      
-        
-      
 
-      
-      
+
+
+
+
+
+
       <li class="nav-item">
         <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
       </li>
-      
 
-      
-      
+
+
+
       <li class="nav-item dropdown theme-dropdown">
         <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
           <i class="fas fa-moon" aria-hidden="true"></i>
@@ -900,10 +900,10 @@
           </a>
         </div>
       </li>
-      
 
-      
-      
+
+
+
 
     </ul>
 
@@ -916,7 +916,6 @@
   <div class="page-body">
     <div class="pub">
 
-  
 
 
 
@@ -929,62 +928,61 @@
 
 
 
-  
 
-  
-  
-  
+
+
+
+
+
 <div class="article-container pt-3">
   <h1>Statistics of the Sparse Representations of Natural Images</h1>
 
-  
 
-  
-    
+
+
+
 
 
 <div class="article-metadata">
 
-  
-  
-  
-  
+
+
+
+
   <div>
-    
+
 
   <span >
       <a href="/author/hugo-ladret/">Hugo Ladret</a></span>, <span >
-      <a href="/author/laurent-u.-perrinet/">Laurent U. Perrinet</a></span>
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
-  
-  
 
-  
 
-  
 
-  
 
-  
-  
-  
-  
-  
-  
 
-  
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
-    
+
 
 
 
 
 <div class="btn-links mb-3">
-  
-  
 
 
 
@@ -993,7 +991,9 @@
 
 
 
-  
+
+
+
 
 
 
@@ -1021,17 +1021,17 @@
 </div>
 
 
-  
+
 </div>
 
 
 
   <div class="article-container">
 
-    
+
       <h3>Abstract</h3>
       <p class="pub-abstract">In most mammals, the primary visual cortex (V1) processes complex mixtures of orientations to construct an accurate neural representation of our visual environment. Sparse coding has been used to model the emergence of orientation-selective localized receptive fields and in particular the diversity of their shapes which reflects the richness of textures found in natural images. However, it is not yet known whether the corresponding sparse coefficients follow consistent patterns in natural images. Here, we explored the statistics of the distribution of sparse coefficients extracted from a sequence of images in a database of natural scenes. We first replicated previous results showing that sparse coefficients decrease with prototypical shapes. Then, we extended these results by showing the dependence of sparse coefficients on their relative position but also on the inverse variance of their orientation selectivity, that is, its precision. This demonstrates that orientation precision is an important variable in the encoding of visual information. The analysis also showed that different precisions followed different dynamics, a prior information which could be further exploited in a dynamical model. This model-based hypothesis is finally confronted with neurophysiological recordings made in V1.</p>
-    
+
 
     <div class="row">
       <div class="col-md-1"></div>
@@ -1047,9 +1047,9 @@
     </div>
     <div class="d-md-none space-below"></div>
 
-    
 
-    
+
+
 
     <div class="space-below"></div>
 
@@ -1069,7 +1069,7 @@
 
     </div>
 
-    
+
 
 
 
@@ -1080,85 +1080,85 @@
 
 <div class="share-box">
   <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
+
+
+
+
+
+
+
+
       <li>
         <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/&amp;text=Statistics%20of%20the%20Sparse%20Representations%20of%20Natural%20Images" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
-    
-      
-      
-      
-        
-      
-      
-      
+
+
+
+
+
+
+
+
       <li>
         <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/&amp;t=Statistics%20of%20the%20Sparse%20Representations%20of%20Natural%20Images" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
-    
-      
-      
-      
-        
-      
-      
-      
+
+
+
+
+
+
+
+
       <li>
         <a href="mailto:?subject=Statistics%20of%20the%20Sparse%20Representations%20of%20Natural%20Images&amp;body=https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
-    
-      
-      
-      
-        
-      
-      
-      
+
+
+
+
+
+
+
+
       <li>
         <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/&amp;title=Statistics%20of%20the%20Sparse%20Representations%20of%20Natural%20Images" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
-    
-      
-      
-      
-        
-      
-      
-      
+
+
+
+
+
+
+
+
       <li>
         <a href="whatsapp://send?text=Statistics%20of%20the%20Sparse%20Representations%20of%20Natural%20Images%20https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
-    
-      
-      
-      
-        
-      
-      
-      
+
+
+
+
+
+
+
+
       <li>
         <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/talk/2022-03-22-siam-is-22/&amp;title=Statistics%20of%20the%20Sparse%20Representations%20of%20Natural%20Images" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
-    
+
   </ul>
 </div>
 
@@ -1172,76 +1172,69 @@
 
 
 
-  
-  
-    
 
 
 
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
   <div class="media author-card content-widget-hr">
-    
-      
+
+
       <a href="/author/hugo-ladret/"><img class="avatar mr-3 avatar-circle" src="/author/hugo-ladret/avatar_hud84a483f73decf0a7d85ed2f62cffba3_42123_270x270_fill_q75_lanczos_center.jpg" alt="Hugo Ladret"></a>
-    
+
 
     <div class="media-body">
       <h5 class="card-title"><a href="/author/hugo-ladret/">Hugo Ladret</a></h5>
       <h6 class="card-subtitle">Phd candidate in Computational Neuroscience</h6>
       <p class="card-text">During my master, I focused on a bio-inspired neural network.</p>
       <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
+
+
+
+
+
+
+
+
+
+
+
+
     <li>
       <a href="https://github.com/hugoladret" target="_blank" rel="noopener">
         <i class="fab fa-github"></i>
       </a>
     </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
+
+
+
+
+
+
+
+
+
+
+
+
     <li>
       <a href="https://www.linkedin.com/in/hugoladret/" target="_blank" rel="noopener">
         <i class="fab fa-linkedin"></i>
       </a>
     </li>
-  
+
 </ul>
 
     </div>
   </div>
 
 
-  
-    
-
-
-
-
-  
 
 
 
@@ -1256,8 +1249,15 @@
 
 
 
-  
-  
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1268,29 +1268,29 @@
   </div>
 
   <div class="page-footer">
-    
-    
+
+
     <div class="container">
       <footer class="site-footer">
 
-  
 
 
 
-  
 
-  
 
-  
+
+
+
+
   <p class="powered-by">
     This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
 Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
   </p>
-  
 
-  
-  
+
+
+
 
 
 
@@ -1298,25 +1298,25 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
 
   <p class="powered-by">
-    
-    
-    
-      
-      
-      
-      
-      
-      
+
+
+
+
+
+
+
+
+
       Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
-    
+
   </p>
 </footer>
 
     </div>
-    
+
   </div>
 
-  
+
 <div id="modal" class="modal fade" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -1342,53 +1342,53 @@ Please note that multiple distribution, publication or commercial usage of copyr
   </div>
 </div>
 
-      
 
-    
+
+
     <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
 
-    
-    
-    
-      
-      
+
+
+
+
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      
 
-      
-      
 
-      
 
-      
-        
+
+
+
+
+
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
-        
-        
+
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
-        
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
-        
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js" crossorigin="anonymous"></script>
-        
-      
 
-    
 
-    
-    
-    
+
+
+
+
+
+
       <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
-    
 
-    
-    
 
-    
-    
-    
-      
+
+
+
+
+
+
+
       <script id="search-hit-fuse-template" type="text/x-template">
         <div class="search-hit" id="summary-{{key}}">
           <div class="search-hit-content">
@@ -1400,46 +1400,46 @@ Please note that multiple distribution, publication or commercial usage of copyr
           </div>
         </div>
       </script>
-      
+
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-      
-    
 
-    
-    
 
-    
-    
-    
-    
 
-    
-    
-      
-      
-      
-      
-      
-      
-      
-    
 
-    
-    
-    
-    
-    
-    
-    
-    
-      
-      
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <script src="/en/js/wowchemy.min.d68ecd57c0ec1f1f61d65fd568f1c3a0.js"></script>
 
-    
+
   <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
