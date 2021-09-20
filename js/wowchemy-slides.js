@@ -102,3 +102,8 @@
   }
   var mermaidOptions;
 })();
+);
+    });
+  }
+  var mermaidOptions;
+})();
