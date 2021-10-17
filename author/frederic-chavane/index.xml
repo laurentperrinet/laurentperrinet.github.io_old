@@ -6,145 +6,23 @@
       <atom:link href="https://laurentperrinet.github.io/author/frederic-chavane/index.xml" rel="self" type="application/rss+xml" />
     <description>Frédéric Chavane</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
+      <url>https://laurentperrinet.github.io/author/frederic-chavane/avatar_hu939e22bfda132e5dfe756f4281477277_68002_270x270_fill_lanczos_center_3.png</url>
       <title>Frédéric Chavane</title>
       <link>https://laurentperrinet.github.io/author/frederic-chavane/</link>
     </image>
     
     <item>
-      <title>Dynamical processing of orientation precision in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/talk/2021-08-27-ddxl/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2021-08-27-ddxl/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;This is 40th edition of Dynamicsdays&lt;/li&gt;
-&lt;li&gt;Nice, 23-27 August 2021 - &lt;a href=&#34;https://dynamicsdays2021.univ-cotedazur.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dynamicsdays2021.univ-cotedazur.fr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;check out the &lt;a href=&#34;https://dynamicsdays2021.univ-cotedazur.fr/assets/dynamicsdays_nice_2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;book of abstracts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;In this talk, we will present the following paper : 
+      <title>Pooling in a predictive model of V1 explains functional and structural diversity across species</title>
+      <link>https://laurentperrinet.github.io/publication/franciosini-21/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/franciosini-21/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Amazing work from &lt;a href=&#34;https://twitter.com/Angelo_RDN?ref_src=twsrc%5Etfw&#34;&gt;@Angelo_RDN&lt;/a&gt; building on the unsupervised learning network architecture from &lt;a href=&#34;https://twitter.com/VictorBoutin?ref_src=twsrc%5Etfw&#34;&gt;@VictorBoutin&lt;/a&gt; 🚀 It captures the diversity observed in different species (from rabbits to primates) for different functions (complex cells, topography) into a synthetic model... &lt;a href=&#34;https://t.co/xXksKXqQts&#34;&gt;https://t.co/xXksKXqQts&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1384782435708190721?ref_src=twsrc%5Etfw&#34;&gt;April 21, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
-
-
-
-
-  
-    
-
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/nelson-cortes/&#34;&gt;Nelson Cortes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/lamyae-ikan/&#34;&gt;Lamyae Ikan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/christian-casanova/&#34;&gt;Christian Casanova&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2021).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-21/&#34;&gt;Dynamical processing of orientation precision in the primary visual cortex&lt;/a&gt;.
-  &lt;em&gt;bioRxiv&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/early/2021/05/28/2021.03.30.437692&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Preprint
-&lt;/a&gt;
-
-
-
-
-  
-    
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/ladret-21/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1101/2021.03.30.437692&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-  
-
-&lt;/li&gt;
-&lt;li&gt;Preliminary Program:
 &lt;ul&gt;
-&lt;li&gt;Bruno Cessac, &lt;em&gt;The Retina as a Dynamical System&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Hugo Ladret &amp;amp; Laurent Perrinet, &lt;em&gt;Dynamics of the processing of orientation precision in the primary visual cortex&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Gianluigi Mongillo, &lt;em&gt;Glassy phase in dynamically balanced networks&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Romain Veltz, &lt;em&gt;Spatial and color hallucinations in a mathematical model of primary visual cortex&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dynamical processing of orientation precision in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/talk/2021-08-27-ddxl/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2021-08-27-ddxl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical processing of orientation precision in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/talk/2021-05-20-neuro-france/</link>
-      <pubDate>Thu, 20 May 2021 14:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2021-05-20-neuro-france/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;As presented during the &lt;a href=&#34;https://www.neurosciences.asso.fr/SN21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroFrance 2021&lt;/a&gt; meeting
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;now (2:00 PM - 3:00 PM CEST on Thursday, May 20), you can hear Hugo Ladret &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; present his poster P4.47 &amp;quot;Processing of orientation precision in the primary visual cortex&amp;quot;&lt;a href=&#34;https://t.co/vuT6gegwtO&#34;&gt;https://t.co/vuT6gegwtO&lt;/a&gt;&lt;br&gt;Neurofrance 2021 &lt;a href=&#34;https://twitter.com/hashtag/NF2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NF2021&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/NeuroFrance2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NeuroFrance2021&lt;/a&gt; &lt;a href=&#34;https://twitter.com/SocNeuro_Tweets?ref_src=twsrc%5Etfw&#34;&gt;@SocNeuro_Tweets&lt;/a&gt; &lt;a href=&#34;https://t.co/YQNF9FiB6m&#34;&gt;pic.twitter.com/YQNF9FiB6m&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1395351843035828224?ref_src=twsrc%5Etfw&#34;&gt;May 20, 2021&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/li&gt;
-&lt;li&gt;get the &lt;a href=&#34;https://www.professionalabstracts.com/nf2021/programme-nf2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;abstract book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;In this talk, we will present the following paper : 
+&lt;li&gt;this paper follows this COSYNE presentation : 
 
 
 
@@ -164,16 +42,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/nelson-cortes/&#34;&gt;Nelson Cortes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/lamyae-ikan/&#34;&gt;Lamyae Ikan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/christian-casanova/&#34;&gt;Christian Casanova&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
-  (2021).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-21/&#34;&gt;Dynamical processing of orientation precision in the primary visual cortex&lt;/a&gt;.
-  &lt;em&gt;bioRxiv&lt;/em&gt;.
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/&#34;&gt;Modelling Complex-cells and topological structure in the visual cortex of mammals using Sparse Predictive Coding&lt;/a&gt;.
+  &lt;em&gt;Computational and Systems Neuroscience (Cosyne) 2020&lt;/em&gt;.
   
   &lt;p&gt;
 
@@ -181,14 +56,6 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/early/2021/05/28/2021.03.30.437692&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Preprint
-&lt;/a&gt;
-
 
 
 
@@ -198,14 +65,14 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   PDF
 &lt;/a&gt;
 
 
 
 &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/ladret-21/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/franciosini-20-cosyne/cite.bib&#34;&gt;
   Cite
 &lt;/a&gt;
 
@@ -221,7 +88,720 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1101/2021.03.30.437692&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;see a related work describing SDPC in: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
+  &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/VictorBoutin/InteractionMap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1008629&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;more about the role of top-down connections: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
+  &lt;em&gt;Neural Computation&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyann.lecun%2Fposts%2F10157650553112143&amp;width=500&amp;show_text=true&amp;height=305&amp;appId&#34; width=&#34;500&#34; height=&#34;305&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&#34;&gt;&lt;/iframe&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This is from:&lt;br&gt;Koray Kavukcuoglu, Marc&amp;#39;Aurelio Ranzato, Rob Fergus and Yann LeCun: Learning Invariant Features through Topographic Filter Maps, Proc. International Conference on Computer Vision and Pattern Recognition (CVPR&amp;#39;09), IEEE, 2009 &lt;a href=&#34;https://t.co/4gH6L3dmaJ&#34;&gt;pic.twitter.com/4gH6L3dmaJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Yann LeCun (@ylecun) &lt;a href=&#34;https://twitter.com/ylecun/status/1384940135419101187?ref_src=twsrc%5Etfw&#34;&gt;April 21, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/</guid>
+      <description>&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;My latest work with &lt;a href=&#34;https://twitter.com/Angelo_RDN?ref_src=twsrc%5Etfw&#34;&gt;@Angelo_RDN&lt;/a&gt;, Frederic Chavane, Franck Ruffier and &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; has been released in PLOS CB (&lt;a href=&#34;https://t.co/0uvFeiSuOR&#34;&gt;https://t.co/0uvFeiSuOR&lt;/a&gt;). Our model combines Sparse Coding and Predictive Coding and introduce a novel way to visualize neural representation : the interaction map &lt;a href=&#34;https://t.co/AORwdFAMw3&#34;&gt;pic.twitter.com/AORwdFAMw3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Victor Boutin (@VictorBoutin) &lt;a href=&#34;https://twitter.com/VictorBoutin/status/1355810283835564033?ref_src=twsrc%5Etfw&#34;&gt;January 31, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-1-architecture-of-a-2-layered-sdpc-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; alt=&#34;Fig 1. Architecture of a 2-layered SDPC model.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig 1. Architecture of a 2-layered SDPC model.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+One often compares biological vision to a camera-like system where an image would be processed according to a sequence of successive transformations. In particular, this “feedforward” view is prevalent in models of visual processing such as deep learning. However, neuroscientists have long stressed that more complex information flow is necessary to reach natural vision efficiency. In particular, recurrent and feedback connections in the visual cortex allow to integrate contextual information in our representation of visual stimuli. These modulations have been observed both at the low-level of neural activity and at the higher level of perception.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-2-results-of-training-sdpc-on-the-natural-images-left-column-and-on-the-face-database-right-column-with-a-feedback-strength-kfb--1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g002&#34; alt=&#34;Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig 2. Results of training SDPC on the natural images (left column) and on the face database (right column) with a feedback strength kFB = 1.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-14-illustration-of-the-hierarchical-generative-model-learned-by-the-sdpc-model-on-the-face-database&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; alt=&#34;Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+In this study, we present an architecture that describes biological vision at both levels of analysis. It suggests that the brain uses feedforward and feedback connections to compare the sensory stimulus with its own internal representation. In contrast to classical deep learning approaches, we show that our model learns interpretable features.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-5-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-30&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g005&#34; alt=&#34;Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig 5. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 30°.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-7-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-45-and-colored-with-the-relative-response-wrt-no-feedback&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; alt=&#34;Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+Moreover, we demonstrate that feedback signals modulate neural activity to promote good continuity of contours. Finally, the same model can disambiguate images corrupted by noise. To the best of our knowledge, this is the first time that the same model describes the effect of recurrent and feedback modulations at both neural and representational levels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-fig-10-effect-of-the-feedback-strength-on-noisy-images-from-natural-images-database&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; alt=&#34;Fig 10. Effect of the feedback strength on noisy images from natural images database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Fig 10. Effect of the feedback strength on noisy images from natural images database.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;more about the role of top-down connections: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
+  &lt;em&gt;Neural Computation&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2019).
+  &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;From the retina to action: Predictive processing in the visual system&lt;/a&gt;.
+  &lt;em&gt;HDR Robin Baurès, Toulouse (France)&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/2019-03-25_HDR_RobinBaures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/talk/2019-03-25-hdr-robin-baures/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANR ShootingStar (2021/2024)</title>
+      <link>https://laurentperrinet.github.io/grant/anr-shootingstar/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/grant/anr-shootingstar/</guid>
+      <description>&lt;p&gt;The natural visual environments in which we have evolved have shaped and constrained the neural mechanisms of vision. Rapid progress has been made in recent years in understanding how the retina and visual cortex are specifically adapted to processing natural scenes.1–3 However, studies in this research tradition have mainly addressed the processing of natural images in the spatial domain. Although the processing of temporal properties of visual stimuli is just as important as spatial properties, &lt;strong&gt;stimuli with naturalistically valid temporal dynamics have not been sufficiently investigated&lt;/strong&gt;. Although objects and creatures we view undergo a variety of intrinsic movements, probably the most common motions on the retina are image shifts due to our own eye movements: in free viewing in humans, ocular saccades occur about three times every second, shifting the retinal image at speeds of 100-500 degrees of visual angle per second.4 How these very fast shifts are suppressed, leading to clear, accurate and stable representations of the visual scene is an fundamental unsolved problem in visual neuroscience known as &lt;strong&gt;saccadic suppression&lt;/strong&gt;. One reason why this problem is difficult is technological: to make progress we need to visually simulate these fast retinal shifts, but computer displays have been too slow to produce adequate simulations.&lt;/p&gt;
+&lt;p&gt;In this project we propose a &lt;strong&gt;unique convergence between neurophysiology, modeling and psychophysics&lt;/strong&gt;, aided by recent technological developments. Some of the partners have been at the forefront of recent developments that have led to a realization that moving stimuli lead to &lt;strong&gt;traveling waves of activity in primary visual cortex,&lt;/strong&gt; propagating at speeds similar to those produced by saccades. Other partners have developed &lt;strong&gt;detailed models of the retina and primary visual cortex&lt;/strong&gt; based on &lt;strong&gt;multielectrode recordings from the retina and optical imaging of the cortex&lt;/strong&gt; that have been able to account for these wave phenomena. Finally, another partner recently made psychophysical observations—aided by new, ultrafast computer displays that allow us to realistically simulate saccadic dynamics on a static retina—that show how &lt;strong&gt;image dynamics alone can account for saccadic suppression phenomena&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We expect that the convergence of these three research currents and methodologies will lead to rapid progress in understanding &lt;strong&gt;how the visual system is adapted to naturalistic dynamics&lt;/strong&gt;. The psychophysical observations will provide new leads and targets for the neurophysiology and modeling, which in turn may provide detailed neural explanations for the psychophysics. Our main hypothesis is that the neural architectures that have been uncovered in the retina and the primary visual cortex will be revealed as most effective when processing naturalistic, fast stimuli that arise as the consequence of eye movements.&lt;/p&gt;
+&lt;h2 id=&#34;carte-didentité-du-projet&#34;&gt;carte d&amp;rsquo;identité du projet&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Durée: 4 ans, à partir du 1er avril 2021&lt;/li&gt;
+&lt;li&gt;Budget total (partenaire français): 665 k€&lt;/li&gt;
+&lt;li&gt;Coordinateur Scientifique : Mark WEXLER (CNRS‐INCC)&lt;/li&gt;
+&lt;li&gt;Partenaire(s) : AGENCE NATIONALE DE LA RECHERCHE&lt;/li&gt;
+&lt;li&gt;Responsable Scientifique INT : Frédéric CHAVANE (UMR7289)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
+&lt;p&gt;This work was supported by ANR project &amp;ldquo;ShootingStar&amp;rdquo; N° ANR-XX-XXX-XXXX.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-19-nccd/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-19-nccd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suppressive waves disambiguate the representation of long-range apparent motion in awake monkey V1</title>
+      <link>https://laurentperrinet.github.io/publication/chemla-19/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/chemla-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-20-sigma/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/boutin-20-sigma/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;see a follow-up in: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
+  &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/VictorBoutin/InteractionMap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1008629&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;more about the role of top-down connections: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
+  &lt;em&gt;Neural Computation&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   DOI
 &lt;/a&gt;
 
@@ -240,29 +820,649 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
     </item>
     
     <item>
-      <title>Dynamical processing of orientation precision in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/talk/2021-05-20-neuro-france/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2021-05-20-neuro-france/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamical processing of orientation precision in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/ladret-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/ladret-21/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;now (2:00 PM - 3:00 PM CEST on Thursday, May 20), you can hear Hugo Ladret &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; present his poster P4.47 &amp;quot;Processing of orientation precision in the primary visual cortex&amp;quot;&lt;a href=&#34;https://t.co/vuT6gegwtO&#34;&gt;https://t.co/vuT6gegwtO&lt;/a&gt;&lt;br&gt;Neurofrance 2021 &lt;a href=&#34;https://twitter.com/hashtag/NF2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NF2021&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/NeuroFrance2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NeuroFrance2021&lt;/a&gt; &lt;a href=&#34;https://twitter.com/SocNeuro_Tweets?ref_src=twsrc%5Etfw&#34;&gt;@SocNeuro_Tweets&lt;/a&gt; &lt;a href=&#34;https://t.co/YQNF9FiB6m&#34;&gt;pic.twitter.com/YQNF9FiB6m&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1395351843035828224?ref_src=twsrc%5Etfw&#34;&gt;May 20, 2021&lt;/a&gt;&lt;/blockquote&gt;
+      <title>Orientation selectivity to synthetic natural patterns in a cortical-like model of the cat primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/ladret-19-sfn/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/ladret-19-sfn/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Interested in orientation selectivity in V1?  at &lt;a href=&#34;https://twitter.com/hashtag/sfn2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#sfn2019&lt;/a&gt; ? &lt;br&gt;We tested a model getting different precision levels and then tested these predictions in real neurons ! Check out poster 403.16 / P20 @ &lt;a href=&#34;https://t.co/iHUv0AHuzl&#34;&gt;https://t.co/iHUv0AHuzl&lt;/a&gt; &lt;br&gt;-&amp;gt; more info :&lt;a href=&#34;https://t.co/JkXXgC5IVp&#34;&gt;https://t.co/JkXXgC5IVp&lt;/a&gt;&lt;br&gt;🤝 &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CNRS?ref_src=twsrc%5Etfw&#34;&gt;@CNRS&lt;/a&gt; &lt;a href=&#34;https://t.co/MVBz0UGH70&#34;&gt;pic.twitter.com/MVBz0UGH70&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1186513282326257665?ref_src=twsrc%5Etfw&#34;&gt;October 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
+&lt;ul&gt;
+&lt;li&gt;See a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-20-aes/&#34;&gt;Ladret and Perrinet, 2020&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1</title>
-      <link>https://laurentperrinet.github.io/publication/benvenuti-20/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/benvenuti-20/</guid>
+      <title>Sparse Deep Predictive Coding to model visual object recognition</title>
+      <link>https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-19-sfn/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-19-sfn/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;If you’re at &lt;a href=&#34;https://twitter.com/hashtag/sfn2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#sfn2019&lt;/a&gt; and have an interest in &lt;a href=&#34;https://twitter.com/hashtag/sparse?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#sparse&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/deep?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#deep&lt;/a&gt; Predictive Coding, checkout &lt;a href=&#34;https://twitter.com/VictorBoutin?ref_src=twsrc%5Etfw&#34;&gt;@VictorBoutin&lt;/a&gt; ‘s poster 403.16 / P20:&lt;a href=&#34;https://t.co/2VLEsl98oU&#34;&gt;https://t.co/2VLEsl98oU&lt;/a&gt;&lt;br&gt;&lt;br&gt;It shows today + comes with a (timely) preprint &lt;a href=&#34;https://t.co/FfKi9tjqrN&#34;&gt;https://t.co/FfKi9tjqrN&lt;/a&gt; !&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/SfN19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SfN19&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/MachineLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MachineLearning&lt;/a&gt; &lt;a href=&#34;https://t.co/ep0RrPjzzZ&#34;&gt;pic.twitter.com/ep0RrPjzzZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1186196186170044421?ref_src=twsrc%5Etfw&#34;&gt;October 21, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+&lt;li&gt;see a follow-up in: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
+  &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/VictorBoutin/InteractionMap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1008629&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;more about the role of top-down connections: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/&#34;&gt;Effect of top-down connections in Hierarchical Sparse Coding&lt;/a&gt;.
+  &lt;em&gt;Neural Computation&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.00892&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01325&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANR BalaV1 (2013/2016)</title>
+      <link>https://laurentperrinet.github.io/grant/anr-bala-v1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/grant/anr-bala-v1/</guid>
+      <description>&lt;h1 id=&#34;anr-balav1-balanced-states-in-area-v1-20132016&#34;&gt;ANR BalaV1: Balanced states in area V1 (2013/2016)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.agence-nationale-recherche.fr/Project-ANR-13-BSV4-0014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Official website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In carnivores and primates the orientation selectivity (OS) of the cells in the primary visual cortex (V1) is organized in maps in which preferred orientations (POs) of the cells change gradually except near “pin- wheels”, around which all orientations are present. Over the last half-century the mechanism for OS has been hotly debated. However the theories that purport to explain OS have almost all considered cortical networks in which the neurons receive input preferentially from cells with similar PO. Such theories certainly capture the connectivity for neurons in orientation domains where neurons are surrounded by other cells with similar PO. However this does not necessarily hold near pinwheels: because of the discontinuous change in orientation preference at the pinwheel, neurons in this area are surrounded by cells of all preferred orientations. Thus if the probability of connection is solely dependent on anatomical distance, the inputs that these neurons receive should represent all orientations by roughly the same amount. Thus one may expect that the response of the cells near pinwheels should hardly vary with orientation, in contrast to experimental data. As a result, the common belief is that, at least near pinwheels, the connectivity depends also on the differences between preferred orientation. The situation near pinwheels in V1 of carnivores and primates is similar to that in the whole of V1 of rodents. In these species, neurons in V1 are OS but the network does not exhibit an orientation map and the surround of the cells represents all orientations roughly equally. In a recent theoretical paper (Hansel and van Vreeswijk 2012) we have demonstrated that in this situation, the response of the cells can still be orientation selective provided that the network operates in the balanced regime. Here we hypothesize that V1 with an orientation map operates in the balanced regime and therefore neurons can exhibit OS near pinwheels even in the absence of functional specific connectivity. The goal of this interdisciplinary project is to investigate whether the “balance hypothesis” holds for layer 2/3 in V1 of primate and carnivore and whether the functional organization observed in that layer can be accounted for without feature specific connectivity. We will combine modeling and experiments to investigate how the response of the neurons – the mean firing, the mean voltage, the inhibitory and excitatory conductances and importantly, the power spectrum of their fluctuations – vary with the location in the map, and also how a population of neurons – LFP, voltage-sensitive dye imaging or 2 photons – is affected by the various para- meters used to test the system. Whether V1 indeed operates in the balanced regime in more realistic conditions will be further investigated by determining how the local network responds to visual stimuli beyond the classical receptive field. We will investigate this issue in models of layer 2/3 representing multiple hyper- columns to characterize center-surround interactions and their dependence on the long-range connectivity. This will provide us with predictions for center-surround interactions for cells near pinwheels and in orientation domains. These predictions will be tested experimentally.&lt;/p&gt;
+&lt;p&gt;The proposed project is new and ambitious. It aims at building a comprehensive and coherent understand- ing of the physiology of V1 layer 2/3 on several spatial scales from single cells to several hypercolumns and to account for this in mechanistic models. To accomplish these ambitious aims, we propose a combination of experimental and computational studies that take advantage of the unique strengths and the complementarity of expertise of 3 research teams. The Paris team has extensive experience in large-scale modeling of V1. The Toulouse and Marseille teams master both intra- and extracellular electrophysiology. In addition, the Marseille team is expert in microscopic and mesoscopic imaging techniques in V1.&lt;/p&gt;
+&lt;p&gt;Acknowledgement&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;This work was supported by ANR project &amp;quot;BalaV1&amp;quot; N° ANR-13-BSV4-0014-02.  
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANR Horizontal-V1 (2017/2021)</title>
+      <link>https://laurentperrinet.github.io/grant/anr-horizontal-v1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/grant/anr-horizontal-v1/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Description on the official website of the &lt;a href=&#34;http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Horizontal-V1 project aims at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). We will study how the long-distance &amp;ldquo;horizontal&amp;rdquo; connectivity, intrinsic to V1 and the feedback from higher cortical areas contribute to a dynamic processing of local-to-global features as a function of the context (eg displacement along a trajectory; during reafference change induced by eye-movements&amp;hellip;). We will search to characterize the dynamic processes based on lateral propagation intra-V1, through which spatio-temporal inferences (continuous movement or apparent motion sequences) facilitating spatial (&amp;ldquo;filling-in&amp;rdquo;) or positional (&amp;ldquo;flash-lag&amp;rdquo;) future expected responses may be generated. The project will use a variety of animations of local oriented stimuli forming, according to their spatial and temporal coherence, predictable global patterns, apparent motion sequences and/or continuous trajectories. We will measure the cortical dynamics at two scales of neuronal integration, from micro- (intracellular, SUA) to meso-scopic levels (multi-electrode arrays (MEA) and voltage sensitive dye imaging (VSDI)) in the anesthetized (cat, marmoset) and awake fixating animal (macaca mulata). In a second step, we will combine these multiscale observations to constrain a structuro-functional model of low-level perception, integrating the micro-meso constraints. Two laboratories will participate in synergy to the project: UNIC-Gif (Dir. Yves Frégnac, DRCE2 CNRS, coordinator) and INT-Marseille (NeOpTo Team Dir. Frédéric Chavane, DR2 CNRS).&lt;/p&gt;
+&lt;h1 id=&#34;wp3---design-of-novel-visual-paradigms-probabilistic-model-of-v1-and-data-driven-simulations---co-lead-unic-int&#34;&gt;WP3 - Design of novel visual paradigms, probabilistic model of V1 and data-driven simulations - co lead UNIC-INT.&lt;/h1&gt;
+&lt;p&gt;Objectives : This WP will have two primary goals. The first one is theoretically driven, and for sake of simplicity will ignore the dynamic features of neural integration (as expected from a statistical model of image analysis). Binding the different features of visual objects at the local scale (contours) as well as a more global level involves understanding the statistical regularities of the sensory inflow. In particular, titrating the predictions that can be done at the statistical level can be seen as a first pass to better search for critical parameters constraining the network behaviour. From these, we will build probabilistic predictive models optimized for edge co-occurrence classification and generate novel visual statistics 1) which obey rules imposed by the functional horizontal connectivity anisotropies, such as co- circularity, and 2) which facilitate binding in the orientation domain, such as log-polar planforms. These statistics generated in the first half of the grant will be implemented and tested experimentally in the second half of the grant. The second one is more data-driven (as well as phenomenological for feedback from higher cortical areas, since it will not be explored in the grant). Since model fitting will depend on close interactions with WP1 and WP2 measurements, it will be done in the second half of the grant.&lt;/p&gt;
+&lt;h2 id=&#34;wp3-task-1-theoretically-oriented-workplan--lead-int-laurent-perrinet&#34;&gt;WP3-Task 1: Theoretically oriented workplan – Lead INT (Laurent Perrinet)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;WP3-Task 1.1 - theory : we will exploit our current expertise in integrating these statistics in the form of probabilistic models to make predictions both at the physiological and modelling levels. First, we will take advantage of our previous work on the quantification of the association field in different classes of natural images (Perrinet &amp;amp; Bednar, 2015). Using an existing library (&lt;a href=&#34;https://github.com/bicv/SparseEdges%29,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/bicv/SparseEdges),&lt;/a&gt; we will use the sparse representation of static natural images to compute histograms of edge co-occurrences. Using an existing algorithm for unsupervised learning (&lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning%29,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/bicv/SparseHebbianLearning),&lt;/a&gt; we will learn the different independent components of edge co-occurrences. Such an algorithm fits well a traditional deep-learning convolutional neural network, but, in addition, will include constraints imposed by intra-layer horizontal connectivity. We expect that relevant features will be co-linear or co-circular pairs of edges, but also T-junctions or end-stopping features.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WP3-Task 1.2 - image/film synthesis : We have previously found that random synthetic textures, coined &amp;ldquo;Motion Clouds&amp;rdquo;, can be used to quantify V1 implication in visual motion perception (Leon et al, 2012; Simoncini et al, 2012). Recently, the INT and UNIC, partners proved mathematically that these stimuli were optimal with respect to some common geometrical transformations, such as translation, zoom or rotations (Vacher et al, 2015). A main characteristic of these textures is to be generated with a maximally entropic arrangement of elementary textures (so-called textons).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**        Informed by the generative model of edge co-occurrences studied in subtask 1, we will be able to extend the family of motion cloud stimuli (Leon et al, 2012; Simoncini et al, 2012) to include joint dependencies between different elements in position or orientation. An exact solution to this problem is hard to achieve as it involves a combinatorial search of all possible combinations of pairs of edges. However, numerous variational approaches are possible and fit well with our probabilistic framework. We will use the convolutional neural network described above but using a back-propagating stream to generate different images. Such a representation will then be optimized using an unsupervised learning method. This is similar to the process used in Generative Adversarial Networks in deep-learning architectures (Radford et al, Archives).
+**        Finally, the regularities observed in static images will be extended to dynamical scenes by observing that a co-occurrence can be implemented by simple geometrical operations as they are operated in time. For instance a co-circularity is easily described as the set of smooth roto-translational transformations of an edge in time using the group of Galilean transformations (Sarti and Citti, 2006). This theory calls for a first prediction to understand the set of whole possible spatio-temporal co-occurrences of edges as geodesics in the lifted space of all possible trajectories. We predict that such decomposition should allow us to better understand the different classes of features that emerged in the first task.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WP3-Task 1.3 - Feedback of theory on experimentation : An essential aspect of this work would be to apply these stimuli in neurophysiological experiments and in the modelling. In particular, the ability to select different types of dependencies from the different classes learned above (for instance, co-circularities of a certain curvature range) will make it possible to evaluate the relative contribution of different components of the contextual information. This justifies the fact that the WP3 post-doctoral fellow should have the mobility (between INT and UNIC) and multi-disciplinar profile (theoretical and experimental) to perform this task.&lt;/li&gt;
+&lt;li&gt;WP3-Task 1.4 - Generic modelling : These various subtasks will allow us to determine the hierarchy of critical features relevant to describe the full statistics of the space of spatio-temporal edge co-occurrences. Indeed, in static images, we will be able to find independent component in the histograms of edge co-occurrences between metric aspect (distance or scale between edge) from configurational aspects (difference of angle or co-circularity angle).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Similarly, we expect to see that the different independent features should decompose at various scales both in space and in time. For instance, we expect configurational aspects to be more local while aspects related to a motion (Perrinet and Masson, 2012; Khoei et al, 2016) or global shape (form) should be more global. This translates into a probabilistic hierarchical model that would combine dependencies from different cues. In particular, through the emergence of differential pathways for form and motion. These quantitative predictions should finally be confronted at the modelling and neurophysiological levels.&lt;/p&gt;
+&lt;h2 id=&#34;wp3-task-2--data-driven-comprehensive-model-of-v1--co-lead-unic-and-int&#34;&gt;WP3-Task 2 : Data-driven comprehensive model of V1 – Co-lead UNIC and INT&lt;/h2&gt;
+&lt;p&gt;The second task is more data-driven (as well as phenomenological for the feedback circuit part, since largely unknown). Since simulations will depend on close interactions with WP1 and WP2 measurements, it will be developed by the WP3-Post-Doc in the second half of the grant. It will benefit from existing structuro-functional models addressing separately two distinct levels of neural integration, microscopic (conductance-based in Kremkow et al, 2016; Antolik et al, submitted, Chariker et al, 2016) and mesoscopic (VSD-like mean field in Rankin and Chavane, 2017). Efforts will be made to merge these models to fit - in a unified multiscale biologically realistic model - the cellular and VSD data targeting critically horizontal propagation. The parameterization should be flexible enough to produce a generic cortical architecture accounting possibly for species-specificity (Antolik for cat; Chaliker for monkey)&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
+&lt;p&gt;This work was supported by ANR project &amp;ldquo;Horizontal-V1&amp;rdquo; N° ANR-17-CE37-0006.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ANR TRAJECTORY (2016/2019)</title>
+      <link>https://laurentperrinet.github.io/grant/anr-trajectory/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/grant/anr-trajectory/</guid>
+      <description>&lt;p&gt;Global motion processing is a major computational task of biological visual systems. When an object moves across the visual field, the sequence of visited positions is strongly correlated in space and time, forming a trajectory. These correlated images generate a sequence of local activation of the feed-forward stream. Local properties such as position, direction and orientation can be extracted at each time step by a feed-forward cascade of linear filters and static non-linearities. However such local, piecewise, analysis ignores the recent history of motion and faces several difficulties, such as systematic delays, ambiguous information processing (e.g., aperture and correspondence problems61) high sensitivity to noise and segmentation problems when several objects are present. Indeed, two main aspects of visual processing have been largely ignored by the dominant, classical feed-forward scheme. First, natural inputs are often ambiguous, dynamic and non-stationary as, e.g., objects moving along complex trajectories. To process them, the visual system must segment them from the scene, estimate their position and direction over time and predict their future location and velocity. Second, each of these processing steps, from the retina to the highest cortical areas, is implemented by an intricate interplay of feed-forward, feedback and horizontal interactions1. Thus, at each stage, a moving object will not only be processed locally, but also generate a lateral propagation of information. Despite decades of motion processing research, it is still unclear how the early visual system processes motion trajectories. We, among others, have proposed that anisotropic diffusion of motion information in retinotopic maps can contribute resolving many of these difficulties25 13. Under this perspective, motion integration, anticipation and prediction would be jointly achieved through the interactions between feed-forward, lateral and feedback propagations within a common spatial reference frame, the retinotopic maps.&lt;/p&gt;
+&lt;p&gt;Addressing this question is particularly challenging, as it requires to probe these sequences of events at multiple scales (from individual cells to large networks) and multiple stages (retina, primary visual cortex (V1)). “TRAJECTORY” proposes such an integrated approach. Using state-of-the-art micro- and mesoscopic recording techniques combined with modeling approaches, we aim at dissecting, for the first time, the population responses at two key stages of visual motion encoding: the retina and V1. Preliminary experiments and previous computational studies demonstrate the feasibility of our work. We plan three coordinated physiology and modeling work-packages aimed to explore two crucial early visual stages in order to answer the following questions: How is a translating bar represented and encoded within a hierarchy of visual networks and for which condition does it elicit anticipatory responses? How is visual processing shaped by the recent history of motion along a more or less predictable trajectory? How much processing happens in V1 as opposed to simply reflecting transformations occurring already in the retina?&lt;/p&gt;
+&lt;p&gt;The project is timely because partners master new tools such as multi-electrode arrays and voltage-sensitive dye imaging for investigating the dynamics of neuronal populations covering a large segment of the motion trajectory, both in retina and V1. Second, it is strategic: motion trajectories are a fundamental aspect of visual processing that is also a technological obstacle in computer vision and neuroprostheses design. Third, this project is unique by proposing to jointly investigate retinal and V1 levels within a single experimental and theoretical framework. Lastly, it is mature being grounded on (i) preliminary data paving the way of the three different aims and (ii) a history of strong interactions between the different groups that have decided to join their efforts.&lt;/p&gt;
+&lt;h2 id=&#34;the-marseille-team&#34;&gt;The Marseille team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Frédéric Chavane (DR, CNRS, NEOPTO team) is working in the field of vision research for about 20 years with a special interest in the role of lateral interactions in the integration of sensory input in the primary visual cortex. His recent work suggest that lateral interactions mediated by horizontal intracortical connectivity participates actively in the input normalization that controls a wide range of function, from the contrast-response gain to the representation of illusory or real motion. His expertise range from microscopic (intracellular recordings) to mesoscopic (optical imaging, multi-electrode array) recording scales in the primary visual cortex of anesthetized and awake behaving animals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Laurent Perrinet (CR, CNRS, NEOPTO team). His scientific interests focus on bridging computational understanding of neural dynamics and low-level sensory processing by focusing on motion perception. He is the author of papers in machine learning, computational neuroscience and behavioral psychology. One key concept is the use of statistical regularities from natural scenes as a main drive to integrate local neural information into a global understanding of the scene. In a recent paper that he coauthored (in Nature Neuroscience), he developed a method to use synthesized stimuli targeted to analyze physiological data in a system-identification approach.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ivo Vanzetta (CR, CNRS, NEOPTO team). His scientific interests focus on how to optimally use photonics-based imaging methods to investigate visual information processing in low-level visual areas, in the anesthetized and awake animal (rodent &amp;amp; primate). As can be seen from his bibliographic record, these methods include optical imaging of intrinsic signals and voltage sensitive dyes and, recently, 2 photon microscopy. Finally I. Vanzetta has an ongoing collaboration with L. Perrinet on the utilization of well-controlled, synthesized nature-like visual stimuli to probe the response characteristics of the primate&amp;rsquo;s visual system (Sanz-Leon &amp;amp; al. 2012).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;progress-meeting-anr-trajectory&#34;&gt;Progress meeting ANR TRAJECTORY&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Time    January 15th, 2018&lt;/li&gt;
+&lt;li&gt;Location     INT&lt;/li&gt;
+&lt;li&gt;General presentation of the grant, see &lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anr TRAJECTORY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Overview of my current projects    &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/sciblog/files/2017-11-15_ColloqueMaster.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MotionClouds with trajectories    &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2018-01-16-testing-more-complex-trajectories.html&lt;/a&gt; or &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/sciblog/posts/2018-11-13-testing-more-complex-trajectories.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-predictive-sequence-is-essential-in-resolving-the-coherence-problem--the-sequence-in-which-a-set-of-local-motion-is-shown-is-essential-for-the-detection-of-global-motion-we-replicate-here-the-experiments-by-scott-watamaniuk-and-colleagues-they-have-shown-behaviourally-that-a-dot-in-noise-is-much-more-detectable-when-it-follows-a-coherent-trajectory-up-to-an-order-of-magnitude-of-10-times-what-would-be-predicted-by-the-local-components-of-the-trajectory-in-this--movie-we-observe-white-noise-and-at-first-sight-no-information-is-detectable-in-fact-there-is-a-dot-moving-along-some-smooth-linear-trajectory-since-this-is-compatible-with-a-predictive-sequence-it-is-much-easier-to-see-the-dot-from-left-to-right-in-the-top-of-the-image-a-smooth-pursuit-helps-to-catch-it-this-simple-experiment-shows-that-even-if-local-motion-is-similar-in-both-movies-a-coherent-trajectory-is-more-easy-to-track-obviously-we-may-thus-conclude-that-the-whole-trajectory-is-more-that-its-individual-parts-and-that-the-independence-hypothesis-does-not-hold-if-we-want-to-account-for-the-predictive-information-in-input-sequences-such-as-seems-to-be-crucial-for-the-ap&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*A predictive sequence is essential in resolving the coherence problem.*  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.&#34;
+           src=&#34;https://laurentperrinet.github.io/grant/anr-trajectory/sequence_ABCD.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;A predictive sequence is essential in resolving the coherence problem.&lt;/em&gt;  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
+&lt;p&gt;This work was supported by ANR project &amp;ldquo;TRAJECTORY&amp;rdquo; N° ANR-15-CE37-0011.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testing the odds of inherent vs. observed overdispersion in neural spike counts</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-16/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-15-vss/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-15-vss/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see a follow-up in this &lt;a href=&#34;https://laurentperrinet.github.io/publication/taouali-16-areadne/&#34;&gt;poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This is a followup in &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A dynamic model for decoding direction and orientation in macaque primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-16-areadne/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-16-areadne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On overdispersion in neuronal evoked activity</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-15-icmns/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-15-icmns/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see a follow-up in this &lt;a href=&#34;https://laurentperrinet.github.io/publication/taouali-16/&#34;&gt;publication&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motion-based prediction and development of the response to an &#39;on the way&#39; stimulus</title>
+      <link>https://laurentperrinet.github.io/publication/khoei-13-cns/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Based on 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2012).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Motion-based prediction is sufficient to solve the aperture problem&lt;/a&gt;.
+  &lt;em&gt;Neural Computation&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/perrinet-12-pred.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/perrinet-12-pred/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;see  follow-up on motion extrapolation: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2013).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
+  &lt;em&gt;Journal of Physiology-Paris&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;see  follow-up on the flash-lag effect: 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2017).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
+  &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading out the dynamics of lateral interactions in the primary visual cortex from VSD data</title>
+      <link>https://laurentperrinet.github.io/talk/2009-11-30-vss/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2009-11-30-vss/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see this more recent poster @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-09-vss/&#34;&gt;VSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inferring monkey ocular following responses from V1 population dynamics using a probabilistic model of motion integration</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-09-vss/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-09-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading out the dynamics of lateral interactions in the primary visual cortex from VSD data</title>
+      <link>https://laurentperrinet.github.io/talk/2009-11-30-vss/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2009-11-30-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Input-output transformation in the visuo-oculomotor loop: modeling the ocular following response to center-surround stimulation in a probabilistic framework</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-06-fens/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-06-fens/</guid>
       <description></description>
     </item>
     
