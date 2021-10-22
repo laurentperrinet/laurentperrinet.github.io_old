@@ -18,13 +18,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/project/open-science/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/project/open-science/</guid>
-      <description>&lt;p&gt;To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. &lt;a href=&#34;https://github.com/laurentperrinet/PerrinetAdamsFriston14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Perrinet, Adams and Friston, 2015)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Perrinet and Bednar, 2015)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Khoei et, 2017)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/2019-05_illusions-visuelles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Perrinet, 2019)&lt;/a&gt;, &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;(Pasturel et al, 2020)&lt;/a&gt;, &lt;a href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34;&gt;(Daucé et al, 2020)&lt;/a&gt;) or courses and slides (e.g. &lt;a href=&#34;https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019-04-03: vision and modelization&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/2019-04-18_JNLF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019-04-18_JNLF&lt;/a&gt;, &amp;hellip;) and also the development of the following libraries on GitHub.&lt;/p&gt;
+      <description>&lt;p&gt;To enable the dissemination of the knowledge that is produced in our lab, we share all source code with open source licences. This includes code to reproduce results obtained in papers (e.g. &lt;a href=&#34;https://github.com/laurentperrinet/PerrinetAdamsFriston14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Perrinet, Adams and Friston, 2015)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Perrinet and Bednar, 2015)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Khoei et, 2017)&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/2019-05_illusions-visuelles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Perrinet, 2019)&lt;/a&gt;, &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;(Pasturel et al, 2020)&lt;/a&gt;, &lt;a href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34;&gt;(Daucé et al, 2020)&lt;/a&gt;) or courses and slides (e.g. &lt;a href=&#34;https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019-04-03: vision and modelization&lt;/a&gt;, &lt;a href=&#34;https://github.com/laurentperrinet/2019-04-18_JNLF&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019-04-18_JNLF&lt;/a&gt;, &amp;hellip;) and also the development of the following libraries on &lt;a href=&#34;https://github.com/laurentperrinet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- Place this tag where you want the button to render. --&gt;
 &lt;p&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/laurentperrinet&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Follow @laurentperrinet on GitHub&#34;&gt;Follow @laurentperrinet&lt;/a&gt;&lt;/p&gt;
 &lt;!-- Place this tag in your head or just before your close body tag. --&gt;
 &lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;
-&lt;h1 id=&#34;bayesianchangepoint&#34;&gt;bayesianchangepoint&lt;/h1&gt;
-&lt;p&gt;An implementation of &lt;a href=&#34;http://arxiv.org/abs/0710.3742&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adams &amp;amp; MacKay 2007 &amp;ldquo;Bayesian Online Changepoint Detection&amp;rdquo;&lt;/a&gt; for binary inputs in 
+&lt;h1 id=&#34;bayesian-change-point&#34;&gt;Bayesian Change Point&lt;/h1&gt;
+&lt;p&gt;A python implementation of &lt;a href=&#34;http://arxiv.org/abs/0710.3742&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adams &amp;amp; MacKay 2007 &amp;ldquo;Bayesian Online Changepoint Detection&amp;rdquo;&lt;/a&gt; for binary inputs in 
   &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/bayesianchangepoint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
@@ -130,38 +130,596 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/invibe/ANEMO/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See a poster @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-18-anemo/&#34;&gt;Pasturel, Montagnini and Perrinet (2018)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;See the final publication @ 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/chloe-pasturel/&#34;&gt;Chloé Pasturel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34;&gt;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&lt;/a&gt;.
+  &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/pasturel-montagnini-perrinet-20/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PasturelMontagniniPerrinet2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;lecheapeyetracker&#34;&gt;LeCheapEyeTracker&lt;/h1&gt;
 &lt;p&gt;Work-in-progress : an eye tracker based on webcams.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/LeCheapEyeTracker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;biologically-inspired-computer-vision-hahahugoshortcode-s5-hbhb-python&#34;&gt;Biologically inspired computer vision (
+&lt;h1 id=&#34;biologically-inspired-computer-vision-hahahugoshortcode-s6-hbhb-python&#34;&gt;Biologically inspired computer vision (
   &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python)&lt;/h1&gt;
 &lt;h2 id=&#34;slip-a-simple-library-for-image-processing&#34;&gt;SLIP: a Simple Library for Image Processing&lt;/h2&gt;
-&lt;p&gt;This library collects different Image Processing tools for use with the  &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; and  &lt;a href=&#34;https://pythonhosted.org/SparseEdges/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SparseEdges&lt;/a&gt; libraries.&lt;/p&gt;
+&lt;p&gt;This library collects different Image Processing tools for use with the &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; and &lt;a href=&#34;https://pythonhosted.org/SparseEdges/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SparseEdges&lt;/a&gt; libraries.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/SLIP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bicv/SLIP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;loggabor-a-simple-library-for-image-processing&#34;&gt;LogGabor: a Simple Library for Image Processing&lt;/h2&gt;
-&lt;p&gt;This library collects different Image Processing tools for use with the  &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; and  &lt;a href=&#34;https://pythonhosted.org/SparseEdges/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SparseEdges&lt;/a&gt; libraries.&lt;/p&gt;
+&lt;p&gt;This library defines the set of &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; kernels. These are generic edge-like filters at different scales, phases and orientations. The library develops a simple method to construct a simple multi-scale linear transform.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bicv/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This library is detailed in the following publication 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/sylvain-fischer/&#34;&gt;Sylvain Fischer&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/filip-sroubek/&#34;&gt;Filip Šroubek&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/rafael-redondo/&#34;&gt;Rafael Redondo&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-cristobal/&#34;&gt;Gabriel Cristóbal&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2007).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/&#34;&gt;Self-Invertible 2D Log-Gabor Wavelets&lt;/a&gt;.
+  &lt;em&gt;International Journal of Computer Vision&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/fischer-07-cv/fischer-07-cv.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/fischer-07-cv/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s11263-006-0026-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;logGabor filters are used in numerous computer vision applications and reaches 177 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=15692697050569088559&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;sparseedges-sparse-coding-of-natural-images&#34;&gt;SparseEdges: sparse coding of natural images&lt;/h2&gt;
 &lt;p&gt;Our goal here is to build practical algorithms of sparse coding for computer vision.&lt;/p&gt;
 &lt;p&gt;This class exploits the &lt;a href=&#34;https://pythonhosted.org/SLIP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SLIP&lt;/a&gt; and &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; libraries to provide with a sparse representation of edges in images.&lt;/p&gt;
-&lt;p&gt;This algorithm was presented in the following paper, which is available as a reprint @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-15-bicv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/publication/perrinet-15-bicv/&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/SparseEdges&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bicv/SparseEdges/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This algorithm was presented in the following paper, which is available as a reprint 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2015).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-15-bicv/&#34;&gt;Sparse Models for Computer Vision&lt;/a&gt;.
+  &lt;em&gt;Biologically Inspired Computer Vision&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01444362&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://onlinelibrary.wiley.com/doi/10.1002/9783527680863.ch14/summary&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/perrinet-15-bicv/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/Perrinet2015BICV_sparse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1002/9783527680863.ch14&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;It was notably used in the following paper 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2015).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
+  &lt;em&gt;Scientific Reports&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;sparsehebbianlearning--unsupervised-learning-of-natural-images&#34;&gt;SparseHebbianLearning : unsupervised learning of natural images&lt;/h2&gt;
+&lt;h2 id=&#34;sparse-hebbian-learning--unsupervised-learning-of-natural-images&#34;&gt;Sparse Hebbian Learning : unsupervised learning of natural images&lt;/h2&gt;
 &lt;p&gt;This is a collection of python scripts to test learning strategies to efficiently code natural image patches. This is here restricted to the framework of the SparseNet algorithm from Bruno Olshausen (&lt;a href=&#34;http://redwood.berkeley.edu/bruno/sparsenet/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://redwood.berkeley.edu/bruno/sparsenet/)&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bicv/SparseHebbianLearning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This algorithm was presented in the following paper 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2010).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/&#34;&gt;Role of homeostasis in learning sparse representations&lt;/a&gt;.
+  &lt;em&gt;Neural Computation&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00156610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/perrinet-10-shl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/perrinet-10-shl/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/bicv/SparseHebbianLearning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco.2010.05-08-795&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;54 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=3780829296605136744&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021)&lt;/li&gt;
+&lt;li&gt;Follow-up paper 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2019).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-hulk/&#34;&gt;An adaptive homeostatic algorithm for the unsupervised learning of visual features&lt;/a&gt;.
+  &lt;em&gt;Vision&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-hulk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-hulk/perrinet-19-hulk.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/perrinet-19-hulk/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/SpikeAI/HULK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3390/vision3030047&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;motionclouds&#34;&gt;MotionClouds&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.&lt;/p&gt;
@@ -169,6 +727,189 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/MotionClouds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; using 
   &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/li&gt;
+&lt;li&gt;This algorithm was presented in the following paper 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/paula-sanz-leon/&#34;&gt;Paula Sanz Leon&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/ivo-vanzetta/&#34;&gt;Ivo Vanzetta&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2012).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/sanz-12/&#34;&gt;Motion Clouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception&lt;/a&gt;.
+  &lt;em&gt;Journal of Neurophysiology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00726828&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/sanz-12/sanz-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/sanz-12/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1152/jn.00737.2011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;37 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=3286688289699014452&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021)&lt;/li&gt;
+&lt;li&gt;Follow-up paper 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+&lt;/li&gt;
+&lt;li&gt;This library was notably used in the following paper 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/claudio-simoncini/&#34;&gt;Claudio Simoncini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/pascal-mamassian/&#34;&gt;Pascal Mamassian&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2012).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/simoncini-12/&#34;&gt;More is not always better: dissociation between perception and action explained by adaptive gain control&lt;/a&gt;.
+  &lt;em&gt;Nature Neuroscience&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/simoncini-12/simoncini-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/simoncini-12/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/nn.3229&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;pynn&#34;&gt;PyNN&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;PyNN&lt;/strong&gt; is a simulator-independent language for building neuronal network models using 
@@ -176,6 +917,104 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/PyNN/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/PyNN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This algorithm was presented in the following paper 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-p-davison/&#34;&gt;Andrew P Davison&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/daniel-bruderle/&#34;&gt;Daniel Bruderle&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jochen-eppler/&#34;&gt;Jochen Eppler&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jens-kremkow/&#34;&gt;Jens Kremkow&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/eilif-muller/&#34;&gt;Eilif Muller&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/dejan-pecevski/&#34;&gt;Dejan Pecevski&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-yger/&#34;&gt;Pierre Yger&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2008).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/davison-08/&#34;&gt;PyNN: A Common Interface for Neuronal Network Simulators&lt;/a&gt;.
+  &lt;em&gt;Frontiers in Neuroinformatics&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-00586786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/davison-08/davison-08.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/davison-08/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/project/open-science/&#34;&gt;
+    Project
+  &lt;/a&gt;
+  
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3389/neuro.11.011.2008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;li&gt;619 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=4324955271726120014&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -213,6 +1052,135 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/MotionClouds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; using 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/li&gt;
+&lt;li&gt;37 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=3286688289699014452&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021)&lt;/li&gt;
+&lt;li&gt;Follow-up paper 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+&lt;/li&gt;
+&lt;li&gt;This library was notably used in the following paper 
+
+
+
+
+
+
+  
+    
+
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/claudio-simoncini/&#34;&gt;Claudio Simoncini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/anna-montagnini/&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/pascal-mamassian/&#34;&gt;Pascal Mamassian&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2012).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/simoncini-12/&#34;&gt;More is not always better: dissociation between perception and action explained by adaptive gain control&lt;/a&gt;.
+  &lt;em&gt;Nature Neuroscience&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/simoncini-12/simoncini-12.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/simoncini-12/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/nn.3229&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+  
+
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-4-broadband-vs-narrowband-stimuli-from-a-through-b-to-c-the-frequency-bandwidth-bf-increases-while-all-other-parameters-such-as-f0-are-kept-constant-the-mc-with-the-broadest-bandwidth-is-thought-to-best-represent-natural-stimuli-since-as-those-it-contains-many-frequency-components-a-bf--005-supplemental-movie-s4-b-bf--015-supplemental-movie-s5-c-bf--04-supplemental-movie-s6&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Figure 4** Broadband vs. narrowband stimuli. From A through B to C, the frequency bandwidth Bf increases, while all other parameters (such as f0) are kept constant. The MC with the broadest bandwidth is thought to best represent natural stimuli, since, as those, it contains many frequency components. A: Bf = 0:05 (Supplemental Movie S4). B: Bf = 0:15 (Supplemental Movie S5). C: Bf = 0:4 (Supplemental Movie S6).&#34; srcset=&#34;
+               /publication/sanz-12/featured_hua6f8bdd9e0f26e3ffd6e2ca57e727cc0_714078_f2dbaaf28bd8bfcfdb7634a899ee6218.png 400w,
+               /publication/sanz-12/featured_hua6f8bdd9e0f26e3ffd6e2ca57e727cc0_714078_fb3e68ad65468d08de3590ffd01f9c08.png 760w,
+               /publication/sanz-12/featured_hua6f8bdd9e0f26e3ffd6e2ca57e727cc0_714078_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/sanz-12/featured_hua6f8bdd9e0f26e3ffd6e2ca57e727cc0_714078_f2dbaaf28bd8bfcfdb7634a899ee6218.png&#34;
+               width=&#34;80%&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Figure 4&lt;/strong&gt; Broadband vs. narrowband stimuli. From A through B to C, the frequency bandwidth Bf increases, while all other parameters (such as f0) are kept constant. The MC with the broadest bandwidth is thought to best represent natural stimuli, since, as those, it contains many frequency components. A: Bf = 0:05 (Supplemental Movie S4). B: Bf = 0:15 (Supplemental Movie S5). C: Bf = 0:4 (Supplemental Movie S6).
+    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
@@ -221,7 +1189,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <link>https://laurentperrinet.github.io/publication/fischer-07-cv/</link>
       <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/fischer-07-cv/</guid>
-      <description>
+      <description>&lt;p&gt;This library defines the set of &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; kernels. These are generic edge-like filters at different scales, phases and orientations. The library develops a simple method to construct a simple multi-scale linear transform.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bicv/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;logGabor filters are used in numerous computer vision applications and reaches 177 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=15692697050569088559&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021).&lt;/li&gt;
+&lt;/ul&gt;
+
 
 
 

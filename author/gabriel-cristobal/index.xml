@@ -240,7 +240,13 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; 
       <link>https://laurentperrinet.github.io/publication/fischer-07-cv/</link>
       <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/fischer-07-cv/</guid>
-      <description>
+      <description>&lt;p&gt;This library defines the set of &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; kernels. These are generic edge-like filters at different scales, phases and orientations. The library develops a simple method to construct a simple multi-scale linear transform.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bicv/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;logGabor filters are used in numerous computer vision applications and reaches 177 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=15692697050569088559&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021).&lt;/li&gt;
+&lt;/ul&gt;
+
 
 
 
