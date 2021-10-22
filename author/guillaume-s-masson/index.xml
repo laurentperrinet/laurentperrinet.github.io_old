@@ -173,7 +173,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -470,7 +470,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     <item>
       <title>Motion-based prediction explains the role of tracking in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-jpp/</link>
-      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
@@ -1017,8 +1017,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
                height=&#34;207&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.&lt;/p&gt;
+
+&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/MotionClouds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; using 
@@ -1118,8 +1118,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
   
 
-&lt;/li&gt;
-&lt;/ul&gt;
+
 
 
 
@@ -1146,7 +1145,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;Figure 4&lt;/strong&gt; Broadband vs. narrowband stimuli. From A through B to C, the frequency bandwidth Bf increases, while all other parameters (such as f0) are kept constant. The MC with the broadest bandwidth is thought to best represent natural stimuli, since, as those, it contains many frequency components. A: Bf = 0:05 (Supplemental Movie S4). B: Bf = 0:15 (Supplemental Movie S5). C: Bf = 0:4 (Supplemental Movie S6).
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -2045,7 +2045,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     <item>
       <title>Functional consequences of correlated excitatory and inhibitory conductances in cortical networks</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</link>
-      <pubDate>Sat, 12 Jun 2010 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</guid>
       <description>&lt;p&gt;
 
@@ -2465,7 +2465,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     <item>
       <title>Functional properties of feed-forward inhibition</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
-      <pubDate>Sun, 12 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -2488,7 +2488,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     <item>
       <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
-      <pubDate>Tue, 12 Feb 2008 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
       <description></description>
     </item>
@@ -2542,7 +2542,7 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     <item>
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
-      <pubDate>Fri, 12 Jan 2007 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description>&lt;p&gt;
 

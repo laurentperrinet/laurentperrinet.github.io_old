@@ -96,7 +96,7 @@ pour mettre en plein écran)
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description></description>
     </item>
@@ -289,7 +289,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
@@ -313,7 +313,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
@@ -348,7 +348,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -356,7 +356,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Thu, 12 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -453,7 +453,7 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; 
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Wed, 12 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -1009,8 +1009,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/LogGabor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bicv/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;logGabor filters are used in numerous computer vision applications and reaches 177 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=15692697050569088559&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021).&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;logGabor filters are used in numerous computer vision applications and reaches 177 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=15692697050569088559&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021).
 
 
 
@@ -1037,7 +1036,8 @@ More complex parts of the brain are not required at this stage, contrary to what
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;Figure 1&lt;/strong&gt; Multiresolution schemes. (a) Schematic contours of the log-Gabor filters in the Fourier domain with 5 scales and 8 orientations (only the contours at 78% of the filter maximum are drawn). (b) The real part of the corresponding filters is drawn in the spatial domain. The two first scales are drawn at the bottom magnified by a factor of 4 for a better visualization. The different scales are arranged in rows and the orientations in columns. The low-pass filter is drawn in the upper-left part. (c) The corresponding imaginary parts of the filters are shown in the same arrangement. Note that the low-pass filter does not have imaginary part. Insets (b) and (c) show the final filters built through all the processes described in Section 2. (d) In the proposed scheme the elongation of log-Gabor wavelets increases with the number of orientations nt . Here the real parts (left column) and imaginary parts (right column) are drawn for the 3, 4, 6, 8, 10, 12 and 16 orientation schemes. (e) As a comparison orthogonal wavelet filters ‘Db4’ are shown. Horizontal, vertical and diagonal wavelets are arranged on columns (low-pass on top). (f) As a second comparison, steerable pyramid filters (Portilla et al., 2003) are shown. The arrangement over scales and orientations is the same as for the log-Gabor scheme.
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1398,7 +1398,7 @@ More complex parts of the brain are not required at this stage, contrary to what
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Sun, 12 Sep 2004 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>&lt;p&gt;
 
