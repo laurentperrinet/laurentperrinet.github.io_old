@@ -289,7 +289,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/invibe/ANEMO/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See a poster @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-18-anemo/&#34;&gt;Pasturel, Montagnini and Perrinet (2018)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;See the final publication @ 
+&lt;li&gt;This library was used in the following publication @ 
 
 
 
@@ -492,7 +492,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
   
 
 &lt;/li&gt;
-&lt;li&gt;logGabor filters are used in numerous computer vision applications and reaches 177 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=15692697050569088559&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021).&lt;/li&gt;
+&lt;li&gt;LogGabor filters are used in numerous computer vision applications and reaches 177 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=15692697050569088559&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;sparseedges-sparse-coding-of-natural-images&#34;&gt;SparseEdges: sparse coding of natural images&lt;/h2&gt;
 &lt;p&gt;Our goal here is to build practical algorithms of sparse coding for computer vision.&lt;/p&gt;
