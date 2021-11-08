@@ -443,7 +443,7 @@ Elle est à considérer comme un interstice, une zone de transformation, un pass
     </item>
     
     <item>
-      <title>ANR ACES (2021/2024)</title>
+      <title>ANR ACES (2021/2025)</title>
       <link>https://laurentperrinet.github.io/grant/anr-aces/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/anr-aces/</guid>
@@ -16207,10 +16207,10 @@ globalité de l’œuvre: on a alors passage de l’atome à la forme globale.
 Cette résolution rejoint Giotto et les débuts de la perspective en art
 pictural. Il a révélé la question du point de vue, par positionnement et
 déplacement. En effet, les personnes penchent la tête dans
-l’installation s*pirale* en container, d’Etienne Rey, pour le festival
+l’installation s&lt;em&gt;pirale&lt;/em&gt; en container, d’Etienne Rey, pour le festival
 Ozosphère à Strasbourg. Ce phénomène est à rattaché aux théories sur la
 perception.
-**Biographie** Laurent Perrinet, chercheur à l’Institut de Neurosciences
+&lt;strong&gt;Biographie&lt;/strong&gt; Laurent Perrinet, chercheur à l’Institut de Neurosciences
 Cognitives de la Méditerranée à Marseille, unité mixte du CNRS, aime
 citer « La vie de Brian » des Monty Python : (Brian:) &amp;ldquo;You have to work
 it out for yourselves!&amp;rdquo; (Crowd:) &amp;ldquo;Yes, we have to work it out for
@@ -16231,10 +16231,10 @@ de Sciences Cognitives. Répondant aux questions « Peut-on parler
 d’intelligence mécanique ? », « Pourquoi une grenouille gobe mieux une
 mouche qu’un robot ? » ou « Quelle est la différence entre intelligence
 et algorithme ? », il intervient en 2009 au colloque marseillais « Les
-chemins de l’intelligence ». Parmi ses publications : *Role of
-homeostasis in learning sparse representations*, et sa thèse *Comment
+chemins de l’intelligence ». Parmi ses publications : &lt;em&gt;Role of
+homeostasis in learning sparse representations&lt;/em&gt;, et sa thèse &lt;em&gt;Comment
 déchiffrer le code impulsionnel de la vision ? Étude du flux parallèle,
-asynchrone et épars dans le traitement visuel ultra-rapide*&lt;/li&gt;
+asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -19487,15 +19487,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
