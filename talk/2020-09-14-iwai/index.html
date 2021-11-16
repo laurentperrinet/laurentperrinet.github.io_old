@@ -83,7 +83,7 @@
   
     
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -105,8 +105,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
@@ -114,7 +114,7 @@
     
     
     
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -250,7 +250,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.426e7de31186c4ced1e2b198ab5aa3ff.css" />
+  <link rel="stylesheet" href="/css/wowchemy.7fa18a541b489204d14a3f8fd75bb3b5.css" />
 
   
 
@@ -351,15 +351,49 @@
     
       <meta
         property="article:published_time"
-        content="2021-10-12T10:44:44&#43;00:00"
+        content="2020-09-14T18:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-10-12T12:44:44&#43;02:00">
+    <meta property="article:modified_time" content="2020-09-14T18:00:00&#43;00:00">
   
 
   
 
 
+
+  
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://laurentperrinet.github.io/talk/2020-09-14-iwai/"
+  },
+  "name": "Visual search as active inference",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Ghent (Belgium), gone virtual"
+  },
+  
+  
+  "startDate": "2020-09-14T18:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Emmanuel Daucé"
+  },
+  
+  "description": "Visual search is an essential cognitive ability, offering a prototypical control problem to be addressed with Active Inference. Under a Naive Bayes assumption, the maximization of the information gain objective is consistent with the separation of the visual sensory flow in two independent pathways, namely the \\\"What\\\" and the \\\"Where\\\" pathways. On the \\\"What\\\" side, the processing of the central part of the visual field (the fovea) provides the current interpretation of the scene, here the category of the target. On the \\\"Where\\\" side, the processing of the full visual field (at lower resolution) is expected to provide hints about future central foveal processing given the potential realization of saccadic movements. A map of the classification accuracies, as obtained by such counterfactual saccades, defines a utility function on the motor space, whose maximal argument prescribes the next saccade. The comparison of the foveal and the peripheral predictions finally forms an estimate of the future information gain, providing a simple and resource-efficient way to implement information gain seeking policies in active vision. This dual-pathway information processing framework is found efficient on a synthetic visual search task and we show here quantitatively the role of the precision encoded within the accuracy map. More importantly, it is expected to draw connections toward a more general actor-critic principle in action selection, with the accuracy of the central processing taking the role of a value (or intrinsic reward) of the previous saccade."
+}
+</script>
 
   
 
@@ -375,7 +409,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="6577bd5a5bb95b187787cb3e360308c5" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="75e2c6d4427f3be706e5381f3b3ba9f1" >
 
   
   
@@ -891,7 +925,7 @@
   </div>
 
   <div class="page-body">
-    <article class="article">
+    <div class="pub">
 
   
 
@@ -936,16 +970,6 @@
   
   
 
-  
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    2021-10-12
-  </span>
   
 
   
@@ -998,12 +1022,28 @@
 </a>
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
 
 
 
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/2020-09-14_IWAI" target="_blank" rel="noopener">
+  Slides
+</a>
 
 
 
@@ -1025,8 +1065,189 @@
 
   <div class="article-container">
 
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Visual search is an essential cognitive ability, offering a prototypical control problem to be addressed with Active Inference. Under a Naive Bayes assumption, the maximization of the information gain objective is consistent with the separation of the visual sensory flow in two independent pathways, namely the &quot;What&quot; and the &quot;Where&quot; pathways. On the &quot;What&quot; side, the processing of the central part of the visual field (the fovea) provides the current interpretation of the scene, here the category of the target. On the &quot;Where&quot; side, the processing of the full visual field (at lower resolution) is expected to provide hints about future central foveal processing given the potential realization of saccadic movements. A map of the classification accuracies, as obtained by such counterfactual saccades, defines a utility function on the motor space, whose maximal argument prescribes the next saccade. The comparison of the foveal and the peripheral predictions finally forms an estimate of the future information gain, providing a simple and resource-efficient way to implement information gain seeking policies in active vision. This dual-pathway information processing framework is found efficient on a synthetic visual search task and we show here quantitatively the role of the precision encoded within the accuracy map. More importantly, it is expected to draw connections toward a more general actor-critic principle in action selection, with the accuracy of the central processing taking the role of a value (or intrinsic reward) of the previous saccade.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            2020-09-14 96:00
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            
+            IWAI 2020
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Ghent (Belgium), gone virtual</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
     <div class="article-style">
-      
+      <ul>
+<li>see proceedings paper: 
+
+
+
+
+
+
+  
+    
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2020).
+  <a href="/publication/dauce-20-iwai/">Visual search as active inference</a>.
+  <em>IWAI 2020</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dauce-20-iwai/dauce-20-iwai.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/dauce-20-iwai/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/2020-09-14_IWAI" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-64919-7_17" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+  
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">the mathematical details are described as a talk the 1st International WS on <a href="https://twitter.com/hashtag/ActiveInference?src=hash&amp;ref_src=twsrc%5Etfw">#ActiveInference</a> <a href="https://twitter.com/hashtag/IWAI2020?src=hash&amp;ref_src=twsrc%5Etfw">#IWAI2020</a> at <a href="https://twitter.com/ECMLPKDD?ref_src=twsrc%5Etfw">@ECMLPKDD</a> <a href="https://t.co/4s7gHbMxiT">https://t.co/4s7gHbMxiT</a> and paper &quot;Visual search as active inference&quot; <a href="https://t.co/yNCOFHf7FS">https://t.co/yNCOFHf7FS</a></p>&mdash; laurentperrinet (@laurentperrinet) <a href="https://twitter.com/laurentperrinet/status/1305488089989754883?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure></li>
+<li>What:: talk @ <a href="https://iwaiworkshop.github.io/" target="_blank" rel="noopener">1st International Workshop on Active Inference (IWAI 2020)</a></li>
+<li>Who:: Emmanuel Daucé and Laurent Perrinet</li>
+<li>Where: Ghent (Belgium), gone virtual, see <a href="https://laurentperrinet.github.io/talk/2020-09-14-iwai" target="_blank" rel="noopener">https://laurentperrinet.github.io/talk/2020-09-14-iwai</a></li>
+<li>When: 14/09/2020, time: 12:20:00-12:40:00</li>
+<li>What:
+<ul>
+<li>Slides @ <a href="https://laurentperrinet.github.io/2020-09-14_IWAI" target="_blank" rel="noopener">https://laurentperrinet.github.io/2020-09-14_IWAI</a></li>
+<li>Code for slides @ <a href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">https://github.com/laurentperrinet/2020-09-14_IWAI/</a></li>
+<li>Abstract: Visual search is an essential cognitive ability, offering a prototypical control problem to be addressed with Active Inference. Under a Naive Bayes assumption, the maximisation of the information gain objective is consistent with the separation of the visual sensory flow in two independent pathways, namely the &ldquo;What&rdquo; and the &ldquo;Where&rdquo; pathways. On the &ldquo;What&rdquo; side, the processing of the central part of the visual field (the fovea) provides the current interpretation of the scene, here the category of the target. On the &ldquo;Where&rdquo; side, the processing of the full visual field (at lower resolution) is expected to provide hints about future central foveal processing given the potential realisation of saccadic movements. A map of the classification accuracies, as obtained by such counterfactual saccades, defines a utility function on the motor space, whose maximal argument prescribes the next saccade. The comparison of the foveal and the peripheral predictions finally forms an estimate of the future information gain, providing a simple and resource-efficient way to implement information gain seeking policies in active vision. This dual-pathway information processing framework is found efficient on a synthetic visual search task and we show here quantitatively the role of the precision encoded within the accuracy map. More importantly, it is expected to draw connections toward a more general actor-critic principle in action selection, with the accuracy of the central processing taking the role of a value (or intrinsic reward) of the previous saccade.</li>
+</ul>
+</li>
+</ul>
+
     </div>
 
     
@@ -1231,12 +1452,15 @@
 
 
 
+  
+  
+
 
 
 
 
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">
@@ -1324,8 +1548,8 @@ Please note that multiple distribution, publication or commercial usage of copyr
     
       
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
       
 
       
@@ -1335,23 +1559,23 @@ Please note that multiple distribution, publication or commercial usage of copyr
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
         
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
         
       
-
-    
 
     
+
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+      <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
     
 
     
@@ -1373,8 +1597,8 @@ Please note that multiple distribution, publication or commercial usage of copyr
         </div>
       </script>
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
       
     
 
