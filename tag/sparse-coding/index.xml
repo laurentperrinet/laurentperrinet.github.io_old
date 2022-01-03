@@ -320,10 +320,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_fcd892154a57bcd1187806273167dd4a.webp 400w,
-               /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_b48cd39bf2b9046b6883e1787e20f1ef.webp 760w,
+               /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_dcfdea938a89c137e36f058861ff8fa8.webp 400w,
+               /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_4cea5ec41e387c640010465b8c9ec007.webp 760w,
                /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_fcd892154a57bcd1187806273167dd4a.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_dcfdea938a89c137e36f058861ff8fa8.webp&#34;
                width=&#34;100%&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3379,10 +3379,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  id=&#34;figure-edge-co-occurrences-a-an-example-image-with-the-list-of-extracted-edges-overlaid-each-edge-is-represented-by-a-red-line-segment-which-represents-its-position-center-of-segment-orientation-and-scale-length-of-segment-we-controlled-the-quality-of-the-reconstruction-from-the-edge-information-such-that-the-residual-energy-was-less-than-5-b-the-relationship-between-a-reference-edge-a-and-another-edge-b-can-be-quantified-in-terms-of-the-difference-between-their-orientations-theta-ratio-of-scale-sigma-distance-d-between-their-centers-and-difference-of-azimuth-angular-location-phi-additionally-we-define-psiphi---theta2-which-is-symmetric-with-respect-to-the-choice-of-the-reference-edge-in-particular-psi0-for-co-circular-edges--see-text-as-incitetgeisler01-edges-outside-a-central-circular-mask-are-discarded-in-the-computation-of-the-statistics-to-avoid-artifacts-image-credit-andrew-shiva-creative-commons-attribution-share-alike-30-unported-licensehttpscommonswikimediaorgwikifileelephant_28loxodonta_africana29_05jpg-this-is-used-to-compute-the-chevron-map-in-figure2&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Edge co-occurrences **(A)** An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. **(B)** The relationship between a reference edge *A* and another edge *B* can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: [Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license](https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg)). This is used to compute the chevron map in Figure~2.&#34; srcset=&#34;
-               /publication/perrinet-bednar-15/figure_model_hu48cd3bfc5a03e03c8521b92631e4b49d_29970_bd49274c48434f64e8106d1d29e9a4db.webp 400w,
-               /publication/perrinet-bednar-15/figure_model_hu48cd3bfc5a03e03c8521b92631e4b49d_29970_5be77c7ad0aec2d3205fadfcd8d6a902.webp 760w,
+               /publication/perrinet-bednar-15/figure_model_hu48cd3bfc5a03e03c8521b92631e4b49d_29970_337f070b719837def9f7e845a9e628f1.webp 400w,
+               /publication/perrinet-bednar-15/figure_model_hu48cd3bfc5a03e03c8521b92631e4b49d_29970_47446b0cd99fc36be6f0e84b7019f5e9.webp 760w,
                /publication/perrinet-bednar-15/figure_model_hu48cd3bfc5a03e03c8521b92631e4b49d_29970_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_model_hu48cd3bfc5a03e03c8521b92631e4b49d_29970_bd49274c48434f64e8106d1d29e9a4db.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_model_hu48cd3bfc5a03e03c8521b92631e4b49d_29970_337f070b719837def9f7e845a9e628f1.webp&#34;
                width=&#34;310&#34;
                height=&#34;393&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3409,10 +3409,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  id=&#34;figure-the-probability-distribution-function-ppsi-theta-represents-the-distribution-of-the-different-geometrical-arrangements-of-edges-angles-which-we-call-a-chevron-map-we-show-here-the-histogram-for-non-animal-natural-images-illustrating-the-preference-for-co-linear-edge-configurations-for-each-chevron-configuration-deeper-and-deeper-red-circles-indicate-configurations-that-are-more-and-more-likely-with-respect-to-a-uniform-prior-with-an-average-maximum-of-about-3-times-more-likely-and-deeper-and-deeper-blue-circles-indicate-configurations-less-likely-than-a-flat-prior-with-a-minimum-of-about-08-times-as-likely-conveniently-this-chevron-map-shows-in-one-graph-that-non-animal-natural-images-have-on-average-a-preference-for-co-linear-and-parallel-edges-the-horizontal-middle-axis-and-orthogonal-angles-the-top-and-bottom-rowsalong-with-a-slight-preference-for-co-circular-configurations-for-psi0-and-psipm-frac-pi-2-just-above-and-below-the-central-row-we-compare-chevron-maps-in-different-image-categories-in-figure3&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&amp;#39; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.&#34; srcset=&#34;
-               /publication/perrinet-bednar-15/figure_chevrons_hucb38a7eddc0dd6e870eb20519377c33e_143053_599022ec51ec4f06f7f3f0ea9fd0ab17.webp 400w,
-               /publication/perrinet-bednar-15/figure_chevrons_hucb38a7eddc0dd6e870eb20519377c33e_143053_f1a8036c1d6dad37d25ba0cb589a517e.webp 760w,
+               /publication/perrinet-bednar-15/figure_chevrons_hucb38a7eddc0dd6e870eb20519377c33e_143053_cadf021b8c5c0a3c4e741480899f62bf.webp 400w,
+               /publication/perrinet-bednar-15/figure_chevrons_hucb38a7eddc0dd6e870eb20519377c33e_143053_cd93bf0e684b5514ad70f2ea0523dbab.webp 760w,
                /publication/perrinet-bednar-15/figure_chevrons_hucb38a7eddc0dd6e870eb20519377c33e_143053_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons_hucb38a7eddc0dd6e870eb20519377c33e_143053_599022ec51ec4f06f7f3f0ea9fd0ab17.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons_hucb38a7eddc0dd6e870eb20519377c33e_143053_cadf021b8c5c0a3c4e741480899f62bf.webp&#34;
                width=&#34;550&#34;
                height=&#34;495&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3439,10 +3439,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  id=&#34;figure-as-for-figure-2-we-show-the-probability-of-edge-configurations-as-chevron-maps-for-two-databases-man-made-animal-here-we-show-the-ratio-of-histogram-counts-relative-to-that-of-the-non-animal-natural-image-dataset-deeper-and-deeper-red-circles-indicate-configurations-that-are-more-and-more-likely-and-blue-respectively-less-likely-with-respect-to-the-histogram-computed-for-non-animal-images-in-the-left-plot-the-animal-images-exhibit-relatively-more-circular-continuations-and-converging-angles-red-chevrons-in-the-central-vertical-axis-relative-to-non-animal-natural-images-at-the-expense-of-co-linear-parallel-and-orthogonal-configurations-blue-circles-along-the-middle-horizontal-axis-the-man-made-images-have-strikingly-more-co-linear-features-central-circle-which-reflects-the-prevalence-of-long-straight-lines-in-the-cage-images-in-that-dataset-we-use-this-representation-to-categorize-images-from-these-different-categories-in-figure4&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;As for Figure 2, we show the probability of edge configurations as chevron maps for two databases (man-made, animal). Here, we show the ratio of histogram counts relative to that of the non-animal natural image dataset. Deeper and deeper red circles indicate configurations that are more and more likely (and blue respectively less likely) with respect to the histogram computed for non-animal images. In the left plot, the animal images exhibit relatively more circular continuations and converging angles (red chevrons in the central vertical axis) relative to non-animal natural images, at the expense of co-linear, parallel, and orthogonal configurations (blue circles along the middle horizontal axis). The man-made images have strikingly more co-linear features (central circle), which reflects the prevalence of long, straight lines in the cage images in that dataset. We use this representation to categorize images from these different categories in Figure~4.&#34; srcset=&#34;
-               /publication/perrinet-bednar-15/figure_chevrons2_hu12028ad970ef123637fe88634f4dfbdd_315348_a82c9fa131b1c54f0eeb090cb7fcd33e.webp 400w,
-               /publication/perrinet-bednar-15/figure_chevrons2_hu12028ad970ef123637fe88634f4dfbdd_315348_d65bd8aa1858e416e059a73da23f270a.webp 760w,
+               /publication/perrinet-bednar-15/figure_chevrons2_hu12028ad970ef123637fe88634f4dfbdd_315348_ba766d1d0806bb1cd742bf8488efc823.webp 400w,
+               /publication/perrinet-bednar-15/figure_chevrons2_hu12028ad970ef123637fe88634f4dfbdd_315348_6727d77f2ed2ed639ee44f49a88dd0d3.webp 760w,
                /publication/perrinet-bednar-15/figure_chevrons2_hu12028ad970ef123637fe88634f4dfbdd_315348_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2_hu12028ad970ef123637fe88634f4dfbdd_315348_a82c9fa131b1c54f0eeb090cb7fcd33e.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_chevrons2_hu12028ad970ef123637fe88634f4dfbdd_315348_ba766d1d0806bb1cd742bf8488efc823.webp&#34;
                width=&#34;760&#34;
                height=&#34;469&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3466,10 +3466,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  id=&#34;figure-classification-results-to-quantify-the-difference-in-low-level-feature-statistics-across-categories-see-figure3-we-used-a-standard-support-vector-machine-svm-classifier-to-measure-how-each-representation-affected-the-classifiers-reliability-for-identifying-the-image-category-for-each-individual-image-we-constructed-a-vector-of-features-as-either-fo-the-histogram-of-first-order-statistics-as-the-histogram-of-edges-orientations-cm-the-chevron-map-subset-of-the-second-order-statistics-ie-the-two-dimensional-histogram-of-relative-orientation-and-azimuth-see-figure-2--or-so-the-full-four-dimensional-histogram-of-second-order-statistics-ie-all-parameters-of-the-edge-co-occurrences-we-gathered-these-vectors-for-each-different-class-of-images-and-report-here-the-results-of-the-svm-classifier-using-an-f1-score-50-represents-chance-level-while-it-was-expected-that-differences-would-be-clear-between-non-animal-natural-images-versus-laboratory-man-made-images-results-are-still-quite-high-for-classifying-animal-images-versus-non-animal-natural-images-and-are-in-the-range-reported-bycitetserre07-f1-score-of-80-for-human-observers-and-82-for-their-model-even-using-the-cm-features-alone-we-further-extend-this-results-to-the-psychophysical-results-of-serre-et-al-2007-in-figure-5&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&amp;#39;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&amp;#39; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50\% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80\% for human observers and 82\% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.&#34; srcset=&#34;
-               /publication/perrinet-bednar-15/figure_results_hu1e96d4f01800cef44dc0298ead0241fe_16945_1886baaeb766ac89607b5e8ac84ce3cc.webp 400w,
-               /publication/perrinet-bednar-15/figure_results_hu1e96d4f01800cef44dc0298ead0241fe_16945_cba9a069b0fa76d2ffa0606aae803c06.webp 760w,
+               /publication/perrinet-bednar-15/figure_results_hu1e96d4f01800cef44dc0298ead0241fe_16945_1acf564d2023aca6db9f23d97f0d0f09.webp 400w,
+               /publication/perrinet-bednar-15/figure_results_hu1e96d4f01800cef44dc0298ead0241fe_16945_ce1b33af26967dede1a88a6d9696972c.webp 760w,
                /publication/perrinet-bednar-15/figure_results_hu1e96d4f01800cef44dc0298ead0241fe_16945_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results_hu1e96d4f01800cef44dc0298ead0241fe_16945_1886baaeb766ac89607b5e8ac84ce3cc.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_results_hu1e96d4f01800cef44dc0298ead0241fe_16945_1acf564d2023aca6db9f23d97f0d0f09.webp&#34;
                width=&#34;476&#34;
                height=&#34;294&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3493,10 +3493,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  id=&#34;figure-to-see-whether-the-patterns-of-errors-made-by-humans-are-consistent-with-our-model-we-studied-the-second-order-statistics-of-the-50-non-animal-images-that-human-subjects-in-serre-et-al-2007-most-commonly-falsely-reported-as-having-an-animal-we-call-this-set-of-images-the-false-alarm-image-dataset-left-this-chevron-map-plot-shows-the-ratio-between-the-second-order-statistics-of-the-false-alarm-images-and-the-full-non-animal-natural-image-dataset-computed-as-in-figure-3-left-just-as-for-the-images-that-actually-do-contain-animals-figure3-left-the-images-falsely-reported-as-having-animals-have-more-co-circular-and-converging-red-chevrons-and-fewer-collinear-and-orthogonal-configurations-blue-chevrons-right-to-quantify-this-similarity-we-computed-the-kullback-leibler-distance-between-the-histogram-of-each-of-these-images-from-the-false-alarm-image-dataset-and-the-average-histogram-of-each-class-the-difference-between-these-two-distances-gives-a-quantitative-measure-of-how-close-each-image-is-to-the-average-histograms-for-each-class-consistent-with-the-idea-that-humans-are-using-edge-co-occurences-to-do-rapid-image-categorization-the-50-non-animal-images-that-were-worst-classified-are-biased-toward-the-animal-histogram-d--104-while-the-550-best-classified-non-animal-images-are-closer-to-the-non-animal-histogram&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;#39; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram. &#34; srcset=&#34;
-               /publication/perrinet-bednar-15/figure_FA_hu9158f735a2d21afb5c10a78c8717ec4e_575661_bd5b080966c2f3c4cafce081156d993b.webp 400w,
-               /publication/perrinet-bednar-15/figure_FA_hu9158f735a2d21afb5c10a78c8717ec4e_575661_c43960232a5cd452b76144b6122e04bd.webp 760w,
+               /publication/perrinet-bednar-15/figure_FA_hu9158f735a2d21afb5c10a78c8717ec4e_575661_5ef3c9c9af0180dc5224d6aff8c7981c.webp 400w,
+               /publication/perrinet-bednar-15/figure_FA_hu9158f735a2d21afb5c10a78c8717ec4e_575661_8ef1eed3dab46f0d41e1d31166cecbfd.webp 760w,
                /publication/perrinet-bednar-15/figure_FA_humans_hu9158f735a2d21afb5c10a78c8717ec4e_575661_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_FA_hu9158f735a2d21afb5c10a78c8717ec4e_575661_bd5b080966c2f3c4cafce081156d993b.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/figure_FA_hu9158f735a2d21afb5c10a78c8717ec4e_575661_5ef3c9c9af0180dc5224d6aff8c7981c.webp&#34;
                width=&#34;760&#34;
                height=&#34;470&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3983,10 +3983,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_6763b21df83f32da18b7dd9cacd29faa.webp 400w,
-               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_2c6b518b9fb297e2fd1fa07ad04a4595.webp 760w,
+               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_852eeb27174ac9e80396e5975ab211c6.webp 400w,
+               /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_d578515dc2a53c83d87da6a118d6908e.webp 760w,
                /publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_6763b21df83f32da18b7dd9cacd29faa.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-10-shl/perrinet-10-shl_hu777e1b4c36a985ac18eef85e9ebdc601_40055_852eeb27174ac9e80396e5975ab211c6.webp&#34;
                width=&#34;657&#34;
                height=&#34;215&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4138,10 +4138,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/kremkow-10-jcns/kremkow-10-jcns_hu64e8448927cb90616e92a98f7793d9b1_42365_edf1b44c53f0155cd25ff5544e9c2fe8.webp 400w,
-               /publication/kremkow-10-jcns/kremkow-10-jcns_hu64e8448927cb90616e92a98f7793d9b1_42365_8f3c8ec2afdbc9d3cf474121a2bb27da.webp 760w,
+               /publication/kremkow-10-jcns/kremkow-10-jcns_hu64e8448927cb90616e92a98f7793d9b1_42365_5b66bcf851b6b1dbe94b98414ac2f0f9.webp 400w,
+               /publication/kremkow-10-jcns/kremkow-10-jcns_hu64e8448927cb90616e92a98f7793d9b1_42365_7aa85c66e77c4b3efec88cd9656f0341.webp 760w,
                /publication/kremkow-10-jcns/kremkow-10-jcns_hu64e8448927cb90616e92a98f7793d9b1_42365_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/kremkow-10-jcns_hu64e8448927cb90616e92a98f7793d9b1_42365_edf1b44c53f0155cd25ff5544e9c2fe8.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/kremkow-10-jcns_hu64e8448927cb90616e92a98f7793d9b1_42365_5b66bcf851b6b1dbe94b98414ac2f0f9.webp&#34;
                width=&#34;760&#34;
                height=&#34;175&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4319,10 +4319,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_c379745a8fa163b503dbde94796175c1.webp 400w,
-               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_6b9bdc11de92d7733ced9e6b0123f5e8.webp 760w,
+               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_99daf7f9eba28e6a69f442848d873a10.webp 400w,
+               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_d014901a6f51f21c95a03bad5293b471.webp 760w,
                /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_c379745a8fa163b503dbde94796175c1.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_99daf7f9eba28e6a69f442848d873a10.webp&#34;
                width=&#34;760&#34;
                height=&#34;164&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4391,10 +4391,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;figure  id=&#34;figure-le-jury-était-consistué-de-gauche-à-droite-de-jacky-hérault-rapporteur-michel-imbert-président-yves-burnod-rapporteur-absent-de-la-photo-manuel-samuelides-directeur-de-thèse-et-simon-thorpe-co-directeur-de-thèse&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Le jury était consistué (de gauche à droite) de Jacky Hérault (Rapporteur), Michel Imbert (Président), Yves Burnod (Rapporteur, absent de la photo), Manuel Samuelides (Directeur de thèse) et Simon Thorpe (Co-directeur de thèse).&#34; srcset=&#34;
-               /publication/perrinet-03-these/jury_hu13f02643e28983557a42b77db857c1a6_25932_2073d34edd6d8175b3266fec488d2abf.webp 400w,
-               /publication/perrinet-03-these/jury_hu13f02643e28983557a42b77db857c1a6_25932_d175fc2abd3ee698f7c3ecc5503366c9.webp 760w,
+               /publication/perrinet-03-these/jury_hu13f02643e28983557a42b77db857c1a6_25932_87b36194e1297fc16221d904ed2350f2.webp 400w,
+               /publication/perrinet-03-these/jury_hu13f02643e28983557a42b77db857c1a6_25932_4769343bd883579f538a2d5281f4773a.webp 760w,
                /publication/perrinet-03-these/jury_hu13f02643e28983557a42b77db857c1a6_25932_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-these/jury_hu13f02643e28983557a42b77db857c1a6_25932_2073d34edd6d8175b3266fec488d2abf.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-these/jury_hu13f02643e28983557a42b77db857c1a6_25932_87b36194e1297fc16221d904ed2350f2.webp&#34;
                width=&#34;100%&#34;
                height=&#34;249&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
