@@ -59,10 +59,10 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 &lt;figure  id=&#34;figure-pour-une-cellule-représentative-on-montre-ici-la-réponse-au-cours-du-temps-sous-forme-dimpulsions-pour-différentes-présentations-trial-ainsi-que-la-moyenne-de-cette-réponse-firing-rate-les-différentes-colonnes-représentent-différentes-vitesses-des-stimulations-sur-la-rétine-les-différentes-lignes-sont-différentes-stimulations-en-bleu-une-stimulation-classique-sous-forme-de-réseaux-de-lignes--grating--en-vert-et-orange-la-réponse-à-une-texture-progressivement-plus-complexe-de--mc-narrow--à--mc-broad--si-les-réponses-aux-différents-stimulations-sont-en-moyenne-similaires-elles-sont-variables-dessai-en-essai-et-une-analyse-statistique-a-permis-de-montrer-que-dans-la-majorité-des-cellules-les-réponses-sont-dautant-plus-précises-que-la-stimulation-est-complexe--cesar-ravello&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&amp;#39;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&amp;#39;autant plus précises que la stimulation est complexe. © Cesar Ravello &#34; srcset=&#34;
-               /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_cab987cbb0443d3c60c18dead56bc289.webp 400w,
+               /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_c03ceb53fa74f1aafacb49df6ec4a4ac.webp 400w,
                /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_99f5171c71c84d31a4dd6cabbd0ed396.webp 760w,
                /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_cab987cbb0443d3c60c18dead56bc289.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_c03ceb53fa74f1aafacb49df6ec4a4ac.webp&#34;
                width=&#34;540&#34;
                height=&#34;416&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -182,10 +182,10 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;figure  id=&#34;figure-a-this-figure-reports-the-response-of-predictive-processing-during-the-simulation-of-pursuit-initiation-using-a-single-sweep-of-a-visual-target-while-compensating-for-sensory-motor-delays-here-we-see-horizontal-excursions-of-oculomotor-angle-red-line-one-can-see-clearly-the-initial-displacement-of-the-target-that-is-suppressed-by-action-after-a-few-hundred-milliseconds-additionally-we-illustrate-the-effects-of-assuming-wrong-sensorimotor-delays-on-pursuit-initiation-under-pure-sensory-delays-blue-dotted-line-one-can-see-clearly-the-delay-in-sensory-predictions-in-relation-to-the-true-inputs-with-pure-motor-delays-blue-dashed-line-and-with-combined-sensorimotor-delays-blue-line-there-is-a-failure-of-optimal-control-with-oscillatory-fluctuations-in-oculomotor-trajectories-which-may-become-unstable-b-this-figure-reports-the-simulation-of-smooth-pursuit-when-the-target-motion-is-hemi-sinusoidal-as-would-happen-for-a-pendulum-that-would-be-stopped-at-each-half-cycle-left-of-the-vertical-broken-black-lines-in-the-lower-right-panel-we-report-the-horizontal-excursions-of-oculomotor-angle-the-generative-model-used-here-has-been-equipped-with-a-second-hierarchical-level-that-contains-hidden-states-modeling-latent-periodic-behavior-of-the-hidden-causes-of-target-motion-with-this-addition-the-improvement-in-pursuit-accuracy-apparent-at-the-onset-of-the-second-cycle-of-motion-is-observed-pink-shaded-area-similar-to-psychophysical-experimentss&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34; srcset=&#34;
-               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_3de93b98407a9665e431ee8878d86315.webp 400w,
+               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_27ce3f4d3d3663df7ec7c64b71098f53.webp 400w,
                /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_77a63aed175a4835e5038faf72152492.webp 760w,
                /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_3de93b98407a9665e431ee8878d86315.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_27ce3f4d3d3663df7ec7c64b71098f53.webp&#34;
                width=&#34;760&#34;
                height=&#34;405&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -982,10 +982,10 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;figure  id=&#34;figure-figure-1-the-problem-of-fragmented-trajectories-and-motion-extrapolation-as-an-object-moves-in-visual-space-as-represented-here-for-commodity-by-the-red-trajectory-of-a-tennis-ball-in-a-spacetime-diagram-with-a-one-dimensional-space-on-the-vertical-axis-the-sensory-flux-may-be-interrupted-by-a-sudden-and-transient-blank-as-denoted-by-the-vertical-gray-area-and-the-dashed-trajectory-how-can-the-instantaneous-position-of-the-dot-be-estimated-at-the-time-of-reappearance-this-mechanism-is-the-basis-of-motion-extrapolation-and-is-rooted-on-the-prior-knowledge-on-the-coherency-of-trajectories-in-natural-images-we-show-below-the-typical-eye-velocity-profile-that-is-observed-during-smooth-pursuit-eye-movements-spem-as-a-prototypical-sensory-response-it-consists-of-three-phases-first-a-convergence-of-the-eye-velocity-toward-the-physical-speed-second-a-drop-of-velocity-during-the-blank-and-finally-a-sudden-catch-up-of-speed-at-reappearance-becker-and-fuchs-1985&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985).&#34; srcset=&#34;
-               /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_91a01a3092cc216b927c667755f6e801.webp 400w,
+               /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_e1be00b83f21e681ac30a3f57616596f.webp 400w,
                /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_5e5fa440bdcc7ab6abff877a23b17944.webp 760w,
                /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_91a01a3092cc216b927c667755f6e801.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_e1be00b83f21e681ac30a3f57616596f.webp&#34;
                width=&#34;293&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1591,10 +1591,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_80b86b7612322c6c1ce812ce6581a45d.webp 400w,
+               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_218a6fdfcd1a8b73a65eb4448a56aa92.webp 400w,
                /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_4015774b368d5eb7617c9f51ae1a7539.webp 760w,
                /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_80b86b7612322c6c1ce812ce6581a45d.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_218a6fdfcd1a8b73a65eb4448a56aa92.webp&#34;
                width=&#34;760&#34;
                height=&#34;168&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1670,10 +1670,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_1461414a27d367d5f8be906e36dc2734.webp 400w,
+               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_0d1c278ad9629a8f93facde405772092.webp 400w,
                /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_91b97e32c3f2fe79b6495f46d6185969.webp 760w,
                /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_1461414a27d367d5f8be906e36dc2734.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_0d1c278ad9629a8f93facde405772092.webp&#34;
                width=&#34;760&#34;
                height=&#34;318&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1905,10 +1905,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_56f0b3be80ff5440e6ab9b184d03a704.webp 400w,
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_2b56d05c06b4cdd68ce3afd406a3d763.webp 400w,
                /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_5f446c37cb0267214f942abc6b210255.webp 760w,
                /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_56f0b3be80ff5440e6ab9b184d03a704.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_2b56d05c06b4cdd68ce3afd406a3d763.webp&#34;
                width=&#34;760&#34;
                height=&#34;275&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
