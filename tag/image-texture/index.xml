@@ -85,10 +85,13 @@ fig.subplots_adjust(hspace = .0, wspace = .0, left=0.0, bottom=0., right=1., top
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -163,7 +166,6 @@ fig.subplots_adjust(hspace = .0, wspace = .0, left=0.0, bottom=0., right=1., top
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;/ul&gt;

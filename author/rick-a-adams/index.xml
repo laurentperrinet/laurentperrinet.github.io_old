@@ -45,10 +45,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure  id=&#34;figure-a-this-figure-reports-the-response-of-predictive-processing-during-the-simulation-of-pursuit-initiation-using-a-single-sweep-of-a-visual-target-while-compensating-for-sensory-motor-delays-here-we-see-horizontal-excursions-of-oculomotor-angle-red-line-one-can-see-clearly-the-initial-displacement-of-the-target-that-is-suppressed-by-action-after-a-few-hundred-milliseconds-additionally-we-illustrate-the-effects-of-assuming-wrong-sensorimotor-delays-on-pursuit-initiation-under-pure-sensory-delays-blue-dotted-line-one-can-see-clearly-the-delay-in-sensory-predictions-in-relation-to-the-true-inputs-with-pure-motor-delays-blue-dashed-line-and-with-combined-sensorimotor-delays-blue-line-there-is-a-failure-of-optimal-control-with-oscillatory-fluctuations-in-oculomotor-trajectories-which-may-become-unstable-b-this-figure-reports-the-simulation-of-smooth-pursuit-when-the-target-motion-is-hemi-sinusoidal-as-would-happen-for-a-pendulum-that-would-be-stopped-at-each-half-cycle-left-of-the-vertical-broken-black-lines-in-the-lower-right-panel-we-report-the-horizontal-excursions-of-oculomotor-angle-the-generative-model-used-here-has-been-equipped-with-a-second-hierarchical-level-that-contains-hidden-states-modeling-latent-periodic-behavior-of-the-hidden-causes-of-target-motion-with-this-addition-the-improvement-in-pursuit-accuracy-apparent-at-the-onset-of-the-second-cycle-of-motion-is-observed-pink-shaded-area-similar-to-psychophysical-experimentss&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34; srcset=&#34;
-               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_4f269b05550a6a452bbfda401e8eaa55.png 400w,
-               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_c7e26afbe7459df29e613423b32f5d73.png 760w,
-               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_4f269b05550a6a452bbfda401e8eaa55.png&#34;
+               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_d43699aac1e41bf622d9e25075782d92.webp 400w,
+               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_b3ed7e2d15b2132463e4f07e9a4f3efa.webp 760w,
+               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_d43699aac1e41bf622d9e25075782d92.webp&#34;
                width=&#34;760&#34;
                height=&#34;405&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -98,10 +98,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_fe1e047eb62c156c217132bf096ece65.png 400w,
-               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_4f447a8e9f12a94cf18f98fcc3b0c851.png 760w,
-               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_fe1e047eb62c156c217132bf096ece65.png&#34;
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_cb00b830c8b87db784d0b40b9c373545.webp 400w,
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_10c5d0165bce8f157a46b44af988de65.webp 760w,
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_cb00b830c8b87db784d0b40b9c373545.webp&#34;
                width=&#34;760&#34;
                height=&#34;188&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -142,10 +142,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_ea8613c9acc863e1d9c4726f882391c8.png 400w,
-               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_8795903b2f3bd016dea75135a79bb8a4.png 760w,
-               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_ea8613c9acc863e1d9c4726f882391c8.png&#34;
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_2e42baf9718536d83e2917eb9f9cbfca.webp 400w,
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_ddc9b9136b7522c1d5a2b3cdef90f594.webp 760w,
+               /publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/friston-12/friston-12_hu2d7533dc5725a34acf278029fda9d270_136523_2e42baf9718536d83e2917eb9f9cbfca.webp&#34;
                width=&#34;760&#34;
                height=&#34;196&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

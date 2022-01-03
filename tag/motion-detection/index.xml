@@ -59,10 +59,10 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 &lt;figure  id=&#34;figure-pour-une-cellule-représentative-on-montre-ici-la-réponse-au-cours-du-temps-sous-forme-dimpulsions-pour-différentes-présentations-trial-ainsi-que-la-moyenne-de-cette-réponse-firing-rate-les-différentes-colonnes-représentent-différentes-vitesses-des-stimulations-sur-la-rétine-les-différentes-lignes-sont-différentes-stimulations-en-bleu-une-stimulation-classique-sous-forme-de-réseaux-de-lignes--grating--en-vert-et-orange-la-réponse-à-une-texture-progressivement-plus-complexe-de--mc-narrow--à--mc-broad--si-les-réponses-aux-différents-stimulations-sont-en-moyenne-similaires-elles-sont-variables-dessai-en-essai-et-une-analyse-statistique-a-permis-de-montrer-que-dans-la-majorité-des-cellules-les-réponses-sont-dautant-plus-précises-que-la-stimulation-est-complexe--cesar-ravello&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&amp;#39;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&amp;#39;autant plus précises que la stimulation est complexe. © Cesar Ravello &#34; srcset=&#34;
-               /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_c2126001c83be1c30c0c76245abd4a89.jpg 400w,
-               /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_fc6fff431ee0ced0ca2054631cda9ff5.jpg 760w,
-               /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_c2126001c83be1c30c0c76245abd4a89.jpg&#34;
+               /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_4dcb4f09ce93347f02c73d1d6f2cfe7d.webp 400w,
+               /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_8a495471ccc6c7c797e3d2d1148655c7.webp 760w,
+               /publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/ravello-19/featured_huab0a6242a9a1d9a67cb873158befa6d8_178263_4dcb4f09ce93347f02c73d1d6f2cfe7d.webp&#34;
                width=&#34;540&#34;
                height=&#34;416&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -182,10 +182,10 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;figure  id=&#34;figure-a-this-figure-reports-the-response-of-predictive-processing-during-the-simulation-of-pursuit-initiation-using-a-single-sweep-of-a-visual-target-while-compensating-for-sensory-motor-delays-here-we-see-horizontal-excursions-of-oculomotor-angle-red-line-one-can-see-clearly-the-initial-displacement-of-the-target-that-is-suppressed-by-action-after-a-few-hundred-milliseconds-additionally-we-illustrate-the-effects-of-assuming-wrong-sensorimotor-delays-on-pursuit-initiation-under-pure-sensory-delays-blue-dotted-line-one-can-see-clearly-the-delay-in-sensory-predictions-in-relation-to-the-true-inputs-with-pure-motor-delays-blue-dashed-line-and-with-combined-sensorimotor-delays-blue-line-there-is-a-failure-of-optimal-control-with-oscillatory-fluctuations-in-oculomotor-trajectories-which-may-become-unstable-b-this-figure-reports-the-simulation-of-smooth-pursuit-when-the-target-motion-is-hemi-sinusoidal-as-would-happen-for-a-pendulum-that-would-be-stopped-at-each-half-cycle-left-of-the-vertical-broken-black-lines-in-the-lower-right-panel-we-report-the-horizontal-excursions-of-oculomotor-angle-the-generative-model-used-here-has-been-equipped-with-a-second-hierarchical-level-that-contains-hidden-states-modeling-latent-periodic-behavior-of-the-hidden-causes-of-target-motion-with-this-addition-the-improvement-in-pursuit-accuracy-apparent-at-the-onset-of-the-second-cycle-of-motion-is-observed-pink-shaded-area-similar-to-psychophysical-experimentss&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34; srcset=&#34;
-               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_4f269b05550a6a452bbfda401e8eaa55.png 400w,
-               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_c7e26afbe7459df29e613423b32f5d73.png 760w,
-               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_4f269b05550a6a452bbfda401e8eaa55.png&#34;
+               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_d43699aac1e41bf622d9e25075782d92.webp 400w,
+               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_b3ed7e2d15b2132463e4f07e9a4f3efa.webp 760w,
+               /publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/featured_huef098251f70535624ec23ca357d53cdd_225439_d43699aac1e41bf622d9e25075782d92.webp&#34;
                width=&#34;760&#34;
                height=&#34;405&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -208,10 +208,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -271,7 +274,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on motion extrapolation: 
@@ -281,10 +283,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -349,7 +354,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
@@ -359,10 +363,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -445,7 +452,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -500,10 +506,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -563,7 +572,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on motion extrapolation: 
@@ -573,10 +581,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -641,7 +652,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
@@ -651,10 +661,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -737,7 +750,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 
 
@@ -785,10 +797,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -848,7 +863,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
@@ -858,10 +872,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -944,7 +961,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;Based on &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34;&gt;Perrinet et al, 2012&lt;/a&gt;&lt;/li&gt;
@@ -966,10 +982,10 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;figure  id=&#34;figure-figure-1-the-problem-of-fragmented-trajectories-and-motion-extrapolation-as-an-object-moves-in-visual-space-as-represented-here-for-commodity-by-the-red-trajectory-of-a-tennis-ball-in-a-spacetime-diagram-with-a-one-dimensional-space-on-the-vertical-axis-the-sensory-flux-may-be-interrupted-by-a-sudden-and-transient-blank-as-denoted-by-the-vertical-gray-area-and-the-dashed-trajectory-how-can-the-instantaneous-position-of-the-dot-be-estimated-at-the-time-of-reappearance-this-mechanism-is-the-basis-of-motion-extrapolation-and-is-rooted-on-the-prior-knowledge-on-the-coherency-of-trajectories-in-natural-images-we-show-below-the-typical-eye-velocity-profile-that-is-observed-during-smooth-pursuit-eye-movements-spem-as-a-prototypical-sensory-response-it-consists-of-three-phases-first-a-convergence-of-the-eye-velocity-toward-the-physical-speed-second-a-drop-of-velocity-during-the-blank-and-finally-a-sudden-catch-up-of-speed-at-reappearance-becker-and-fuchs-1985&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985).&#34; srcset=&#34;
-               /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_067ef234dcd8442b6e2603ff0bfb5021.jpg 400w,
-               /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_c15a7adba7034cadfa2267f76a87d0b5.jpg 760w,
-               /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_067ef234dcd8442b6e2603ff0bfb5021.jpg&#34;
+               /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_8ad6f62a5410e0c0034021bf7488281f.webp 400w,
+               /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_7da43b6086e402b4732f59a1553cd6b6.webp 760w,
+               /publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/figure1_hu90c98597bfecb4ee68b0b9d1509b5c1c_14061_8ad6f62a5410e0c0034021bf7488281f.webp&#34;
                width=&#34;293&#34;
                height=&#34;223&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -993,10 +1009,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1056,7 +1075,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on motion extrapolation: 
@@ -1066,10 +1084,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1134,7 +1155,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
@@ -1144,10 +1164,13 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1230,7 +1253,6 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
   
 &lt;/div&gt;
 
-  
 
 
 lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&gt;
@@ -1259,10 +1281,13 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1322,7 +1347,6 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on motion extrapolation: 
@@ -1332,10 +1356,13 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1400,7 +1427,6 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
@@ -1410,10 +1436,13 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
-  
-    
 
-&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 
   
@@ -1496,7 +1525,6 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
   
 &lt;/div&gt;
 
-  
 
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1527,10 +1555,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_fe1e047eb62c156c217132bf096ece65.png 400w,
-               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_4f447a8e9f12a94cf18f98fcc3b0c851.png 760w,
-               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_fe1e047eb62c156c217132bf096ece65.png&#34;
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_cb00b830c8b87db784d0b40b9c373545.webp 400w,
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_10c5d0165bce8f157a46b44af988de65.webp 760w,
+               /publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/adams-12/adams-12_hu29c32926b1b95830ea26f1d656d475c2_81970_cb00b830c8b87db784d0b40b9c373545.webp&#34;
                width=&#34;760&#34;
                height=&#34;188&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1563,10 +1591,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_5def6b766627a20336d50c9244a87df8.png 400w,
-               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_1f0ffe767c49a21840d15a8a3627cad4.png 760w,
-               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_5def6b766627a20336d50c9244a87df8.png&#34;
+               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_d27c904dd57d17555b25fc2cf1c1628c.webp 400w,
+               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_dfe9a3908c6a98bbc6af529eeff68b5a.webp 760w,
+               /publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/masson-12/masson-12_hu079ef8ccfdda2ff423a70d9fdceb8266_50616_d27c904dd57d17555b25fc2cf1c1628c.webp&#34;
                width=&#34;760&#34;
                height=&#34;168&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1642,10 +1670,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_88ffe8a3d4f1667704b44215b5b0a0c6.png 400w,
-               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_4387ed27ff7828a6ee1b9015ff8009c0.png 760w,
-               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_88ffe8a3d4f1667704b44215b5b0a0c6.png&#34;
+               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_12e0fccd0ba4b0e6bded562fb3169f1d.webp 400w,
+               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_3f1e5ca8ab174ae054005db3135e8ae4.webp 760w,
+               /publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/simoncini-12/simoncini-12_hu6ab4b9b95c930d107ba04d179fa2f7bd_138954_12e0fccd0ba4b0e6bded562fb3169f1d.webp&#34;
                width=&#34;760&#34;
                height=&#34;318&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1877,10 +1905,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_04275bf98763e5d0832804eb89d18347.png 400w,
-               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_d85b9d7b71b46a5f3f6ae41b729579da.png 760w,
-               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_04275bf98763e5d0832804eb89d18347.png&#34;
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_ade61af4cb0b908b8fa8177009dad0f7.webp 400w,
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_5c7de73f86925a46a398b3e61c70d9c2.webp 760w,
+               /publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-07-neurocomp/perrinet-07-neurocomp_huc8016d502ed90e8bf472bc36070fe734_103963_ade61af4cb0b908b8fa8177009dad0f7.webp&#34;
                width=&#34;760&#34;
                height=&#34;275&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
