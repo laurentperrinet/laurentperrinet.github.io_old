@@ -96,7 +96,7 @@ pour mettre en plein écran)
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description>&lt;p&gt;See &lt;a href=&#34;https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementray code&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;how-does-the-retina-respond-to-stimuli-with-different-sparseness&#34;&gt;How does the retina respond to stimuli with different sparseness?&lt;/h1&gt;
@@ -104,7 +104,6 @@ pour mettre en plein écran)
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import numpy as np
 import MotionClouds as mc
 import matplotlib.pyplot as plt
-
 # PARAMETERS
 seed = 2042
 np.random.seed(seed=seed)
@@ -112,27 +111,21 @@ N_sparse = 5
 sparse_base = 2.e5
 sparseness =  np.logspace(-1, 0, N_sparse, base=sparse_base, endpoint=True)
 print(sparseness)
-
 # TEXTON
 N_X, N_Y, N_frame = 256, 256, 1
 fx, fy, ft = mc.get_grids(N_X, N_Y, 1)
 mc_i = mc.envelope_gabor(fx, fy, ft, sf_0=0.05, B_sf=0.025, B_theta=np.inf)
-
 values = np.random.randn(N_X, N_Y, N_frame)
-
 chance = np.argsort(-np.abs(values.ravel()))
 chance = np.array(chance, dtype=np.float)
 chance /= chance.max()
 chance = chance.reshape((N_X, N_Y, N_frame))
-
 fig, axs = plt.subplots(1, N_sparse, figsize=(fig_width, fig_width/N_sparse))
 for i_ax, l0_norm in enumerate(sparseness):
     threshold = 1 - l0_norm
     mask = np.zeros_like(chance)
     mask[chance &amp;gt; threshold] = 1.
-
     im = 2*mc.rectif(mc.random_cloud(mc_i, events=mask*values))-1
-
     axs[i_ax].imshow(im[:, :, 0], vmin=-1, vmax=1, cmap=plt.gray())
     #axs[i_ax].text(9, 80, r&#39;$n=%.0f\%%$&#39; % (noise*100), color=&#39;white&#39;, fontsize=10)
     axs[i_ax].text(4, 40, r&#39;$\epsilon=%.0e$&#39; % l0_norm, color=&#39;white&#39;, fontsize=8)
@@ -334,7 +327,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
@@ -358,7 +351,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
@@ -393,7 +386,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -401,7 +394,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -498,7 +491,7 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; 
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -1455,7 +1448,7 @@ More complex parts of the brain are not required at this stage, contrary to what
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Wed, 08 Sep 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>&lt;p&gt;
 

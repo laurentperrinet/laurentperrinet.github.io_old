@@ -45,21 +45,14 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
                height=&#34;207&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.&lt;/p&gt;
+
+&lt;strong&gt;MotionClouds&lt;/strong&gt; are random dynamic stimuli optimized to study motion perception.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://neuralensemble.github.io/MotionClouds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; using 
-  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;37 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=3286688289699014452&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Follow-up paper 
+&lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/MotionClouds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt; using 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python.&lt;/li&gt;
+&lt;li&gt;37 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=3286688289699014452&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021)&lt;/li&gt;
+&lt;li&gt;Follow-up paper 
 
 
 
@@ -233,10 +226,8 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;/div&gt;
 
 
-&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;This library was notably used in the following paper 
+&lt;li&gt;This library was notably used in the following paper 
 
 
 
@@ -344,8 +335,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;Figure 4&lt;/strong&gt; Broadband vs. narrowband stimuli. From A through B to C, the frequency bandwidth Bf increases, while all other parameters (such as f0) are kept constant. The MC with the broadest bandwidth is thought to best represent natural stimuli, since, as those, it contains many frequency components. A: Bf = 0:05 (Supplemental Movie S4). B: Bf = 0:15 (Supplemental Movie S5). C: Bf = 0:4 (Supplemental Movie S6).
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;/li&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
