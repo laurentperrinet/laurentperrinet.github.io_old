@@ -22,7 +22,11 @@
 
 
 
+
   
+
+
+
 
 
 
@@ -68,7 +72,7 @@
   
   
   
-    <meta name="theme-color" content="#1565c0" />
+    <meta name="theme-color" content="#bbdefb" />
   
 
   
@@ -105,8 +109,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
         
       
     
@@ -250,49 +254,10 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.246129d782c938a644fe2d653d8a976f.css" />
+  <link rel="stylesheet" href="/css/wowchemy.94ce078b6ba7df2440fe0463dc38f20e.css" />
 
   
 
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-140381649-1', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
 
 
   
@@ -339,9 +304,6 @@
   
   <meta property="twitter:card" content="summary" />
   
-    <meta property="twitter:site" content="@laurentperrinet" />
-    <meta property="twitter:creator" content="@laurentperrinet" />
-  
   <meta property="og:site_name" content="Novel visual computations" />
   <meta property="og:url" content="https://laurentperrinet.github.io/talk/2022-01-12-neuro-cercle/" />
   <meta property="og:title" content="Des illusions aux hallucinations visuelles: une porte sur la perception | Novel visual computations" />
@@ -362,6 +324,40 @@
 
 
   
+    
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://laurentperrinet.github.io/talk/2022-01-12-neuro-cercle/"
+  },
+  "name": "Des illusions aux hallucinations visuelles: une porte sur la perception",
+  
+  "location": {
+    "@type": "Place",
+    "name": "Grenoble (France)"
+  },
+  
+  
+  "startDate": "2022-01-12T18:00:00Z",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "Laurent U Perrinet"
+  },
+  
+  "description": "Les illusions visuelles sont des créations d'artistes, de scientifiques et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des situations souvent incongrues, dans lesquelles l'eau remonte une cascade, les personnes volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable coté ludique, ces illusions nous apprennent beaucoup sur le fonctionnement du cerveau, notamment quand celles-ci se transforment en hallucinations visuelles, dépassant ainsi les limites des capacités de notre perception. En tant que chercheur en Neurosciences à l'Institut de Neurosciences de la Timone à Marseille, je vous dévoilerai des aspects du fonctionnement du cerveau qui sont souvent méconnus. En particulier, nous verrons pourquoi un magicien peut tromper nos sens ou comment des objets peuvent voyager dans le temps. Surtout nous essaierons de comprendre le fonctionnement de notre perception visuelle sur les bases d'une théorie de la vision non pas comme une simple caméra qui enregistre des images mais comme un processus actif en relation avec le monde qui nous entoure."
+}
+</script>
+
+  
 
   
 
@@ -375,7 +371,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="155e526512e971ac496acbed325a3872" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="1786185ceeaa981e223807b33c926323" >
 
   
   
@@ -386,7 +382,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.8f76bdc9e086322ed5147724ebba3d06.js"></script>
+  <script src="/js/wowchemy-init.min.d333d96014f7bcfa311294a92ace0d60.js"></script>
 
   
 
@@ -862,22 +858,6 @@
 
         
         
-        <li class="nav-item dropdown theme-dropdown">
-          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
-            <i class="fas fa-moon" aria-hidden="true"></i>
-          </a>
-          <div class="dropdown-menu">
-            <a href="#" class="dropdown-item js-set-theme-light">
-              <span>Light</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-dark">
-              <span>Dark</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-auto">
-              <span>Automatic</span>
-            </a>
-          </div>
-        </li>
         
 
         
@@ -893,7 +873,7 @@
   </div>
 
   <div class="page-body">
-    <article class="article">
+    <div class="pub">
 
   
 
@@ -938,21 +918,11 @@
   
 
   
-  <span class="article-date">
-    
-    
-      
-    
-    Jan 12, 2022
-  </span>
-  
 
   
 
   
 
-  
-  
   
   
   
@@ -1042,6 +1012,60 @@
 
   <div class="article-container">
 
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Les illusions visuelles sont des créations d&rsquo;artistes, de scientifiques et plus récemment, grâce aux réseaux sociaux, du grand public qui proposent des situations souvent incongrues, dans lesquelles l&rsquo;eau remonte une cascade, les personnes volent dans les airs ou des serpents se mettent à tourner. Au-delà de leur indéniable coté ludique, ces illusions nous apprennent beaucoup sur le fonctionnement du cerveau, notamment quand celles-ci se transforment en hallucinations visuelles, dépassant ainsi les limites des capacités de notre perception. En tant que chercheur en Neurosciences à l&rsquo;Institut de Neurosciences de la Timone à Marseille, je vous dévoilerai des aspects du fonctionnement du cerveau qui sont souvent méconnus. En particulier, nous verrons pourquoi un magicien peut tromper nos sens ou comment des objets peuvent voyager dans le temps. Surtout nous essaierons de comprendre le fonctionnement de notre perception visuelle sur les bases d&rsquo;une théorie de la vision non pas comme une simple caméra qui enregistre des images mais comme un processus actif en relation avec le monde qui nous entoure.</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Jan 12, 2022 16:00
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://neurocercle.wordpress.com/" target="_blank" rel="noopener">
+            Neurocercle : Découvrir les neurosciences à Grenoble
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Grenoble (France)</div>
+          
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
     <div class="article-style">
       <blockquote>
 <p>Nous aurons le plaisir d’échanger avec notre conférencier Laurent Perrinet et nous vous espérons nombreux. Pour situer le conférencier : <a href="https://laurentperrinet.github.io/2019-05_illusions-visuelles/" target="_blank" rel="noopener">https://laurentperrinet.github.io/2019-05_illusions-visuelles/</a>
@@ -1051,8 +1075,6 @@
     </div>
 
     
-
-
 
 
 
@@ -1250,10 +1272,8 @@
 
 
 
-
-
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">
@@ -1271,17 +1291,16 @@
   
 
   
-  <p class="powered-by">
-    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-  </p>
-  
 
   
   
 
 
+
+
+
+
+  
 
 
 

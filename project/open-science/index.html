@@ -22,7 +22,11 @@
 
 
 
+
   
+
+
+
 
 
 
@@ -68,7 +72,7 @@
   
   
   
-    <meta name="theme-color" content="#1565c0" />
+    <meta name="theme-color" content="#bbdefb" />
   
 
   
@@ -105,8 +109,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
         
       
     
@@ -250,49 +254,10 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.246129d782c938a644fe2d653d8a976f.css" />
+  <link rel="stylesheet" href="/css/wowchemy.94ce078b6ba7df2440fe0463dc38f20e.css" />
 
   
 
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-140381649-1', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
 
 
   
@@ -337,9 +302,6 @@
     
   
   <meta property="twitter:card" content="summary_large_image" />
-  
-    <meta property="twitter:site" content="@laurentperrinet" />
-    <meta property="twitter:creator" content="@laurentperrinet" />
   
   <meta property="og:site_name" content="Novel visual computations" />
   <meta property="og:url" content="https://laurentperrinet.github.io/project/open-science/" />
@@ -419,7 +381,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="505583b2371f2a63507bb831a9d4a60b" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="505583b2371f2a63507bb831a9d4a60b" >
 
   
   
@@ -430,7 +392,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.8f76bdc9e086322ed5147724ebba3d06.js"></script>
+  <script src="/js/wowchemy-init.min.d333d96014f7bcfa311294a92ace0d60.js"></script>
 
   
 
@@ -906,22 +868,6 @@
 
         
         
-        <li class="nav-item dropdown theme-dropdown">
-          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
-            <i class="fas fa-moon" aria-hidden="true"></i>
-          </a>
-          <div class="dropdown-menu">
-            <a href="#" class="dropdown-item js-set-theme-light">
-              <span>Light</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-dark">
-              <span>Dark</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-auto">
-              <span>Automatic</span>
-            </a>
-          </div>
-        </li>
         
 
         
@@ -992,8 +938,6 @@
 
   
 
-  
-  
   
   
   
@@ -1095,6 +1039,11 @@
 
 
 
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/pasturel-montagnini-perrinet-20/cite.bib">
+  Cite
+</a>
+
 
   
   
@@ -1193,6 +1142,11 @@
 </a>
 
 
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/pasturel-montagnini-perrinet-20/cite.bib">
+  Cite
+</a>
 
 
   
@@ -2047,8 +2001,6 @@
 
 
 
-
-
 <div class="article-tags">
   
   <a class="badge badge-light" href="/tag/log-gabor/">log-gabor</a>
@@ -2245,28 +2197,6 @@
 
 
 
-
-
-
-  
-  
-  <div class="article-widget content-widget-hr">
-    <h3>Related</h3>
-    <ul>
-      
-      <li><a href="/publication/vacher-16/">Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures</a></li>
-      
-      <li><a href="/publication/vacher-15-icms/">A Mathematical Account of Dynamic Texture Synthesis for Probing Visual Perception</a></li>
-      
-      <li><a href="/publication/simoncini-14-vss/">The characteristics of microsaccadic eye movements varied with the change of strategy in a match-to-sample task</a></li>
-      
-      <li><a href="/publication/vacher-14-ihp/">Dynamic Textures For Probing Motion Perception</a></li>
-      
-      <li><a href="/publication/simoncini-13-vss/">Measuring speed of moving textures: Different pooling of motion information for human ocular following and perception</a></li>
-      
-    </ul>
-  </div>
-  
 
 
 
@@ -2550,6 +2480,504 @@
       
       
       
+        <h2>Events</h2>
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/2019-01-14-laconeu/" >Modelling spiking neural networks using Brian, Nest and pyNN</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 14, 2019 111:00
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/2018-03-26-cours-neuro-comp-fep/" >Probabilities, Bayes and the Free-energy principle</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 26, 2018 31:00
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>INT, Marseille</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/2017-01-20-laconeu/" >Tutorial: Active inference for eye movements: Bayesian methods, neural inference, dynamics</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 20, 2017 110:45
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/2017-01-19-laconeu/" >Tutorial: Sparse optimization in neural computations</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Jan 19, 2017 110:45
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Valparaiso (Chile)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/2014-03-20-manchester/" >WP5 - Demo 1.3 : Spiking model of motion-based prediction</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 20, 2014 31:00
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Manchester (UK)</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
+      <a href="/author/bernhard-a-kaplan/">Bernhard A Kaplan</a></span>, <span >
+      <a href="/author/mina-a-khoei/">Mina A Khoei</a></span>, <span >
+      <a href="/author/anders-lansner/">Anders Lansner</a></span>, <span >
+      <a href="/author/guillaume-s-masson/">Guillaume S Masson</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/2013-11-26-brain-scales-demos/" >Demo 1, Task4: Implementation of models showing emergence of cortical fields and maps</a>
+    </div>
+
+    
+    <a href="/talk/2013-11-26-brain-scales-demos/"  class="summary-link">
+      <div class="article-style">
+        Together with Bernhard Kaplan, we talked about how we aim at &ldquo;compiling&rdquo; a predictive motion-based approach as a spiking neural networks and then as a parallel wafer systems in the BrainscaleS project (Demo 1, Task4).
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Nov 26, 2013 1112:00
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/bernhard-a-kaplan/">Bernhard A Kaplan</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/2013-03-21-marseille/" >Why methods and tools are the key to artificial brain-like systems</a>
+    </div>
+
+    
+    <a href="/talk/2013-03-21-marseille/"  class="summary-link">
+      <div class="article-style">
+        see also:  Andrew P Davison, Daniel Bruderle, Jochen Eppler, Jens Kremkow, Eilif Muller, Dejan Pecevski, Laurent U Perrinet, Pierre Yger  (2008). PyNN: A Common Interface for Neuronal Network Simulators.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 21, 2013 312:00
+        </span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/talk/2012-03-22-juelich/" >MotionClouds: Model-based stimulus synthesis of natural-like random textures for the study of motion perception</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+      <div>
+        <span>
+          Mar 22, 2012 32:00
+        </span>
+        
+        <span class="middot-divider"></span>
+        <span>Forschungszentrum Jülich</span>
+        
+      </div>
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+      </div>
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+        
+      
     </div>
   </div>
 </article>
@@ -2570,17 +2998,16 @@
   
 
   
-  <p class="powered-by">
-    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-  </p>
-  
 
   
   
 
 
+
+
+
+
+  
 
 
 

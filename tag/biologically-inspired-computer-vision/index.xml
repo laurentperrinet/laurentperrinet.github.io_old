@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biologically Inspired Computer Vision | Novel visual computations</title>
+    <title>Biologically Inspired Computer vision | Novel visual computations</title>
     <link>https://laurentperrinet.github.io/tag/biologically-inspired-computer-vision/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/biologically-inspired-computer-vision/index.xml" rel="self" type="application/rss+xml" />
-    <description>Biologically Inspired Computer Vision</description>
+    <description>Biologically Inspired Computer vision</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
 This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 25 Jan 2018 18:30:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
-      <title>Biologically Inspired Computer Vision</title>
+      <title>Biologically Inspired Computer vision</title>
       <link>https://laurentperrinet.github.io/tag/biologically-inspired-computer-vision/</link>
     </image>
     
@@ -62,6 +62,14 @@ pour mettre en plein écran)
     </item>
     
     <item>
+      <title>Expériences autour de la perception de la forme en art et science</title>
+      <link>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2018-01-25-meetup-neuronautes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>M2APix: a bio-inspired auto-adaptive visual sensor for robust ground height estimation</title>
       <link>https://laurentperrinet.github.io/publication/dupeyroux-boutin-serres-perrinet-viollet-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -78,9 +86,17 @@ pour mettre en plein écran)
     </item>
     
     <item>
+      <title>Tutorial: Sparse optimization in neural computations</title>
+      <link>https://laurentperrinet.github.io/talk/2017-01-19-laconeu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2017-01-19-laconeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description>&lt;p&gt;See &lt;a href=&#34;https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementray code&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;how-does-the-retina-respond-to-stimuli-with-different-sparseness&#34;&gt;How does the retina respond to stimuli with different sparseness?&lt;/h1&gt;
@@ -311,15 +327,31 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biologically-inspired characterization of sparseness in natural images</title>
+      <link>https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-10-26-perrinet-16-euvip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorization of microscopy images using a biologically inspired edge co-occurrences descriptor</title>
+      <link>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2016-10-26-fillatre-barlaud-perrinet-16-euvip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
@@ -354,7 +386,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -362,7 +394,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -388,7 +420,14 @@ France&lt;/a&gt; Phone : +33
 
 &lt;figure  id=&#34;figure-biologically-inspired-computer-vision&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;header.jpg&#34; alt=&#34;Biologically Inspired Computer vision&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Biologically Inspired Computer vision&#34; srcset=&#34;
+               /publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_e62a477915e1ef23ef8b203f6a513a22.webp 400w,
+               /publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_ca14137b339dd35f97c553ba042987b7.webp 760w,
+               /publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_e62a477915e1ef23ef8b203f6a513a22.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;227&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Biologically Inspired Computer vision
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -410,7 +449,14 @@ France&lt;/a&gt; Phone : +33
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;header.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_e62a477915e1ef23ef8b203f6a513a22.webp 400w,
+               /publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_ca14137b339dd35f97c553ba042987b7.webp 760w,
+               /publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv/header_hu7689ba15ddb3b57887b7eec74b7a9cd1_831168_e62a477915e1ef23ef8b203f6a513a22.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;227&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 This is a comprehensive and rigorous reference in the area of biologically motivated vision sensors. The study of biologically visual systems can be considered as a two way avenue. On the one hand, biological organisms can provide a source of inspiration for new computational efficient and robust vision models and on the other hand machine vision approaches can provide new insights for understanding biological visual systems. Along the different chapters, this book covers a wide range of topics from fundamental to more specialized topics, including visual analysis based on a computational level, hardware implementation, and the design of new more advanced vision sensors. The last two sections of the book provide an overview of a few representative applications and current state of the art of the research in this area. This makes it a valuable book for graduate, Master, PhD students and also researchers in the field.
 This book contains 17 chapters that have been organized in four different parts:&lt;/p&gt;
@@ -445,7 +491,7 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; 
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -768,6 +814,14 @@ More complex parts of the brain are not required at this stage, contrary to what
     </item>
     
     <item>
+      <title>Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</title>
+      <link>https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2014-04-25-kaplan-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Edge co-occurrences and categorizing natural images</title>
       <link>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</link>
       <pubDate>Fri, 05 Jul 2013 13:00:00 +0000</pubDate>
@@ -972,6 +1026,14 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Edge co-occurrences and categorizing natural images</title>
+      <link>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2013-07-05-cerco/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1386,7 +1448,7 @@ More complex parts of the brain are not required at this stage, contrary to what
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Mon, 13 Sep 2004 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>&lt;p&gt;
 

@@ -22,7 +22,11 @@
 
 
 
+
   
+
+
+
 
 
 
@@ -68,7 +72,7 @@
   
   
   
-    <meta name="theme-color" content="#1565c0" />
+    <meta name="theme-color" content="#bbdefb" />
   
 
   
@@ -105,8 +109,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
         
       
     
@@ -250,49 +254,10 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.246129d782c938a644fe2d653d8a976f.css" />
+  <link rel="stylesheet" href="/css/wowchemy.94ce078b6ba7df2440fe0463dc38f20e.css" />
 
   
 
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140381649-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-140381649-1', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
 
 
   
@@ -339,9 +304,6 @@
   
   <meta property="twitter:card" content="summary" />
   
-    <meta property="twitter:site" content="@laurentperrinet" />
-    <meta property="twitter:creator" content="@laurentperrinet" />
-  
   <meta property="og:site_name" content="Novel visual computations" />
   <meta property="og:url" content="https://laurentperrinet.github.io/talk/2020-09-14-iwai/" />
   <meta property="og:title" content="Visual search as active inference | Novel visual computations" />
@@ -351,10 +313,10 @@
     
       <meta
         property="article:published_time"
-        content="2020-09-14T18:00:00&#43;00:00"
+        content="2021-10-12T10:44:44&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2020-09-14T18:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-10-12T12:44:44&#43;02:00">
   
 
   
@@ -375,7 +337,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="6577bd5a5bb95b187787cb3e360308c5" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="6577bd5a5bb95b187787cb3e360308c5" >
 
   
   
@@ -386,7 +348,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.8f76bdc9e086322ed5147724ebba3d06.js"></script>
+  <script src="/js/wowchemy-init.min.d333d96014f7bcfa311294a92ace0d60.js"></script>
 
   
 
@@ -862,22 +824,6 @@
 
         
         
-        <li class="nav-item dropdown theme-dropdown">
-          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
-            <i class="fas fa-moon" aria-hidden="true"></i>
-          </a>
-          <div class="dropdown-menu">
-            <a href="#" class="dropdown-item js-set-theme-light">
-              <span>Light</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-dark">
-              <span>Dark</span>
-            </a>
-            <a href="#" class="dropdown-item js-set-theme-auto">
-              <span>Automatic</span>
-            </a>
-          </div>
-        </li>
         
 
         
@@ -943,8 +889,10 @@
     
     
       
+          Last updated on
+      
     
-    Sep 14, 2020
+    Oct 12, 2021
   </span>
   
 
@@ -952,8 +900,6 @@
 
   
 
-  
-  
   
   
   
@@ -998,28 +944,12 @@
 </a>
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 
 
 
 
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/2020-09-14_IWAI" target="_blank" rel="noopener">
-  Slides
-</a>
 
 
 
@@ -1042,141 +972,10 @@
   <div class="article-container">
 
     <div class="article-style">
-      <ul>
-<li>see proceedings paper: 
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-  <span >
-      <a href="/author/emmanuel-dauce/">Emmanuel Daucé</a></span>, <span >
-      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-  </span>
-  (2020).
-  <a href="/publication/dauce-20-iwai/">Visual search as active inference</a>.
-  <em>IWAI 2020</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dauce-20-iwai/dauce-20-iwai.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/dauce-20-iwai/cite.bib">
-  Cite
-</a>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/2020-09-14_IWAI" target="_blank" rel="noopener">
-  Slides
-</a>
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-64919-7_17" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
-  
-</div>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">the mathematical details are described as a talk the 1st International WS on <a href="https://twitter.com/hashtag/ActiveInference?src=hash&amp;ref_src=twsrc%5Etfw">#ActiveInference</a> <a href="https://twitter.com/hashtag/IWAI2020?src=hash&amp;ref_src=twsrc%5Etfw">#IWAI2020</a> at <a href="https://twitter.com/ECMLPKDD?ref_src=twsrc%5Etfw">@ECMLPKDD</a> <a href="https://t.co/4s7gHbMxiT">https://t.co/4s7gHbMxiT</a> and paper &quot;Visual search as active inference&quot; <a href="https://t.co/yNCOFHf7FS">https://t.co/yNCOFHf7FS</a></p>&mdash; laurentperrinet (@laurentperrinet) <a href="https://twitter.com/laurentperrinet/status/1305488089989754883?ref_src=twsrc%5Etfw">September 14, 2020</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true" alt="" loading="lazy" data-zoomable /></div>
-  </div></figure></li>
-<li>What:: talk @ <a href="https://iwaiworkshop.github.io/" target="_blank" rel="noopener">1st International Workshop on Active Inference (IWAI 2020)</a></li>
-<li>Who:: Emmanuel Daucé and Laurent Perrinet</li>
-<li>Where: Ghent (Belgium), gone virtual, see <a href="https://laurentperrinet.github.io/talk/2020-09-14-iwai" target="_blank" rel="noopener">https://laurentperrinet.github.io/talk/2020-09-14-iwai</a></li>
-<li>When: 14/09/2020, time: 12:20:00-12:40:00</li>
-<li>What:
-<ul>
-<li>Slides @ <a href="https://laurentperrinet.github.io/2020-09-14_IWAI" target="_blank" rel="noopener">https://laurentperrinet.github.io/2020-09-14_IWAI</a></li>
-<li>Code for slides @ <a href="https://github.com/laurentperrinet/2020-09-14_IWAI/" target="_blank" rel="noopener">https://github.com/laurentperrinet/2020-09-14_IWAI/</a></li>
-<li>Abstract: Visual search is an essential cognitive ability, offering a prototypical control problem to be addressed with Active Inference. Under a Naive Bayes assumption, the maximisation of the information gain objective is consistent with the separation of the visual sensory flow in two independent pathways, namely the &ldquo;What&rdquo; and the &ldquo;Where&rdquo; pathways. On the &ldquo;What&rdquo; side, the processing of the central part of the visual field (the fovea) provides the current interpretation of the scene, here the category of the target. On the &ldquo;Where&rdquo; side, the processing of the full visual field (at lower resolution) is expected to provide hints about future central foveal processing given the potential realisation of saccadic movements. A map of the classification accuracies, as obtained by such counterfactual saccades, defines a utility function on the motor space, whose maximal argument prescribes the next saccade. The comparison of the foveal and the peripheral predictions finally forms an estimate of the future information gain, providing a simple and resource-efficient way to implement information gain seeking policies in active vision. This dual-pathway information processing framework is found efficient on a synthetic visual search task and we show here quantitatively the role of the precision encoded within the accuracy map. More importantly, it is expected to draw connections toward a more general actor-critic principle in action selection, with the accuracy of the central processing taking the role of a value (or intrinsic reward) of the previous saccade.</li>
-</ul>
-</li>
-</ul>
-
+      
     </div>
 
     
-
-
 
 
 
@@ -1378,8 +1177,6 @@
 
 
 
-
-
   </div>
 </article>
   </div>
@@ -1399,17 +1196,16 @@
   
 
   
-  <p class="powered-by">
-    This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&rsquo;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
-Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared.
-  </p>
-  
 
   
   
 
 
+
+
+
+
+  
 
 
 
