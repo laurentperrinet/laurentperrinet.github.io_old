@@ -381,7 +381,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.d333d96014f7bcfa311294a92ace0d60.js"></script>
+  <script src="/js/wowchemy-init.min.6c07fd79b08c404df0504bd310968f2f.js"></script>
 
   
 
@@ -1006,7 +1006,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Making a judgment about the semantic category of a visual scene, such as whether it contains an animal, is typically assumed to involve high-level associative brain areas. Previous explanations require progressively analyzing the scene hierarchically at increasing levels of abstraction, from edge extraction to mid-level object recognition and then object categorization. Here we show that the statistics of edge co-occurrences alone are sufficient to perform a rough yet robust (translation, scale, and rotation invariant) scene categorization. We first extracted the edges from images using a scale-space analysis coupled with a sparse coding algorithm. We then computed the ``association field'' for different categories (natural, man-made, or containing an animal) by computing the statistics of edge co-occurrences. These differed strongly, with animal images having more curved configurations. We show that this geometry alone is sufficient for categorization, and that the pattern of errors made by humans is consistent with this procedure. Because these statistics could be measured as early as the primary visual cortex, the results challenge widely held assumptions about the flow of computations in the visual system. The results also suggest new algorithms for image classification and signal processing that exploit correlations between low-level structure and the underlying semantic category.</p>
+    <p class="pub-abstract">Making a judgment about the semantic category of a visual scene, such as whether it contains an animal, is typically assumed to involve high-level associative brain areas. Previous explanations require progressively analyzing the scene hierarchically at increasing levels of abstraction, from edge extraction to mid-level object recognition and then object categorization. Here we show that the statistics of edge co-occurrences alone are sufficient to perform a rough yet robust (translation, scale, and rotation invariant) scene categorization. We first extracted the edges from images using a scale-space analysis coupled with a sparse coding algorithm. We then computed the ``association field&rsquo;&rsquo; for different categories (natural, man-made, or containing an animal) by computing the statistics of edge co-occurrences. These differed strongly, with animal images having more curved configurations. We show that this geometry alone is sufficient for categorization, and that the pattern of errors made by humans is consistent with this procedure. Because these statistics could be measured as early as the primary visual cortex, the results challenge widely held assumptions about the flow of computations in the visual system. The results also suggest new algorithms for image classification and signal processing that exploit correlations between low-level structure and the underlying semantic category.</p>
     
 
     
@@ -1082,7 +1082,7 @@ More complex parts of the brain are not required at this stage, contrary to what
                height="393"
                loading="lazy" data-zoomable /></div>
   </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
-      Edge co-occurrences <strong>(A)</strong> An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. <strong>(B)</strong> The relationship between a reference edge <em>A</em> and another edge <em>B</em> can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: <a href="https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg">Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license</a>). This is used to compute the chevron map in Figure~2.
+      Edge co-occurrences <strong>(A)</strong> An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. <strong>(B)</strong> The relationship between a reference edge <em>A</em> and another edge <em>B</em> can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: <a href="https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg" target="_blank" rel="noopener">Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license</a>). This is used to compute the chevron map in Figure~2.
     </figcaption></figure>
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">動物か否かの見分け方。<a href="http://t.co/TTY8MwZGoO">http://t.co/TTY8MwZGoO</a>　引用されてるけど、Thorpe (1996)の150msで区別されてるって話(なつかしい)と関係ありそう。</p>&mdash; Makito Oku (@okumakito) <a href="https://twitter.com/okumakito/status/613128456637841408?ref_src=twsrc%5Etfw">June 22, 2015</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -1112,7 +1112,7 @@ More complex parts of the brain are not required at this stage, contrary to what
                height="495"
                loading="lazy" data-zoomable /></div>
   </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
-      The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges' angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.
+      The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&rsquo; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.
     </figcaption></figure>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Edge co-occurrences can account for rapid categorization of natural versus animal images<a href="http://t.co/NY9HapBx2S">http://t.co/NY9HapBx2S</a> <a href="http://t.co/rKQ8I5i6Ty">pic.twitter.com/rKQ8I5i6Ty</a></p>&mdash; Francis Villatoro (@emulenews) <a href="https://twitter.com/emulenews/status/612988348400070656?ref_src=twsrc%5Etfw">June 22, 2015</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -1169,7 +1169,7 @@ More complex parts of the brain are not required at this stage, contrary to what
                height="294"
                loading="lazy" data-zoomable /></div>
   </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
-      Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&rsquo;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges' orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80% for human observers and 82% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.
+      Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&rsquo;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&rsquo; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80% for human observers and 82% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.
     </figcaption></figure>
 
 
@@ -1196,7 +1196,7 @@ More complex parts of the brain are not required at this stage, contrary to what
                height="470"
                loading="lazy" data-zoomable /></div>
   </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
-      To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d' = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.
+      To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&rsquo; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.
     </figcaption></figure></p>
 </div>
 
@@ -1555,7 +1555,7 @@ More complex parts of the brain are not required at this stage, contrary to what
       
 
     
-    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+    <script src="/js/vendor-bundle.min.3d946de2e8784a477845261d87025092.js"></script>
 
     
     
@@ -1603,7 +1603,7 @@ More complex parts of the brain are not required at this stage, contrary to what
 
     
     
-      <script src="/js/wowchemy-headroom.79343bd00de25e04f03b6af2819f8643.js" type="module"></script>
+      <script src="/js/wowchemy-headroom.e8fd2d733eef6a8bbbe0539398fc0547.js" type="module"></script>
     
     
     
@@ -1612,7 +1612,7 @@ More complex parts of the brain are not required at this stage, contrary to what
     
     
     
-    <script src="/en/js/wowchemy.min.51fd0e243430f91ddd6c6b7b1cfc16d3.js"></script>
+    <script src="/en/js/wowchemy.min.98e82fe50d971df767bed1625cd88228.js"></script>
 
     
     
@@ -1646,7 +1646,7 @@ More complex parts of the brain are not required at this stage, contrary to what
   </div>
 </div>
 
-      <script src="/js/wowchemy-publication.ee00aa4e09ee62617fe2dc15bfcb3f7b.js" type="module"></script>
+      <script src="/js/wowchemy-publication.b0d291ed6d27eacec233e6cf5204f99a.js" type="module"></script>
   <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
