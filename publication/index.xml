@@ -2680,6 +2680,10 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 &lt;/li&gt;
 &lt;/ul&gt;
+
+$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}$$
+
 </description>
     </item>
     

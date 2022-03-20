@@ -576,6 +576,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;/li&gt;
 &lt;/ul&gt;
+
+$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}$$
+
 </description>
     </item>
     
