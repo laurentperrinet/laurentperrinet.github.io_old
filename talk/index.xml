@@ -6,12 +6,44 @@
       <atom:link href="https://laurentperrinet.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://laurentperrinet.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision</title>
+      <link>https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Où: Salle PHY51 - Marseille (France)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quoi: &lt;a href=&#34;https://ametice.univ-amu.fr/course/view.php?id=89069&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master 1 Neurosciences et Sciences Cognitives&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Réseaux neuronaux artificiels pour la vision&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Mercredi 23/03/2022 de 9h-12h&lt;/li&gt;
+&lt;li&gt;Introduction aux Neurosciences de la Vision&lt;/li&gt;
+&lt;li&gt;Réseaux de neurones artificiels et apprentissage machine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;em&gt;Neurones impulsionnels et modèles des fonctions visuelles&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Mercredi 23/03/2022 de 13h30-16h30&lt;/li&gt;
+&lt;li&gt;TP via notebook&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Statistics of the sparse representations of natural images</title>
