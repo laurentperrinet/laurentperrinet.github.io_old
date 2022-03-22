@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var slides = { "font-size": "10pt", "font-style": "bold", theme: "black" };
+  var slides = { theme: "white" };
 
   // ns-hugo:/var/folders/3p/m0g52j9j69z3gj8ktpgg1dm00000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5@v5.0.0-20220313124820-c0d0690a83dc/assets/js/wowchemy-utils.js
   function fixMermaid(render = false) {
@@ -98,6 +98,11 @@
     mermaid.initialize(mermaidOptions);
     document.addEventListener("DOMContentLoaded", function() {
       fixMermaid(false);
+    });
+  }
+  var mermaidOptions;
+})();
+);
     });
   }
   var mermaidOptions;
