@@ -44,6 +44,14 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;principes-de-la-vision&#34;&gt;Principes de la Vision&lt;/h1&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;more on &lt;a href=&#34;https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;à-quoi-sert-la-vision&#34;&gt;À quoi sert la vision?&lt;/h2&gt;
 
@@ -150,7 +158,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;figure  id=&#34;figure-hering-illusionhttpsenwikipediaorgwikihering_illusion&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -172,13 +180,34 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;figure  id=&#34;figure-hering-illusionhttpsenwikipediaorgwikihering_illusion&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;les-illusions-visuelles-2&#34;&gt;Les illusions visuelles&lt;/h2&gt;
-&lt;h2 id=&#34;path242_rotsnakes_mainjpg&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;a href=&#34;http://www.ritsumei.ac.jp/~akitaoka/index-e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ilusions of brightness or lightness &lt;em&gt;Akiyoshi KITAOKA&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;les-illusions-visuelles-3&#34;&gt;Les illusions visuelles&lt;/h2&gt;
+
 
 
 
@@ -194,11 +223,13 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;figure  id=&#34;figure-rotating-snakes-akiyoshi-kitaokahttpwwwritsumeiacjpakitaokaindex-ehtml&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg&#34; alt=&#34;[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg&#34; alt=&#34;[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;http://www.ritsumei.ac.jp/~akitaoka/index-e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rotating Snakes &lt;em&gt;Akiyoshi KITAOKA&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
-[path2(&amp;lsquo;42_rotsnakes_main.jpg&amp;rsquo;)],&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;de-v1-aux-réseaux-convolutionnels&#34;&gt;De V1 aux réseaux convolutionnels&lt;/h1&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;les-neurosciences-computationnelles&#34;&gt;Les neurosciences computationnelles&lt;/h2&gt;
 
 
@@ -220,8 +251,6 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sejnowski,  Koch  &amp;amp; Churchland (1998)&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;de-v1-aux-réseaux-convolutionnels&#34;&gt;De V1 aux réseaux convolutionnels&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;le-système-visuel&#34;&gt;Le système visuel&lt;/h2&gt;
 
@@ -305,7 +334,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 &lt;figure  id=&#34;figure-bosking-et-al-1997&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg&#34; alt=&#34;[Bosking *et al*, 1997]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg&#34; alt=&#34;[Bosking *et al*, 1997]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [Bosking &lt;em&gt;et al&lt;/em&gt;, 1997]
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -376,7 +405,35 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       [&lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amidi &amp;amp; Amidi&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;réseaux-convolutionnels&#34;&gt;Réseaux convolutionnels&lt;/h2&gt;
+&lt;h2 id=&#34;réseaux-convolutionnels---math&#34;&gt;Réseaux convolutionnels :  Math&lt;/h2&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;ul&gt;
+&lt;li&gt;Convolution discrète dans le temps:
+$$
+(f \ast g)[n]=\sum_{m=-\infty}^{\infty} f[m] g[n-m]
+$$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;ul&gt;
+&lt;li&gt;Convolution discrète bi-dimensionnelle:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast g)[x, y] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j] g[i-x, j-x]
+$$
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;ul&gt;
+&lt;li&gt;Convolution discrète bi-dimensionnelle multi-canaux:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast g)[x, y, k] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j, k] g[i-x, j-x]
+$$
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;perspectives&#34;&gt;Perspectives&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;réseaux-prédictifs&#34;&gt;Réseaux prédictifs&lt;/h2&gt;
 
 
 
@@ -397,36 +454,6 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;réseaux-convolutionnels-1&#34;&gt;Réseaux convolutionnels&lt;/h2&gt;
-&lt;h2 id=&#34;hahahugoshortcode-s16-hbhb&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-boutin-et-al-2021httpslaurentperrinetgithubiopublicationboutin-franciosini-chavane-ruffier-perrinet-20&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.png&#34; alt=&#34;[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;perspectives&#34;&gt;Perspectives&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;spiking-neural-networks&#34;&gt;Spiking Neural Networks&lt;/h2&gt;
 
@@ -451,6 +478,28 @@ $$&lt;/p&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;recurrent-processing&#34;&gt;Recurrent processing&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-amidi--amidihttpsstanfordedushervineteachingcs-230cheatsheet-convolutional-neural-networks&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-rnn-ltr.png&#34; alt=&#34;[[Amidi &amp;amp; Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amidi &amp;amp; Amidi&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;recurrent-processing-1&#34;&gt;Recurrent processing&lt;/h2&gt;
 
 
 
