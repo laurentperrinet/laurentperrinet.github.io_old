@@ -22,7 +22,7 @@
 
   <title>2022-03-23_UE-neurosciences-computationnelles | Novel visual computations</title>
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/white.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" id="highlight-theme">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/black.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" id="highlight-theme">
 
   
   
@@ -52,7 +52,7 @@
     <section>
     
       <h1 id="réseaux-de-neurones-artificiels-et-apprentissage-machine-appliqués-à-la-compréhension-de-la-visionhttpsgithubcomlaurentperrinet2022_ue-neurosciences-computationnelles"><a href="https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles" target="_blank" rel="noopener">Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision</a></h1>
-<h4 id="laurent-perrinethttpsgithubcomlaurentperrinet"><em><a href="https://github.com/laurentperrinet/" target="_blank" rel="noopener">Laurent Perrinet</a></em></h4>
+<h4 id="laurent-perrinethttpslaurentperrinetgithubiotalk2022-03-23-ue-neurosciences-computationnelles"><em><a href="https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/" target="_blank" rel="noopener">Laurent Perrinet</a></em></h4>
 <h4 id="u2022-03-23httpsameticeuniv-amufrpluginfilephp5559779mod_resourcecontent1planning_neurocomp_m1_2022pdf-master-1-neurosciences-et-sciences-cognitiveshttpsameticeuniv-amufrcourseviewphpid89069u"><u><a href="https://ametice.univ-amu.fr/pluginfile.php/5559779/mod_resource/content/1/Planning_Neurocomp_M1_2022.pdf" target="_blank" rel="noopener">[2022-03-23]</a> <a href="https://ametice.univ-amu.fr/course/view.php?id=89069" target="_blank" rel="noopener">Master 1 Neurosciences et Sciences Cognitives</a></u></h4>
 <p>
 
@@ -85,8 +85,18 @@
     <section>
     
       
-<h1 id="principles-of-vision">principles of Vision</h1>
-<p>
+<h1 id="principes-de-la-vision">Principes de la Vision</h1>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="le-système-visuel">Le système visuel</h2>
 
 
 
@@ -101,13 +111,136 @@
 
 
 
-
-<figure  >
+<figure  id="figure-système-visuel-humain-wikipediahttpsfrwikipediaorgwikisystc3a8me_visuel_humain">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" alt="H&amp;amp;W" loading="lazy" data-zoomable /></div>
-  </div></figure>
-</p>
-<p>[Hubel &amp; Wiesel, 1956]</p>
+    <div class="w-100" ><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg" alt="[Système visuel humain (Wikipedia)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_visuel_humain)" loading="lazy" data-zoomable width="45%" /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_visuel_humain" target="_blank" rel="noopener">Système visuel humain (Wikipedia)</a>
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="les-illusions-visuelles">Les illusions visuelles</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-hering-illusionhttpsenwikipediaorgwikihering_illusion">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg" alt="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" loading="lazy" data-zoomable width="90%" /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      <a href="https://en.wikipedia.org/wiki/Hering_illusion" target="_blank" rel="noopener">Hering illusion</a>
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="les-illusions-visuelles-1">Les illusions visuelles</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-hering-illusionhttpsenwikipediaorgwikihering_illusion">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg" alt="[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)" loading="lazy" data-zoomable width="90%" /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      <a href="https://en.wikipedia.org/wiki/Hering_illusion" target="_blank" rel="noopener">Hering illusion</a>
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="les-neurosciences-computationnelles">Les neurosciences computationnelles</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-sejnowski--koch---churchland-1998httpwwwhmsharvardedubssneurobornlabnb204paperssejnowski-koch-churchland-science1988pdf">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png" alt="[[Sejnowski,  Koch  &amp; Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]" loading="lazy" data-zoomable width="35%" /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      [<a href="http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf" target="_blank" rel="noopener">Sejnowski,  Koch  &amp; Churchland (1998)</a>]
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="le-cortex-visuel-primaire">Le cortex visuel primaire</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-hubel--wiesel-1962">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" alt="[Hubel &amp; Wiesel, 1962]" loading="lazy" data-zoomable width="90%" /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      [Hubel &amp; Wiesel, 1962]
+    </figcaption></figure>
 
     </section>
     
@@ -119,7 +252,6 @@
     
       
 <h2 id="hubel--wiesel">Hubel &amp; Wiesel</h2>
-<p>
 
 
 
@@ -129,18 +261,16 @@
 
 
 
+  
 
 
 
 
 
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" alt="H&amp;amp;W" loading="lazy" data-zoomable /></div>
-  </div></figure>
-</p>
-<p>[Bosking <em>et al</em>, 1997]</p>
+<video controls  >
+  <source src="https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4" type="video/mp4">
+</video>
+<p>[Hubel &amp; Wiesel, 1962]</p>
 
     </section>
     
@@ -151,12 +281,43 @@
     <section>
     
       
-<h2 id="hubel--wiesel-1">Hubel &amp; Wiesel</h2>
-<video controls loop width=60%/>
-      <source type="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/ComplexDirSelCortCell250_title.mp4" ></source>
-<pre><code>&lt;/video&gt;
-</code></pre>
-<p>[Hubel &amp; Wiesel, 1956]</p>
+<h2 id="topographie-dans-v1">Topographie dans V1</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-bosking-et-al-1997">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg" alt="[Bosking *et al*, 1997]" loading="lazy" data-zoomable width="90%" /></div>
+  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
+      [Bosking <em>et al</em>, 1997]
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="math">Math</h2>
+<p>In-line math: $x + y = z$</p>
+<p>Block math:</p>
+<p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$</p>
 
     </section>
     
@@ -189,7 +350,7 @@
     <div class="w-100" ><img src="https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg" alt="H&amp;amp;W" loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>[Hubel &amp; Wiesel, 1956]</p>
+<p>[Hubel &amp; Wiesel, 1962]</p>
 
     </section>
     
@@ -217,7 +378,7 @@
 
 <figure  id="figure-from-frame-based-to-event-based-cameras">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" alt="From frame-based to event-based cameras." loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/grant/anr-anb/event_driven_computations.png" alt="From frame-based to event-based cameras." loading="lazy" data-zoomable width="90%" /></div>
   </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
       From frame-based to event-based cameras.
     </figcaption></figure>
@@ -248,76 +409,9 @@
 
 <figure  id="figure-our-system-is-divided-into-3-units-to-process-visual-inputs-communicating-by-event-driven-feed-forward-and-feed-back-communications">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" alt="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/grant/anr-anb/principe_agile.jpg" alt="Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications." loading="lazy" data-zoomable width="90%" /></div>
   </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
       Our system is divided into 3 units to process visual inputs communicating by event-driven, feed-forward and feed-back communications.
-    </figcaption></figure>
-
-    </section>
-    
-
-    
-    
-    
-    <section>
-    
-      
-<h2 id="consortium">Consortium:</h2>
-<table>
-<thead>
-<tr>
-<th><img src="https://laurentperrinet.github.io/author/stephane-viollet/avatar.jpg" alt="SV" height="150"></th>
-<th><img src="https://laurentperrinet.github.io/author/ryad-benosman/avatar_hu2d5c77d2b84468d5dedad740d610465b_7790_270x270_fill_q75_lanczos_center.jpg" alt="RB" height="150"></th>
-<th><img src="https://laurentperrinet.github.io/author/laurent-u-perrinet/avatar.jpg" alt="LP" height="150"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Stéphane Viollet</td>
-<td>Ryad Benosman</td>
-<td>Laurent Perrinet</td>
-</tr>
-<tr>
-<td>Julien Diperi</td>
-<td>SioHoi Ieng</td>
-<td>Emmanuel Daucé</td>
-</tr>
-<tr>
-<td>Inst Sciences Mouvement</td>
-<td>Inst de la Vision</td>
-<td>Inst Neurosci de la Timone</td>
-</tr>
-</tbody>
-</table>
-
-    </section>
-    
-
-    
-    
-    
-    <section>
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  id="figure-gantt-chart-of-project-organization">
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://laurentperrinet.github.io/grant/anr-anb/gantt.png" alt="Gantt Chart of project organization." loading="lazy" data-zoomable /></div>
-  </div><figcaption data-pre="Figure&nbsp;" data-post=":&nbsp;" class="numbered">
-      Gantt Chart of project organization.
     </figcaption></figure>
 
     </section>
