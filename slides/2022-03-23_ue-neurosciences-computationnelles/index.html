@@ -679,7 +679,7 @@ $$</p>
 <li>Convolution discrète d&rsquo;une image sur plusieurs canaux de sortie:</li>
 </ul>
 <p>$$
-(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j, k] g[i-x, j-y]
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[k, i, j, k] g[i-x, j-y]
 $$</p>
 
     </section>
@@ -693,10 +693,10 @@ $$</p>
       
 <h2 id="réseaux-convolutionnels---math-3">Réseaux convolutionnels :  Math</h2>
 <ul>
-<li>Convolution discrète d&rsquo;une image mutli-canaux (eg. RGB) sur plusieurs canaux de sortie:</li>
+<li>Convolution discrète d&rsquo;une image multi-canaux (eg. RGB) sur plusieurs canaux de sortie (noter <a href="https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html" target="_blank" rel="noopener">l&rsquo;ordre des indices</a>):</li>
 </ul>
 <p>$$
-(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[i, j, k] g[i-x, j-y, c]
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
 $$</p>
 
     </section>
