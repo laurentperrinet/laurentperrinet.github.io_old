@@ -401,18 +401,18 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;hr&gt;
 &lt;h2 id=&#34;réseaux-convolutionnels---math&#34;&gt;Réseaux convolutionnels :  Math&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Convolution discrète uni-dimensionnelle (eg dans le temps):
+&lt;li&gt;Convolution discrète uni-dimensionnelle (eg dans le temps) avec un noyau f de rayon $K$:
 $$
-(f \ast g)[n]=\sum_{m=-\infty}^{\infty} f[m] g[n-m]
+(f \ast g)[n]=\sum_{m=-K}^{K} f[m] g[n-m]
 $$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;réseaux-convolutionnels---math-1&#34;&gt;Réseaux convolutionnels :  Math&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Convolution discrète bi-dimensionnelle:&lt;/li&gt;
+&lt;li&gt;Convolution discrète d&amp;rsquo;une image (bi-dimensionnelle):&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast g)[x, y] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j] g[i-x, j-x]
+(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j] g[i-x, j-y]
 $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;réseaux-convolutionnels--lopération-de-convolution&#34;&gt;Réseaux convolutionnels : l&amp;rsquo;opération de convolution&lt;/h2&gt;
@@ -439,10 +439,18 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;réseaux-convolutionnels---math-2&#34;&gt;Réseaux convolutionnels :  Math&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Convolution discrète bi-dimensionnelle multi-canaux:&lt;/li&gt;
+&lt;li&gt;Convolution discrète d&amp;rsquo;une image sur plusieurs canaux de sortie:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast g)[x, y, k] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j, k] g[i-x, j-x]
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j, k] g[i-x, j-y]
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;réseaux-convolutionnels---math-3&#34;&gt;Réseaux convolutionnels :  Math&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Convolution discrète d&amp;rsquo;une image mutli-canaux (eg. RGB) sur plusieurs canaux de sortie:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[i, j, k] g[i-x, j-y, c]
 $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;réseaux-convolutionnels--cnn&#34;&gt;Réseaux convolutionnels : CNN&lt;/h2&gt;

@@ -611,9 +611,9 @@
       
 <h2 id="réseaux-convolutionnels---math">Réseaux convolutionnels :  Math</h2>
 <ul>
-<li>Convolution discrète uni-dimensionnelle (eg dans le temps):
+<li>Convolution discrète uni-dimensionnelle (eg dans le temps) avec un noyau f de rayon $K$:
 $$
-(f \ast g)[n]=\sum_{m=-\infty}^{\infty} f[m] g[n-m]
+(f \ast g)[n]=\sum_{m=-K}^{K} f[m] g[n-m]
 $$</li>
 </ul>
 
@@ -628,10 +628,10 @@ $$</li>
       
 <h2 id="réseaux-convolutionnels---math-1">Réseaux convolutionnels :  Math</h2>
 <ul>
-<li>Convolution discrète bi-dimensionnelle:</li>
+<li>Convolution discrète d&rsquo;une image (bi-dimensionnelle):</li>
 </ul>
 <p>$$
-(f \ast g)[x, y] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j] g[i-x, j-x]
+(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j] g[i-x, j-y]
 $$</p>
 
     </section>
@@ -676,10 +676,27 @@ $$</p>
       
 <h2 id="réseaux-convolutionnels---math-2">Réseaux convolutionnels :  Math</h2>
 <ul>
-<li>Convolution discrète bi-dimensionnelle multi-canaux:</li>
+<li>Convolution discrète d&rsquo;une image sur plusieurs canaux de sortie:</li>
 </ul>
 <p>$$
-(f \ast g)[x, y, k] = \sum_{i=-\infty}^{\infty} \sum_{j=-\infty}^{\infty} f[i, j, k] g[i-x, j-x]
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j, k] g[i-x, j-y]
+$$</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="réseaux-convolutionnels---math-3">Réseaux convolutionnels :  Math</h2>
+<ul>
+<li>Convolution discrète d&rsquo;une image mutli-canaux (eg. RGB) sur plusieurs canaux de sortie:</li>
+</ul>
+<p>$$
+(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[i, j, k] g[i-x, j-y, c]
 $$</p>
 
     </section>
