@@ -696,7 +696,8 @@ $$</p>
 <li>Convolution discrète d&rsquo;une image multi-canaux (eg. RGB) sur plusieurs canaux de sortie (noter <a href="https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html" target="_blank" rel="noopener">l&rsquo;ordre des indices</a>):</li>
 </ul>
 <p>$$
-(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
+(f \ast g)[x, y, k] = \
+\sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
 $$</p>
 
     </section>

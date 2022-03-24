@@ -456,7 +456,8 @@ $$&lt;/p&gt;
 &lt;li&gt;Convolution discrète d&amp;rsquo;une image multi-canaux (eg. RGB) sur plusieurs canaux de sortie (noter &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;l&amp;rsquo;ordre des indices&lt;/a&gt;):&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
+(f \ast g)[x, y, k] = \
+\sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
 $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;réseaux-convolutionnels--cnn&#34;&gt;Réseaux convolutionnels : CNN&lt;/h2&gt;
