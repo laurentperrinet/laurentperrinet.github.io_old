@@ -8,7 +8,7 @@
   
   
   
-    <meta name="generator" content="Wowchemy 5.4.0 for Hugo" />
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
   
 
   
@@ -256,7 +256,7 @@ How does the retina respond to stimuli with different sparseness? This stimulus 
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.d3fbabf3e02f0a40f84592dd992c35ca.css" />
+  <link rel="stylesheet" href="/css/wowchemy.8722fd0f5cb8e5cb38d3b73367786cc1.css" />
 
   
 
@@ -439,7 +439,7 @@ How does the retina respond to stimuli with different sparseness? This stimulus 
   
   
   
-  <script src="/js/wowchemy-init.min.7e5427316d1b14a30f257ae3467b3e21.js"></script>
+  <script src="/js/wowchemy-init.min.e22a2a20712150175b9cd707be2d0584.js"></script>
 
   
 
@@ -1144,40 +1144,39 @@ How does the retina respond to stimuli with different sparseness? This stimulus 
     <div class="article-style"><p>See <a href="https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html" target="_blank" rel="noopener">supplementray code</a>.</p>
 <h1 id="how-does-the-retina-respond-to-stimuli-with-different-sparseness">How does the retina respond to stimuli with different sparseness?</h1>
 <p>This stimulus is generated simply using the <a href="https://github.com/NeuralEnsemble/MotionClouds/blob/master/MotionClouds/MotionClouds.py#L282" target="_blank" rel="noopener">Motion Clouds library</a> by defining a sparse draw of events:</p>
-<pre><code class="language-python">import numpy as np
-import MotionClouds as mc
-import matplotlib.pyplot as plt
-# PARAMETERS
-seed = 2042
-np.random.seed(seed=seed)
-N_sparse = 5
-sparse_base = 2.e5
-sparseness =  np.logspace(-1, 0, N_sparse, base=sparse_base, endpoint=True)
-print(sparseness)
-# TEXTON
-N_X, N_Y, N_frame = 256, 256, 1
-fx, fy, ft = mc.get_grids(N_X, N_Y, 1)
-mc_i = mc.envelope_gabor(fx, fy, ft, sf_0=0.05, B_sf=0.025, B_theta=np.inf)
-values = np.random.randn(N_X, N_Y, N_frame)
-chance = np.argsort(-np.abs(values.ravel()))
-chance = np.array(chance, dtype=np.float)
-chance /= chance.max()
-chance = chance.reshape((N_X, N_Y, N_frame))
-fig, axs = plt.subplots(1, N_sparse, figsize=(fig_width, fig_width/N_sparse))
-for i_ax, l0_norm in enumerate(sparseness):
-    threshold = 1 - l0_norm
-    mask = np.zeros_like(chance)
-    mask[chance &gt; threshold] = 1.
-    im = 2*mc.rectif(mc.random_cloud(mc_i, events=mask*values))-1
-    axs[i_ax].imshow(im[:, :, 0], vmin=-1, vmax=1, cmap=plt.gray())
-    #axs[i_ax].text(9, 80, r'$n=%.0f\%%$' % (noise*100), color='white', fontsize=10)
-    axs[i_ax].text(4, 40, r'$\epsilon=%.0e$' % l0_norm, color='white', fontsize=8)
-    axs[i_ax].set_xticks([])
-    axs[i_ax].set_yticks([])
-plt.tight_layout()
-fig.subplots_adjust(hspace = .0, wspace = .0, left=0.0, bottom=0., right=1., top=1.)
-</code></pre>
-</div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">MotionClouds</span> <span class="k">as</span> <span class="nn">mc</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># PARAMETERS</span>
+</span></span><span class="line"><span class="cl"><span class="n">seed</span> <span class="o">=</span> <span class="mi">2042</span>
+</span></span><span class="line"><span class="cl"><span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">seed</span><span class="p">(</span><span class="n">seed</span><span class="o">=</span><span class="n">seed</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">N_sparse</span> <span class="o">=</span> <span class="mi">5</span>
+</span></span><span class="line"><span class="cl"><span class="n">sparse_base</span> <span class="o">=</span> <span class="mf">2.e5</span>
+</span></span><span class="line"><span class="cl"><span class="n">sparseness</span> <span class="o">=</span>  <span class="n">np</span><span class="o">.</span><span class="n">logspace</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">N_sparse</span><span class="p">,</span> <span class="n">base</span><span class="o">=</span><span class="n">sparse_base</span><span class="p">,</span> <span class="n">endpoint</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">sparseness</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># TEXTON</span>
+</span></span><span class="line"><span class="cl"><span class="n">N_X</span><span class="p">,</span> <span class="n">N_Y</span><span class="p">,</span> <span class="n">N_frame</span> <span class="o">=</span> <span class="mi">256</span><span class="p">,</span> <span class="mi">256</span><span class="p">,</span> <span class="mi">1</span>
+</span></span><span class="line"><span class="cl"><span class="n">fx</span><span class="p">,</span> <span class="n">fy</span><span class="p">,</span> <span class="n">ft</span> <span class="o">=</span> <span class="n">mc</span><span class="o">.</span><span class="n">get_grids</span><span class="p">(</span><span class="n">N_X</span><span class="p">,</span> <span class="n">N_Y</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">mc_i</span> <span class="o">=</span> <span class="n">mc</span><span class="o">.</span><span class="n">envelope_gabor</span><span class="p">(</span><span class="n">fx</span><span class="p">,</span> <span class="n">fy</span><span class="p">,</span> <span class="n">ft</span><span class="p">,</span> <span class="n">sf_0</span><span class="o">=</span><span class="mf">0.05</span><span class="p">,</span> <span class="n">B_sf</span><span class="o">=</span><span class="mf">0.025</span><span class="p">,</span> <span class="n">B_theta</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">inf</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">values</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">randn</span><span class="p">(</span><span class="n">N_X</span><span class="p">,</span> <span class="n">N_Y</span><span class="p">,</span> <span class="n">N_frame</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">chance</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">argsort</span><span class="p">(</span><span class="o">-</span><span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="n">values</span><span class="o">.</span><span class="n">ravel</span><span class="p">()))</span>
+</span></span><span class="line"><span class="cl"><span class="n">chance</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">chance</span><span class="p">,</span> <span class="n">dtype</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">float</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">chance</span> <span class="o">/=</span> <span class="n">chance</span><span class="o">.</span><span class="n">max</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="n">chance</span> <span class="o">=</span> <span class="n">chance</span><span class="o">.</span><span class="n">reshape</span><span class="p">((</span><span class="n">N_X</span><span class="p">,</span> <span class="n">N_Y</span><span class="p">,</span> <span class="n">N_frame</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">fig</span><span class="p">,</span> <span class="n">axs</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">N_sparse</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="n">fig_width</span><span class="p">,</span> <span class="n">fig_width</span><span class="o">/</span><span class="n">N_sparse</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="k">for</span> <span class="n">i_ax</span><span class="p">,</span> <span class="n">l0_norm</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">sparseness</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="n">threshold</span> <span class="o">=</span> <span class="mi">1</span> <span class="o">-</span> <span class="n">l0_norm</span>
+</span></span><span class="line"><span class="cl">    <span class="n">mask</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros_like</span><span class="p">(</span><span class="n">chance</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">mask</span><span class="p">[</span><span class="n">chance</span> <span class="o">&gt;</span> <span class="n">threshold</span><span class="p">]</span> <span class="o">=</span> <span class="mf">1.</span>
+</span></span><span class="line"><span class="cl">    <span class="n">im</span> <span class="o">=</span> <span class="mi">2</span><span class="o">*</span><span class="n">mc</span><span class="o">.</span><span class="n">rectif</span><span class="p">(</span><span class="n">mc</span><span class="o">.</span><span class="n">random_cloud</span><span class="p">(</span><span class="n">mc_i</span><span class="p">,</span> <span class="n">events</span><span class="o">=</span><span class="n">mask</span><span class="o">*</span><span class="n">values</span><span class="p">))</span><span class="o">-</span><span class="mi">1</span>
+</span></span><span class="line"><span class="cl">    <span class="n">axs</span><span class="p">[</span><span class="n">i_ax</span><span class="p">]</span><span class="o">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">im</span><span class="p">[:,</span> <span class="p">:,</span> <span class="mi">0</span><span class="p">],</span> <span class="n">vmin</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> <span class="n">vmax</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">cmap</span><span class="o">=</span><span class="n">plt</span><span class="o">.</span><span class="n">gray</span><span class="p">())</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">#axs[i_ax].text(9, 80, r&#39;$n=%.0f\%%$&#39; % (noise*100), color=&#39;white&#39;, fontsize=10)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">axs</span><span class="p">[</span><span class="n">i_ax</span><span class="p">]</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">40</span><span class="p">,</span> <span class="sa">r</span><span class="s1">&#39;$\epsilon=</span><span class="si">%.0e</span><span class="s1">$&#39;</span> <span class="o">%</span> <span class="n">l0_norm</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="s1">&#39;white&#39;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">axs</span><span class="p">[</span><span class="n">i_ax</span><span class="p">]</span><span class="o">.</span><span class="n">set_xticks</span><span class="p">([])</span>
+</span></span><span class="line"><span class="cl">    <span class="n">axs</span><span class="p">[</span><span class="n">i_ax</span><span class="p">]</span><span class="o">.</span><span class="n">set_yticks</span><span class="p">([])</span>
+</span></span><span class="line"><span class="cl"><span class="n">plt</span><span class="o">.</span><span class="n">tight_layout</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="n">fig</span><span class="o">.</span><span class="n">subplots_adjust</span><span class="p">(</span><span class="n">hspace</span> <span class="o">=</span> <span class="mf">.0</span><span class="p">,</span> <span class="n">wspace</span> <span class="o">=</span> <span class="mf">.0</span><span class="p">,</span> <span class="n">left</span><span class="o">=</span><span class="mf">0.0</span><span class="p">,</span> <span class="n">bottom</span><span class="o">=</span><span class="mf">0.</span><span class="p">,</span> <span class="n">right</span><span class="o">=</span><span class="mf">1.</span><span class="p">,</span> <span class="n">top</span><span class="o">=</span><span class="mf">1.</span><span class="p">)</span>
+</span></span></code></pre></div></div>
 
     
 
@@ -1197,6 +1196,90 @@ fig.subplots_adjust(hspace = .0, wspace = .0, left=0.0, bottom=0., right=1., top
 </div>
 
 
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/publication/ravello-16-droplets/&amp;text=Differential%20response%20of%20the%20retinal%20neural%20code%20with%20respect%20to%20the%20sparseness%20of%20natural%20images" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/publication/ravello-16-droplets/&amp;t=Differential%20response%20of%20the%20retinal%20neural%20code%20with%20respect%20to%20the%20sparseness%20of%20natural%20images" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Differential%20response%20of%20the%20retinal%20neural%20code%20with%20respect%20to%20the%20sparseness%20of%20natural%20images&amp;body=https://laurentperrinet.github.io/publication/ravello-16-droplets/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/publication/ravello-16-droplets/&amp;title=Differential%20response%20of%20the%20retinal%20neural%20code%20with%20respect%20to%20the%20sparseness%20of%20natural%20images" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Differential%20response%20of%20the%20retinal%20neural%20code%20with%20respect%20to%20the%20sparseness%20of%20natural%20images%20https://laurentperrinet.github.io/publication/ravello-16-droplets/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/publication/ravello-16-droplets/&amp;title=Differential%20response%20of%20the%20retinal%20neural%20code%20with%20respect%20to%20the%20sparseness%20of%20natural%20images" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
 
 
 
@@ -1469,10 +1552,6 @@ fig.subplots_adjust(hspace = .0, wspace = .0, left=0.0, bottom=0., right=1., top
     
     
       
-      
-        <script src="https://cdn.jsdelivr.net/gh/desandro/imagesloaded@v4.1.4/imagesloaded.pkgd.min.js" integrity="sha512-S5PZ9GxJZO16tT9r3WJp/Safn31eu8uWrzglMahDT4dsmgqWonRY9grk3j+3tfuPr9WJNsfooOR7Gi7HL5W2jw==" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/gh/metafizzy/isotope@v3.0.6/dist/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
-      
 
       
       
@@ -1562,7 +1641,7 @@ fig.subplots_adjust(hspace = .0, wspace = .0, left=0.0, bottom=0., right=1., top
       
     
     
-    <script src="/en/js/wowchemy.min.a2ed145159dd33ad55ff402163350b5d.js"></script>
+    <script src="/en/js/wowchemy.min.de33c90527762392d440555c36739dd9.js"></script>
 
     
     
