@@ -7196,7 +7196,107 @@ pour mettre en plein écran)
       <link>https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/</link>
       <pubDate>Fri, 24 Nov 2017 13:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/talk/2017-11-24-neurosciences-robotique/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;see a related work describing SDPC in: 
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/victor-boutin/&#34;&gt;Victor Boutin&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/angelo-franciosini/&#34;&gt;Angelo Franciosini&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frédéric Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/franck-ruffier/&#34;&gt;Franck Ruffier&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2021).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34;&gt;Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system&lt;/a&gt;.
+  &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1902.07651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/VictorBoutin/InteractionMap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1008629&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -8340,7 +8440,7 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description>&lt;p&gt;See &lt;a href=&#34;https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementray code&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;how-does-the-retina-respond-to-stimuli-with-different-sparseness&#34;&gt;How does the retina respond to stimuli with different sparseness?&lt;/h1&gt;
@@ -8703,7 +8803,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Biologically-inspired characterization of sparseness in natural images</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
       <description></description>
     </item>
@@ -8711,7 +8811,7 @@ France&lt;/a&gt; Phone : +33
     <item>
       <title>Operant reinforcement versus reward expectancy: effects on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-vss/</link>
-      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/damasse-16-vss/</guid>
       <description></description>
     </item>
@@ -9907,17 +10007,9 @@ Installation &lt;a href=&#34;http://ondesparalleles.org/projets/tropique-7/&#34;
     </item>
     
     <item>
-      <title>Motion-based prediction with neuromorphic hardware</title>
-      <link>https://laurentperrinet.github.io/talk/2015-11-05-chile/</link>
-      <pubDate>Thu, 05 Nov 2015 13:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2015-11-05-chile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
@@ -9952,7 +10044,7 @@ Installation &lt;a href=&#34;http://ondesparalleles.org/projets/tropique-7/&#34;
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -9960,8 +10052,16 @@ Installation &lt;a href=&#34;http://ondesparalleles.org/projets/tropique-7/&#34;
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion-based prediction with neuromorphic hardware</title>
+      <link>https://laurentperrinet.github.io/talk/2015-11-05-chile/</link>
+      <pubDate>Thu, 05 Nov 2015 13:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2015-11-05-chile/</guid>
       <description></description>
     </item>
     
@@ -10065,7 +10165,7 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; 
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -11498,7 +11598,7 @@ More complex parts of the brain are not required at this stage, contrary to what
     <item>
       <title>Motion-based prediction explains the role of tracking in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-jpp/</link>
-      <pubDate>Mon, 04 Nov 2013 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
@@ -15082,7 +15182,7 @@ The meeting organizers gratefully acknowledge the support of the European Union 
     <item>
       <title>Functional consequences of correlated excitatory and inhibitory conductances in cortical networks</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</link>
-      <pubDate>Fri, 04 Jun 2010 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Jun 2010 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</guid>
       <description>&lt;p&gt;
 
@@ -16655,7 +16755,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
       <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
-      <pubDate>Sat, 04 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
@@ -16823,7 +16923,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Functional properties of feed-forward inhibition</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
-      <pubDate>Sat, 04 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -16834,7 +16934,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Proceedings of the second french conference on Computational Neuroscience, Marseille</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</link>
-      <pubDate>Sat, 04 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</guid>
       <description></description>
     </item>
@@ -16862,7 +16962,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
-      <pubDate>Mon, 04 Feb 2008 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
       <description></description>
     </item>
@@ -17134,7 +17234,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Sun, 04 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>
@@ -17143,7 +17243,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Introduction to Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07-a/</link>
-      <pubDate>Sun, 04 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07-a/</guid>
       <description></description>
     </item>
@@ -17151,7 +17251,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07/</link>
-      <pubDate>Sun, 04 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07/</guid>
       <description></description>
     </item>
@@ -17200,7 +17300,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
-      <pubDate>Thu, 04 Jan 2007 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description>&lt;p&gt;
 
@@ -17607,7 +17707,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
       <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
-      <pubDate>Thu, 04 Aug 2005 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Aug 2005 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;relies on log-Gabor filters: 
@@ -17983,7 +18083,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Sat, 04 Sep 2004 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>&lt;p&gt;
 
@@ -18041,7 +18141,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Feature detection using spikes : the greedy approach</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
-      <pubDate>Sun, 04 Jul 2004 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jul 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
       <description></description>
     </item>
@@ -18049,7 +18149,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
-      <pubDate>Thu, 04 Mar 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Mar 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>
@@ -18057,7 +18157,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Finding Independent Components using spikes : a natural result of Hebbian learning in a sparse spike coding scheme</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04/</link>
-      <pubDate>Sun, 04 Jan 2004 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Jan 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04/</guid>
       <description></description>
     </item>
@@ -18108,7 +18208,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Coherence detection in a spiking neuron via Hebbian learning</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</link>
-      <pubDate>Tue, 04 Jun 2002 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2002 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</guid>
       <description>&lt;p&gt;
 
