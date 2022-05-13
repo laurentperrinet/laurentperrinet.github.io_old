@@ -36,10 +36,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure  id=&#34;figure-an-unmanned-aerial-vehicle-uav-flying-autonomously-in-a-cluttered-environment-would-require-the-agility-to-navigate-rapidly-by-detecting-as-fast-as-possible-potential-obstacles-as-represented-here-by-the-collision-zone-given-a-cruising-speed-associated-to-slow-or-fast-latencies-respectively-red-and-blue-shaded-areas-this-project-will-provide-with-a-novel-neuromorphic-architecture-designed-to-meet-these-requirements-thanks-to-an-event-based-two-way-processing&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.&#34; srcset=&#34;
-               /grant/anr-anr/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_11989bf1509db296ce4e56c0a5512eaf.webp 400w,
-               /grant/anr-anr/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_bd10ea7c74a93e97c1d5129c215dafeb.webp 760w,
+               /grant/anr-anr/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_657b0c754b407573e1049d7037c16eea.webp 400w,
+               /grant/anr-anr/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_fb169e833dd9f81df698491145be34a5.webp 760w,
                /grant/anr-anr/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/grant/anr-anr/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_11989bf1509db296ce4e56c0a5512eaf.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anr/agile_UAV_huaf778c76111bcc2e47c9f894afc4b558_318949_657b0c754b407573e1049d7037c16eea.webp&#34;
                width=&#34;760&#34;
                height=&#34;243&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -74,10 +74,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure  id=&#34;figure-a-miniature-event-based-atis-sensor-contrary-to-a-classical-frame-based-camera-for-which-a-full-dense-image-representation-is-given-at-discrete-regularly-spaced-timings-the-event-based-camera-provides-with-events-at-the-micro-second-resolution-these-are-sparse-as-they-represent-luminance-increments-or-decrements-on-and-off-events-respectively&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).&#34; srcset=&#34;
-               /grant/anr-anr/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_72244f8a28585f1ccab85885fec7300e.webp 400w,
-               /grant/anr-anr/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_18ec5d453856fc5dda035b77ef2a226c.webp 760w,
+               /grant/anr-anr/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_2ccd687c565a885d82b2a12c8160db62.webp 400w,
+               /grant/anr-anr/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_779343406fad87982e090f76896bba6b.webp 760w,
                /grant/anr-anr/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_72244f8a28585f1ccab85885fec7300e.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations_hue310d82cb803b114c601148df459c0f0_1644315_2ccd687c565a885d82b2a12c8160db62.webp&#34;
                width=&#34;760&#34;
                height=&#34;217&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -103,10 +103,10 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;figure  id=&#34;figure-our-system-is-divided-into-3-units-to-process-visual-inputs-atis-until-the-rotors-the-camera-processor-and-motor-units-each-represents-respectively-multi-channel-feature-maps-c_i-an-estimate-of-the-depth-of-field-p-and-a-navigation-map-for-instance-time-of-contacts-on-a-polar-map-m-compared-to-a-discrete-time-pipeline-we-will-design-an-integrated-back-to-back-event-driven-system-based-on-a-fast-two-way-processing-between-the-c-p-and-m-units-event-driven-feed-forward-and-feed-back-communications-are-denoted-respectively-in-yellow-black-and-red-notice-the-attention-module-a-from-p-to-c-and-the-feed-back-of-navigation-information-from-m-and-the-imu-to-p&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the ***C***amera, ***P***rocessor and ***M***otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the ***C***, ***P*** and ***M*** units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.&#34; srcset=&#34;
-               /grant/anr-anr/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_f200ed0437603f140c29fa06aa052552.webp 400w,
-               /grant/anr-anr/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_b8c0f7df6c48c1940e9a5c9a53765cfa.webp 760w,
+               /grant/anr-anr/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_6da12f1bc8cab3536fa8791a3754ab73.webp 400w,
+               /grant/anr-anr/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_62c8a8ac6cd9c304f47fc03f73b07f2c.webp 760w,
                /grant/anr-anr/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/grant/anr-anr/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_f200ed0437603f140c29fa06aa052552.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/grant/anr-anr/principe_agile_hu39db61294422958fdb81f905ce563f91_457308_6da12f1bc8cab3536fa8791a3754ab73.webp&#34;
                width=&#34;760&#34;
                height=&#34;226&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
