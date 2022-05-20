@@ -312,12 +312,78 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
     </item>
     
     <item>
+      <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
+      <pubDate>Tue, 13 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
+               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_b8f4e7734b5602e4497eb4a3777833f4.webp 400w,
+               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_d014901a6f51f21c95a03bad5293b471.webp 760w,
+               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_b8f4e7734b5602e4497eb4a3777833f4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;164&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-multi-scale-oriented-representation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*&#34;
+           src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
       <pubDate>Tue, 13 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Feature detection using spikes : the greedy approach</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
+      <pubDate>Tue, 13 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -452,75 +518,9 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
     </item>
     
     <item>
-      <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Mon, 13 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;header&#34; srcset=&#34;
-               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_b8f4e7734b5602e4497eb4a3777833f4.webp 400w,
-               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_d014901a6f51f21c95a03bad5293b471.webp 760w,
-               /publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/perrinet-03-ieee_hu80616274108ba9c24e9c1a4108d36cf7_39942_b8f4e7734b5602e4497eb4a3777833f4.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;164&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-multi-scale-oriented-representation&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*&#34;
-           src=&#34;https://laurentperrinet.github.io/publication/perrinet-03-ieee/v1_tiger.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Feature detection using spikes : the greedy approach</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
-      <pubDate>Tue, 13 Jul 2004 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
-      <pubDate>Sat, 13 Mar 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 Mar 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>
