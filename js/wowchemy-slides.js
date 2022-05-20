@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var slides = { theme: "white" };
+  var slides = { theme: "black" };
 
   // <stdin>
   var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath.MathJax3, RevealZoom];
