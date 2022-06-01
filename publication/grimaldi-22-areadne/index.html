@@ -64,10 +64,10 @@
   
     
   
-  <meta name="description" content="Experimental evidence suggests that activity in sensory cortices is sparse in that only few neurons out of a large pool that could respond to sensed stimuli, are active at a time. Generative learning models that aim to replicate sensory systems could deviate from sparse activity patterns when representing noisy signals. We ask: are there biologically plausible implementations that will maintain sparse activations for different levels of noise while representing the underlying signal? A family of generative algorithms modelling sensory systems represent a stimulus as a linear sum of an overcomplete dictionary of vectors with their corresponding coefficients taking the role of activations. Olshausen and Field [1] showed that a learning algorithm that is set to reconstruct natural images with sparse activations develops vectors with properties, found in the receptive fields of neurons in V1, i.e. they are localized, band-pass, and oriented." />
+  <meta name="description" content="The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neuronal code is essential in understanding information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neuronal models do not take advantage of this minute temporal dimension. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of neurons with hetero-synaptic delays. Indeed, the connectivity of the dendritic tree allows to discriminate between different temporal sequences, and we show that this can be formalized as a time-invariant logistic regression which can be trained using labelled data. We apply this model to solve the specific computer vision problem of motion detection and demonstrate its application to synthetic nature videos transformed into event streams similar to the output of event-based cameras. In particular, we quantify how its accuracy can vary with the total computational load. This end-to-end event-driven computational brick could help improve the performance of future spiking neural network (SNN) solutions currently used in neuromorphic chips." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/" />
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/" />
 
   
   
@@ -324,7 +324,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/" />
+  <link rel="canonical" href="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/" />
 
   
   
@@ -350,15 +350,15 @@
     <meta property="twitter:creator" content="@laurentperrinet" />
   
   <meta property="og:site_name" content="Novel visual computations" />
-  <meta property="og:url" content="https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/" />
-  <meta property="og:title" content="Which sparsity problem does the brain solve? | Novel visual computations" />
-  <meta property="og:description" content="Experimental evidence suggests that activity in sensory cortices is sparse in that only few neurons out of a large pool that could respond to sensed stimuli, are active at a time. Generative learning models that aim to replicate sensory systems could deviate from sparse activity patterns when representing noisy signals. We ask: are there biologically plausible implementations that will maintain sparse activations for different levels of noise while representing the underlying signal? A family of generative algorithms modelling sensory systems represent a stimulus as a linear sum of an overcomplete dictionary of vectors with their corresponding coefficients taking the role of activations. Olshausen and Field [1] showed that a learning algorithm that is set to reconstruct natural images with sparse activations develops vectors with properties, found in the receptive fields of neurons in V1, i.e. they are localized, band-pass, and oriented." /><meta property="og:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://laurentperrinet.github.io/publication/grimaldi-22-areadne/" />
+  <meta property="og:title" content="Learning hetero-synaptic delays of Spiking Neurons for motion detection | Novel visual computations" />
+  <meta property="og:description" content="The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neuronal code is essential in understanding information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neuronal models do not take advantage of this minute temporal dimension. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of neurons with hetero-synaptic delays. Indeed, the connectivity of the dendritic tree allows to discriminate between different temporal sequences, and we show that this can be formalized as a time-invariant logistic regression which can be trained using labelled data. We apply this model to solve the specific computer vision problem of motion detection and demonstrate its application to synthetic nature videos transformed into event streams similar to the output of event-based cameras. In particular, we quantify how its accuracy can vary with the total computational load. This end-to-end event-driven computational brick could help improve the performance of future spiking neural network (SNN) solutions currently used in neuromorphic chips." /><meta property="og:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-05-20T11:42:38&#43;00:00"
+        content="2022-05-20T11:42:36&#43;00:00"
       />
     
     <meta property="article:modified_time" content="2022-05-20T13:42:38&#43;02:00">
@@ -367,6 +367,45 @@
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://laurentperrinet.github.io/publication/grimaldi-22-areadne/"
+  },
+  "headline": "Learning hetero-synaptic delays of Spiking Neurons for motion detection",
+  
+  "datePublished": "2022-05-20T11:42:36Z",
+  "dateModified": "2022-05-20T13:42:38+02:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Antoine Grimaldi"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Novel visual computations",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neuronal code is essential in understanding information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neuronal models do not take advantage of this minute temporal dimension. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of neurons with hetero-synaptic delays. Indeed, the connectivity of the dendritic tree allows to discriminate between different temporal sequences, and we show that this can be formalized as a time-invariant logistic regression which can be trained using labelled data. We apply this model to solve the specific computer vision problem of motion detection and demonstrate its application to synthetic nature videos transformed into event streams similar to the output of event-based cameras. In particular, we quantify how its accuracy can vary with the total computational load. This end-to-end event-driven computational brick could help improve the performance of future spiking neural network (SNN) solutions currently used in neuromorphic chips."
+}
+</script>
 
   
 
@@ -374,15 +413,17 @@
 
   
 
+  
 
 
 
 
-  <title>Which sparsity problem does the brain solve? | Novel visual computations</title>
+
+  <title>Learning hetero-synaptic delays of Spiking Neurons for motion detection | Novel visual computations</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="3edba7a84131451aca0c6ce6eb2b1024" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f8f23c67b467d6677b1e1e896b6fdfb3" >
 
   
   
@@ -905,7 +946,16 @@
     
     
 
-    <article class="article">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
 
   
 
@@ -926,7 +976,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Which sparsity problem does the brain solve?</h1>
+  <h1>Learning hetero-synaptic delays of Spiking Neurons for motion detection</h1>
 
   
 
@@ -944,10 +994,8 @@
     
 
   <span >
-      <a href="/author/ilias-rentzeperis/">Ilias Rentzeperis</a></span>, <span >
-      <a href="/author/luca-calatroni/">Luca Calatroni</a></span>, <span >
-      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>, <span >
-      <a href="/author/dario-prand/">Dario Prand</a></span>
+      <a href="/author/antoine-grimaldi/">Antoine Grimaldi</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
   
@@ -957,10 +1005,8 @@
     
     
       
-          Last updated on
-      
     
-    May 20, 2022
+    June, 2022
   </span>
   
 
@@ -1001,7 +1047,7 @@
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/talk/2022-06-29-areadne-sparse/cite.bib">
+        data-filename="/publication/grimaldi-22-areadne/cite.bib">
   Cite
 </a>
 
@@ -1043,14 +1089,66 @@
 
   <div class="article-container">
 
-    <div class="article-style">
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neuronal code is essential in understanding information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neuronal models do not take advantage of this minute temporal dimension. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of neurons with hetero-synaptic delays. Indeed, the connectivity of the dendritic tree allows to discriminate between different temporal sequences, and we show that this can be formalized as a time-invariant logistic regression which can be trained using labelled data. We apply this model to solve the specific computer vision problem of motion detection and demonstrate its application to synthetic nature videos transformed into event streams similar to the output of event-based cameras. In particular, we quantify how its accuracy can vary with the total computational load. This end-to-end event-driven computational brick could help improve the performance of future spiking neural network (SNN) solutions currently used in neuromorphic chips.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Proceedings of AREADNE</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/efficient-coding/">efficient coding</a>
+  
+  <a class="badge badge-light" href="/tag/event-based-vision/">event-based vision</a>
+  
+  <a class="badge badge-light" href="/tag/homeostasis/">homeostasis</a>
+  
+  <a class="badge badge-light" href="/tag/neuromorphic-hardware/">neuromorphic hardware</a>
+  
+  <a class="badge badge-light" href="/tag/online-classification/">online classification</a>
+  
+</div>
 
 
 
@@ -1065,7 +1163,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/&amp;text=Which%20sparsity%20problem%20does%20the%20brain%20solve?" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/publication/grimaldi-22-areadne/&amp;text=Learning%20hetero-synaptic%20delays%20of%20Spiking%20Neurons%20for%20motion%20detection" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1078,7 +1176,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/&amp;t=Which%20sparsity%20problem%20does%20the%20brain%20solve?" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/publication/grimaldi-22-areadne/&amp;t=Learning%20hetero-synaptic%20delays%20of%20Spiking%20Neurons%20for%20motion%20detection" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1091,7 +1189,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Which%20sparsity%20problem%20does%20the%20brain%20solve?&amp;body=https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Learning%20hetero-synaptic%20delays%20of%20Spiking%20Neurons%20for%20motion%20detection&amp;body=https://laurentperrinet.github.io/publication/grimaldi-22-areadne/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1104,7 +1202,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/&amp;title=Which%20sparsity%20problem%20does%20the%20brain%20solve?" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/publication/grimaldi-22-areadne/&amp;title=Learning%20hetero-synaptic%20delays%20of%20Spiking%20Neurons%20for%20motion%20detection" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1117,7 +1215,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Which%20sparsity%20problem%20does%20the%20brain%20solve?%20https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Learning%20hetero-synaptic%20delays%20of%20Spiking%20Neurons%20for%20motion%20detection%20https://laurentperrinet.github.io/publication/grimaldi-22-areadne/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1130,7 +1228,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/&amp;title=Which%20sparsity%20problem%20does%20the%20brain%20solve?" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/publication/grimaldi-22-areadne/&amp;title=Learning%20hetero-synaptic%20delays%20of%20Spiking%20Neurons%20for%20motion%20detection" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1154,11 +1252,93 @@
 
 
 
-
   
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/antoine-grimaldi/"><img class="avatar mr-3 avatar-circle" src="/author/antoine-grimaldi/avatar_hu85406bb2d5f7db2dce1cab01b4e48063_27520_270x270_fill_q75_lanczos_center.jpg" alt="Antoine Grimaldi"></a>
     
 
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/antoine-grimaldi/">Antoine Grimaldi</a></h5>
+      <h6 class="card-subtitle">Phd candidate in Computational Neuroscience</h6>
+      <p class="card-text">During my PhD, I am focusing on Ultra-fast vision using Spiking Neural Networks.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/AntoineGrimaldi" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="http://antoinegrimaldi.fr/" target="_blank" rel="noopener">
+        <i class="fas fa-external-link-alt"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Antoine-Grimaldi-2" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/A_Grismaldi" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
 
+    </div>
+  </div>
 
 
   
@@ -1241,12 +1421,6 @@
 
 
   
-    
-
-
-
-
-  
 
 
 
@@ -1264,7 +1438,7 @@
 
 
   </div>
-</article>
+</div>
   </div>
 
   <div class="page-footer">
