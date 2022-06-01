@@ -6,260 +6,12 @@
       <atom:link href="https://laurentperrinet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Novel visual computations</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>Novel visual computations</title>
       <link>https://laurentperrinet.github.io/</link>
     </image>
-    
-    <item>
-      <title>Learning hetero-synaptic delays of Spiking Neurons for motion detection</title>
-      <link>https://laurentperrinet.github.io/talk/2022-06-29-areadne-heterosynaptic/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2022-06-29-areadne-heterosynaptic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ultra-rapid visual search in natural images using active deep learning</title>
-      <link>https://laurentperrinet.github.io/talk/2022-06-29-areadne-fast-and-curious/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2022-06-29-areadne-fast-and-curious/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Which sparsity problem does the brain solve?</title>
-      <link>https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2022-06-29-areadne-sparse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning hetero-synaptic delays of Spiking Neurons for motion detection</title>
-      <link>https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterosynaptic/</link>
-      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterosynaptic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retinotopic mapping improves the reliability of image classification</title>
-      <link>https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-retinotopic/</link>
-      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-retinotopic/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Follows a previous work 
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-albiges/&#34;&gt;Pierre Albigès&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2020).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34;&gt;A dual foveal-peripheral visual processing model implements efficient saccade selection&lt;/a&gt;.
-  &lt;em&gt;Journal of Vision&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Preprint
-&lt;/a&gt;
-
-
-
-
-  
-    
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/dauce-20/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/WhereIsMyMNIST&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Code
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1167/jov.20.8.22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Polychrony detection using heterosynaptic delays</title>
-      <link>https://laurentperrinet.github.io/talk/2022-05-19-centuri-day/</link>
-      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/talk/2022-05-19-centuri-day/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Follow this future presentations 
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2022).
-  &lt;a href=&#34;https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterosynaptic/&#34;&gt;Learning hetero-synaptic delays of Spiking Neurons for motion detection&lt;/a&gt;.
-  &lt;em&gt;NeuroVision Workshop in conjunction with CVPR 2022&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/talk/2022-06-19-neuro-vision-heterosynaptic/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://sites.google.com/uci.edu/neurovision2022/schedule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    URL&lt;/a&gt;
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-
- 
-
-
-
-
-
-
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Glad to meet the &lt;a href=&#34;https://twitter.com/centuri_ls?ref_src=twsrc%5Etfw&#34;&gt;@centuri_ls&lt;/a&gt; crowd at the &lt;a href=&#34;https://twitter.com/hashtag/CENTURIday?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CENTURIday&lt;/a&gt; ! With &lt;a href=&#34;https://twitter.com/A_Grismaldi?ref_src=twsrc%5Etfw&#34;&gt;@A_Grismaldi&lt;/a&gt; &lt;a href=&#34;https://t.co/r4633Vzg4F&#34;&gt;https://t.co/r4633Vzg4F&lt;/a&gt; &lt;a href=&#34;https://t.co/GbOGKhB6zA&#34;&gt;https://t.co/GbOGKhB6zA&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1527604282043813888?ref_src=twsrc%5Etfw&#34;&gt;May 20, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-</description>
-    </item>
     
     <item>
       <title>Ultra-Fast Image Categorization in Vivo and in Silico</title>
@@ -275,70 +27,6 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 
 
 
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2021).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/&#34;&gt;Ultra-fast categorization of images containing animals in vivo and in computo&lt;/a&gt;.
-  &lt;em&gt;Champalimaud Research Symposium (CRS21)&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/jeremie-21-crs.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/jeremie-21-crs/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
 
 
 &lt;/li&gt;
@@ -9717,7 +9405,7 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
     <item>
       <title>Differential response of the retinal neural code with respect to the sparseness of natural images</title>
       <link>https://laurentperrinet.github.io/publication/ravello-16-droplets/</link>
-      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description>&lt;p&gt;See &lt;a href=&#34;https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementray code&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;how-does-the-retina-respond-to-stimuli-with-different-sparseness&#34;&gt;How does the retina respond to stimuli with different sparseness?&lt;/h1&gt;
@@ -9965,14 +9653,6 @@ France&lt;/a&gt; Phone : +33
     </item>
     
     <item>
-      <title>Biologically-inspired characterization of sparseness in natural images</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
-      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Eye movements as a model for active inference</title>
       <link>https://laurentperrinet.github.io/talk/2016-10-13-law/</link>
       <pubDate>Thu, 13 Oct 2016 10:00:00 +0000</pubDate>
@@ -10086,9 +9766,17 @@ France&lt;/a&gt; Phone : +33
     </item>
     
     <item>
+      <title>Biologically-inspired characterization of sparseness in natural images</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-16-euvip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Operant reinforcement versus reward expectancy: effects on anticipatory eye movements</title>
       <link>https://laurentperrinet.github.io/publication/damasse-16-vss/</link>
-      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/damasse-16-vss/</guid>
       <description></description>
     </item>
@@ -12435,7 +12123,7 @@ Accompagnement, production déléguée : bOssa&lt;/p&gt;
     <item>
       <title>Introduction</title>
       <link>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</link>
-      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cristobal-perrinet-keil-15-bicv-chap-1/</guid>
       <description>
 
@@ -12470,7 +12158,7 @@ Accompagnement, production déléguée : bOssa&lt;/p&gt;
     <item>
       <title>Sparse Models for Computer Vision</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</link>
-      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-bicv/</guid>
       <description></description>
     </item>
@@ -12478,7 +12166,7 @@ Accompagnement, production déléguée : bOssa&lt;/p&gt;
     <item>
       <title>Visual motion processing and human tracking behavior</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</link>
-      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-15-bicv/</guid>
       <description></description>
     </item>
@@ -12591,7 +12279,7 @@ See the &lt;a href=&#34;http://bicv.github.io/toc/&#34; target=&#34;_blank&#34; 
     <item>
       <title>Sparse Coding Of Natural Images Using A Prior On Edge Co-Occurences</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</link>
-      <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-15-eusipco/</guid>
       <description></description>
     </item>
@@ -14142,7 +13830,7 @@ More complex parts of the brain are not required at this stage, contrary to what
     <item>
       <title>Motion-based prediction explains the role of tracking in motion extrapolation</title>
       <link>https://laurentperrinet.github.io/publication/khoei-13-jpp/</link>
-      <pubDate>Wed, 20 Nov 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
@@ -17774,7 +17462,7 @@ The meeting organizers gratefully acknowledge the support of the European Union 
     <item>
       <title>Functional consequences of correlated excitatory and inhibitory conductances in cortical networks</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</link>
-      <pubDate>Sun, 20 Jun 2010 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Jun 2010 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-10-jcns/</guid>
       <description>&lt;p&gt;
 
@@ -19065,7 +18753,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/li&gt
     <item>
       <title>Analyzing cortical network dynamics with respect to different connectivity assumptions</title>
       <link>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</link>
-      <pubDate>Mon, 20 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/voges-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
@@ -19233,7 +18921,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/li&gt
     <item>
       <title>Functional properties of feed-forward inhibition</title>
       <link>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</link>
-      <pubDate>Mon, 20 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kremkow-08-neurocomp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see this subsequent paper in the &lt;a href=&#34;https://laurentperrinet.github.io/publication/kremkow-10-jcns/&#34;&gt;Journal of Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
@@ -19244,7 +18932,7 @@ asynchrone et épars dans le traitement visuel ultra-rapide&lt;/em&gt;&lt;/li&gt
     <item>
       <title>Proceedings of the second french conference on Computational Neuroscience, Marseille</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</link>
-      <pubDate>Mon, 20 Oct 2008 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-08-neurocomp/</guid>
       <description></description>
     </item>
@@ -19562,7 +19250,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Dynamics of distributed 1D and 2D motion representations for short-latency ocular following</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-08/</link>
-      <pubDate>Wed, 20 Feb 2008 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Feb 2008 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-08/</guid>
       <description></description>
     </item>
@@ -19834,7 +19522,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Dynamical Neural Networks: modeling low-level vision at short latencies</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-07/</link>
-      <pubDate>Tue, 20 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-07/</guid>
       <description>&lt;p&gt;Dynamical Neural Networks (DyNNs) are a class of models for networks of neurons where particular focus is put on the role of time in the emergence of functional computational properties. The definition and study of these models involves the cooperation of a large range of scientific fields from statistical physics, probabilistic modelling, neuroscience and psychology to control theory. It focuses on the mechanisms that may be relevant for studying cognition by hypothesizing that information is distributed in the activity of the neurons in the system and that the timing helps in maintaining this information to lastly form decisions or actions. The system responds at best to the constraints of the outside world and learning strategies tune this internal dynamics to achieve optimal performance.&lt;/p&gt;
 </description>
@@ -19843,7 +19531,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Introduction to Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07-a/</link>
-      <pubDate>Tue, 20 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07-a/</guid>
       <description></description>
     </item>
@@ -19851,7 +19539,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Topics in Dynamical Neural Networks: From Large Scale Neural Networks to Motor Control and Vision</title>
       <link>https://laurentperrinet.github.io/publication/cessac-07/</link>
-      <pubDate>Tue, 20 Mar 2007 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Mar 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/cessac-07/</guid>
       <description></description>
     </item>
@@ -19859,7 +19547,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Bayesian modeling of dynamic motion integration</title>
       <link>https://laurentperrinet.github.io/publication/montagnini-07/</link>
-      <pubDate>Sat, 20 Jan 2007 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Jan 2007 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/montagnini-07/</guid>
       <description>&lt;p&gt;
 
@@ -20307,7 +19995,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Modeling of simple cells through a sparse overcomplete gabor wavelet representation based on local inhibition and facilitation</title>
       <link>https://laurentperrinet.github.io/publication/redondo-05/</link>
-      <pubDate>Sat, 20 Aug 2005 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Aug 2005 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/redondo-05/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;relies on log-Gabor filters: 
@@ -20683,7 +20371,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Coding static natural images using spiking event times: do neurons cooperate?</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</link>
-      <pubDate>Mon, 20 Sep 2004 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Sep 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-03-ieee/</guid>
       <description>&lt;p&gt;
 
@@ -20741,7 +20429,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Feature detection using spikes : the greedy approach</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</link>
-      <pubDate>Tue, 20 Jul 2004 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Jul 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04-tauc/</guid>
       <description></description>
     </item>
@@ -20749,7 +20437,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Sparse spike coding in an asynchronous feed-forward multi-layer neural network using matching pursuit</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</link>
-      <pubDate>Sat, 20 Mar 2004 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Mar 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-sparse/</guid>
       <description></description>
     </item>
@@ -20757,7 +20445,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Finding Independent Components using spikes : a natural result of Hebbian learning in a sparse spike coding scheme</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-04/</link>
-      <pubDate>Tue, 20 Jan 2004 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Jan 2004 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-04/</guid>
       <description></description>
     </item>
@@ -20808,7 +20496,7 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     <item>
       <title>Coherence detection in a spiking neuron via Hebbian learning</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</link>
-      <pubDate>Thu, 20 Jun 2002 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jun 2002 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/perrinet-02-stdp/</guid>
       <description>&lt;p&gt;
 
