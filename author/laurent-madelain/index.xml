@@ -5,13 +5,37 @@
     <link>https://laurentperrinet.github.io/author/laurent-madelain/</link>
       <atom:link href="https://laurentperrinet.github.io/author/laurent-madelain/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent Madelain</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/laurent-madelain/avatar_hu421c3ace755d2d1853ec11ea5cf6a0c3_58272_270x270_fill_lanczos_center_3.png</url>
       <title>Laurent Madelain</title>
       <link>https://laurentperrinet.github.io/author/laurent-madelain/</link>
     </image>
+    
+    <item>
+      <title>ANR ACES (2021/2026)</title>
+      <link>https://laurentperrinet.github.io/grant/anr-aces/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/grant/anr-aces/</guid>
+      <description>&lt;p&gt;Contextual motor adaptation is the ability to produce different motor responses depending on different contingencies signaled by specific cues or contexts. This requires to learn the relation between antecedent stimuli, that signal the future state of the environment, motor responses, and outcomes. A wealth of research have demonstrated that motor systems such as the saccadic or the pursuit eye movement system may simultaneously adapt in two opposite directions (for instance increasing and decreasing the saccade amplitudes) when a context, such as the orbital position of the eye before the movement, signals different contingencies for each response.&lt;/p&gt;
+&lt;p&gt;However, it has also been repeatedly reported that some cues, such as the target color or its shape, do not come to control the adaptation of the motor response. These observations remain unexplained and we lack adequate theoretical concepts to account for them: any stimulus, or context, that is perfectly correlated with the experimental manipulation should, in theory, induce contextual adaptation as it is conventionally thought that outcome predictability is the main factor controlling contextual learning. This has been a particularly vexing problem for the past 25 years as motor adaptation has become one of the main experimental model to study learning in humans.&lt;/p&gt;
+&lt;p&gt;To solve this problem, the ACEs project relies on a general conceptual framework that elaborates on the active-inference view as well as recent proposals regarding the relation between value-based decision making and attention. Our conceptual model is grounded on the notion that, at each moment, several hypotheses regarding credit assignment (what causes what?) are competing to produce a behavioral policy. The inputs are categorized, somehow arbitrarily, as internal status, prior knowledge and sensory inputs. Sensory inputs might be viewed as affecting the hypothesis space while prior knowledge and internal status would provide bias in favor of various credit assignment hypothesis. Competition in the hypothesis space, relying on Bayesian inference, determines a unique motor response. Because out of all the different credit assignment hypotheses only one will prevail and determine the actual behavioral policy, the influence of the inputs on behavior are limited by their specific contribution to the dominating hypothesis, i.e. their weight.&lt;/p&gt;
+&lt;h2 id=&#34;fiche-didentité&#34;&gt;Fiche d&amp;rsquo;identité&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Acronyme : ACES (ANR-21-CE28-0013)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Title : Assignment of credit and constraints on eye movement learning&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Coordinateur Scientifique : Laurent Madelain (ScaLab)&lt;/li&gt;
+&lt;li&gt;Responsable Scientifique local : Anna Montagnini (UMR7289)&lt;/li&gt;
+&lt;li&gt;Durée: 4 ans, à partir du 1er mars 2021 - 1er décembre 2024&lt;/li&gt;
+&lt;li&gt;Budget total: 435 k€&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anr.fr/Projet-ANR-21-CE28-0013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://anr.fr/Projet-ANR-21-CE28-0013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This work was supported by ANR project ANR-21-CE28-0013 &amp;ldquo;ANR ACES&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Reinforcement effects in anticipatory smooth eye movements</title>

@@ -5,8 +5,7 @@
     <link>https://laurentperrinet.github.io/author/anna-montagnini/</link>
       <atom:link href="https://laurentperrinet.github.io/author/anna-montagnini/index.xml" rel="self" type="application/rss+xml" />
     <description>Anna Montagnini</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. 
-This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/anna-montagnini/avatar_hub896de861e914f410b9e146cfca223b5_17258_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Anna Montagnini</title>
@@ -20,7 +19,7 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
       <guid>https://laurentperrinet.github.io/grant/anr-aces/</guid>
       <description>&lt;p&gt;Contextual motor adaptation is the ability to produce different motor responses depending on different contingencies signaled by specific cues or contexts. This requires to learn the relation between antecedent stimuli, that signal the future state of the environment, motor responses, and outcomes. A wealth of research have demonstrated that motor systems such as the saccadic or the pursuit eye movement system may simultaneously adapt in two opposite directions (for instance increasing and decreasing the saccade amplitudes) when a context, such as the orbital position of the eye before the movement, signals different contingencies for each response.&lt;/p&gt;
 &lt;p&gt;However, it has also been repeatedly reported that some cues, such as the target color or its shape, do not come to control the adaptation of the motor response. These observations remain unexplained and we lack adequate theoretical concepts to account for them: any stimulus, or context, that is perfectly correlated with the experimental manipulation should, in theory, induce contextual adaptation as it is conventionally thought that outcome predictability is the main factor controlling contextual learning. This has been a particularly vexing problem for the past 25 years as motor adaptation has become one of the main experimental model to study learning in humans.&lt;/p&gt;
-&lt;p&gt;To solve this problem, the ACEs project relies on a general conceptual framework that elaborates on the active-inference view (REF) as well as recent proposals regarding the relation between value-based decision making and attention. Our conceptual model is grounded on the notion that, at each moment, several hypotheses regarding credit assignment (what causes what?) are competing to produce a behavioral policy. The inputs are categorized, somehow arbitrarily, as internal status, prior knowledge and sensory inputs. Sensory inputs might be viewed as affecting the hypothesis space while prior knowledge and internal status would provide bias in favor of various credit assignment hypothesis. Competition in the hypothesis space, relying on Bayesian inference, determines a unique motor response. Because out of all the different credit assignment hypotheses only one will prevail and determine the actual behavioral policy, the influence of the inputs on behavior are limited by their specific contribution to the dominating hypothesis, i.e. their weight.&lt;/p&gt;
+&lt;p&gt;To solve this problem, the ACEs project relies on a general conceptual framework that elaborates on the active-inference view as well as recent proposals regarding the relation between value-based decision making and attention. Our conceptual model is grounded on the notion that, at each moment, several hypotheses regarding credit assignment (what causes what?) are competing to produce a behavioral policy. The inputs are categorized, somehow arbitrarily, as internal status, prior knowledge and sensory inputs. Sensory inputs might be viewed as affecting the hypothesis space while prior knowledge and internal status would provide bias in favor of various credit assignment hypothesis. Competition in the hypothesis space, relying on Bayesian inference, determines a unique motor response. Because out of all the different credit assignment hypotheses only one will prevail and determine the actual behavioral policy, the influence of the inputs on behavior are limited by their specific contribution to the dominating hypothesis, i.e. their weight.&lt;/p&gt;
 &lt;h2 id=&#34;fiche-didentité&#34;&gt;Fiche d&amp;rsquo;identité&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Acronyme : ACES (ANR-21-CE28-0013)&lt;/li&gt;
@@ -32,8 +31,9 @@ This work is licensed under a Creative Commons Attribution-Noncommercial-Share A
 &lt;li&gt;&lt;a href=&#34;https://anr.fr/Projet-ANR-21-CE28-0013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://anr.fr/Projet-ANR-21-CE28-0013&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;This work was supported by ANR project ANR-21-CE28-0013 &amp;quot;ANR ACES&amp;quot;.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This work was supported by ANR project ANR-21-CE28-0013 &amp;ldquo;ANR ACES&amp;rdquo;.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -134,7 +134,7 @@ These theoretical and experimental results show that in this realistic situation
 &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the &lt;a href=&#34;https://github.com/chloepasturel/AnticipatorySPEM/blob/master/2020-03_video-abstract/2020-03-24_video-abstract.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating the video abstract)&lt;/li&gt;
 &lt;li&gt;Notre papier avec Chloé Pasturel et @MontagniniAnna  figure dans les &lt;a href=&#34;https://indd.adobe.com/view/ea980f21-e298-43e8-abd7-fff6909d6755&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;faits marquants 2020 de la Société des Neurosciences&lt;/a&gt;! Voir aussi  &lt;a href=&#34;https://lejournal.cnrs.fr/nos-blogs/aux-frontieres-du-cerveau/les-faits-marquants-2020-de-la-societe-de-neurosciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lejournal.cnrs.fr/nos-blogs/aux-frontieres-du-cerveau/les-faits-marquants-2020-de-la-societe-de-neurosciences&lt;/a&gt; :
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;Notre papier avec Chloé Pasturel et &lt;a href=&#34;https://twitter.com/MontagniniAnna?ref_src=twsrc%5Etfw&#34;&gt;@MontagniniAnna&lt;/a&gt;  figure dans les faits marquants 2020 de la Société des Neurosciences! &lt;a href=&#34;https://t.co/w825oTz1o5&#34;&gt;https://t.co/w825oTz1o5&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/neuroscience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuroscience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/actu?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#actu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/sciences?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#sciences&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/SocNeuro_Tweets?ref_src=twsrc%5Etfw&#34;&gt;@SocNeuro_Tweets&lt;/a&gt;&lt;a href=&#34;https://twitter.com/CNRS?ref_src=twsrc%5Etfw&#34;&gt;@CNRS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://t.co/KeKh5MNWu2&#34;&gt;https://t.co/KeKh5MNWu2&lt;/a&gt; &lt;a href=&#34;https://t.co/eojTqsp6gD&#34;&gt;https://t.co/eojTqsp6gD&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1371420462056620036?ref_src=twsrc%5Etfw&#34;&gt;March 15, 2021&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+ &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -907,182 +907,182 @@ These theoretical and experimental results show that in this realistic situation
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on motion extrapolation: 
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2013).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
-  &lt;em&gt;Journal of Physiology-Paris&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2013).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/&#34;&gt;Motion-based prediction explains the role of tracking in motion extrapolation&lt;/a&gt;.
+   &lt;em&gt;Journal of Physiology-Paris&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-13-jpp/khoei-13-jpp.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/khoei-13-jpp/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1016/j.jphysparis.2013.08.001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2017).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
-  &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Preprint
-&lt;/a&gt;
-
-
-
-
-  
-    
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Code
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/mina-a-khoei/&#34;&gt;Mina A Khoei&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/guillaume-s-masson/&#34;&gt;Guillaume S Masson&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2017).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34;&gt;The flash-lag effect as a motion-based predictive shift&lt;/a&gt;.
+   &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01771125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Preprint
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+   
+     
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/khoei-masson-perrinet-17/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Code
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1371/journal.pcbi.1005068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
