@@ -1090,6 +1090,29 @@ $$&lt;/p&gt;
       Scatter of ON versus OFF weights.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;frugal-computing&#34;&gt;Frugal computing&lt;/h2&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-stable-accuracy-while-pruning-99-weights&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/accuracy.png&#34; alt=&#34;Stable accuracy while pruning ~99% weights.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Stable accuracy while pruning ~99% weights.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;Ask info @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;More info @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web-site&lt;/a&gt;&lt;/p&gt;
