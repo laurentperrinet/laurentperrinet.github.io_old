@@ -5,12 +5,23 @@
     <link>https://laurentperrinet.github.io/</link>
       <atom:link href="https://laurentperrinet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Novel visual computations</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>Novel visual computations</title>
       <link>https://laurentperrinet.github.io/</link>
     </image>
+    
+    <item>
+      <title>Learning hetero-synaptic delays of spiking neurons for motion detection</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-22-icip/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-22-icip/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;to be presented at &lt;a href=&#34;https://2022.ieeeicip.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIP 2022&lt;/a&gt; 16-19 October 2022 in Bordeaux, France&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning hetero-synaptic delays of Spiking Neurons for motion detection</title>
@@ -41,7 +52,102 @@
       <link>https://laurentperrinet.github.io/publication/ladret-22-areadne/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ladret-22-areadne/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;This poster is presented in the following preprint (in submission)  
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nelson-cortes/&#34;&gt;Nelson Cortes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/lamyae-ikan/&#34;&gt;Lamyae Ikan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frederic Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/christian-casanova/&#34;&gt;Christian Casanova&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2022).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-22/&#34;&gt;Dynamical processing of orientation precision in the primary visual cortex&lt;/a&gt;.
+  &lt;em&gt;bioRxiv&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-22/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/ladret-22/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1101/2021.03.30.437692&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +163,288 @@
       <link>https://laurentperrinet.github.io/publication/jeremie-22-areadne/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/jeremie-22-areadne/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This work extends to natural scenes a previous work on visual search on a simplified task formulated in  
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-albiges/&#34;&gt;Pierre Albigès&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2020).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34;&gt;A dual foveal-peripheral visual processing model implements efficient saccade selection&lt;/a&gt;.
+  &lt;em&gt;Journal of Vision&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+    
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/dauce-20/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/WhereIsMyMNIST&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Code
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1167/jov.20.8.22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is based on a first work on transfer learning and its application to a natural task : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-ultra-fast-cat/&#34;&gt;Ultra-Fast Image Categorization in Vivo and in Silico&lt;/a&gt;.
+   &lt;em&gt;arXiv:2205.03635 [cs, q-bio]&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://arxiv.org/abs/2205.03635&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Preprint
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+   
+     
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://arxiv.org/abs/2205.03635&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/jeremie-22-ultra-fast-cat/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;in particular, we found retinotopic mapping to be adapted to that extension : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-retinotopic/&#34;&gt;Retinotopic mapping improves the reliability of image classification&lt;/a&gt;.
+   &lt;em&gt;NeuroVision Workshop in conjunction with CVPR 2022&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-retinotopic/2022-06-19-neuro-vision-retinotopic.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/talk/2022-06-19-neuro-vision-retinotopic/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+     
+   
+   
+   
+   
+   
+     
+   
+   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://sites.google.com/uci.edu/neurovision2022/schedule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+     URL&lt;/a&gt;
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -496,6 +883,14 @@
     </item>
     
     <item>
+      <title>A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation  and Its Spatial Frequency Tuning</title>
+      <link>https://laurentperrinet.github.io/publication/barthelemy-22/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/barthelemy-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Polychrony detection using heterosynaptic delays</title>
       <link>https://laurentperrinet.github.io/talk/2022-05-19-centuri-day/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
@@ -679,6 +1074,96 @@
  
  
  
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;li&gt;see an extension to visual search in: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/&#34;&gt;Ultra-rapid visual search in natural images using active deep learning&lt;/a&gt;.
+   &lt;em&gt;Proceedings of AREADNE&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/jeremie-22-areadne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/jeremie-22-areadne/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+     
+   
+   
+   
+   
+   
+     
+   
+   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://areadne.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+     URL&lt;/a&gt;
  
  &lt;/p&gt;
  
@@ -1532,6 +2017,96 @@ In this mini-symposium we aim to gather together experts working in the field of
  
  
  
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;li&gt;see an extension to visual search in: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/&#34;&gt;Ultra-rapid visual search in natural images using active deep learning&lt;/a&gt;.
+   &lt;em&gt;Proceedings of AREADNE&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/jeremie-22-areadne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/jeremie-22-areadne/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+     
+   
+   
+   
+   
+   
+     
+   
+   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://areadne.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+     URL&lt;/a&gt;
  
  &lt;/p&gt;
  
@@ -6149,26 +6724,26 @@ The generative model enables us to robustly detect behavioral modifications as s
 &lt;li&gt;&lt;a href=&#34;http://www4.cnrs-dir.fr/insb/recherche/parutions/articles2019/l-perrinet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Press release&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;dès-la-rétine-le-système-visuel-préfère-des-images-naturelles&#34;&gt;Dès la rétine, le système visuel préfère des images naturelles&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Dans la rétine, au premier étage du traitement de l&amp;rsquo;image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l&amp;rsquo;image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l&amp;rsquo;utilisation d&amp;rsquo;un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.&lt;/em&gt;
+&lt;p&gt;&lt;em&gt;Dans la rétine, au premier étage du traitement de l&amp;rsquo;image visuelle, on peut obtenir des représentations extrêmement fines. Une collaboration entre des chercheurs français et chiliens a permis de mettre en évidence que, dans la rétine de rongeurs, une représentation de la vitesse de l&amp;rsquo;image visuelle est précisément codée. Dans cette collaboration pluridisciplinaire, l&amp;rsquo;utilisation d&amp;rsquo;un modèle du fonctionnement de la rétine a permis de générer un nouveau type de stimuli visuels qui a révélé des résultats expérimentaux surprenants.&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;Travail collaboratif et multi-disciplinaire entre &lt;a href=&#34;https://twitter.com/cesarravello?ref_src=twsrc%5Etfw&#34;&gt;@cesarravello&lt;/a&gt; &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; María José Escobar et &lt;a href=&#34;https://twitter.com/APalacio_s?ref_src=twsrc%5Etfw&#34;&gt;@APalacio_s&lt;/a&gt; librement disponible sur &lt;a href=&#34;https://twitter.com/SciReports?ref_src=twsrc%5Etfw&#34;&gt;@SciReports&lt;/a&gt; - merci à  l&amp;#39;&lt;a href=&#34;https://twitter.com/AgenceRecherche?ref_src=twsrc%5Etfw&#34;&gt;@AgenceRecherche&lt;/a&gt; pour l&amp;#39;aide financière et à &lt;a href=&#34;https://twitter.com/CNRS?ref_src=twsrc%5Etfw&#34;&gt;@CNRS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CNRS_dr12?ref_src=twsrc%5Etfw&#34;&gt;@CNRS_dr12&lt;/a&gt; + &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; pour l&amp;#39;&lt;a href=&#34;https://twitter.com/hashtag/InstitutDeNeurosciencesDeLaTimone?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#InstitutDeNeurosciencesDeLaTimone&lt;/a&gt; &lt;a href=&#34;https://t.co/YixRfpCrT3&#34;&gt;https://t.co/YixRfpCrT3&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1092139540788244480?ref_src=twsrc%5Etfw&#34;&gt;February 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-La rétine est la première étape du traitement visuel, aux capacités étonnantes. À la différence d&amp;rsquo;un simple capteur comme ceux qu’on trouve dans les appareils photographiques numériques, ce mince tissu neuronal est un système complexe et encore largement méconnu. Une meilleure connaissance de cette structure est essentielle pour la construction de capteurs du futur efficaces et économes -par exemple ceux qui équiperont les futures voitures autonomes- mais aussi pour mieux comprendre des pathologies comme la Déficience Maculaire Liée à l&amp;rsquo;Age (DMLA). Une des facettes méconnues de la rétine est sa capacité à détecter des mouvements et cet article permet de mieux comprendre une partie des mécanismes en jeu.
+&lt;p&gt;La rétine est la première étape du traitement visuel, aux capacités étonnantes. À la différence d&amp;rsquo;un simple capteur comme ceux qu’on trouve dans les appareils photographiques numériques, ce mince tissu neuronal est un système complexe et encore largement méconnu. Une meilleure connaissance de cette structure est essentielle pour la construction de capteurs du futur efficaces et économes -par exemple ceux qui équiperont les futures voitures autonomes- mais aussi pour mieux comprendre des pathologies comme la Déficience Maculaire Liée à l&amp;rsquo;Age (DMLA). Une des facettes méconnues de la rétine est sa capacité à détecter des mouvements et cet article permet de mieux comprendre une partie des mécanismes en jeu.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New study on speed selectivity in the &lt;a href=&#34;https://twitter.com/hashtag/retina?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#retina&lt;/a&gt; showing that a majority of neurons prefer natural-like stimuli. Collaborative and multi-disciplinary work with &lt;a href=&#34;https://twitter.com/cesarravello?ref_src=twsrc%5Etfw&#34;&gt;@cesarravello&lt;/a&gt; &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt; María José Escobar and &lt;a href=&#34;https://twitter.com/APalacio_s?ref_src=twsrc%5Etfw&#34;&gt;@APalacio_s&lt;/a&gt; available with &lt;a href=&#34;https://twitter.com/SciReports?ref_src=twsrc%5Etfw&#34;&gt;@SciReports&lt;/a&gt; at &lt;a href=&#34;https://t.co/Vb7GoRxjoT&#34;&gt;https://t.co/Vb7GoRxjoT&lt;/a&gt;&lt;/p&gt;&amp;mdash; 👉🏼Adrian Palacios (@APalacio_s) &lt;a href=&#34;https://twitter.com/APalacio_s/status/1092200890377879552?ref_src=twsrc%5Etfw&#34;&gt;February 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Retinal cell preference for natural-like stimuli. Very elegant work by &lt;a href=&#34;https://twitter.com/APalacio_s?ref_src=twsrc%5Etfw&#34;&gt;@APalacio_s&lt;/a&gt; et al. &lt;a href=&#34;https://twitter.com/hashtag/retina?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#retina&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuroscience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuroscience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/decoding?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#decoding&lt;/a&gt; &lt;a href=&#34;https://t.co/3xNWaZd5x6&#34;&gt;https://t.co/3xNWaZd5x6&lt;/a&gt;&lt;/p&gt;&amp;mdash; Andres Canales-Johnson (@canalesjohnson) &lt;a href=&#34;https://twitter.com/canalesjohnson/status/1092211339311923201?ref_src=twsrc%5Etfw&#34;&gt;February 4, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-Conciliant modélisation et neurophysiologie, cette étude a permis de faire des prédictions sur le traitement de l&amp;rsquo;information rétinienne et en particulier de générer des textures synthétiques qui sont optimales pour ces modèles (voir film). Les enregistrements effectués sur la rétine de rongeurs diurnes Octodon degus ont ensuite permis de mesurer la sélectivité à la vitesse mais aussi de valider une nouvelle fois ces modèles en reconstruisant l&amp;rsquo;image d&amp;rsquo;entrée à partir de l&amp;rsquo;activité neurale.
-Le résultat le plus inattendu est la différence de sélectivité de certaines classes de neurones rétiniens par rapport à la complexité du stimulus présenté. En effet, la représentation de la vitesse est relativement peu précise si on utilise des réseaux de lignes (&amp;ldquo;Grating&amp;rdquo;), comme cela est d&amp;rsquo;habitude réalisé dans la plupart des expériences neurophysiologiques. Au contraire, elle devient plus précise si on utilise comme signaux visuels des textures artificielles ressemblant à des nuages en mouvement (&amp;ldquo;MC Narrow&amp;rdquo;). En particulier, plus cette texture est complexe, plus la représentation est précise (&amp;ldquo;MC Broad&amp;rdquo;).
+&lt;p&gt;Conciliant modélisation et neurophysiologie, cette étude a permis de faire des prédictions sur le traitement de l&amp;rsquo;information rétinienne et en particulier de générer des textures synthétiques qui sont optimales pour ces modèles (voir film). Les enregistrements effectués sur la rétine de rongeurs diurnes Octodon degus ont ensuite permis de mesurer la sélectivité à la vitesse mais aussi de valider une nouvelle fois ces modèles en reconstruisant l&amp;rsquo;image d&amp;rsquo;entrée à partir de l&amp;rsquo;activité neurale.
+Le résultat le plus inattendu est la différence de sélectivité de certaines classes de neurones rétiniens par rapport à la complexité du stimulus présenté. En effet, la représentation de la vitesse est relativement peu précise si on utilise des réseaux de lignes (&amp;ldquo;Grating&amp;rdquo;), comme cela est d&amp;rsquo;habitude réalisé dans la plupart des expériences neurophysiologiques. Au contraire, elle devient plus précise si on utilise comme signaux visuels des textures artificielles ressemblant à des nuages en mouvement (&amp;ldquo;MC Narrow&amp;rdquo;). En particulier, plus cette texture est complexe, plus la représentation est précise (&amp;ldquo;MC Broad&amp;rdquo;).&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/R%C3%A9sultatScientifique?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RésultatScientifique&lt;/a&gt; 🔍| Dès la &lt;a href=&#34;https://twitter.com/hashtag/r%C3%A9tine?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#rétine&lt;/a&gt;, le système &lt;a href=&#34;https://twitter.com/hashtag/visuel?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#visuel&lt;/a&gt; préfère des images naturelles&lt;br&gt;▶️ &lt;a href=&#34;https://t.co/BBY2IpGum6&#34;&gt;https://t.co/BBY2IpGum6&lt;/a&gt;&lt;br&gt;📕 &lt;a href=&#34;https://twitter.com/SciReports?ref_src=twsrc%5Etfw&#34;&gt;@SciReports&lt;/a&gt; | &lt;a href=&#34;https://t.co/5mULuWTp3N&#34;&gt;https://t.co/5mULuWTp3N&lt;/a&gt;&lt;br&gt;🤝 &lt;a href=&#34;https://twitter.com/CNRS?ref_src=twsrc%5Etfw&#34;&gt;@CNRS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CNRS_dr12?ref_src=twsrc%5Etfw&#34;&gt;@CNRS_dr12&lt;/a&gt; &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/InstitutDeNeurosciencesDeLaTimone?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#InstitutDeNeurosciencesDeLaTimone&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LaurentPerrinet?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LaurentPerrinet&lt;/a&gt; &lt;a href=&#34;https://t.co/34R1URHUic&#34;&gt;pic.twitter.com/34R1URHUic&lt;/a&gt;&lt;/p&gt;&amp;mdash; Biologie au CNRS (@INSB_CNRS) &lt;a href=&#34;https://twitter.com/INSB_CNRS/status/1091392027848294401?ref_src=twsrc%5Etfw&#34;&gt;February 1, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Speed-Selectivity in Retinal Ganglion Cells is Sharpened by Broad Spatial Frequency, Naturalistic Stimuli. Beautiful article in Scientific Reports on an original animal model, the diurnal rodent Octodon degus. &lt;a href=&#34;https://t.co/BdzyzEVYnX&#34;&gt;https://t.co/BdzyzEVYnX&lt;/a&gt; (open access) &lt;a href=&#34;https://t.co/1UaoMYTFd2&#34;&gt;pic.twitter.com/1UaoMYTFd2&lt;/a&gt;&lt;/p&gt;&amp;mdash; Stéphane Deny (@StephaneDeny) &lt;a href=&#34;https://twitter.com/StephaneDeny/status/1090452532223045632?ref_src=twsrc%5Etfw&#34;&gt;January 30, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-Ces textures complexes sont plus proches des images naturellement observées et ces résultats montrent donc que dès la rétine, le système visuel est particulièrement adapté à des stimulations naturelles. Ce résultat devrait pouvoir s&amp;rsquo;étendre à des textures encore plus complexes et encore plus proches d&amp;rsquo;images naturelles, mais aussi pouvoir se généraliser à d&amp;rsquo;autres aires visuelles plus complexes, comme le cortex visuel primaire, et à d&amp;rsquo;autres espèces.
+&lt;p&gt;Ces textures complexes sont plus proches des images naturellement observées et ces résultats montrent donc que dès la rétine, le système visuel est particulièrement adapté à des stimulations naturelles. Ce résultat devrait pouvoir s&amp;rsquo;étendre à des textures encore plus complexes et encore plus proches d&amp;rsquo;images naturelles, mais aussi pouvoir se généraliser à d&amp;rsquo;autres aires visuelles plus complexes, comme le cortex visuel primaire, et à d&amp;rsquo;autres espèces.&lt;/p&gt;
 
  
  
@@ -6214,7 +6789,7 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/ravello-19/video_perrinet.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
-Cette vidéo montre les trois classes de stimulations utilisées dans cette étude. En plus des réseaux sinusoïdaux (“Grating”) qui sont classiquement utilisés en neurosciences, cette étude a utilisé des textures aléatoires (Motion Clouds (MC)) qui sont inspirées de modèles du traitement visuel. Ils permettent en particulier de manipuler des paramètres visuels critiques comme la variété de fréquences spatiales qui sont superposées: soit unique (“Grating”), fine (“MC Narrow”), soit plus large (“MC Broad”). Ces vidéos ont été directement projetées sur des rétines posées sur des grilles d’électrodes qui permettent de mesurer l’activité neurale (voir figure). © Laurent Perrinet / Cesar Ravello&lt;/p&gt;
+&lt;p&gt;Cette vidéo montre les trois classes de stimulations utilisées dans cette étude. En plus des réseaux sinusoïdaux (“Grating”) qui sont classiquement utilisés en neurosciences, cette étude a utilisé des textures aléatoires (Motion Clouds (MC)) qui sont inspirées de modèles du traitement visuel. Ils permettent en particulier de manipuler des paramètres visuels critiques comme la variété de fréquences spatiales qui sont superposées: soit unique (“Grating”), fine (“MC Narrow”), soit plus large (“MC Broad”). Ces vidéos ont été directement projetées sur des rétines posées sur des grilles d’électrodes qui permettent de mesurer l’activité neurale (voir figure). © Laurent Perrinet / Cesar Ravello&lt;/p&gt;
 </description>
     </item>
     
@@ -21395,6 +21970,342 @@ class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;Ask info @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;More info @ &lt;a href=&#34;https://laurentperrinet.github.io/grant/anr-anr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web-site&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-07-01_grimaldi-22-areadne</title>
+      <link>https://laurentperrinet.github.io/slides/2022-07-01_grimaldi-22-areadne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/slides/2022-07-01_grimaldi-22-areadne/</guid>
+      <description>&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/brain-logo-240.jpg&#34; alt=&#34;header&#34; height=&#34;350&#34;&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;&lt;a href=&#34;https://laurentperrinet.github.io/slides/2022-07-01_grimaldi-22-areadne&#34;&gt;
+		Decoding spiking motifs using neurons with heterosynaptic delays
+    &lt;!-- &lt;img src=&#34;http://www.cnrs.fr/themes/custom/cnrs/logo.svg&#34; alt=&#34;CNRS&#34; height=&#34;15&#34;&gt; --&gt;
+    &lt;!-- &lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/CNRS.svg/240px-CNRS.svg.png&#34; alt=&#34;CNRS&#34; height=&#34;40&#34;&gt; --&gt;
+    &lt;br&gt;
+		&lt;u&gt;[2022-07-01] AREADNE 2022 conference&lt;/u&gt;
+	&lt;/a&gt;
+	&lt;/th&gt;
+	&lt;th&gt;
+	&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks&#34;&gt;Spiking Neural Networks&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-from-frame-based-to-event-based-cameras&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../grant/anr-anr/event_driven_computations.png&#34; alt=&#34;From frame-based to event-based cameras.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      From frame-based to event-based cameras.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-raster-plot&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/figure_1a_k.png&#34; alt=&#34;A raster plot..&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      A raster plot..
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure--as-a-mixture-of-motifs&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/figure_1a.png&#34; alt=&#34;.. as a mixture of motifs&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      .. as a mixture of motifs
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure--defined-as-list-of-weights-and-delays&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/figure_1b.png&#34; alt=&#34;... defined as list of weights and delays..&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &amp;hellip; defined as list of weights and delays..
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-occurring-from-a-new-raster-plot&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/figure_1c.png&#34; alt=&#34;occurring from a new raster plot..&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      occurring from a new raster plot..
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/LIF.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/HSD_conductance_speeds.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;supervised-learning&#34;&gt;supervised learning&lt;/h2&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_1.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_3.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/2022-06-23_Supervised_MC_input_4.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterosynaptic/2022-05-24_Supervised_MC_MC.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;learned-hetero-synaptic-weights&#34;&gt;Learned hetero-synaptic weights&lt;/h2&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hetero-synaptic-delays-as-convolution-kernels&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel.png&#34; alt=&#34;Hetero-synaptic delays as convolution kernels.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Hetero-synaptic delays as convolution kernels.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-mask-applied-on-the-weights&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_kernel-mask.png&#34; alt=&#34;Mask applied on the weights.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Mask applied on the weights.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-scatter-of-on-versus-off-weights&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/2022-06-26_Supervised_nat-causal_joint_ON-OFF.png&#34; alt=&#34;Scatter of ON versus OFF weights.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Scatter of ON versus OFF weights.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;frugal-computing&#34;&gt;Frugal computing&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-stable-accuracy-while-pruning-99-weights&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-areadne/accuracy.png&#34; alt=&#34;Stable accuracy while pruning ~99% weights.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Stable accuracy while pruning ~99% weights.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;Ask info @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More info @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web-site&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
