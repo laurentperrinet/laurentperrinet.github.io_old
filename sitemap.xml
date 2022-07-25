@@ -20,9 +20,9 @@
   <url>
     <loc>https://laurentperrinet.github.io/</loc><lastmod>2022-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://laurentperrinet.github.io/publication_types/</loc><lastmod>2022-06-30T08:54:01+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://laurentperrinet.github.io/publication_types/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://laurentperrinet.github.io/publication/</loc><lastmod>2022-06-30T08:54:01+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://laurentperrinet.github.io/publication/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/tag/current-grant/</loc><lastmod>2022-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -39,6 +39,20 @@
     <loc>https://laurentperrinet.github.io/tags/</loc><lastmod>2022-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/author/thomas-schatz/</loc><lastmod>2022-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://laurentperrinet.github.io/publication-type/2/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://laurentperrinet.github.io/author/angelo-franciosini/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://laurentperrinet.github.io/tag/deep-learning/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://laurentperrinet.github.io/author/frederic-chavane/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://laurentperrinet.github.io/publication/franciosini-21/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://laurentperrinet.github.io/tag/sparse-coding/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://laurentperrinet.github.io/author/victor-boutin/</loc><lastmod>2022-07-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/tag/efficient-coding/</loc><lastmod>2022-06-16T13:51:42+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -86,8 +100,6 @@
   <url>
     <loc>https://laurentperrinet.github.io/tag/saccades/</loc><lastmod>2022-06-16T13:51:42+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://laurentperrinet.github.io/publication-type/2/</loc><lastmod>2022-06-30T08:54:01+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://laurentperrinet.github.io/publication/barthelemy-22/</loc><lastmod>2022-06-30T08:54:01+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/tag/center-surround-interactions/</loc><lastmod>2022-06-30T08:54:01+03:00</lastmod><changefreq>weekly</changefreq></url>
@@ -111,18 +123,6 @@
     <loc>https://laurentperrinet.github.io/talk/2022-05-19-centuri-day/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/publication/jeremie-22-ultra-fast-cat/</loc><lastmod>2022-05-11T09:32:04+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/author/angelo-franciosini/</loc><lastmod>2022-04-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/tag/deep-learning/</loc><lastmod>2022-04-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/author/frederic-chavane/</loc><lastmod>2022-04-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/publication/franciosini-21/</loc><lastmod>2022-04-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/tag/sparse-coding/</loc><lastmod>2022-04-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/author/victor-boutin/</loc><lastmod>2022-04-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/slides/2022-03-23_ue-neurosciences-computationnelles/</loc><lastmod>2022-03-23T09:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -196,29 +196,10 @@
   <url>
     <loc>https://laurentperrinet.github.io/talk/2021-08-27-ddxl/</loc><lastmod>2021-07-12T15:52:49+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://laurentperrinet.github.io/tag/grant/</loc><lastmod>2021-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/grant/</loc><lastmod>2021-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/tag/past-grant/</loc><lastmod>2021-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/tag/polychronies/</loc><lastmod>2021-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/grant/polychronies/</loc><lastmod>2021-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/author/rosa-cossart/</loc><lastmod>2021-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://laurentperrinet.github.io/author/thomas-schatz/</loc><lastmod>2021-07-18T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://laurentperrinet.github.io/author/anna-montagnini/</loc><lastmod>2021-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/grant/anr-aces/</loc><lastmod>2021-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-<<<<<<< HEAD
-    <loc>https://laurentperrinet.github.io/tag/current-grant/</loc><lastmod>2021-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-=======
->>>>>>> 9fc4438dd90dcd61d0fe88ac40477afe6e2d628b
     <loc>https://laurentperrinet.github.io/author/laurent-madelain/</loc><lastmod>2021-07-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/publication/grimaldi-21-cbmi/</loc><lastmod>2021-04-20T17:01:28+01:00</lastmod><changefreq>weekly</changefreq></url>
@@ -336,6 +317,8 @@
     <loc>https://laurentperrinet.github.io/author/wahiba-taouali/</loc><lastmod>2019-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/grant/mesocentre/</loc><lastmod>2019-09-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://laurentperrinet.github.io/tag/past-grant/</loc><lastmod>2019-09-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://laurentperrinet.github.io/grant/aprovis-3-d/</loc><lastmod>2019-09-10T10:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
