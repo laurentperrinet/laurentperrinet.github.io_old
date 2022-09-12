@@ -21,7 +21,8 @@
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;ul&gt;
-&lt;li&gt;this paper follows this COSYNE presentation : 
+&lt;li&gt;
+&lt;p&gt;this paper follows this COSYNE presentation : 
  
  
  
@@ -98,8 +99,10 @@
  &lt;/div&gt;
  
  
+&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;see a related work describing SDPC in: 
+&lt;li&gt;
+&lt;p&gt;see a related work describing SDPC in: 
  
  
  
@@ -196,8 +199,10 @@
  &lt;/div&gt;
  
  
+&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;more about the role of top-down connections: 
+&lt;li&gt;
+&lt;p&gt;more about the role of top-down connections: 
  
  
  
@@ -285,6 +290,7 @@
  &lt;/div&gt;
  
  
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;iframe src=&#34;https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fyann.lecun%2Fposts%2F10157650553112143&amp;width=500&amp;show_text=true&amp;height=305&amp;appId&#34; width=&#34;500&#34; height=&#34;305&#34; style=&#34;border:none;overflow:hidden&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;true&#34; allow=&#34;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&#34;&gt;&lt;/iframe&gt;
@@ -676,7 +682,7 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
    &lt;/span&gt;
    (2022).
    &lt;a href=&#34;https://laurentperrinet.github.io/publication/franciosini-21/&#34;&gt;Pooling in a predictive model of V1 explains functional and structural diversity across species&lt;/a&gt;.
-   &lt;em&gt;bioRxiv&lt;/em&gt;.
+   &lt;em&gt;PLoS Computational Biology&lt;/em&gt;.
    
    &lt;p&gt;
  
@@ -696,14 +702,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
  
  
    
-     
-   
  
  
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/franciosini-21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
  
  
  
