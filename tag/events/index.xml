@@ -46,23 +46,6 @@
     </item>
     
     <item>
-      <title>2020-09-11 : CONECT seminar - &#34;Feedforward and feedback processes in visual recognition&#34; (T Serre)</title>
-      <link>https://laurentperrinet.github.io/post/2020-09-11_seminaire-thomas-serre/</link>
-      <pubDate>Fri, 11 Sep 2020 14:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/post/2020-09-11_seminaire-thomas-serre/</guid>
-      <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;http://serre-lab.clps.brown.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Serre&lt;/a&gt; will present his recent work on &amp;ldquo;Feedforward and feedback processes in visual recognition&amp;rdquo;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Progress in deep learning has spawned great successes in many engineering applications. As a prime example, convolutional neural networks, a type of feedforward neural networks, are now approaching – and sometimes even surpassing – human accuracy on a variety of visual recognition tasks. In this talk, however, I will show that these neural networks and their recent extensions exhibit a limited ability to solve seemingly simple visual reasoning problems involving incremental grouping, similarity, and spatial relation judgments. Our group has developed a recurrent network model of classical and extra-classical receptive fields that is constrained by the anatomy and physiology of the visual cortex. The model was shown to account for diverse visual illusions providing computational evidence for a novel canonical circuit that is shared across visual modalities. I will show that this computational neuroscience model can be turned into a modern end-to-end trainable deep recurrent network architecture that addresses some of the shortcomings exhibited by state-of-the-art feedforward networks for solving complex visual reasoning tasks. This suggests that neuroscience may contribute powerful new ideas and approaches to computer science and artificial intelligence.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Dr. &lt;a href=&#34;http://serre-lab.clps.brown.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Serre&lt;/a&gt; is an Associate Professor in Cognitive Linguistic and Psychological Sciences and an affiliate of the Carney Institute for Brain Science at Brown University. He received a Ph.D. in Neuroscience from MIT in 2006 and an MSc in EECS from Télécom Bretagne (France) in 2000. His research seeks to understand the neural computations supporting visual perception and has been featured in the BBC series “Visions from the Future” and other news articles (The Economist, New Scientist, Scientific American, IEEE Computing in Science and Technology, Technology Review and Slashdot). Dr. Serre is the Faculty Director of the Center for Computation and Visualization and the Associate Director of the Initiative for Computation in Brain and Mind at Brown University. He also holds an International Chair in AI within the Artificial and Natural Intelligence Toulouse Institute (France). Dr. Serre has served as an area chair and a senior program committee member for top-tier machine learning and computer vision conferences including AAAI, CVPR, and NeurIPS. He is currently serving as a domain expert for IARPA’s Machine Intelligence from Cortical Networks (MICrONS) program and as a scientific advisor for Vium, Inc. He was the recipient of an NSF Early Career Award as well as DARPA’s Young Faculty Award and Director’s Award.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>PhD offer &#34;Ultra-fast vision using Spiking Neural Networks&#34;</title>
       <link>https://laurentperrinet.github.io/post/2020-06-30_phd-position/</link>
       <pubDate>Tue, 30 Jun 2020 09:00:00 +0000</pubDate>
