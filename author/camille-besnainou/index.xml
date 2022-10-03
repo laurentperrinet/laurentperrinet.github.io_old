@@ -28,8 +28,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;session-neuromorphic-and-perception-based-image-acquisition-and-analysis&#34;&gt;Session &amp;ldquo;Neuromorphic and perception-based image acquisition and analysis&amp;rdquo;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TQ-L.A Special session on Tueasday, October 18 from 14:00 to 16:00&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TQ-L.A Special session on Tueasday, October 18 from 14:00 to 16:00&lt;/a&gt;
 &lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
@@ -57,29 +56,20 @@
                height=&#34;432&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Organized by Dr. Marc Antonini, Dr. Panagiotis Tsakalides, and Dr. Effrosyni Doutsi:&lt;/p&gt;
-&lt;/li&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Organized by Dr. Marc Antonini, Dr. Panagiotis Tsakalides, and Dr. Effrosyni Doutsi:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;During the last decade much attention has been paid to understanding the human brain properties and functions in order to mimic the computational mechanisms of this highly intelligent processing “machine” that seems to be able to address several technological challenges that the scientific community is currently facing. Digital sobriety is quite important among these challenges as it concerns the reduction of the energy footprint caused by the use and transmission of the digital information. According to recent studies, almost 80% of global data flows is due to online videos stored in big data centers ready to be accessed on demand at any time by several users all over the world. As a result, scientists are urged to find energy-saving solutions to capture, process, understand, compress and stream this great volume of visual information in an environmental responsible and greener manner.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Brain-inspired or neuro-inspired or spike-based or event-based computing are all terms used to describe the emerging technological trend motivated by the brain capability to dynamically capture and to spatio-temporally process and transform the great volume of the 3D visual information into a very compact spike train that is fed forward to the visual cortex of the brain passing through a very dense neural network. This is an energy efficient process, a fact that triggered the attention of the signal processing community trying to design more sober video services.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Indeed, every step of the brain processing pipeline provides inspiration towards novel disruptive implementations of image and video processing components: (i) visual sensors responsible for capturing and projecting the visual information into a neuromorphic chip, (ii) image understanding utilizing spiking neural networks to better approximate the dense interconnected network of neurons along the visual pathway, (iii) image processing and compression motivated by the exceptional compactness of the spike trains, capable of providing an ultra-high-definition perception of the visual world. In addition, the last decade has witnessed the progress of neuromorphic algorithms and hardware, which has already reached performance and manufacturing levels that is beyond the state- of-the-art.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The objective of this special session is to highlight the importance of neuromorphic computing in image and video processing. We are interested in bringing together scientists working on different spike-based computational models, from sensing to understanding, who will share their knowledge and discuss about the advantages and the limitations of this type of systems. The aim is to progress towards an end-to-end and robust technology where the hardware and software will both follow the same neuro-inspired principles, addressing important challenges of the current conventional systems. Last but not least, this special session would be a great opportunity to build a strong international consortium between different teams to attract European and international funding to further study and promote neuromorphic computing for different signal processing open challenges.&lt;/p&gt;
+&lt;p&gt;During the last decade much attention has been paid to understanding the human brain properties and functions in order to mimic the computational mechanisms of this highly intelligent processing “machine” that seems to be able to address several technological challenges that the scientific community is currently facing. Digital sobriety is quite important among these challenges as it concerns the reduction of the energy footprint caused by the use and transmission of the digital information. According to recent studies, almost 80% of global data flows is due to online videos stored in big data centers ready to be accessed on demand at any time by several users all over the world. As a result, scientists are urged to find energy-saving solutions to capture, process, understand, compress and stream this great volume of visual information in an environmental responsible and greener manner.
+&lt;em&gt;Brain-inspired or neuro-inspired or spike-based or event-based computing are all terms used to describe the emerging technological trend motivated by the brain capability to dynamically capture and to spatio-temporally process and transform the great volume of the 3D visual information into a very compact spike train that is fed forward to the visual cortex of the brain passing through a very dense neural network. This is an energy efficient process, a fact that triggered the attention of the signal processing community trying to design more sober video services.&lt;/em&gt;
+Indeed, every step of the brain processing pipeline provides inspiration towards novel disruptive implementations of image and video processing components: (i) visual sensors responsible for capturing and projecting the visual information into a neuromorphic chip, (ii) image understanding utilizing spiking neural networks to better approximate the dense interconnected network of neurons along the visual pathway, (iii) image processing and compression motivated by the exceptional compactness of the spike trains, capable of providing an ultra-high-definition perception of the visual world. In addition, the last decade has witnessed the progress of neuromorphic algorithms and hardware, which has already reached performance and manufacturing levels that is beyond the state- of-the-art.
+The objective of this special session is to highlight the importance of neuromorphic computing in image and video processing. We are interested in bringing together scientists working on different spike-based computational models, from sensing to understanding, who will share their knowledge and discuss about the advantages and the limitations of this type of systems. The aim is to progress towards an end-to-end and robust technology where the hardware and software will both follow the same neuro-inspired principles, addressing important challenges of the current conventional systems. Last but not least, this special session would be a great opportunity to build a strong international consortium between different teams to attract European and international funding to further study and promote neuromorphic computing for different signal processing open challenges.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
-      <title>Decoding spiking motifs using neurons with heterosynaptic delays</title>
+      <title>Decoding spiking motifs using neurons with heterogeneous delays</title>
       <link>https://laurentperrinet.github.io/publication/grimaldi-22-areadne/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/grimaldi-22-areadne/</guid>

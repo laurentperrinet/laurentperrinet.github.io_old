@@ -28,8 +28,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;session-neuromorphic-and-perception-based-image-acquisition-and-analysis&#34;&gt;Session &amp;ldquo;Neuromorphic and perception-based image acquisition and analysis&amp;rdquo;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TQ-L.A Special session on Tueasday, October 18 from 14:00 to 16:00&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TQ-L.A Special session on Tueasday, October 18 from 14:00 to 16:00&lt;/a&gt;
 &lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
@@ -57,33 +56,16 @@
                height=&#34;432&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Organized by Dr. Marc Antonini, Dr. Panagiotis Tsakalides, and Dr. Effrosyni Doutsi:&lt;/p&gt;
-&lt;/li&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Organized by Dr. Marc Antonini, Dr. Panagiotis Tsakalides, and Dr. Effrosyni Doutsi:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;During the last decade much attention has been paid to understanding the human brain properties and functions in order to mimic the computational mechanisms of this highly intelligent processing “machine” that seems to be able to address several technological challenges that the scientific community is currently facing. Digital sobriety is quite important among these challenges as it concerns the reduction of the energy footprint caused by the use and transmission of the digital information. According to recent studies, almost 80% of global data flows is due to online videos stored in big data centers ready to be accessed on demand at any time by several users all over the world. As a result, scientists are urged to find energy-saving solutions to capture, process, understand, compress and stream this great volume of visual information in an environmental responsible and greener manner.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Brain-inspired or neuro-inspired or spike-based or event-based computing are all terms used to describe the emerging technological trend motivated by the brain capability to dynamically capture and to spatio-temporally process and transform the great volume of the 3D visual information into a very compact spike train that is fed forward to the visual cortex of the brain passing through a very dense neural network. This is an energy efficient process, a fact that triggered the attention of the signal processing community trying to design more sober video services.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Indeed, every step of the brain processing pipeline provides inspiration towards novel disruptive implementations of image and video processing components: (i) visual sensors responsible for capturing and projecting the visual information into a neuromorphic chip, (ii) image understanding utilizing spiking neural networks to better approximate the dense interconnected network of neurons along the visual pathway, (iii) image processing and compression motivated by the exceptional compactness of the spike trains, capable of providing an ultra-high-definition perception of the visual world. In addition, the last decade has witnessed the progress of neuromorphic algorithms and hardware, which has already reached performance and manufacturing levels that is beyond the state- of-the-art.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The objective of this special session is to highlight the importance of neuromorphic computing in image and video processing. We are interested in bringing together scientists working on different spike-based computational models, from sensing to understanding, who will share their knowledge and discuss about the advantages and the limitations of this type of systems. The aim is to progress towards an end-to-end and robust technology where the hardware and software will both follow the same neuro-inspired principles, addressing important challenges of the current conventional systems. Last but not least, this special session would be a great opportunity to build a strong international consortium between different teams to attract European and international funding to further study and promote neuromorphic computing for different signal processing open challenges.&lt;/p&gt;
+&lt;p&gt;During the last decade much attention has been paid to understanding the human brain properties and functions in order to mimic the computational mechanisms of this highly intelligent processing “machine” that seems to be able to address several technological challenges that the scientific community is currently facing. Digital sobriety is quite important among these challenges as it concerns the reduction of the energy footprint caused by the use and transmission of the digital information. According to recent studies, almost 80% of global data flows is due to online videos stored in big data centers ready to be accessed on demand at any time by several users all over the world. As a result, scientists are urged to find energy-saving solutions to capture, process, understand, compress and stream this great volume of visual information in an environmental responsible and greener manner.
+&lt;em&gt;Brain-inspired or neuro-inspired or spike-based or event-based computing are all terms used to describe the emerging technological trend motivated by the brain capability to dynamically capture and to spatio-temporally process and transform the great volume of the 3D visual information into a very compact spike train that is fed forward to the visual cortex of the brain passing through a very dense neural network. This is an energy efficient process, a fact that triggered the attention of the signal processing community trying to design more sober video services.&lt;/em&gt;
+Indeed, every step of the brain processing pipeline provides inspiration towards novel disruptive implementations of image and video processing components: (i) visual sensors responsible for capturing and projecting the visual information into a neuromorphic chip, (ii) image understanding utilizing spiking neural networks to better approximate the dense interconnected network of neurons along the visual pathway, (iii) image processing and compression motivated by the exceptional compactness of the spike trains, capable of providing an ultra-high-definition perception of the visual world. In addition, the last decade has witnessed the progress of neuromorphic algorithms and hardware, which has already reached performance and manufacturing levels that is beyond the state- of-the-art.
+The objective of this special session is to highlight the importance of neuromorphic computing in image and video processing. We are interested in bringing together scientists working on different spike-based computational models, from sensing to understanding, who will share their knowledge and discuss about the advantages and the limitations of this type of systems. The aim is to progress towards an end-to-end and robust technology where the hardware and software will both follow the same neuro-inspired principles, addressing important challenges of the current conventional systems. Last but not least, this special session would be a great opportunity to build a strong international consortium between different teams to attract European and international funding to further study and promote neuromorphic computing for different signal processing open challenges.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired Attention Mechanism</title>
-      <link>https://laurentperrinet.github.io/publication/dabane-22/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/dabane-22/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1138,7 +1120,7 @@
     </item>
     
     <item>
-      <title>Decoding spiking motifs using neurons with heterosynaptic delays</title>
+      <title>Decoding spiking motifs using neurons with heterogeneous delays</title>
       <link>https://laurentperrinet.github.io/publication/grimaldi-22-areadne/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/grimaldi-22-areadne/</guid>
@@ -1605,9 +1587,39 @@
     </item>
     
     <item>
+      <title>Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All</title>
+      <link>https://laurentperrinet.github.io/publication/chavane-22/</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/chavane-22/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;new paper with F Chavane and J Rankin on &amp;quot;Revisiting horizontal connectivity rules in V1: from like‑to‑like towards like‑to‑all&amp;quot; aiming at understanding lateral message passing in V1 :&lt;a href=&#34;https://t.co/fjYuy0bHTz&#34;&gt;https://t.co/fjYuy0bHTz&lt;/a&gt;&lt;br&gt;👉 happy to share a reprint via DM  &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/INSB_CNRS?ref_src=twsrc%5Etfw&#34;&gt;@INSB_CNRS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CNRS_dr12?ref_src=twsrc%5Etfw&#34;&gt;@CNRS_dr12&lt;/a&gt; &lt;a href=&#34;https://t.co/DgK4vMPDQ8&#34;&gt;pic.twitter.com/DgK4vMPDQ8&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1490717893750935552?ref_src=twsrc%5Etfw&#34;&gt;February 7, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamical processing of orientation precision in the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/ladret-22/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/ladret-22/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;now (2:00 PM - 3:00 PM CEST on Thursday, May 20), you can hear Hugo Ladret &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; present his poster P4.47 &amp;quot;Processing of orientation precision in the primary visual cortex&amp;quot;&lt;a href=&#34;https://t.co/vuT6gegwtO&#34;&gt;https://t.co/vuT6gegwtO&lt;/a&gt;&lt;br&gt;Neurofrance 2021 &lt;a href=&#34;https://twitter.com/hashtag/NF2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NF2021&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/NeuroFrance2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NeuroFrance2021&lt;/a&gt; &lt;a href=&#34;https://twitter.com/SocNeuro_Tweets?ref_src=twsrc%5Etfw&#34;&gt;@SocNeuro_Tweets&lt;/a&gt; &lt;a href=&#34;https://t.co/YQNF9FiB6m&#34;&gt;pic.twitter.com/YQNF9FiB6m&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1395351843035828224?ref_src=twsrc%5Etfw&#34;&gt;May 20, 2021&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A Robust Event-Driven Approach to Always-on Object Recognition</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-22-pami/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-22-pami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation and Its Spatial Frequency Tuning</title>
       <link>https://laurentperrinet.github.io/publication/barthelemy-22/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/barthelemy-22/</guid>
       <description></description>
     </item>
@@ -1615,7 +1627,7 @@
     <item>
       <title>Ultra-Fast Image Categorization in Vivo and in Silico</title>
       <link>https://laurentperrinet.github.io/publication/jeremie-22-ultra-fast-cat/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/jeremie-22-ultra-fast-cat/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;this is a follow-up of: 
@@ -1788,32 +1800,10 @@
     </item>
     
     <item>
-      <title>Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All</title>
-      <link>https://laurentperrinet.github.io/publication/chavane-22/</link>
-      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/chavane-22/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;new paper with F Chavane and J Rankin on &amp;quot;Revisiting horizontal connectivity rules in V1: from like‑to‑like towards like‑to‑all&amp;quot; aiming at understanding lateral message passing in V1 :&lt;a href=&#34;https://t.co/fjYuy0bHTz&#34;&gt;https://t.co/fjYuy0bHTz&lt;/a&gt;&lt;br&gt;👉 happy to share a reprint via DM  &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/INSB_CNRS?ref_src=twsrc%5Etfw&#34;&gt;@INSB_CNRS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CNRS_dr12?ref_src=twsrc%5Etfw&#34;&gt;@CNRS_dr12&lt;/a&gt; &lt;a href=&#34;https://t.co/DgK4vMPDQ8&#34;&gt;pic.twitter.com/DgK4vMPDQ8&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1490717893750935552?ref_src=twsrc%5Etfw&#34;&gt;February 7, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Dynamical processing of orientation precision in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/ladret-22/</link>
-      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/ladret-22/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;now (2:00 PM - 3:00 PM CEST on Thursday, May 20), you can hear Hugo Ladret &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; present his poster P4.47 &amp;quot;Processing of orientation precision in the primary visual cortex&amp;quot;&lt;a href=&#34;https://t.co/vuT6gegwtO&#34;&gt;https://t.co/vuT6gegwtO&lt;/a&gt;&lt;br&gt;Neurofrance 2021 &lt;a href=&#34;https://twitter.com/hashtag/NF2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NF2021&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/NeuroFrance2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NeuroFrance2021&lt;/a&gt; &lt;a href=&#34;https://twitter.com/SocNeuro_Tweets?ref_src=twsrc%5Etfw&#34;&gt;@SocNeuro_Tweets&lt;/a&gt; &lt;a href=&#34;https://t.co/YQNF9FiB6m&#34;&gt;pic.twitter.com/YQNF9FiB6m&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1395351843035828224?ref_src=twsrc%5Etfw&#34;&gt;May 20, 2021&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>A Robust Event-Driven Approach to Always-on Object Recognition</title>
-      <link>https://laurentperrinet.github.io/publication/grimaldi-22-pami/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/grimaldi-22-pami/</guid>
+      <title>What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired Attention Mechanism</title>
+      <link>https://laurentperrinet.github.io/publication/dabane-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/dabane-22/</guid>
       <description></description>
     </item>
     
@@ -3866,14 +3856,6 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
     </item>
     
     <item>
-      <title>Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1</title>
-      <link>https://laurentperrinet.github.io/publication/benvenuti-22/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/benvenuti-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Effect of top-down connections in Hierarchical Sparse Coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
@@ -4061,6 +4043,14 @@ These theoretical and experimental results show that in this realistic situation
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1</title>
+      <link>https://laurentperrinet.github.io/publication/benvenuti-22/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/benvenuti-22/</guid>
+      <description></description>
     </item>
     
     <item>

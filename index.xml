@@ -28,8 +28,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;session-neuromorphic-and-perception-based-image-acquisition-and-analysis&#34;&gt;Session &amp;ldquo;Neuromorphic and perception-based image acquisition and analysis&amp;rdquo;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TQ-L.A Special session on Tueasday, October 18 from 14:00 to 16:00&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TQ-L.A Special session on Tueasday, October 18 from 14:00 to 16:00&lt;/a&gt;
 &lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
@@ -57,33 +56,16 @@
                height=&#34;432&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Organized by Dr. Marc Antonini, Dr. Panagiotis Tsakalides, and Dr. Effrosyni Doutsi:&lt;/p&gt;
-&lt;/li&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Organized by Dr. Marc Antonini, Dr. Panagiotis Tsakalides, and Dr. Effrosyni Doutsi:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;During the last decade much attention has been paid to understanding the human brain properties and functions in order to mimic the computational mechanisms of this highly intelligent processing “machine” that seems to be able to address several technological challenges that the scientific community is currently facing. Digital sobriety is quite important among these challenges as it concerns the reduction of the energy footprint caused by the use and transmission of the digital information. According to recent studies, almost 80% of global data flows is due to online videos stored in big data centers ready to be accessed on demand at any time by several users all over the world. As a result, scientists are urged to find energy-saving solutions to capture, process, understand, compress and stream this great volume of visual information in an environmental responsible and greener manner.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Brain-inspired or neuro-inspired or spike-based or event-based computing are all terms used to describe the emerging technological trend motivated by the brain capability to dynamically capture and to spatio-temporally process and transform the great volume of the 3D visual information into a very compact spike train that is fed forward to the visual cortex of the brain passing through a very dense neural network. This is an energy efficient process, a fact that triggered the attention of the signal processing community trying to design more sober video services.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Indeed, every step of the brain processing pipeline provides inspiration towards novel disruptive implementations of image and video processing components: (i) visual sensors responsible for capturing and projecting the visual information into a neuromorphic chip, (ii) image understanding utilizing spiking neural networks to better approximate the dense interconnected network of neurons along the visual pathway, (iii) image processing and compression motivated by the exceptional compactness of the spike trains, capable of providing an ultra-high-definition perception of the visual world. In addition, the last decade has witnessed the progress of neuromorphic algorithms and hardware, which has already reached performance and manufacturing levels that is beyond the state- of-the-art.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The objective of this special session is to highlight the importance of neuromorphic computing in image and video processing. We are interested in bringing together scientists working on different spike-based computational models, from sensing to understanding, who will share their knowledge and discuss about the advantages and the limitations of this type of systems. The aim is to progress towards an end-to-end and robust technology where the hardware and software will both follow the same neuro-inspired principles, addressing important challenges of the current conventional systems. Last but not least, this special session would be a great opportunity to build a strong international consortium between different teams to attract European and international funding to further study and promote neuromorphic computing for different signal processing open challenges.&lt;/p&gt;
+&lt;p&gt;During the last decade much attention has been paid to understanding the human brain properties and functions in order to mimic the computational mechanisms of this highly intelligent processing “machine” that seems to be able to address several technological challenges that the scientific community is currently facing. Digital sobriety is quite important among these challenges as it concerns the reduction of the energy footprint caused by the use and transmission of the digital information. According to recent studies, almost 80% of global data flows is due to online videos stored in big data centers ready to be accessed on demand at any time by several users all over the world. As a result, scientists are urged to find energy-saving solutions to capture, process, understand, compress and stream this great volume of visual information in an environmental responsible and greener manner.
+&lt;em&gt;Brain-inspired or neuro-inspired or spike-based or event-based computing are all terms used to describe the emerging technological trend motivated by the brain capability to dynamically capture and to spatio-temporally process and transform the great volume of the 3D visual information into a very compact spike train that is fed forward to the visual cortex of the brain passing through a very dense neural network. This is an energy efficient process, a fact that triggered the attention of the signal processing community trying to design more sober video services.&lt;/em&gt;
+Indeed, every step of the brain processing pipeline provides inspiration towards novel disruptive implementations of image and video processing components: (i) visual sensors responsible for capturing and projecting the visual information into a neuromorphic chip, (ii) image understanding utilizing spiking neural networks to better approximate the dense interconnected network of neurons along the visual pathway, (iii) image processing and compression motivated by the exceptional compactness of the spike trains, capable of providing an ultra-high-definition perception of the visual world. In addition, the last decade has witnessed the progress of neuromorphic algorithms and hardware, which has already reached performance and manufacturing levels that is beyond the state- of-the-art.
+The objective of this special session is to highlight the importance of neuromorphic computing in image and video processing. We are interested in bringing together scientists working on different spike-based computational models, from sensing to understanding, who will share their knowledge and discuss about the advantages and the limitations of this type of systems. The aim is to progress towards an end-to-end and robust technology where the hardware and software will both follow the same neuro-inspired principles, addressing important challenges of the current conventional systems. Last but not least, this special session would be a great opportunity to build a strong international consortium between different teams to attract European and international funding to further study and promote neuromorphic computing for different signal processing open challenges.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired Attention Mechanism</title>
-      <link>https://laurentperrinet.github.io/publication/dabane-22/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/dabane-22/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1152,7 +1134,7 @@ By extending this paradigm to a hierarchy, we envision practical applications of
     </item>
     
     <item>
-      <title>Decoding spiking motifs using neurons with heterosynaptic delays</title>
+      <title>Decoding spiking motifs using neurons with heterogeneous delays</title>
       <link>https://laurentperrinet.github.io/publication/grimaldi-22-areadne/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/grimaldi-22-areadne/</guid>
@@ -2309,15 +2291,7 @@ By extending this paradigm to a hierarchy, we envision practical applications of
     </item>
     
     <item>
-      <title>A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation and Its Spatial Frequency Tuning</title>
-      <link>https://laurentperrinet.github.io/publication/barthelemy-22/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/barthelemy-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polychrony detection using heterosynaptic delays</title>
+      <title>Polychrony detection using heterogeneous delays</title>
       <link>https://laurentperrinet.github.io/talk/2022-05-19-centuri-day/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/talk/2022-05-19-centuri-day/</guid>
@@ -2410,23 +2384,23 @@ By extending this paradigm to a hierarchy, we envision practical applications of
 &lt;/div&gt;
 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Glad to meet the &lt;a href=&#34;https://twitter.com/centuri_ls?ref_src=twsrc%5Etfw&#34;&gt;@centuri_ls&lt;/a&gt; crowd at the &lt;a href=&#34;https://twitter.com/hashtag/CENTURIday?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CENTURIday&lt;/a&gt; ! With &lt;a href=&#34;https://twitter.com/A_Grismaldi?ref_src=twsrc%5Etfw&#34;&gt;@A_Grismaldi&lt;/a&gt; &lt;a href=&#34;https://t.co/r4633Vzg4F&#34;&gt;https://t.co/r4633Vzg4F&lt;/a&gt; &lt;a href=&#34;https://t.co/GbOGKhB6zA&#34;&gt;https://t.co/GbOGKhB6zA&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1527604282043813888?ref_src=twsrc%5Etfw&#34;&gt;May 20, 2022&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-&lt;ul&gt;
-&lt;li&gt;for event-based motion detection, see: 
+&lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+make* for event-based motion detection, see: 
  
  
  
@@ -2516,183 +2490,7 @@ By extending this paradigm to a hierarchy, we envision practical applications of
  &lt;/div&gt;
  
  
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ultra-Fast Image Categorization in Vivo and in Silico</title>
-      <link>https://laurentperrinet.github.io/publication/jeremie-22-ultra-fast-cat/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/jeremie-22-ultra-fast-cat/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;this is a follow-up of: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2021).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/&#34;&gt;Ultra-fast categorization of images containing animals in vivo and in computo&lt;/a&gt;.
-   &lt;em&gt;Champalimaud Research Symposium (CRS21)&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/jeremie-21-crs.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/jeremie-21-crs/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/li&gt;
-&lt;li&gt;see an extension to visual search in: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2022).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/&#34;&gt;Ultra-rapid visual search in natural images using active deep learning&lt;/a&gt;.
-   &lt;em&gt;Proceedings of AREADNE&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/jeremie-22-areadne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/jeremie-22-areadne/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-   
-   
-     
-   
-   
-   
-   
-   
-     
-   
-   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://areadne.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-     URL&lt;/a&gt;
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -3444,6 +3242,197 @@ In this mini-symposium we aim to gather together experts working in the field of
 « C&amp;rsquo;est toujours fascinant de voir ou de revoir des illusions visuelles. C&amp;rsquo;est encore plus fascinant de plonger dans leurs explications. »&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Behavioral Receptive Field for Ocular Following in Monkeys: Spatial Summation and Its Spatial Frequency Tuning</title>
+      <link>https://laurentperrinet.github.io/publication/barthelemy-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/barthelemy-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-Fast Image Categorization in Vivo and in Silico</title>
+      <link>https://laurentperrinet.github.io/publication/jeremie-22-ultra-fast-cat/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/jeremie-22-ultra-fast-cat/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;this is a follow-up of: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2021).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/&#34;&gt;Ultra-fast categorization of images containing animals in vivo and in computo&lt;/a&gt;.
+   &lt;em&gt;Champalimaud Research Symposium (CRS21)&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/jeremie-21-crs.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/jeremie-21-crs/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;li&gt;see an extension to visual search in: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/&#34;&gt;Ultra-rapid visual search in natural images using active deep learning&lt;/a&gt;.
+   &lt;em&gt;Proceedings of AREADNE&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/jeremie-22-areadne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/jeremie-22-areadne/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+     
+   
+   
+   
+   
+   
+     
+   
+   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://areadne.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+     URL&lt;/a&gt;
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What You See Is What You Transform: Foveated Spatial Transformers as a Bio-Inspired Attention Mechanism</title>
+      <link>https://laurentperrinet.github.io/publication/dabane-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/dabane-22/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -6569,14 +6558,6 @@ We propose to use dynamic inference as an efficient theoretical framework to und
     </item>
     
     <item>
-      <title>Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1</title>
-      <link>https://laurentperrinet.github.io/publication/benvenuti-22/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/benvenuti-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Effect of top-down connections in Hierarchical Sparse Coding</title>
       <link>https://laurentperrinet.github.io/publication/boutin-franciosini-ruffier-perrinet-20-feedback/</link>
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
@@ -6792,6 +6773,14 @@ These theoretical and experimental results show that in this realistic situation
 &lt;li&gt;Voir la @ &lt;a href=&#34;https://laurentperrinet.github.io/post/2019-10-07_neurostories/&#34;&gt;présentation au NeuroStories&lt;/a&gt; sur un thème similaire&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1</title>
+      <link>https://laurentperrinet.github.io/publication/benvenuti-22/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/benvenuti-22/</guid>
+      <description></description>
     </item>
     
     <item>
