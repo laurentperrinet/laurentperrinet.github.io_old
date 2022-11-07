@@ -4116,6 +4116,17 @@ Elle est à considérer comme un interstice, une zone de transformation, un pass
     </item>
     
     <item>
+      <title>Neural Turing Patterns</title>
+      <link>https://laurentperrinet.github.io/post/2021-06-15_neural-turing/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/post/2021-06-15_neural-turing/</guid>
+      <description>&lt;h1 id=&#34;neural-turing-patterns&#34;&gt;Neural Turing Patterns&lt;/h1&gt;
+&lt;p&gt;Il y a des structures dans la nature qui émergent spontanément. Ils ont été étudiés pour la première fois par le mathématicien anglais Alan Turing (1912 – 1954), qui a également introduit le concept de machine informatique contemporaine. Des exemples de ces formes sont les rayures, les taches, les grilles, les pavages, les bulles, les spirales, les mousses et les vagues. Dans le cas spécifique de cette œuvre, il est montré une collection de modèles de Turing générés via des simulations neuronales. Chaque carré est un réseau neuronal de cellules qui se déclenchent avec des intensités faibles (bleues), moyennes (blanches) et élevées (rouge). Beaucoup d&amp;rsquo;entre eux se ressemblent beaucoup, tandis que d&amp;rsquo;autres sont très différents. Regroupées comme elles le sont, les images semblent avoir une continuité graphique avec leurs voisins plus proches. Mais, cette fonctionnalité visuelle est bien une illusion de la Gestalt, car ce sont des résultats de simulation complètement indépendants.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;There are structures in nature that spontaneously emerge. They were studied for the first time by the English mathematician Alan Turing (1912 – 1954), who also introduced the concept of the contemporary computational machine. Examples of those shapes are stripes, spots, grids, tessellations, bubbles, spirals, foams and waves. In the specific case of this artwork, a collection of Turing patterns are generated via brain simulations.  Each square is a network of neural cells that fire with low (blue), medium (white) and high (red) intensities. Many of them look very similar, while others are very different. Grouped as they are, pictures seem to have a graphical continuity with their closest. But, this visual feature is indeed a Gestalt illusion, because they are completely independent simulation results.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dynamical processing of orientation precision in the primary visual cortex</title>
       <link>https://laurentperrinet.github.io/talk/2021-05-20-neuro-france/</link>
       <pubDate>Thu, 20 May 2021 14:00:00 +0000</pubDate>
@@ -11941,7 +11952,8 @@ Bibliothèque de Méjanes&lt;/li&gt;
     
 
   &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/alberto-arturo-vergani/&#34;&gt;Alberto Arturo Vergani&lt;/a&gt;&lt;/span&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/alberto-arturo-vergani/&#34;&gt;Alberto Arturo Vergani&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
   &lt;/span&gt;
   (2021).
   &lt;a href=&#34;https://laurentperrinet.github.io/post/2021-06-15_neural-turing/&#34;&gt;Neural Turing Patterns&lt;/a&gt;.
