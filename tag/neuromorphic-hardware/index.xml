@@ -5,12 +5,68 @@
     <link>https://laurentperrinet.github.io/tag/neuromorphic-hardware/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/neuromorphic-hardware/index.xml" rel="self" type="application/rss+xml" />
     <description>neuromorphic hardware</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 16 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>neuromorphic hardware</title>
       <link>https://laurentperrinet.github.io/tag/neuromorphic-hardware/</link>
     </image>
+    
+    <item>
+      <title>Learning heterogeneous delays of spiking neurons for motion detection</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-22-icip/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-22-icip/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;to be presented at &lt;a href=&#34;https://2022.ieeeicip.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICIP 2022&lt;/a&gt; 16-19 October 2022 in Bordeaux, France&lt;/li&gt;
+&lt;li&gt;paper &lt;a href=&#34;https://cmsworkshops.com/ICIP2022/papers/accepted_papers.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3241&lt;/a&gt; (note that the title of the paper was slightly changed)&lt;/li&gt;
+&lt;li&gt;time of presentation:&lt;/li&gt;
+&lt;li&gt;Tue, 18 Oct, 20:30 - 20:45 China Standard Time (UTC +8)&lt;/li&gt;
+&lt;li&gt;Tue, 18 Oct, 14:30 - 14:45 Central European Time (UTC +2)&lt;/li&gt;
+&lt;li&gt;Tue, 18 Oct, 12:30 - 12:45 UTC&lt;/li&gt;
+&lt;li&gt;Tue, 18 Oct, 08:30 - 08:45 Eastern Time (UTC -4)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;session-neuromorphic-and-perception-based-image-acquisition-and-analysis&#34;&gt;Session &amp;ldquo;Neuromorphic and perception-based image acquisition and analysis&amp;rdquo;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TQ-L.A Special session on Tueasday, October 18 from 14:00 to 16:00&lt;/a&gt;
+&lt;a href=&#34;https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;program.png&#34; srcset=&#34;
+               /publication/grimaldi-22-icip/program_hu1d0ae805a3d35d6cc581e61ccb48e3fd_526410_f8a7cb42bd03234f7da5bec1c350d0bc.webp 400w,
+               /publication/grimaldi-22-icip/program_hu1d0ae805a3d35d6cc581e61ccb48e3fd_526410_89309a4e4d488ee921a24367811bf50c.webp 760w,
+               /publication/grimaldi-22-icip/program_hu1d0ae805a3d35d6cc581e61ccb48e3fd_526410_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-icip/program_hu1d0ae805a3d35d6cc581e61ccb48e3fd_526410_f8a7cb42bd03234f7da5bec1c350d0bc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Organized by Dr. Marc Antonini, Dr. Panagiotis Tsakalides, and Dr. Effrosyni Doutsi:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;During the last decade much attention has been paid to understanding the human brain properties and functions in order to mimic the computational mechanisms of this highly intelligent processing “machine” that seems to be able to address several technological challenges that the scientific community is currently facing. Digital sobriety is quite important among these challenges as it concerns the reduction of the energy footprint caused by the use and transmission of the digital information. According to recent studies, almost 80% of global data flows is due to online videos stored in big data centers ready to be accessed on demand at any time by several users all over the world. As a result, scientists are urged to find energy-saving solutions to capture, process, understand, compress and stream this great volume of visual information in an environmental responsible and greener manner.
+&lt;em&gt;Brain-inspired or neuro-inspired or spike-based or event-based computing are all terms used to describe the emerging technological trend motivated by the brain capability to dynamically capture and to spatio-temporally process and transform the great volume of the 3D visual information into a very compact spike train that is fed forward to the visual cortex of the brain passing through a very dense neural network. This is an energy efficient process, a fact that triggered the attention of the signal processing community trying to design more sober video services.&lt;/em&gt;
+Indeed, every step of the brain processing pipeline provides inspiration towards novel disruptive implementations of image and video processing components: (i) visual sensors responsible for capturing and projecting the visual information into a neuromorphic chip, (ii) image understanding utilizing spiking neural networks to better approximate the dense interconnected network of neurons along the visual pathway, (iii) image processing and compression motivated by the exceptional compactness of the spike trains, capable of providing an ultra-high-definition perception of the visual world. In addition, the last decade has witnessed the progress of neuromorphic algorithms and hardware, which has already reached performance and manufacturing levels that is beyond the state- of-the-art.
+The objective of this special session is to highlight the importance of neuromorphic computing in image and video processing. We are interested in bringing together scientists working on different spike-based computational models, from sensing to understanding, who will share their knowledge and discuss about the advantages and the limitations of this type of systems. The aim is to progress towards an end-to-end and robust technology where the hardware and software will both follow the same neuro-inspired principles, addressing important challenges of the current conventional systems. Last but not least, this special session would be a great opportunity to build a strong international consortium between different teams to attract European and international funding to further study and promote neuromorphic computing for different signal processing open challenges.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning heterogeneous delays of Spiking Neurons for motion detection</title>
@@ -1345,6 +1401,304 @@
      
    
    &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://sites.google.com/uci.edu/neurovision2022/schedule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+     URL&lt;/a&gt;
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;for event-based motion detection, see: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/camille-besnainou/&#34;&gt;Camille Besnainou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-icip/&#34;&gt;Learning heterogeneous delays of spiking neurons for motion detection&lt;/a&gt;.
+   &lt;em&gt;Proceedings of ICIP 2022&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-icip/grimaldi-22-icip.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/grimaldi-22-icip/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1109/ICIP46576.2022.9897394&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+   
+   
+   
+     
+   
+   
+   
+   
+   
+     
+   
+   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://2022.ieeeicip.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+     URL&lt;/a&gt;
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Polychrony detection using heterogeneous delays</title>
+      <link>https://laurentperrinet.github.io/talk/2022-05-19-centuri-day/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/talk/2022-05-19-centuri-day/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Follow this future presentations 
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2022).
+  &lt;a href=&#34;https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterogeneous/&#34;&gt;Learning heterogeneous delays of Spiking Neurons for motion detection&lt;/a&gt;.
+  &lt;em&gt;NeuroVision Workshop in conjunction with CVPR 2022&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-heterogeneous/2022-06-19-neuro-vision-heterogeneous.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/talk/2022-06-19-neuro-vision-heterogeneous/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://sites.google.com/uci.edu/neurovision2022/schedule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    URL&lt;/a&gt;
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Glad to meet the &lt;a href=&#34;https://twitter.com/centuri_ls?ref_src=twsrc%5Etfw&#34;&gt;@centuri_ls&lt;/a&gt; crowd at the &lt;a href=&#34;https://twitter.com/hashtag/CENTURIday?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CENTURIday&lt;/a&gt; ! With &lt;a href=&#34;https://twitter.com/A_Grismaldi?ref_src=twsrc%5Etfw&#34;&gt;@A_Grismaldi&lt;/a&gt; &lt;a href=&#34;https://t.co/r4633Vzg4F&#34;&gt;https://t.co/r4633Vzg4F&lt;/a&gt; &lt;a href=&#34;https://t.co/GbOGKhB6zA&#34;&gt;https://t.co/GbOGKhB6zA&lt;/a&gt;&lt;/p&gt;&amp;mdash; laurentperrinet (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1527604282043813888?ref_src=twsrc%5Etfw&#34;&gt;May 20, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;followed-up as a poster: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/camille-besnainou/&#34;&gt;Camille Besnainou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/&#34;&gt;Decoding spiking motifs using neurons with heterogeneous delays&lt;/a&gt;.
+   &lt;em&gt;Proceedings of AREADNE&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-areadne/grimaldi-22-areadne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/grimaldi-22-areadne/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/slides/2022-07-01_grimaldi-22-areadne/&#34; target=&#34;_blank&#34;&gt;
+     Slides
+   &lt;/a&gt;
+   
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+     
+   
+   
+   
+   
+   
+     
+   
+   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://areadne.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
      URL&lt;/a&gt;
  
  &lt;/p&gt;
