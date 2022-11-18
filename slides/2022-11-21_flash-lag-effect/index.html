@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Wowchemy 5.5.0 for Hugo">
+
+  
+    <link rel="manifest" href="/manifest.webmanifest">
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect/">
+
+  <title>2022-11-21_flash-lag-effect | Novel visual computations</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/white.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" id="highlight-theme">
+
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      <table width="100%">
+<tr>
+	<th width="80%">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<figure  >
+	  <div class="d-flex justify-content-center">
+	    <div class="w-100" ><img src="../../publication/khoei-masson-perrinet-17/header.png" alt="" loading="lazy" data-zoomable /></div>
+	  </div></figure>	</th>
+	<th width="20%">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<figure  >
+	  <div class="d-flex justify-content-center">
+	    <div class="w-100" ><img src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg" alt="" loading="lazy" data-zoomable /></div>
+	  </div></figure>
+	</th>
+</tr>
+</table>
+<u>[2022-11-21] Alex Reynaud's lab meeting</u>
+<br>
+<p style="color:blue;font-size:20px;">
+<a href="https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect">https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect</a></p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="timing-in-the-visual-pathways">Timing in the visual pathways</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-ultra-rapid-visual-processing">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../publication/grimaldi-22-polychronies/visual-latency.jpg" alt="Ultra-rapid visual processing." loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Ultra-rapid visual processing.
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-ultra-rapid-visual-processing">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/tsonga.jpg" alt="Ultra-rapid visual processing." loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Ultra-rapid visual processing.
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-ultra-rapid-visual-processing">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/figure-tsonga.png" alt="Ultra-rapid visual processing." loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Ultra-rapid visual processing.
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="travelling-waves">Travelling waves?</h2>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4" type="video/mp4">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/phi_motion.mp4" type="video/mp4">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-suppressive-travelling-waves">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures//figures/Chemla_etal2019.png" alt="Suppressive travelling waves." loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Suppressive travelling waves.
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="predictive-coding">Predictive coding</h2>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_aperture.mp4%20" type="video/mp4 ">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_box.mp4%20" type="video/mp4 ">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_cube.mp4%20" type="video/mp4 ">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/navier.svg" alt="" loading="lazy" data-zoomable width="95%" /></div>
+  </div></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10.1371/journal.pcbi.1005068.g002" alt="" loading="lazy" data-zoomable width="95%" /></div>
+  </div></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/perrinet12pred_figure2.png" alt="" loading="lazy" data-zoomable width="95%" /></div>
+  </div></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line-nopred_particles.mp4%20" type="video/mp4 ">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4%20" type="video/mp4 ">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="flash-lag-effect">Flash-lag effect</h2>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4" type="video/mp4">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4" type="video/mp4">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<!-- 
+
+novel model inludes latencies
+
+ -->
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4" type="video/mp4">
+</video>
+<!-- 
+
+https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
+MBP_dot_spatial_readout.mp4
+MBP_flash_spatial_readout.mp4
+MBP_spatial_readout.mp4
+PBP_dot_spatial_readout.mp4
+PBP_flash_spatial_readout.mp4
+PBP_spatial_readout.mp4
+ -->
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<video autoplay loop  >
+  <source src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4%20" type="video/mp4 ">
+</video>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="questions">Questions?</h1>
+<p>Ask info @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
+<p>More info @ <a href="https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect" target="_blank" rel="noopener">web-site</a></p>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/highlight/highlight.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/search/search.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/math/math.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/plugin.js" integrity="sha256-M6JwAjnRAWmi+sbXURR/yAhWZKYhAw7YXnnLvIxrdGs=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.js" integrity="sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.css" integrity="sha256-0fU8HKLaTjgzfaV9CgSqbsN8ilA3zo6zK1M6rlgULd8=" crossorigin="anonymous">
+  
+
+  
+
+  
+  <script src="/js/wowchemy-slides.js"></script>
+
+</body>
+</html>
