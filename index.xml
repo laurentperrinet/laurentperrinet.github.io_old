@@ -658,6 +658,44 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 
 
 &lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;hr&gt;
@@ -721,6 +759,14 @@ PBP_flash_spatial_readout.mp4
 https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
 
 PBP_spatial_readout.mp4
+
+
+src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; khoei-masson-perrinet-17
+
+
+ create mode 100644 publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4
+ create mode 100644 publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4
+
  --&gt;
 &lt;hr&gt;
 
