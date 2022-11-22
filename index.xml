@@ -478,11 +478,35 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 
 &lt;figure  id=&#34;figure-diagonal-markov-model-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g002&#34; alt=&#34;Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg&#34; alt=&#34;Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Diagonal markov model (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;!--
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diagonal-markov-model-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g002&#34; alt=&#34;Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Diagonal markov model (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10.1371/journal.pcbi.1005068.g002
 ---
 
 
@@ -641,7 +665,8 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true&#34; type=&#34;video/mp4?raw=true&#34;&gt;
 &lt;/video&gt; --&gt;
-&lt;hr&gt;
+&lt;!-- ---
+
 
 
 
@@ -660,7 +685,11 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
-&lt;hr&gt;
+
+Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
+
+---
+
 
 
 
@@ -679,6 +708,45 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
+Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)). --&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Flash-lag effect: MBP (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).&lt;/p&gt;
 &lt;hr&gt;
 
 

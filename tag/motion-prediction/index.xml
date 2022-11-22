@@ -5,12 +5,1032 @@
     <link>https://laurentperrinet.github.io/tag/motion-prediction/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/motion-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>motion prediction</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 26 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>motion prediction</title>
       <link>https://laurentperrinet.github.io/tag/motion-prediction/</link>
     </image>
+    
+    <item>
+      <title>2022-11-21_flash-lag-effect</title>
+      <link>https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect/</guid>
+      <description>&lt;table width=&#34;100%&#34;&gt;
+&lt;tr&gt;
+	&lt;th width=&#34;80%&#34;&gt; 
+	&lt;img src=&#34;http://localhost:65207/publication/khoei-masson-perrinet-17/header.png&#34; width=&#34;100%&#34; &gt;
+	&lt;th width=&#34;20%&#34;&gt;
+	&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg&#34; width=&#34;100%&#34; &gt;
+	&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;[2022-11-21] Alex Reynaud&amp;rsquo;s lab meeting&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&#34;color:blue;font-size:25px;&#34;&gt;
+&lt;a href=&#34;https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect&#34;&gt;https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;!-- 
+---
+
+
+&lt;table width=&#34;100%&#34;&gt;
+&lt;tr&gt;
+	&lt;th width=&#34;80%&#34;&gt; 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	&lt;figure  &gt;
+	  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+	    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/khoei-masson-perrinet-17/header.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+	  &lt;/div&gt;&lt;/figure&gt;	&lt;/th&gt;
+	&lt;th width=&#34;20%&#34;&gt;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	&lt;figure  &gt;
+	  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+	    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+	  &lt;/div&gt;&lt;/figure&gt;
+	&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+__[2022-11-21] Alex Reynaud&#39;s lab meeting__
+
+&lt;p style=&#34;color:blue;font-size:25px;&#34;&gt;
+&lt;a href=&#34;https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect&#34;&gt;https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect&lt;/a&gt;&lt;/p&gt; --&gt;
+&lt;!-- ---
+
+|
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/khoei-masson-perrinet-17/header.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;29%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;|
+
+__[2022-11-21] Alex Reynaud&#39;s lab meeting__
+https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
+ --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;timing-in-the-visual-pathways&#34;&gt;Timing in the visual pathways&lt;/h2&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ultra-rapid-visual-processing-see-reviewhttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-polychronies/featured.jpg&#34; alt=&#34;Ultra-rapid visual processing ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Ultra-rapid visual processing (&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see review&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-compensating-visual-delays-perrinet-adams--friston-2014httpslaurentperrinetgithubiopublicationperrinet-adams-friston-14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg&#34; alt=&#34;Compensating visual delays ([Perrinet, Adams &amp;amp; Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Compensating visual delays (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet, Adams &amp;amp; Friston 2014&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-compensating-visual-delays-perrinet-adams--friston-2014httpslaurentperrinetgithubiopublicationperrinet-adams-friston-14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg&#34; alt=&#34;Compensating visual delays ([Perrinet Adams &amp;amp; Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Compensating visual delays (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet Adams &amp;amp; Friston, 2014&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;travelling-waves&#34;&gt;Travelling waves?&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/phi_motion.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-suppressive-travelling-waves-chemla-et-al-2019httpslaurentperrinetgithubiopublicationchemla-19&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/laurentperrinet/2019-04-18_JNLF/master/figures/Chemla_etal2019.png&#34; alt=&#34;Suppressive travelling waves ([Chemla *et al*, 2019](https://laurentperrinet.github.io/publication/chemla-19/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Suppressive travelling waves (&lt;a href=&#34;https://laurentperrinet.github.io/publication/chemla-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chemla &lt;em&gt;et al&lt;/em&gt;, 2019&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;predictive-coding&#34;&gt;Predictive coding&lt;/h2&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_aperture.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;!-- 
+---
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_box.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt; --&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_cube.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-motion-based-prediction-perrinet-et-al-2012httpslaurentperrinetgithubiopublicationperrinet-12-pred&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/navier.svg&#34; alt=&#34;Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github.io/publication/perrinet-12-pred/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Motion-based prediction (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet &lt;em&gt;et al&lt;/em&gt;, 2012&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-motion-based-prediction-perrinet-et-al-2012httpslaurentperrinetgithubiopublicationperrinet-12-pred&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/perrinet12pred_figure2.png&#34; alt=&#34;Motion-based prediction ([Perrinet *et al*, 2012](https://laurentperrinet.github.io/publication/perrinet-12-pred/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;61%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Motion-based prediction (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet &lt;em&gt;et al&lt;/em&gt;, 2012&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- ---
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line-nopred_particles.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+---
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+ --&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;Motion-based prediction (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet &lt;em&gt;et al&lt;/em&gt;, 2012&lt;/a&gt;).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;flash-lag-effect&#34;&gt;Flash-lag effect&lt;/h2&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-flash-lag-effect-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_cartoon.jpg&#34; alt=&#34;Flash-lag effect ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Flash-lag effect (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diagonal-markov-model-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg&#34; alt=&#34;Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Diagonal markov model (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!--
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diagonal-markov-model-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;id=10.1371/journal.pcbi.1005068.g002&#34; alt=&#34;Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Diagonal markov model (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10.1371/journal.pcbi.1005068.g002
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diagonal-markov&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg&#34; alt=&#34;Diagonal markov&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Diagonal markov
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diagonal-markov&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_simple.jpg&#34; alt=&#34;Diagonal markov&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Diagonal markov
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diagonal-markov-pull&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_pull.jpg&#34; alt=&#34;Diagonal markov (pull)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Diagonal markov (pull)
+    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+&lt;!-- 
+---
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_flash_spatial_readout.mp4?raw=true&#34; type=&#34;video/mp4?raw=true&#34;&gt;
+&lt;/video&gt;
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/PBP_dot_spatial_readout.mp4?raw=true&#34; type=&#34;video/mp4?raw=true&#34;&gt;
+&lt;/video&gt;
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_flash_spatial_readout.mp4?raw=true&#34; type=&#34;video/mp4?raw=true&#34;&gt;
+&lt;/video&gt;
+
+---
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true&#34; type=&#34;video/mp4?raw=true&#34;&gt;
+&lt;/video&gt; --&gt;
+&lt;!-- ---
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
+
+---
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)). --&gt;
+&lt;hr&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Flash-lag effect: MBP (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).&lt;/p&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-flash-lag-effect-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg&#34; alt=&#34;Flash-lag effect ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Flash-lag effect (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!--
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-qauntitative-result&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg&#34; alt=&#34;Qauntitative result&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Qauntitative result
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg
+
+
+https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
+MBP_dot_spatial_readout.mp4
+MBP_flash_spatial_readout.mp4
+MBP_spatial_readout.mp4
+PBP_dot_spatial_readout.mp4
+PBP_flash_spatial_readout.mp4
+
+https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true
+
+PBP_spatial_readout.mp4
+
+
+src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; khoei-masson-perrinet-17
+
+
+ create mode 100644 publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4
+ create mode 100644 publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4
+
+ --&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-probability-distributions-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg&#34; alt=&#34;Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Probability distributions (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-probability-distributions-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram_comp.jpg&#34; alt=&#34;Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Probability distributions (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-motion-reversal-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_MotionReversal_MBP.jpg&#34; alt=&#34;Motion reversal ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Motion reversal (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-motion-reversal-smoothed-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_MotionReversal.jpg&#34; alt=&#34;Motion reversal (smoothed) ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Motion reversal (smoothed) (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-probability-distributions-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg&#34; alt=&#34;Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Probability distributions (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-limit-cycles-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_limit_cycles.jpg&#34; alt=&#34;Limit cycles ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Limit cycles (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!--
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diagonal-neural&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_neural.jpg&#34; alt=&#34;Diagonal neural&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Diagonal neural
+    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+&lt;hr&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-application-to-the-pulfrich-phenomenonhttpseyewikiaaoorgpulfrich_phenomenon&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://eyewiki.aao.org/w/images/1/e/eb/Pulfrich.png&#34; alt=&#34;Application to the [Pulfrich phenomenon](https://eyewiki.aao.org/Pulfrich_Phenomenon)?&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Application to the &lt;a href=&#34;https://eyewiki.aao.org/Pulfrich_Phenomenon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pulfrich phenomenon&lt;/a&gt;?
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;Ask info @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More info @ &lt;a href=&#34;https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web-site&lt;/a&gt; + &lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The flash-lag effect as a motion-based predictive shift</title>
