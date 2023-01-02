@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var slides = { theme: "white" };
+  var slides = { theme: "black" };
 
   // <stdin>
   var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath.MathJax3, RevealZoom];
@@ -77,10 +77,6 @@
     }
     mermaidOptions["startOnLoad"] = false;
     mermaid.initialize(mermaidOptions);
-  }
-  var mermaidOptions;
-})();
-(mermaidOptions);
   }
   var mermaidOptions;
 })();
