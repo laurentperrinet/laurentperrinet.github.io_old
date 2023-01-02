@@ -466,6 +466,31 @@
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/2022-12-23_polychrony-review_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+&lt;ul&gt;
+&lt;li&gt;read the paper &lt;a href=&#34;https://doi.org/10.3390/brainsci13010068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; or in &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/grimaldi-22-polychronies.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/2022-12-23_polychrony-review_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;code for paper (including revisions): &lt;a href=&#34;https://github.com/SpikeAI/2022_polychronies-review&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/SpikeAI/2022_polychronies-review&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-core-mechanism-of-polychrony-detection-left-in-this-example-three-presynaptic-neurons-denoted-b-c-and-d-are-fully-connected-to-two-post-synaptic-neurons-a-and-e-with-different-delays-of-respectively-1-5-and-9-ms-for-a-and-8-5-and-1-ms-for-e-middle-if-three-synchronous-pulses-are-emitted-from-presynaptic-neurons-this-will-generate-post-synaptic-potentials-that-will-reach-a-and-e-asynchronously-because-of-the-heterogeneous-delays-and-they-may-not-be-sufficient-to-reach-the-membrane-threshold-in-either-of-the-post-synaptic-neurons-therefore-no-spike-will-be-emitted-as-this-is-not-sufficient-to-reach-the-membrane-threshold-of-the-post-synaptic-neuron-so-no-output-spike-is-emitted-right-if-the-pulses-are-emitted-from-presynaptic-neurons-such-that-taking-into-account-the-delays-they-reach-the-post-synaptic-neuron-a-at-the-same-time-here-at-t--10-ms-the-post-synaptic-potentials-evoked-by-the-three-pre-synaptic-neurons-sum-up-causing-the-voltage-threshold-to-be-crossed-and-thus-to-the-emission-of-an-output-spike-red-color-while-none-is-emitted-from-post-synaptic-neuron-e&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png&#34; alt=&#34;**Core mechanism of polychrony detection.** *(Left)* In this example, three presynaptic neurons denoted *b*, *c* and *d* are fully connected to two post-synaptic neurons *a* and *e*, with different delays of respectively 1, 5, and 9 ms for *a* and 8, 5, and 1 ms for *e*. *(Middle)* If three synchronous pulses are emitted from presynaptic neurons, this will generate post-synaptic potentials that will reach a and e asynchronously because of the heterogeneous delays, and they may not be sufficient to reach the membrane threshold in either of the post-synaptic neurons; therefore, no spike will be emitted, as this is not sufficient to reach the membrane threshold of the post synaptic neuron, so no output spike is emitted. *(Right)* If the pulses are emitted from presynaptic neurons such that, taking into account the delays, they reach the post-synaptic neuron *a* at the same time (here, at t = 10 ms), the post-synaptic potentials evoked by the three pre-synaptic neurons sum up, causing the voltage threshold to be crossed and thus to the emission of an output spike (red color), while none is emitted from post-synaptic neuron *e*.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Core mechanism of polychrony detection.&lt;/strong&gt; &lt;em&gt;(Left)&lt;/em&gt; In this example, three presynaptic neurons denoted &lt;em&gt;b&lt;/em&gt;, &lt;em&gt;c&lt;/em&gt; and &lt;em&gt;d&lt;/em&gt; are fully connected to two post-synaptic neurons &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;e&lt;/em&gt;, with different delays of respectively 1, 5, and 9 ms for &lt;em&gt;a&lt;/em&gt; and 8, 5, and 1 ms for &lt;em&gt;e&lt;/em&gt;. &lt;em&gt;(Middle)&lt;/em&gt; If three synchronous pulses are emitted from presynaptic neurons, this will generate post-synaptic potentials that will reach a and e asynchronously because of the heterogeneous delays, and they may not be sufficient to reach the membrane threshold in either of the post-synaptic neurons; therefore, no spike will be emitted, as this is not sufficient to reach the membrane threshold of the post synaptic neuron, so no output spike is emitted. &lt;em&gt;(Right)&lt;/em&gt; If the pulses are emitted from presynaptic neurons such that, taking into account the delays, they reach the post-synaptic neuron &lt;em&gt;a&lt;/em&gt; at the same time (here, at t = 10 ms), the post-synaptic potentials evoked by the three pre-synaptic neurons sum up, causing the voltage threshold to be crossed and thus to the emission of an output spike (red color), while none is emitted from post-synaptic neuron &lt;em&gt;e&lt;/em&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
     
