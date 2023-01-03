@@ -80,3 +80,7 @@
   }
   var mermaidOptions;
 })();
+(mermaidOptions);
+  }
+  var mermaidOptions;
+})();
