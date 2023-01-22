@@ -39,7 +39,7 @@
 &lt;li&gt;What is noise? the uncertainty due to noise is symbolized by dices: a throw of fair dices, even if they are optimally simulated can not be predicted: the outcome is uniformly one facet from 1 to 6&lt;/li&gt;
 &lt;li&gt;I am interested in vision, and uncertainty exists in different forms&lt;/li&gt;
 &lt;li&gt;If we consider the image, can be noise at low contrast, complexity of the object, pose of the dice&lt;/li&gt;
-&lt;li&gt;in this presentation, we will see different facets of noise and uncertainty, and illustrate how our brains may play with it - and delineate a theory for this game. we will also see how it may harness the noise by explictly representing it in the neural activity&lt;/li&gt;
+&lt;li&gt;in this presentation, we will see different facets of noise and uncertainty, and illustrate how our brains may play with it - and delineate a theory for this game. we will also see how it may harness the noise by explicitly representing it in the neural activity&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
@@ -93,6 +93,8 @@
 &lt;li&gt;what is noise? it exists at quantum level, but if I were to ask you to draw random points how would it look like?&lt;/li&gt;
 &lt;li&gt;Aleatoric comes from alea, the Latin word for “dice.” Aleatoric uncertainty is the uncertainty introduced by the randomness of an event. For example, the result of flipping a coin is an aleatoric event.&lt;/li&gt;
 &lt;li&gt;In your opinion, which of the two is the most random pattern?&lt;/li&gt;
+&lt;li&gt;from your responses &amp;hellip;&lt;/li&gt;
+&lt;li&gt;the answer is that &amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
@@ -119,8 +121,15 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;this was for instance used by the artist Etienne Rey to generate large panels&lt;/li&gt;
-&lt;li&gt;our perception will generate objects out of nowhere: surfaces, groups, holes&amp;hellip;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;this was for instance used by the artist Etienne Rey to generate large panels&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;our perception will generate objects out of nowhere: surfaces, groups, holes&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;this explains many cognitive biases, for instance that we expect noise to have some regularity and that we wish to explain any cluster of events by some god-like divinity&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
@@ -232,8 +241,8 @@
 &lt;/video&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;to test this in the lab, we analyzed the response of observers to a sequences of left / right moving dots&lt;/li&gt;
+&lt;li&gt;These were presented in multiple blocks of 50 trials for which we recorded eye movements and, on a subsequent day, asked them&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
@@ -249,10 +258,29 @@ C: 👍🤘🤘🤘👍🤘👍👍🤘🤘🤘🤘🤘🤘👍👍🤘👍🤘�
 D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
 &lt;/code&gt;&lt;/pre&gt;&lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;to simplify the problem, let&amp;rsquo;s show these sequences as the sequence of these 2 emojis&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In sequence A, what do you think the next&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the same question could be asked in an online fashion&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;in sequence B, it&amp;rsquo;s certainly the same answer, yet with lower certitude&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;in sequence C, you go metal 🤘&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;in sequence D, it&amp;rsquo;s different there is a clearly a tendance for 🤘but that it switches to 👍&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;is it possible that the brain may detect such switches?&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;🤘
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;sequence-prediction-2&#34;&gt;Sequence prediction&lt;/h1&gt;
@@ -278,15 +306,26 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;to synthesize, we have a generative model&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;we found the mathematically optimal problem - and found that both eye movements + bets follow the model with switches&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The aleatoric noise is transformed into a measure of knowledge = epistemic noise&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;epistemic-noise&#34;&gt;Epistemic noise&lt;/h1&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;playing-with-noise&#34;&gt;Playing with noise&lt;/h1&gt;
+&lt;!-- 
+---
+
+# Playing with noise
+
+
 
 
 
@@ -307,8 +346,12 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
   &lt;/div&gt;&lt;figcaption&gt;
       Nash equilibrium (&lt;a href=&#34;https://en.wikipedia.org/wiki/Rock_paper_scissors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rock paper scissors&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;let&amp;rsquo;s go back to game theory&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Rock paper scissors: Its French name, &amp;ldquo;Chi-fou-mi&amp;rdquo;, is based on the Old Japanese words for &amp;ldquo;one, two, three&amp;rdquo; (&amp;ldquo;hi, fu, mi&amp;rdquo;).&lt;/p&gt;
 &lt;/li&gt;
@@ -321,7 +364,9 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 &lt;/ul&gt;
 
 &lt;/aside&gt;
-&lt;hr&gt;
+
+---
+
 
 
 
@@ -342,13 +387,15 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
   &lt;/div&gt;&lt;figcaption&gt;
       Prisoner’s Dilemma (&lt;a href=&#34;http://www.salemmarafi.com/business/prisoners-dilemma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Salem Marafi&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;uncertainty comes not from aleatoric noise but from not knowing: epistemic uncertaintyy&lt;/li&gt;
+&lt;li&gt;uncertainty comes not from aleatoric noise but from not knowing: epistemic uncertainty&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;/aside&gt;
+&lt;/aside&gt; --&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;representing-uncertainty&#34;&gt;Representing uncertainty&lt;/h1&gt;
 
