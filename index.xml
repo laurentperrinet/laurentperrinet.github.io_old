@@ -26449,10 +26449,13 @@ This chapter introduces the book. See also:&lt;/p&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://en.wikipedia.org/wiki/Cydonia_%28Mars%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;what-is-the-function-of-vision-4&#34;&gt;What is the function of vision?&lt;/h2&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;what-is-the-algorithm-of-vision&#34;&gt;What is the algorithm of vision?&lt;/h2&gt;
+&lt;!-- ---
+
+## What is the function of vision?
+
+---
+
+## What is the algorithm of vision? --&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
@@ -26500,7 +26503,7 @@ This chapter introduces the book. See also:&lt;/p&gt;
       [&lt;a href=&#34;http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sejnowski, Koch &amp;amp; Churchland (1998)&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;human-visual-system&#34;&gt;Human Visual system&lt;/h2&gt;
+&lt;h2 id=&#34;anatomy-of-the-human-visual-system&#34;&gt;Anatomy of the Human Visual system&lt;/h2&gt;
 
 
 
@@ -26515,14 +26518,58 @@ This chapter introduces the book. See also:&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-human-visual-system-wikipediahttpsenwikipediaorgwikivisual_system&#34;&gt;
+&lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg&#34; alt=&#34;[Human Visual system (Wikipedia)](https://en.wikipedia.org/wiki/Visual_system)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;40%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      &lt;a href=&#34;https://en.wikipedia.org/wiki/Visual_system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Human Visual system (Wikipedia)&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;61%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;primary-visual-cortex&#34;&gt;Primary visual cortex&lt;/h2&gt;
+&lt;h2 id=&#34;human-visual-system--the-hmax-model&#34;&gt;Human Visual system : the HMAX model&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-serre-and-poggio-2007httpsbiologystackexchangecomquestions10955ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.stack.imgur.com/ZlFnp.png&#34; alt=&#34;[[Serre and Poggio, 2007](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;65%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serre and Poggio, 2007&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- ---
+
+## Anatomy of the Human Visual system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-wikipediahttpsenwikipediaorgwikivisual_system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg&#34; alt=&#34;[[Wikipedia]](https://en.wikipedia.org/wiki/Visual_system)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Visual_system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Wikipedia]&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;primary-visual-cortex-hubel--wiesel&#34;&gt;Primary visual cortex: Hubel &amp;amp; Wiesel&lt;/h2&gt;
 
 
 
@@ -26544,7 +26591,7 @@ This chapter introduces the book. See also:&lt;/p&gt;
       [Hubel &amp;amp; Wiesel, 1962]
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;hubel--wiesel&#34;&gt;Hubel &amp;amp; Wiesel&lt;/h2&gt;
+&lt;h2 id=&#34;primary-visual-cortex-hubel--wiesel-1&#34;&gt;Primary visual cortex: Hubel &amp;amp; Wiesel&lt;/h2&gt;
 
 
 
@@ -26589,21 +26636,29 @@ This chapter introduces the book. See also:&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;One-dimensional discrete convolution (eg in time) with a kernel f of radius $K$:
+&lt;li&gt;One-dimensional &lt;strong&gt;discrete&lt;/strong&gt; convolution (eg in time) with a kernel $g$ of radius $K$:
 $$
-(f \ast g)[n]=\sum_{m=-K}^{K} f[m] g[n-m]
+(f \ast g)[n]=\sum_{m=-K}^{K} f[n-m] \cdot g[m]
 $$&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics-1&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Discrete convolution of an image (two-dimensional):&lt;/li&gt;
+&lt;li&gt;Convolution of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i, j] g[i-x, j-y]
+(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i-x, j-y] \cdot g[i, j]
 $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics-2&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Correlation&lt;/strong&gt;  of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast \tilde{g})[x, y] = \sum_{i,j} f[x-i, y-j] \cdot g[i, j]
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--mathematics-3&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
 
 
 
@@ -26625,22 +26680,43 @@ $$&lt;/p&gt;
       [&lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amidi &amp;amp; Amidi&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;convolutional-neural-networks--mathematics-3&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Discrete convolution of an image on several output channels:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;$$
-(f \ast g)[x, y, k] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[k, i, j, k] g[i-x, j-y]
-$$&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics-4&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Discrete convolution of a multi-channel (e.g. RGB) image on multiple output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
+&lt;li&gt;Correlation of an image on several output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast g)[x, y, k] = \
-\sum_{i=-K}^{K} \sum_{j=-K}^{K} \sum_{c=1}^{C} f[k, c, i, j] g[i-x, j-y, c]
+(f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x-i, y-j] \cdot g[c, i, j]
 $$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--mathematics-5&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correlation of a multi-channel (e.g. RGB) image on multiple output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x-i, y-j] \cdot g[k, c, i, j]
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--the-hmax-model&#34;&gt;Convolutional Neural Networks : the HMAX model&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-serre-and-poggio-2006httpsbiologystackexchangecomquestions10955ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.stack.imgur.com/ZlFnp.png&#34; alt=&#34;[[Serre and Poggio, 2006]](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;65%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Serre and Poggio, 2006]&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks-cnns&#34;&gt;Convolutional Neural Networks (CNNs)&lt;/h2&gt;
 
@@ -26659,12 +26735,12 @@ $$&lt;/p&gt;
 
 &lt;figure  id=&#34;figure-amidi--amidihttpsstanfordedushervineteachingcs-230cheatsheet-convolutional-neural-networks&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-cnn-fr.jpeg&#34; alt=&#34;[[Amidi &amp;amp; Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-cnn-fr.jpeg&#34; alt=&#34;[[Amidi &amp;amp; Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amidi &amp;amp; Amidi&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;convolutional-neural-networks--hiérarchie&#34;&gt;Convolutional Neural Networks : hiérarchie&lt;/h2&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--hierarchy-1&#34;&gt;Convolutional Neural Networks : hierarchy&lt;/h2&gt;
 
 
 
@@ -26986,7 +27062,7 @@ $$&lt;/p&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;dynamics-of-vision-7&#34;&gt;Dynamics of vision&lt;/h2&gt;
-&lt;p&gt;
+&lt;!-- 
 
 
 
@@ -27020,7 +27096,25 @@ $$&lt;/p&gt;
 
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;
+&lt;/video&gt; --&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 &lt;p&gt;Flash-lag effect: MBP (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;)&lt;/p&gt;
 &lt;/section&gt;
 &lt;hr&gt;
@@ -27064,7 +27158,7 @@ $$&lt;/p&gt;
 
 &lt;figure  id=&#34;figure-mainen--sejnowski-1995httpsgithubcomspikeai2022_polychronies-reviewblobmainsrcfigure_2_mainensejnowski1995ipynb&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png&#34; alt=&#34;[[Mainen &amp;amp; Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png&#34; alt=&#34;[[Mainen &amp;amp; Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mainen &amp;amp; Sejnowski, 1995&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -27093,7 +27187,7 @@ $$&lt;/p&gt;
 
 &lt;figure  id=&#34;figure-diesmann-et-al-1999httpsgithubcomspikeai2022_polychronies-reviewblobmainsrcfigure_3_diesmann_et_al_1999py&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png&#34; alt=&#34;[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png&#34; alt=&#34;[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diesmann et al. 1999&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -27122,7 +27216,7 @@ $$&lt;/p&gt;
 
 &lt;figure  id=&#34;figure-haimerl-et-al-2019httpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg&#34; alt=&#34;[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg&#34; alt=&#34;[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haimerl et al, 2019&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -27164,6 +27258,64 @@ $$&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This hypothesis is reviewed with respect to our knowledge of the neurobiology, for instance in the hippocampus of rodents. We also review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-spiking-motifs-1&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif&#34; alt=&#34;Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A standard LIF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-spiking-motifs-2&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/HSD.gif&#34; alt=&#34;Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A nice HSD neuron&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
