@@ -714,7 +714,7 @@
       
 <h2 id="convolutional-neural-networks--mathematics">Convolutional Neural Networks : Mathematics</h2>
 <ul>
-<li>One-dimensional <strong>discrete</strong> convolution (eg in time) with a kernel $g$ of radius $K$:
+<li>One-dimensional <a href="https://en.wikipedia.org/wiki/Convolution#Discrete_convolution" target="_blank" rel="noopener">discrete convolution</a> (eg in time) with a kernel $g$ of radius $K$:
 $$
 (f \ast g)[n]=\sum_{m=-K}^{K} f[n-m] \cdot g[m]
 $$</li>
@@ -734,7 +734,7 @@ $$</li>
 <li>Convolution of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:</li>
 </ul>
 <p>$$
-(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i-x, j-y] \cdot g[i, j]
+(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[x-i, y-j] \cdot g[i, j]
 $$</p>
 
     </section>
@@ -748,10 +748,10 @@ $$</p>
       
 <h2 id="convolutional-neural-networks--mathematics-2">Convolutional Neural Networks : Mathematics</h2>
 <ul>
-<li><strong>Correlation</strong>  of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:</li>
+<li><strong>Cross-correlation</strong> of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:</li>
 </ul>
 <p>$$
-(f \ast \tilde{g})[x, y] = \sum_{i,j} f[x-i, y-j] \cdot g[i, j]
+(f \ast \tilde{g})[x, y] = \sum_{i,j} f[x+i, y+j] \cdot g[i, j]
 $$</p>
 
     </section>
@@ -799,7 +799,7 @@ $$</p>
 <li>Correlation of an image on several output channels (note <a href="https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html" target="_blank" rel="noopener">the order of the indices</a>):</li>
 </ul>
 <p>$$
-(f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x-i, y-j] \cdot g[c, i, j]
+(f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[c, i, j]
 $$</p>
 
     </section>
@@ -816,7 +816,7 @@ $$</p>
 <li>Correlation of a multi-channel (e.g. RGB) image on multiple output channels (note <a href="https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html" target="_blank" rel="noopener">the order of the indices</a>):</li>
 </ul>
 <p>$$
-(f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x-i, y-j] \cdot g[k, c, i, j]
+(f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
 $$</p>
 
     </section>

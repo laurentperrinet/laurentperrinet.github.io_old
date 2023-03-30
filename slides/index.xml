@@ -2681,7 +2681,7 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;One-dimensional &lt;strong&gt;discrete&lt;/strong&gt; convolution (eg in time) with a kernel $g$ of radius $K$:
+&lt;li&gt;One-dimensional &lt;a href=&#34;https://en.wikipedia.org/wiki/Convolution#Discrete_convolution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;discrete convolution&lt;/a&gt; (eg in time) with a kernel $g$ of radius $K$:
 $$
 (f \ast g)[n]=\sum_{m=-K}^{K} f[n-m] \cdot g[m]
 $$&lt;/li&gt;
@@ -2692,15 +2692,15 @@ $$&lt;/li&gt;
 &lt;li&gt;Convolution of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[i-x, j-y] \cdot g[i, j]
+(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[x-i, y-j] \cdot g[i, j]
 $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics-2&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Correlation&lt;/strong&gt;  of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-correlation&lt;/strong&gt; of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast \tilde{g})[x, y] = \sum_{i,j} f[x-i, y-j] \cdot g[i, j]
+(f \ast \tilde{g})[x, y] = \sum_{i,j} f[x+i, y+j] \cdot g[i, j]
 $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics-3&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
@@ -2730,7 +2730,7 @@ $$&lt;/p&gt;
 &lt;li&gt;Correlation of an image on several output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x-i, y-j] \cdot g[c, i, j]
+(f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[c, i, j]
 $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics-5&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
@@ -2738,7 +2738,7 @@ $$&lt;/p&gt;
 &lt;li&gt;Correlation of a multi-channel (e.g. RGB) image on multiple output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
-(f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x-i, y-j] \cdot g[k, c, i, j]
+(f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
 $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--the-hmax-model&#34;&gt;Convolutional Neural Networks : the HMAX model&lt;/h2&gt;
