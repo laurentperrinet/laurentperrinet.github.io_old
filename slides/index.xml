@@ -3409,11 +3409,11 @@ $$&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-from-frame-based-to-event-based-cameras&#34;&gt;
+&lt;figure  id=&#34;figure-the-hd-snn-neural-network&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png&#34; alt=&#34;From frame-based to event-based cameras.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/HDSNN_conv.png&#34; alt=&#34;The HD-SNN neural network.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      From frame-based to event-based cameras.
+      The HD-SNN neural network.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
@@ -3433,23 +3433,80 @@ $$&lt;/p&gt;
 
 
 
+  
 
 
 
 
 
-&lt;figure  id=&#34;figure-from-frame-based-to-event-based-cameras&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png&#34; alt=&#34;From frame-based to event-based cameras.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      From frame-based to event-based cameras.
-    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/FastMotionDetection_input.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A nice HSD neuron&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-3&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-hd-snn-neural-network&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/motion_kernels.png&#34; alt=&#34;The HD-SNN neural network.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The HD-SNN neural network.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nice kernels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-4&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-hd-snn-neural-network&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/accuracy.png&#34; alt=&#34;The HD-SNN neural network.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The HD-SNN neural network.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;frugal computing&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;/aside&gt;
 &lt;/section&gt;
