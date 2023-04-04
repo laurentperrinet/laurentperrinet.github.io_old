@@ -2224,6 +2224,14 @@ $$&lt;/p&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;objective= understand biological vision&lt;/li&gt;
+&lt;li&gt;interaction between artificial and natural NNs&lt;/li&gt;
+&lt;li&gt;outline&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
@@ -2250,9 +2258,8 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;li&gt;more on &lt;a href=&#34;https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;cut in different levels: Marr (+ Poggio)&lt;/li&gt;
+&lt;li&gt;arbitrary, but useful division of labor&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
@@ -2278,6 +2285,13 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://www.cabinetmagazine.org/issues/30/archibald.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unexpected Visitor (Ilya Repin, 1884)&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;seeing= interacting with the visual world&lt;/li&gt;
+&lt;li&gt;social animals: looking at emotions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;what-is-the-function-of-vision-1&#34;&gt;What is the function of vision?&lt;/h2&gt;
 
@@ -2300,6 +2314,13 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://www.cabinetmagazine.org/issues/30/archibald.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unexpected Visitor (Yarbus, 1965)&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;active: the eye is always moving&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fr.wikipedia.org/wiki/Alfred_Iarbous&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fr.wikipedia.org/wiki/Alfred_Iarbous&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;what-is-the-function-of-vision-2&#34;&gt;What is the function of vision?&lt;/h2&gt;
 
@@ -2322,6 +2343,12 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://www.cabinetmagazine.org/issues/30/archibald.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unexpected Visitor - &lt;em&gt;Age?&lt;/em&gt; (Yarbus, 1965)&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;active: depends on task&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;what-is-the-function-of-vision-3&#34;&gt;What is the function of vision?&lt;/h2&gt;
 
@@ -2344,6 +2371,12 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://www.cabinetmagazine.org/issues/30/archibald.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unexpected Visitor - &lt;em&gt;How long?&lt;/em&gt; (Yarbus, 1965)&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;consistency of eye traces&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;
@@ -2409,6 +2442,12 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;effect of context -&amp;gt; 3D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-3&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
 
@@ -2497,13 +2536,28 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://en.wikipedia.org/wiki/Cydonia_%28Mars%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;!-- ---
+&lt;hr&gt;
+&lt;h2 id=&#34;principles-of-vision-1&#34;&gt;Principles of vision?&lt;/h2&gt;
 
-## What is the function of vision?
 
----
 
-## What is the algorithm of vision? --&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
@@ -2730,7 +2784,7 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics-4&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Correlation of an image on several output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
+&lt;li&gt;Correlation of an image defined on several  channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
 (f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[c, i, j]
@@ -2738,7 +2792,7 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--mathematics-5&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Correlation of a multi-channel (e.g. RGB) image on multiple output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
+&lt;li&gt;Correlation of a multi-channel image for multiple output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;$$
 (f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
@@ -2765,6 +2819,12 @@ $$&lt;/p&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Serre and Poggio, 2006]&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;sota&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks-cnns&#34;&gt;Convolutional Neural Networks (CNNs)&lt;/h2&gt;
 
@@ -2781,11 +2841,11 @@ $$&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-amidi--amidihttpsstanfordedushervineteachingcs-230cheatsheet-convolutional-neural-networks&#34;&gt;
+&lt;figure  id=&#34;figure-jérémie--lp-2023httpslaurentperrinetgithubiopublicationjeremie-23-ultra-fast-cat&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-cnn-fr.jpeg&#34; alt=&#34;[[Amidi &amp;amp; Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png&#34; alt=&#34;[[Jérémie &amp;amp; LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      [&lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amidi &amp;amp; Amidi&lt;/a&gt;]
+      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jérémie &amp;amp; LP, 2023&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--hierarchy-1&#34;&gt;Convolutional Neural Networks : hierarchy&lt;/h2&gt;
@@ -2809,6 +2869,13 @@ $$&lt;/p&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;backpropagation is not bioplausible&lt;/li&gt;
+&lt;li&gt;modification&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--predictive-coding&#34;&gt;Convolutional Neural Networks : Predictive coding&lt;/h2&gt;
 
@@ -2831,6 +2898,12 @@ $$&lt;/p&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;adding sparse coding + feedback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--predictive-coding-1&#34;&gt;Convolutional Neural Networks : Predictive coding&lt;/h2&gt;
 
@@ -2853,6 +2926,12 @@ $$&lt;/p&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;interpretable features&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;convolutional-neural-networks--topography&#34;&gt;Convolutional Neural Networks : Topography&lt;/h2&gt;
 
@@ -2900,6 +2979,28 @@ $$&lt;/p&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
+&lt;h1 id=&#34;computational-neuroscience-of-vision-2&#34;&gt;Computational neuroscience of vision&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
 &lt;h1 id=&#34;dynamics-of-vision&#34;&gt;Dynamics of vision&lt;/h1&gt;
 
 
@@ -3186,6 +3287,28 @@ $$&lt;/p&gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;p&gt;Flash-lag effect: MBP (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-8&#34;&gt;Dynamics of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
@@ -3592,9 +3715,9 @@ $$&lt;/p&gt;
 
 &lt;/aside&gt;
 &lt;/section&gt;
-&lt;section&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;artificial-neural-networks-and-machine-learning-applied-to-the-understanding-of-biological-vision&#34;&gt;Artificial neural networks and machine learning applied to the understanding of biological vision&lt;/h1&gt;
+&lt;section&gt;
+&lt;h2 id=&#34;artificial-neural-networks-and-machine-learning-applied-to-the-understanding-of-biological-vision&#34;&gt;Artificial neural networks and machine learning applied to the understanding of biological vision&lt;/h2&gt;
 
 
 

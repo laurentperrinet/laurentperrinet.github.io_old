@@ -77,6 +77,14 @@
   </div></figure>
 
 Contact me @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
+<aside class="notes">
+  <ul>
+<li>objective= understand biological vision</li>
+<li>interaction between artificial and natural NNs</li>
+<li>outline</li>
+</ul>
+
+</aside>
 </section>
 
     </section>
@@ -112,9 +120,8 @@ Contact me @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ
     </figcaption></figure>
 <aside class="notes">
   <ul>
-<li>Only the speaker can read these notes</li>
-<li>Press <code>S</code> key to view</li>
-<li>more on <a href="https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md" target="_blank" rel="noopener">doc</a></li>
+<li>cut in different levels: Marr (+ Poggio)</li>
+<li>arbitrary, but useful division of labor</li>
 </ul>
 
 </aside>
@@ -149,6 +156,13 @@ Contact me @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ
   </div><figcaption>
       <a href="https://www.cabinetmagazine.org/issues/30/archibald.php" target="_blank" rel="noopener">An Unexpected Visitor (Ilya Repin, 1884)</a>
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>seeing= interacting with the visual world</li>
+<li>social animals: looking at emotions</li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -180,6 +194,13 @@ Contact me @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ
   </div><figcaption>
       <a href="https://www.cabinetmagazine.org/issues/30/archibald.php" target="_blank" rel="noopener">An Unexpected Visitor (Yarbus, 1965)</a>
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>active: the eye is always moving</li>
+<li><a href="https://fr.wikipedia.org/wiki/Alfred_Iarbous" target="_blank" rel="noopener">https://fr.wikipedia.org/wiki/Alfred_Iarbous</a></li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -211,6 +232,12 @@ Contact me @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ
   </div><figcaption>
       <a href="https://www.cabinetmagazine.org/issues/30/archibald.php" target="_blank" rel="noopener">An Unexpected Visitor - <em>Age?</em> (Yarbus, 1965)</a>
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>active: depends on task</li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -242,6 +269,12 @@ Contact me @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ
   </div><figcaption>
       <a href="https://www.cabinetmagazine.org/issues/30/archibald.php" target="_blank" rel="noopener">An Unexpected Visitor - <em>How long?</em> (Yarbus, 1965)</a>
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>consistency of eye traces</li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -334,6 +367,12 @@ Contact me @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ
   </div><figcaption>
       <a href="https://en.wikipedia.org/wiki/Hering_illusion" target="_blank" rel="noopener">Hering illusion</a>
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>effect of context -&gt; 3D</li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -458,13 +497,37 @@ Contact me @ <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ
   </div><figcaption>
       <a href="https://en.wikipedia.org/wiki/Cydonia_%28Mars%29" target="_blank" rel="noopener">Cydonia Mensae (2007) <em>Mars Global Surveyor</em></a>
     </figcaption></figure>
-<!-- ---
 
-## What is the function of vision?
+    </section>
+    
 
----
+    
+    
+    
+    <section>
+    
+      
+<h2 id="principles-of-vision-1">Principles of vision?</h2>
 
-## What is the algorithm of vision? -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" alt="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" loading="lazy" data-zoomable width="90%" /></div>
+  </div><figcaption>
+      [<a href="https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html" target="_blank" rel="noopener">Marr, 1982</a>]
+    </figcaption></figure>
 </section>
 
     </section>
@@ -799,7 +862,7 @@ $$</p>
       
 <h2 id="convolutional-neural-networks--mathematics-4">Convolutional Neural Networks : Mathematics</h2>
 <ul>
-<li>Correlation of an image on several output channels (note <a href="https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html" target="_blank" rel="noopener">the order of the indices</a>):</li>
+<li>Correlation of an image defined on several  channels (note <a href="https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html" target="_blank" rel="noopener">the order of the indices</a>):</li>
 </ul>
 <p>$$
 (f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[c, i, j]
@@ -816,7 +879,7 @@ $$</p>
       
 <h2 id="convolutional-neural-networks--mathematics-5">Convolutional Neural Networks : Mathematics</h2>
 <ul>
-<li>Correlation of a multi-channel (e.g. RGB) image on multiple output channels (note <a href="https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html" target="_blank" rel="noopener">the order of the indices</a>):</li>
+<li>Correlation of a multi-channel image for multiple output channels (note <a href="https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html" target="_blank" rel="noopener">the order of the indices</a>):</li>
 </ul>
 <p>$$
 (f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
@@ -852,6 +915,12 @@ $$</p>
   </div><figcaption>
       <a href="https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group" target="_blank" rel="noopener">[Serre and Poggio, 2006]</a>
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>sota</li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -877,11 +946,11 @@ $$</p>
 
 
 
-<figure  id="figure-amidi--amidihttpsstanfordedushervineteachingcs-230cheatsheet-convolutional-neural-networks">
+<figure  id="figure-jérémie--lp-2023httpslaurentperrinetgithubiopublicationjeremie-23-ultra-fast-cat">
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/architecture-cnn-fr.jpeg" alt="[[Amidi &amp; Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]" loading="lazy" data-zoomable width="99%" /></div>
+    <div class="w-100" ><img src="https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png" alt="[[Jérémie &amp; LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]" loading="lazy" data-zoomable width="90%" /></div>
   </div><figcaption>
-      [<a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks" target="_blank" rel="noopener">Amidi &amp; Amidi</a>]
+      [<a href="https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/" target="_blank" rel="noopener">Jérémie &amp; LP, 2023</a>]
     </figcaption></figure>
 
     </section>
@@ -914,6 +983,13 @@ $$</p>
   </div><figcaption>
       [<a href="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/" target="_blank" rel="noopener">Boutin <em>et al</em>, 2021</a>]
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>backpropagation is not bioplausible</li>
+<li>modification</li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -945,6 +1021,12 @@ $$</p>
   </div><figcaption>
       [<a href="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/" target="_blank" rel="noopener">Boutin <em>et al</em>, 2021</a>]
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>adding sparse coding + feedback</li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -976,6 +1058,12 @@ $$</p>
   </div><figcaption>
       [<a href="https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/" target="_blank" rel="noopener">Boutin <em>et al</em>, 2021</a>]
     </figcaption></figure>
+<aside class="notes">
+  <ul>
+<li>interpretable features</li>
+</ul>
+
+</aside>
 
     </section>
     
@@ -1050,6 +1138,37 @@ $$</p>
     
       
 <section>
+<h1 id="computational-neuroscience-of-vision-2">Computational neuroscience of vision</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" alt="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" loading="lazy" data-zoomable width="90%" /></div>
+  </div><figcaption>
+      [<a href="https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html" target="_blank" rel="noopener">Marr, 1982</a>]
+    </figcaption></figure>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
 <h1 id="dynamics-of-vision">Dynamics of vision</h1>
 
 
@@ -1399,6 +1518,37 @@ $$</p>
   <source src="https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4" type="video/mp4">
 </video>
 <p>Flash-lag effect: MBP (<a href="https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/" target="_blank" rel="noopener">Khoei <em>et al</em>, 2017</a>)</p>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="dynamics-of-vision-8">Dynamics of vision</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml">
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://outde.xyz/img/Rawski/Marr/3Lvls.jpg" alt="[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]" loading="lazy" data-zoomable width="90%" /></div>
+  </div><figcaption>
+      [<a href="https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html" target="_blank" rel="noopener">Marr, 1982</a>]
+    </figcaption></figure>
 </section>
 
     </section>
@@ -1931,7 +2081,6 @@ $$</p>
 
 </aside>
 </section>
-<section>
 
     </section>
     
@@ -1942,7 +2091,8 @@ $$</p>
     <section>
     
       
-<h1 id="artificial-neural-networks-and-machine-learning-applied-to-the-understanding-of-biological-vision">Artificial neural networks and machine learning applied to the understanding of biological vision</h1>
+<section>
+<h2 id="artificial-neural-networks-and-machine-learning-applied-to-the-understanding-of-biological-vision">Artificial neural networks and machine learning applied to the understanding of biological vision</h2>
 
 
 
