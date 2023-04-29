@@ -18,7 +18,19 @@
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ladret-23-iclr/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Accepted paper (poster) at the &lt;a href=&#34;https://www.sparseneural.net/accepted-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR 2023 Workshop on
+Sparsity in Neural Networks&lt;/a&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the focus of the WS is on &amp;ldquo;On practical limitations and tradeoffs between sustainability and efficiency&amp;rdquo; in Kigali, Rwanda / May 5th 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;reviews will be made public on &lt;a href=&#34;https://openreview.net/forum?id=tgr8FEcl28M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openreview.net/forum?id=tgr8FEcl28M&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -48,8 +60,7 @@
       Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. &lt;strong&gt;(a)&lt;/strong&gt; Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). &lt;strong&gt;(b)&lt;/strong&gt; Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). &lt;strong&gt;(c)&lt;/strong&gt; Elements from a dictionary learned from scratch. &lt;strong&gt;(d)&lt;/strong&gt; Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;This theoretical work accompanies a similar study in neurophysiology: 
+&lt;li&gt;This theoretical work accompanies a similar study in neurophysiology: 
  
  
  
@@ -59,17 +70,6 @@
  
  
  
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Accepted paper (poster) at the &lt;a href=&#34;https://www.sparseneural.net/accepted-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR 2023 Workshop on
-Sparsity in Neural Networks&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;the focus of the WS is on &amp;ldquo;On practical limitations and tradeoffs between sustainability and efficiency&amp;rdquo; in Kigali, Rwanda / May 5th 2023&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;reviews will be made public on &lt;a href=&#34;https://openreview.net/forum?id=tgr8FEcl28M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openreview.net/forum?id=tgr8FEcl28M&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
