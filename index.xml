@@ -30087,9 +30087,9 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/slides/2023-05-10_phd-program_neurosciences-computationnelles/</guid>
       <description>&lt;section&gt;
-&lt;h1 id=&#34;artificial-neural-networks-and-machine-learning-applied-to-the-understanding-of-biological-visionhttpslaurentperrinetgithubioslides2023-05-10_phd-program_neurosciences-computationnellestransitionfade&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/slides/2023-05-10_phd-program_neurosciences-computationnelles/?transition=fade&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial neural networks and machine learning applied to the understanding of biological vision&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;interactions-between-machine-learning-artificial-neural-networks-and-our-understanding-of-biological-visionhttpslaurentperrinetgithubioslides2023-05-10_phd-program_neurosciences-computationnellestransitionfade&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/slides/2023-05-10_phd-program_neurosciences-computationnelles/?transition=fade&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interactions between machine learning, artificial neural networks and our understanding of biological vision&lt;/a&gt;&lt;/h1&gt;
 &lt;h4 id=&#34;laurent-perrinethttpslaurentperrinetgithubio&#34;&gt;&lt;em&gt;&lt;a href=&#34;https://laurentperrinet.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Perrinet&lt;/a&gt;&lt;/em&gt;&lt;/h4&gt;
-&lt;h4 id=&#34;u2023-04-05httpsameticeuniv-amufrcourseviewphpid95116-phd-programhttpssciencesuniv-amufrfrformationmastersmaster-neurosciencesu&#34;&gt;&lt;u&gt;&lt;a href=&#34;https://ametice.univ-amu.fr/course/view.php?id=95116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[2023-04-05]&lt;/a&gt; &lt;a href=&#34;https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhD program.&lt;/a&gt;&lt;/u&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;u2023-05-10httpsameticeuniv-amufrcourseviewphpid95116-neuroschool-phd-program-in-neurosciencehttpsneuro-marseilleorgentrainingphd-programu&#34;&gt;&lt;u&gt;&lt;a href=&#34;https://ametice.univ-amu.fr/course/view.php?id=95116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[2023-05-10]&lt;/a&gt; &lt;a href=&#34;https://neuro-marseille.org/en/training/phd-program/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroSchool PhD Program in Neuroscience.&lt;/a&gt;&lt;/u&gt;&lt;/h4&gt;
 &lt;p&gt;
 
 
@@ -30114,9 +30114,10 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
 Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;objective= understand biological vision&lt;/li&gt;
-&lt;li&gt;interaction between artificial and natural NNs&lt;/li&gt;
-&lt;li&gt;outline&lt;/li&gt;
+&lt;li&gt;welcome to the course on COMPUTATIONAL NEUROSCIENCE 2023 entitled &amp;ldquo;Machine learning to analyze complex data&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;objective= understand models of biological vision which are the inspiration for modern deep learning&lt;/li&gt;
+&lt;li&gt;outcome= interaction between artificial and natural NNs&lt;/li&gt;
+&lt;li&gt;outline= principles / CNNs / challenges / solutions&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
@@ -30146,7 +30147,7 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;cut in different levels: Marr (+ Poggio)&lt;/li&gt;
+&lt;li&gt;break down problem in three different levels: Marr (+ Poggio)&lt;/li&gt;
 &lt;li&gt;arbitrary, but useful division of labor&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -30262,82 +30263,12 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;consistency of eye traces&lt;/li&gt;
+&lt;li&gt;yet, surprisingly&amp;hellip;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;a href=&#34;http://www.ritsumei.ac.jp/~akitaoka/index-e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ilusions of brightness or lightness &lt;em&gt;Akiyoshi KITAOKA&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-1&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-hering-illusionhttpsenwikipediaorgwikihering_illusion&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-2&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-hering-illusionhttpsenwikipediaorgwikihering_illusion&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;effect of context -&amp;gt; 3D&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-3&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -30358,6 +30289,13 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;http://www.ritsumei.ac.jp/~akitaoka/index-e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rotating Snakes &lt;em&gt;Akiyoshi KITAOKA&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;the visual system experiences &amp;ldquo;hallucinations&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions--pareidoliahttpsenwikipediaorgwikipareidolia&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt; : &lt;a href=&#34;https://en.wikipedia.org/wiki/Pareidolia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pareidolia&lt;/a&gt;&lt;/h2&gt;
 
@@ -30380,6 +30318,14 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://en.wikipedia.org/wiki/Cydonia_%28Mars%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (1976) &lt;em&gt;Viking Orbiter image&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;these hallucinations may appear to be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;real&lt;/li&gt;
+&lt;li&gt;persistent&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions--pareidoliahttpsenwikipediaorgwikipareidolia-1&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt; : &lt;a href=&#34;https://en.wikipedia.org/wiki/Pareidolia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pareidolia&lt;/a&gt;&lt;/h2&gt;
 
@@ -30402,7 +30348,9 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://en.wikipedia.org/wiki/Cydonia_%28Mars%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;hahahugoshortcodes16hbhb&#34;&gt;&lt;aside class=&#34;notes&#34;&gt;
+  in that specific case&amp;hellip;
+&lt;/aside&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions--pareidoliahttpsenwikipediaorgwikipareidolia-2&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt; : &lt;a href=&#34;https://en.wikipedia.org/wiki/Pareidolia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pareidolia&lt;/a&gt;&lt;/h2&gt;
 
 
@@ -30424,6 +30372,91 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://en.wikipedia.org/wiki/Cydonia_%28Mars%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;more date = less ambiguity&lt;/li&gt;
+&lt;li&gt;beware: models may also hallucinate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-1&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;a href=&#34;http://www.ritsumei.ac.jp/~akitaoka/index-e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ilusions of brightness or lightness &lt;em&gt;Akiyoshi KITAOKA&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;these may be of low level&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-2&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hering-illusionhttpsenwikipediaorgwikihering_illusion&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-3&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hering-illusionhttpsenwikipediaorgwikihering_illusion&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;of showing an effect of context -&amp;gt; 3D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;principles-of-vision-1&#34;&gt;Principles of vision?&lt;/h2&gt;
 
@@ -31237,11 +31270,11 @@ $$&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+&lt;figure  id=&#34;figure-grimaldi-et-al-2023-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif&#34; alt=&#34;Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif&#34; alt=&#34;[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;.
+      [Grimaldi &lt;em&gt;et al&lt;/em&gt;, 2023, &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
@@ -31387,11 +31420,11 @@ $$&lt;/p&gt;
 
 
 
-&lt;figure  id=&#34;figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+&lt;figure  id=&#34;figure-grimaldi-et-al-2023-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png&#34; alt=&#34;Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png&#34; alt=&#34;[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;.
+      [Grimaldi &lt;em&gt;et al&lt;/em&gt;, 2023, &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
