@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var slides = { backgroundtransition: "fade", theme: "white", transition: "fade" };
+  var slides = { theme: "white", transition: "fade" };
 
   // <stdin>
   var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath.MathJax3, RevealZoom];
