@@ -3778,6 +3778,1597 @@ Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent
     
     <item>
       <title></title>
+      <link>https://laurentperrinet.github.io/slides/2023-04-05-ue-neurosciences-computationnelles-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/slides/2023-04-05-ue-neurosciences-computationnelles-copy/</guid>
+      <description>&lt;section&gt;
+&lt;h1 id=&#34;artificial-neural-networks-and-machine-learning-applied-to-the-understanding-of-biological-visionhttpslaurentperrinetgithubioslides2023-04-05-ue-neurosciences-computationnellestransitionfade&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/slides/2023-04-05-ue-neurosciences-computationnelles/?transition=fade&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial neural networks and machine learning applied to the understanding of biological vision&lt;/a&gt;&lt;/h1&gt;
+&lt;h4 id=&#34;laurent-perrinethttpslaurentperrinetgithubio&#34;&gt;&lt;em&gt;&lt;a href=&#34;https://laurentperrinet.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Perrinet&lt;/a&gt;&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;u2023-04-05httpsameticeuniv-amufrcourseviewphpid95116-master-1-neurosciences-et-sciences-cognitiveshttpssciencesuniv-amufrfrformationmastersmaster-neurosciencesu&#34;&gt;&lt;u&gt;&lt;a href=&#34;https://ametice.univ-amu.fr/course/view.php?id=95116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[2023-04-05]&lt;/a&gt; &lt;a href=&#34;https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master 1 Neurosciences et Sciences Cognitives.&lt;/a&gt;&lt;/u&gt;&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg&#34; alt=&#34;logo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;objective= understand biological vision&lt;/li&gt;
+&lt;li&gt;interaction between artificial and natural NNs&lt;/li&gt;
+&lt;li&gt;outline&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;section&gt;
+&lt;h1 id=&#34;principles-of-vision&#34;&gt;Principles of Vision&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;cut in different levels: Marr (+ Poggio)&lt;/li&gt;
+&lt;li&gt;arbitrary, but useful division of labor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-the-function-of-vision&#34;&gt;What is the function of vision?&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-an-unexpected-visitor-ilya-repin-1884httpswwwcabinetmagazineorgissues30archibaldphp&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_001.jpg&#34; alt=&#34;[An Unexpected Visitor (Ilya Repin, 1884)](https://www.cabinetmagazine.org/issues/30/archibald.php)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://www.cabinetmagazine.org/issues/30/archibald.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unexpected Visitor (Ilya Repin, 1884)&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;seeing= interacting with the visual world&lt;/li&gt;
+&lt;li&gt;social animals: looking at emotions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-the-function-of-vision-1&#34;&gt;What is the function of vision?&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-an-unexpected-visitor-yarbus-1965httpswwwcabinetmagazineorgissues30archibaldphp&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_002.jpg&#34; alt=&#34;[An Unexpected Visitor (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://www.cabinetmagazine.org/issues/30/archibald.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unexpected Visitor (Yarbus, 1965)&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;active: the eye is always moving&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fr.wikipedia.org/wiki/Alfred_Iarbous&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fr.wikipedia.org/wiki/Alfred_Iarbous&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-the-function-of-vision-2&#34;&gt;What is the function of vision?&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-an-unexpected-visitor---age-yarbus-1965httpswwwcabinetmagazineorgissues30archibaldphp&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_003.jpg&#34; alt=&#34;[An Unexpected Visitor - *Age?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://www.cabinetmagazine.org/issues/30/archibald.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unexpected Visitor - &lt;em&gt;Age?&lt;/em&gt; (Yarbus, 1965)&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;active: depends on task&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;what-is-the-function-of-vision-3&#34;&gt;What is the function of vision?&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-an-unexpected-visitor---how-long-yarbus-1965httpswwwcabinetmagazineorgissues30archibaldphp&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.cabinetmagazine.org/issues/30/cabinet_030_archibald_sasha_006.jpg&#34; alt=&#34;[An Unexpected Visitor - *How long?* (Yarbus, 1965)](https://www.cabinetmagazine.org/issues/30/archibald.php)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://www.cabinetmagazine.org/issues/30/archibald.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An Unexpected Visitor - &lt;em&gt;How long?&lt;/em&gt; (Yarbus, 1965)&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;consistency of eye traces&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Kitaoka.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;a href=&#34;http://www.ritsumei.ac.jp/~akitaoka/index-e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ilusions of brightness or lightness &lt;em&gt;Akiyoshi KITAOKA&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-1&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hering-illusionhttpsenwikipediaorgwikihering_illusion&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion_without.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-2&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hering-illusionhttpsenwikipediaorgwikihering_illusion&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Hering_illusion.svg&#34; alt=&#34;[Hering illusion](https://en.wikipedia.org/wiki/Hering_illusion)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Hering_illusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hering illusion&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;effect of context -&amp;gt; 3D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions-3&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-rotating-snakes-akiyoshi-kitaokahttpwwwritsumeiacjpakitaokaindex-ehtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/42_rotsnakes_main.jpg&#34; alt=&#34;[Rotating Snakes *Akiyoshi KITAOKA*](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;http://www.ritsumei.ac.jp/~akitaoka/index-e.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rotating Snakes &lt;em&gt;Akiyoshi KITAOKA&lt;/em&gt;&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions--pareidoliahttpsenwikipediaorgwikipareidolia&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt; : &lt;a href=&#34;https://en.wikipedia.org/wiki/Pareidolia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pareidolia&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-cydonia-mensae-1976-viking-orbiter-imagehttpsenwikipediaorgwikicydonia_mars&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg&#34; alt=&#34;[Cydonia Mensae (1976) *Viking Orbiter image*](https://en.wikipedia.org/wiki/Cydonia_(Mars))&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Cydonia_%28Mars%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (1976) &lt;em&gt;Viking Orbiter image&lt;/em&gt;&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions--pareidoliahttpsenwikipediaorgwikipareidolia-1&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt; : &lt;a href=&#34;https://en.wikipedia.org/wiki/Pareidolia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pareidolia&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-cydonia-mensae-2007-mars-global-surveyorhttpsenwikipediaorgwikicydonia_mars&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png&#34; alt=&#34;[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Cydonia_%28Mars%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;visual-illusionshttpslaurentperrinetgithubiopublicationperrinet-19-illusions--pareidoliahttpsenwikipediaorgwikipareidolia-2&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-illusions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual illusions&lt;/a&gt; : &lt;a href=&#34;https://en.wikipedia.org/wiki/Pareidolia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pareidolia&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-cydonia-mensae-2007-mars-global-surveyorhttpsenwikipediaorgwikicydonia_mars&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png&#34; alt=&#34;[Cydonia Mensae (2007) *Mars Global Surveyor*](https://en.wikipedia.org/wiki/Cydonia_(Mars))&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Cydonia_%28Mars%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;principles-of-vision-1&#34;&gt;Principles of vision?&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;section&gt;
+&lt;h1 id=&#34;computational-neuroscience-of-vision&#34;&gt;Computational neuroscience of vision&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;computational-neuroscience-of-vision-1&#34;&gt;Computational neuroscience of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-sejnowski-koch--churchland-1998httpwwwhmsharvardedubssneurobornlabnb204paperssejnowski-koch-churchland-science1988pdf&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Churchland92.png&#34; alt=&#34;[[Sejnowski, Koch &amp;amp; Churchland (1998)](http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;http://www.hms.harvard.edu/bss/neuro/bornlab/nb204/papers/sejnowski-koch-churchland-science1988.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sejnowski, Koch &amp;amp; Churchland (1998)&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;anatomy-of-the-human-visual-system&#34;&gt;Anatomy of the Human Visual system&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.readkong.com/static/06/b0/06b09f0235ae7fcf29438ce317c10e60/optogenetic-visual-cortical-prosthesis-9612386-7.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;61%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;human-visual-system--the-hmax-model&#34;&gt;Human Visual system : the HMAX model&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-serre-and-poggio-2007httpsbiologystackexchangecomquestions10955ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.stack.imgur.com/ZlFnp.png&#34; alt=&#34;[[Serre and Poggio, 2007](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;65%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serre and Poggio, 2007&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- ---
+
+## Anatomy of the Human Visual system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-wikipediahttpsenwikipediaorgwikivisual_system&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/e/e4/Voies_visuelles3.svg&#34; alt=&#34;[[Wikipedia]](https://en.wikipedia.org/wiki/Visual_system)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://en.wikipedia.org/wiki/Visual_system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Wikipedia]&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;primary-visual-cortex-hubel--wiesel&#34;&gt;Primary visual cortex: Hubel &amp;amp; Wiesel&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hubel--wiesel-1962&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/scientists.jpg&#34; alt=&#34;[Hubel &amp;amp; Wiesel, 1962]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [Hubel &amp;amp; Wiesel, 1962]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;primary-visual-cortex-hubel--wiesel-1&#34;&gt;Primary visual cortex: Hubel &amp;amp; Wiesel&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://raw.githubusercontent.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/master/figures/ComplexDirSelCortCell250_title.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;[Hubel &amp;amp; Wiesel, 1962]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--hierarchy&#34;&gt;Convolutional Neural Networks : Hierarchy&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-boutin-et-al-2021httpslaurentperrinetgithubiopublicationboutin-franciosini-chavane-ruffier-perrinet-20&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg&#34; alt=&#34;[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--mathematics&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;One-dimensional &lt;a href=&#34;https://en.wikipedia.org/wiki/Convolution#Discrete_convolution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;discrete convolution&lt;/a&gt; (eg in time) with a kernel $g$ of radius $K$:
+$$
+(f \ast g)[n]=\sum_{m=-K}^{K} f[n-m] \cdot g[m]
+$$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--mathematics-1&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Convolution of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast g)[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[x-i, y-j] \cdot g[i, j]
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--mathematics-2&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cross-correlation&lt;/strong&gt; of an image (two-dimensional) with a kernel $g$ of radius $K\times K$:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast \tilde{g})[x, y] = \sum_{i=-K}^{K} \sum_{j=-K}^{K} f[x+i, y+j] \cdot g[i, j]
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--mathematics-3&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-amidi--amidihttpsstanfordedushervineteachingcs-230cheatsheet-convolutional-neural-networks&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://stanford.edu/~shervine/teaching/cs-230/illustrations/convolution-layer-a.png&#34; alt=&#34;[[Amidi &amp;amp; Amidi](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amidi &amp;amp; Amidi&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--mathematics-4&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correlation of an image defined on several  channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast \tilde{g})[x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[c, i, j]
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--mathematics-5&#34;&gt;Convolutional Neural Networks : Mathematics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correlation of a multi-channel image for multiple output channels (note &lt;a href=&#34;https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the order of the indices&lt;/a&gt;):&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$$
+(f \ast \tilde{g})[k, x, y] = \sum_{c=1}^{C} \sum_{i,j} f[c, x+i, y+j] \cdot g[k, c, i, j]
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--the-hmax-model&#34;&gt;Convolutional Neural Networks : the HMAX model&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-serre-and-poggio-2006httpsbiologystackexchangecomquestions10955ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://i.stack.imgur.com/ZlFnp.png&#34; alt=&#34;[[Serre and Poggio, 2006]](https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;65%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://biology.stackexchange.com/questions/10955/ventral-stream-pathway-and-architecture-proposed-by-poggios-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Serre and Poggio, 2006]&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;sota&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks-cnns&#34;&gt;Convolutional Neural Networks (CNNs)&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-jérémie--lp-2023httpslaurentperrinetgithubiopublicationjeremie-23-ultra-fast-cat&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.mdpi.com/vision/vision-07-00029/article_deploy/html/images/vision-07-00029-g003.png&#34; alt=&#34;[[Jérémie &amp;amp; LP, 2023](https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jérémie &amp;amp; LP, 2023&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--hierarchy-1&#34;&gt;Convolutional Neural Networks : hierarchy&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-boutin-et-al-2021httpslaurentperrinetgithubiopublicationboutin-franciosini-chavane-ruffier-perrinet-20&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1_a.svg&#34; alt=&#34;[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;backpropagation is not bioplausible&lt;/li&gt;
+&lt;li&gt;modification&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--predictive-coding&#34;&gt;Convolutional Neural Networks : Predictive coding&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-boutin-et-al-2021httpslaurentperrinetgithubiopublicationboutin-franciosini-chavane-ruffier-perrinet-20&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/figures/boutin-franciosini-ruffier-perrinet-19_figure1.svg&#34; alt=&#34;[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;adding sparse coding + feedback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--predictive-coding-1&#34;&gt;Convolutional Neural Networks : Predictive coding&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-boutin-et-al-2021httpslaurentperrinetgithubiopublicationboutin-franciosini-chavane-ruffier-perrinet-20&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/BoutinFranciosiniChavaneRuffierPerrinet20face.png&#34; alt=&#34;[[Boutin *et al*, 2021](https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/boutin-franciosini-chavane-ruffier-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2021&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;interpretable features&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--topography&#34;&gt;Convolutional Neural Networks : Topography&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-bosking-et-al-1997&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2019-04-03_a_course_on_vision_and_modelization/raw/master/figures/Bosking97Fig4.jpg&#34; alt=&#34;[Bosking *et al*, 1997]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [Bosking &lt;em&gt;et al&lt;/em&gt;, 1997]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;convolutional-neural-networks--topography-1&#34;&gt;Convolutional Neural Networks : Topography&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-boutin-et-al-2022httpslaurentperrinetgithubiopublicationfranciosini-21&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/franciosini-21/featured_hu9b69386a773810bf9e1d727831735035_76078_720x2500_fit_q75_h2_lanczos.webp&#34; alt=&#34;[[Boutin *et al*, 2022](https://laurentperrinet.github.io/publication/franciosini-21/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/franciosini-21/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Boutin &lt;em&gt;et al&lt;/em&gt;, 2022&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;section&gt;
+&lt;h1 id=&#34;computational-neuroscience-of-vision-2&#34;&gt;Computational neuroscience of vision&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;dynamics-of-vision&#34;&gt;Dynamics of vision&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!--
+---
+
+
+## Dynamics of vision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-thorpe-2001httpslaurentperrinetgithubio2022-01-12_neurocercle21&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/scheme_thorpe.jpg&#34; alt=&#34;[[Thorpe (2001)]](https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/#/2/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Thorpe (2001)]&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+&lt;!--
+---
+
+
+## Dynamics of vision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-precise-spiking-motifs-see-reviewhttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpg&#34; alt=&#34;Precise Spiking Motifs] ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Precise Spiking Motifs] (&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see review&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-1&#34;&gt;Dynamics of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-visual-latencies-see-reviewhttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency_bg.jpg&#34; alt=&#34;Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;75%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Visual latencies (&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see review&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In particular in our group, we are interested in dynamics of neural processing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The visual system is very efficient in generating a decision from the retinal image to the different stages of the visual pathways, here for a macaque monkey, a reaction of finger muscles in about 300 milliseconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the process of categorizing an object takes 10 layers&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-2&#34;&gt;Dynamics of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-visual-latencies-see-reviewhttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg&#34; alt=&#34;Visual latencies ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;75%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Visual latencies (&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see review&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the latencies are of similar in the human brain but merely scaled due to the brain size&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;as a consequence, it is thought that this efficiency is achieved by spikes that is, brief all-or-none events which are passed in the very large network which forms the brain from assemblies of neurons to others.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-3&#34;&gt;Dynamics of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-sensorimotor-delays-perrinet--friston-2014httpslaurentperrinetgithubiopublicationperrinet-adams-friston-14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/tsonga.jpg&#34; alt=&#34;Sensorimotor delays ([Perrinet &amp;amp; Friston 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;75%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Sensorimotor delays (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet &amp;amp; Friston 2014&lt;/a&gt;)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-4&#34;&gt;Dynamics of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-sensorimotor-delays-perrinet--friston-2014httpslaurentperrinetgithubiopublicationperrinet-adams-friston-14&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/figure-tsonga.jpg&#34; alt=&#34;Sensorimotor delays ([Perrinet &amp;amp; Friston, 2014](https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/))&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;75%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Sensorimotor delays (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet &amp;amp; Friston, 2014&lt;/a&gt;)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-5&#34;&gt;Dynamics of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-6&#34;&gt;Dynamics of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diagonal-markov-model-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov.jpg&#34; alt=&#34;Diagonal markov model ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Diagonal markov model (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-7&#34;&gt;Dynamics of vision&lt;/h2&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt; --&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;Flash-lag effect: MBP (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dynamics-of-vision-8&#34;&gt;Dynamics of vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;section&gt;
+&lt;h1 id=&#34;spiking-neural-networks&#34;&gt;Spiking Neural Networks&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-leaky-integrate-and-fire-neuron&#34;&gt;Spiking Neural Networks: Leaky Integrate-and-Fire Neuron&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif&#34; alt=&#34;Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A standard LIF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neurobiology&#34;&gt;Spiking Neural Networks in neurobiology&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-mainen--sejnowski-1995httpsgithubcomspikeai2022_polychronies-reviewblobmainsrcfigure_2_mainensejnowski1995ipynb&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://i.stack.imgur.com/ixnrz.png&#34; alt=&#34;[[Mainen &amp;amp; Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mainen &amp;amp; Sejnowski, 1995&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;reproduucibility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neurobiology-1&#34;&gt;Spiking Neural Networks in neurobiology&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-mainen--sejnowski-1995httpsgithubcomspikeai2022_polychronies-reviewblobmainsrcfigure_2_mainensejnowski1995ipynb&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png&#34; alt=&#34;[[Mainen &amp;amp; Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mainen &amp;amp; Sejnowski, 1995&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;reproduucibility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neurobiology-2&#34;&gt;Spiking Neural Networks in neurobiology&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-diesmann-et-al-1999httpsgithubcomspikeai2022_polychronies-reviewblobmainsrcfigure_3_diesmann_et_al_1999py&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png&#34; alt=&#34;[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diesmann et al. 1999&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;This hypothesis is reviewed with respect to our knowledge of the neurobiology, for instance in the hippocampus of rodents. We also review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neurobiology-3&#34;&gt;Spiking Neural Networks in neurobiology&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-haimerl-et-al-2019httpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg&#34; alt=&#34;[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;99%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haimerl et al, 2019&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Izhikevich polychronization&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;yet the domain is vast, and there s lot to do in SNNs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-spiking-motifs&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png&#34; alt=&#34;Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This hypothesis is reviewed with respect to our knowledge of the neurobiology, for instance in the hippocampus of rodents. We also review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-spiking-motifs-1&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif&#34; alt=&#34;Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A standard LIF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-spiking-motifs-2&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/HSD.gif&#34; alt=&#34;Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A nice HSD neuron&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-from-frame-based-to-event-based-cameras&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png&#34; alt=&#34;From frame-based to event-based cameras.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      From frame-based to event-based cameras.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;event-based cameras&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-1&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-hd-snn-neural-network&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/HDSNN_conv.png&#34; alt=&#34;The HD-SNN neural network.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The HD-SNN neural network.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-2&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/FastMotionDetection_input.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A nice HSD neuron&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For instance, we show how precise spike times may be used to detect the direction of motion from such a stream of events in an ultrafast fashion.&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-3&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-hd-snn-neural-network&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/motion_kernels.png&#34; alt=&#34;The HD-SNN neural network.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The HD-SNN neural network.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nice kernels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-4&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-hd-snn-neural-network&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/accuracy.png&#34; alt=&#34;The HD-SNN neural network.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The HD-SNN neural network.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;frugal computing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;/section&gt;
+&lt;hr&gt;
+&lt;section&gt;
+&lt;h2 id=&#34;artificial-neural-networks-and-machine-learning-applied-to-the-understanding-of-biological-vision&#34;&gt;Artificial neural networks and machine learning applied to the understanding of biological vision&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;more on &lt;a href=&#34;https://raw.githubusercontent.com/wowchemy/starter-hugo-academic/master/exampleSite/content/slides/example/index.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;artificial-neural-networks-and-machine-learning-applied-to-the-understanding-of-biological-visionhttpslaurentperrinetgithubioslides2023-04-05-ue-neurosciences-computationnellestransitionfade-1&#34;&gt;&lt;a href=&#34;https://laurentperrinet.github.io/slides/2023-04-05-ue-neurosciences-computationnelles/?transition=fade&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial neural networks and machine learning applied to the understanding of biological vision&lt;/a&gt;&lt;/h1&gt;
+&lt;h4 id=&#34;laurent-perrinethttpslaurentperrinetgithubio-1&#34;&gt;&lt;em&gt;&lt;a href=&#34;https://laurentperrinet.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Perrinet&lt;/a&gt;&lt;/em&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;u2023-04-05httpsameticeuniv-amufrcourseviewphpid95116-master-1-neurosciences-et-sciences-cognitiveshttpssciencesuniv-amufrfrformationmastersmaster-neurosciencesu-1&#34;&gt;&lt;u&gt;&lt;a href=&#34;https://ametice.univ-amu.fr/course/view.php?id=95116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[2023-04-05]&lt;/a&gt; &lt;a href=&#34;https://sciences.univ-amu.fr/fr/formation/masters/master-neurosciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master 1 Neurosciences et Sciences Cognitives.&lt;/a&gt;&lt;/u&gt;&lt;/h4&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg&#34; alt=&#34;logo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Contact me @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;objective= understand biological vision&lt;/li&gt;
+&lt;li&gt;interaction between artificial and natural NNs&lt;/li&gt;
+&lt;li&gt;outline&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://laurentperrinet.github.io/slides/2023-04-05-ue-neurosciences-computationnelles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/slides/2023-04-05-ue-neurosciences-computationnelles/</guid>
