@@ -5,12 +5,117 @@
     <link>https://laurentperrinet.github.io/tag/polychronies/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/polychronies/index.xml" rel="self" type="application/rss+xml" />
     <description>polychronies</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 01 May 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>polychronies</title>
       <link>https://laurentperrinet.github.io/tag/polychronies/</link>
     </image>
+    
+    <item>
+      <title>Learning heterogeneous delays in a layer of spiking neurons for fast motion detection</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-23-bc/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-23-bc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;a follow-up of  
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/camille-besnainou/&#34;&gt;Camille Besnainou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2022).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-icip/&#34;&gt;Learning heterogeneous delays of spiking neurons for motion detection&lt;/a&gt;.
+  &lt;em&gt;Proceedings of ICIP 2022&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-icip/grimaldi-22-icip.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/grimaldi-22-icip/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1109/ICIP46576.2022.9897394&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://2022.ieeeicip.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    URL&lt;/a&gt;
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Postdoc position &#34;Accurate detection of precise spiking motifs in neurobiological data&#34;</title>
@@ -203,8 +308,8 @@
        &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
        &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
    &lt;/span&gt;
-   (2022).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
+   (2023).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
    &lt;em&gt;Submitted&lt;/em&gt;.
    
    &lt;p&gt;
@@ -220,14 +325,14 @@
  
  
  
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
    PDF
  &lt;/a&gt;
  
  
  
  &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/grimaldi-22-bc/cite.bib&#34;&gt;
+         data-filename=&#34;/publication/grimaldi-23-bc/cite.bib&#34;&gt;
    Cite
  &lt;/a&gt;
  
@@ -369,8 +474,8 @@
        &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
        &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
    &lt;/span&gt;
-   (2022).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
+   (2023).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
    &lt;em&gt;Submitted&lt;/em&gt;.
    
    &lt;p&gt;
@@ -386,14 +491,14 @@
  
  
  
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
    PDF
  &lt;/a&gt;
  
  
  
  &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/grimaldi-22-bc/cite.bib&#34;&gt;
+         data-filename=&#34;/publication/grimaldi-23-bc/cite.bib&#34;&gt;
    Cite
  &lt;/a&gt;
  
@@ -1111,111 +1216,6 @@ By extending this paradigm to a hierarchy, we envision practical applications of
  
  
 &lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning heterogeneous delays in a layer of spiking neurons for fast motion detection</title>
-      <link>https://laurentperrinet.github.io/publication/grimaldi-22-bc/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/grimaldi-22-bc/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;a follow-up of  
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/camille-besnainou/&#34;&gt;Camille Besnainou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2022).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-icip/&#34;&gt;Learning heterogeneous delays of spiking neurons for motion detection&lt;/a&gt;.
-  &lt;em&gt;Proceedings of ICIP 2022&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-icip/grimaldi-22-icip.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/grimaldi-22-icip/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1109/ICIP46576.2022.9897394&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://2022.ieeeicip.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    URL&lt;/a&gt;
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
