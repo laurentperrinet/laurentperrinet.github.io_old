@@ -269,10 +269,9 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;communiqué-de-presse-comment-le-cerveau-fait-face-à-lincertitude&#34;&gt;Communiqué de presse: Comment le cerveau fait face à l&amp;rsquo;incertitude ?&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[Introduction :]{.underline} Nous vivons dans un monde fait d&amp;rsquo;incertitudes, qui pourtant ne nous empêchepas d&amp;rsquo;effectuer nos tâches quotidiennes. Vous ne traverseriez pas la route avant d&amp;rsquo;être certain que le conducteur de la voiture passante vous a vu, pas d&amp;rsquo;avantage que vous ne vous approcheriez pas d&amp;rsquo;un buisson avant d&amp;rsquo;être sûr qu&amp;rsquo;il est occupé par un oiseau plutôt que par un lion. Malgré la nécessité fondamentale de résoudre ces incertitudes au quotidien, nous savons relativement peu sur la manière dont notre cerveau procède pour ce faire. Dans cet article publié dans &lt;em&gt;Nature Communications Biology&lt;/em&gt;, les scientifiques présentent des enregistrements des neurones du cerveau, et mettent en évidence un nouveau type de neurone qui encode cette incertitude. Cette recherche est clé pour avancer la compréhension de notre cerveau et construire des modèles artificiels qui peuvent prendre en compte leurs certitudes.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Introduction :] Nous vivons dans un monde fait d&amp;rsquo;incertitudes, qui pourtant ne nous empêchepas d&amp;rsquo;effectuer nos tâches quotidiennes. Vous ne traverseriez pas la route avant d&amp;rsquo;être certain que le conducteur de la voiture passante vous a vu, pas d&amp;rsquo;avantage que vous ne vous approcheriez pas d&amp;rsquo;un buisson avant d&amp;rsquo;être sûr qu&amp;rsquo;il est occupé par un oiseau plutôt que par un lion. Malgré la nécessité fondamentale de résoudre ces incertitudes au quotidien, nous savons relativement peu sur la manière dont notre cerveau procède pour ce faire. Dans cet article publié dans &lt;em&gt;Nature Communications Biology&lt;/em&gt;, les scientifiques présentent des enregistrements des neurones du cerveau, et mettent en évidence un nouveau type de neurone qui encode cette incertitude. Cette recherche est clé pour avancer la compréhension de notre cerveau et construire des modèles artificiels qui peuvent prendre en compte leurs certitudes.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Imaginez que vous vous promeniez dans une forêt. Le vent bruisse dans les feuilles, quand soudain un bruit étrange attire votre attention. S&amp;rsquo;agit-il d&amp;rsquo;un écureuil qui se précipite sur le sentier à la vue de tous ? Ou peut-être d&amp;rsquo;un oiseau niché derrière les buissons, caché dans le feuillage ? Dans ce dernier cas, prenez-vous le temps de voir l&amp;rsquo;oiseau, ou en déduirez-vous que le bruissement est plutôt celui d&amp;rsquo;un lion, et vous enfuirez-vous le plus vite possible ?&lt;/p&gt;
 &lt;p&gt;Ce simple scénario illustre un problème quotidien auquel nous sommes confrontés : comment notre cerveau peut-il donner un sens au monde, alors que nos sens sont bombardés d&amp;rsquo;informations peu fiables ? Ce manque de précision - l&amp;rsquo;inverse de la variance d&amp;rsquo;une information - est marquant dans le domaine de la vision. En effet, une image peut être décomposée en de nombreuses lignes ou &amp;ldquo;bords&amp;rdquo; qui forment sa structure, à l&amp;rsquo;instar d&amp;rsquo;un puzzle composé de nombreuses pièces différentes.&lt;/p&gt;
-&lt;p&gt;
 
 
 
@@ -287,10 +286,9 @@
 
 
 
-
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-1-les-images-naturelles-ici-une-vue-des-calanques-de-marseille-sont-décomposées-en-éléments-orientés-en-bas-à-gauche-par-des-réseaux-de-neurones-dont-les-interactions-sont-contraintes-par-lincertitude-locale-qui-décrit-des-parties-du-champ-visuel&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Decomposition of natural images&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;#39;incertitude locale qui décrit des parties du champ visuel.&#34; srcset=&#34;
                /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp 400w,
                /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_d386c57f089f4f8d472393124f01d72b.webp 760w,
                /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -298,12 +296,11 @@
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{width=&amp;ldquo;100%&amp;rdquo;}&lt;/p&gt;
-&lt;p&gt;Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;rsquo;incertitude locale qui décrit des parties du champ visuel.&lt;/p&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;rsquo;incertitude locale qui décrit des parties du champ visuel.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Cependant, toutes les pièces du puzzle ne sont pas coupées de la même manière, et certaines ont des bords plus variables que d&amp;rsquo;autres. C&amp;rsquo;est un problème pour la toute première zone de notre cerveau qui commence à donner un sens à ces &amp;ldquo;pièces de puzzle&amp;rdquo; visuelles, le cortex visuel primaire. Jusqu&amp;rsquo;à récemment, notre compréhension de la manière dont le cerveau traite ces données visuelles complexes reposait en grande partie sur l&amp;rsquo;observation du comportement humain [1,2]. Ces dernières années, cependant, les chercheurs ont commencé à sonder le cortex visuel primaire des macaques et ont découvert que cette zone du cerveau présente des comportements complexes qui reflètent les processus de prise de décision complexes que nous entreprenons en tant qu&amp;rsquo;êtres humains [3].&lt;/p&gt;
 &lt;p&gt;En effectuant des enregistrements dans le cortex visuel primaire, la zone responsable du traitement de l&amp;rsquo;information visuelle dans le cerveau, les chercheurs ont découvert un phénomène remarquable : les neurones de notre cortex visuel primaire ont des réponses distinctes à la complexité des images. Deux types principaux de neurones ont été identifiés sur la base de leurs réponses : certains sont relativement indifférents à l&amp;rsquo;augmentation de la variance, tandis que d&amp;rsquo;autres montrent une décroissance rapide de leur capacité d&amp;rsquo;encodage face à cette variance (non linéaires).&lt;/p&gt;
-&lt;p&gt;
 
 
 
@@ -318,10 +315,9 @@
 
 
 
-
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-figure-2-la-variation-du-code-des-neurones-face-a-une-augmentation-dincertitude-dépend-de-leur-position-dans-le-cortex-a-b-un-phénomène-expliqué-par-une-activité-récurrente-plus-intense-pour-les-neurones-encodant-lincertitude&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Micro-circuit&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2 La variation du code des neurones face a une augmentation d&amp;#39;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;#39;incertitude.&#34; srcset=&#34;
                /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_89476a242fb8aeefe336dc3e5868e3c7.webp 400w,
                /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_175b581c8b4b4c7a6cf4633aa6cca7a3.webp 760w,
                /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -329,9 +325,9 @@
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{width=&amp;ldquo;100%&amp;rdquo;}&lt;/p&gt;
-&lt;p&gt;Figure 2 La variation du code des neurones face a une augmentation d&amp;rsquo;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;rsquo;incertitude.&lt;/p&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Figure 2 La variation du code des neurones face a une augmentation d&amp;rsquo;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;rsquo;incertitude.
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;Globalement, la récurrence peut expliquer comment différents neurones encodent (ou non) la variance de leur entrée. Ces résultats vont dans le sens d&amp;rsquo;une compréhension plus complète du cerveau, qui ne se contente pas d&amp;rsquo;encoder des caractéristiques moyennes, comme le suggéraient les modèles précédents, mais prend également en compte la complexité des entrées, grâce à la connectivité entre les neurones.&lt;/p&gt;
 &lt;p&gt;Il s&amp;rsquo;agit d&amp;rsquo;une étape cruciale pour comprendre comment notre cortex gère les &amp;ldquo;puzzles visuels&amp;rdquo; que nous rencontrons tous les jours, permettant au cerveau d&amp;rsquo;effectuer des calculs complexes sur des distributions probabilistes - un modèle qui gagne en popularité dans les neurosciences [5].&lt;/p&gt;
 &lt;h3 id=&#34;références&#34;&gt;Références&lt;/h3&gt;
