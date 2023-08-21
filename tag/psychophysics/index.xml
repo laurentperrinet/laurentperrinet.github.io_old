@@ -1945,7 +1945,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
   
     
   
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2049,7 +2049,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
   
     
   
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/784116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2112,7 +2112,7 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/LeCheapEyeTracker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;biologically-inspired-computer-vision-hahahugoshortcodes6hbhb-python&#34;&gt;Biologically inspired computer vision (
+&lt;h1 id=&#34;biologically-inspired-computer-vision-hahahugoshortcode82s6hbhb-python&#34;&gt;Biologically inspired computer vision (
   &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Python)&lt;/h1&gt;
 &lt;h2 id=&#34;slip-a-simple-library-for-image-processing&#34;&gt;SLIP: a Simple Library for Image Processing&lt;/h2&gt;
 &lt;p&gt;This library collects different Image Processing tools for use with the &lt;a href=&#34;https://pythonhosted.org/LogGabor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LogGabor&lt;/a&gt; and &lt;a href=&#34;https://pythonhosted.org/SparseEdges/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SparseEdges&lt;/a&gt; libraries.&lt;/p&gt;
@@ -3292,6 +3292,14 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
     </item>
     
     <item>
+      <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effect of image statistics on fixational eye movements</title>
       <link>https://laurentperrinet.github.io/publication/simoncini-12-vss/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
@@ -3363,14 +3371,6 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       &lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
-      <description></description>
     </item>
     
     <item>

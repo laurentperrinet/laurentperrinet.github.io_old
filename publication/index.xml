@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/publication/</link>
       <atom:link href="https://laurentperrinet.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,20 +13,733 @@
     </image>
     
     <item>
-      <title>Retinotopy improves the categorisation and localisation of visual objects in CNNs</title>
-      <link>https://laurentperrinet.github.io/publication/jeremie-23-ccn/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/jeremie-23-ccn/</guid>
+      <title>A Robust Event-Driven Approach to Always-on Object Recognition</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-23/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical recurrence supports resilience to sensory variance in the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/ladret-23/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/ladret-23/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;to be presented at the &lt;em&gt;Computational Cognitive Neuroscience Society Meeting 2023&lt;/em&gt; in Oxford&lt;/li&gt;
+&lt;li&gt;open access: &lt;a href=&#34;https://www.nature.com/articles/s42003-023-05042-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/s42003-023-05042-3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;5 minutes summary: &lt;a href=&#34;https://hugoladret.github.io/publications/ladret_et_al_variance_v1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hugoladret.github.io/publications/ladret_et_al_variance_v1/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code : &lt;a href=&#34;https://github.com/hugoladret/variance-processing-V1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/hugoladret/variance-processing-V1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Data : &lt;a href=&#34;https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Artboard&#34; srcset=&#34;
+               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp 400w,
+               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_d386c57f089f4f8d472393124f01d72b.webp 760w,
+               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;How our brains deal with uncertainty is investigated here by Ladret et al, who identify 2 populations of V1 neurons that are either vulnerable or resilient to variance of oriented inputs. &lt;a href=&#34;https://twitter.com/hugoladret?ref_src=twsrc%5Etfw&#34;&gt;@hugoladret&lt;/a&gt; &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/uMontreal_news?ref_src=twsrc%5Etfw&#34;&gt;@uMontreal_news&lt;/a&gt; &lt;a href=&#34;https://t.co/thGxTNWpsl&#34;&gt;https://t.co/thGxTNWpsl&lt;/a&gt; &lt;a href=&#34;https://t.co/PDtBZWqSAY&#34;&gt;pic.twitter.com/PDtBZWqSAY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Communications Biology (@CommsBio) &lt;a href=&#34;https://twitter.com/CommsBio/status/1673229104353509377?ref_src=twsrc%5Etfw&#34;&gt;June 26, 2023&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/li&gt;
+&lt;li&gt;preprint of a former revision: &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;This neurophysiological work accompanies a similar study in theoretical neuroscience : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2023).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/&#34;&gt;Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling&lt;/a&gt;.
+   &lt;em&gt;ICLR 2023 SNN Workshop&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/ladret-23-iclr.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/ladret-23-iclr/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;communiqué-de-presse-comment-le-cerveau-fait-face-à-lincertitude&#34;&gt;Communiqué de presse: Comment le cerveau fait face à l&amp;rsquo;incertitude ?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;[Introduction :] Nous vivons dans un monde fait d&amp;rsquo;incertitudes, qui pourtant ne nous empêchepas d&amp;rsquo;effectuer nos tâches quotidiennes. Vous ne traverseriez pas la route avant d&amp;rsquo;être certain que le conducteur de la voiture passante vous a vu, pas d&amp;rsquo;avantage que vous ne vous approcheriez pas d&amp;rsquo;un buisson avant d&amp;rsquo;être sûr qu&amp;rsquo;il est occupé par un oiseau plutôt que par un lion. Malgré la nécessité fondamentale de résoudre ces incertitudes au quotidien, nous savons relativement peu sur la manière dont notre cerveau procède pour ce faire. Dans cet article publié dans &lt;em&gt;Nature Communications Biology&lt;/em&gt;, les scientifiques présentent des enregistrements des neurones du cerveau, et mettent en évidence un nouveau type de neurone qui encode cette incertitude. Cette recherche est clé pour avancer la compréhension de notre cerveau et construire des modèles artificiels qui peuvent prendre en compte leurs certitudes.&lt;/strong&gt;
+Imaginez que vous vous promeniez dans une forêt. Le vent bruisse dans les feuilles, quand soudain un bruit étrange attire votre attention. S&amp;rsquo;agit-il d&amp;rsquo;un écureuil qui se précipite sur le sentier à la vue de tous ? Ou peut-être d&amp;rsquo;un oiseau niché derrière les buissons, caché dans le feuillage ? Dans ce dernier cas, prenez-vous le temps de voir l&amp;rsquo;oiseau, ou en déduirez-vous que le bruissement est plutôt celui d&amp;rsquo;un lion, et vous enfuirez-vous le plus vite possible ?
+Ce simple scénario illustre un problème quotidien auquel nous sommes confrontés : comment notre cerveau peut-il donner un sens au monde, alors que nos sens sont bombardés d&amp;rsquo;informations peu fiables ? Ce manque de précision - l&amp;rsquo;inverse de la variance d&amp;rsquo;une information - est marquant dans le domaine de la vision. En effet, une image peut être décomposée en de nombreuses lignes ou &amp;ldquo;bords&amp;rdquo; qui forment sa structure, à l&amp;rsquo;instar d&amp;rsquo;un puzzle composé de nombreuses pièces différentes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-les-images-naturelles-ici-une-vue-des-calanques-de-marseille-sont-décomposées-en-éléments-orientés-en-bas-à-gauche-par-des-réseaux-de-neurones-dont-les-interactions-sont-contraintes-par-lincertitude-locale-qui-décrit-des-parties-du-champ-visuel&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;#39;incertitude locale qui décrit des parties du champ visuel.&#34; srcset=&#34;
+               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp 400w,
+               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_d386c57f089f4f8d472393124f01d72b.webp 760w,
+               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;rsquo;incertitude locale qui décrit des parties du champ visuel.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+Cependant, toutes les pièces du puzzle ne sont pas coupées de la même manière, et certaines ont des bords plus variables que d&amp;rsquo;autres. C&amp;rsquo;est un problème pour la toute première zone de notre cerveau qui commence à donner un sens à ces &amp;ldquo;pièces de puzzle&amp;rdquo; visuelles, le cortex visuel primaire. Jusqu&amp;rsquo;à récemment, notre compréhension de la manière dont le cerveau traite ces données visuelles complexes reposait en grande partie sur l&amp;rsquo;observation du comportement humain [1,2]. Ces dernières années, cependant, les chercheurs ont commencé à sonder le cortex visuel primaire des macaques et ont découvert que cette zone du cerveau présente des comportements complexes qui reflètent les processus de prise de décision complexes que nous entreprenons en tant qu&amp;rsquo;êtres humains [3].
+En effectuant des enregistrements dans le cortex visuel primaire, la zone responsable du traitement de l&amp;rsquo;information visuelle dans le cerveau, les chercheurs ont découvert un phénomène remarquable : les neurones de notre cortex visuel primaire ont des réponses distinctes à la complexité des images. Deux types principaux de neurones ont été identifiés sur la base de leurs réponses : certains sont relativement indifférents à l&amp;rsquo;augmentation de la variance, tandis que d&amp;rsquo;autres montrent une décroissance rapide de leur capacité d&amp;rsquo;encodage face à cette variance (non linéaires).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-la-variation-du-code-des-neurones-face-a-une-augmentation-dincertitude-dépend-de-leur-position-dans-le-cortex-a-b-un-phénomène-expliqué-par-une-activité-récurrente-plus-intense-pour-les-neurones-encodant-lincertitude&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2 La variation du code des neurones face a une augmentation d&amp;#39;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;#39;incertitude.&#34; srcset=&#34;
+               /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_89476a242fb8aeefe336dc3e5868e3c7.webp 400w,
+               /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_175b581c8b4b4c7a6cf4633aa6cca7a3.webp 760w,
+               /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_89476a242fb8aeefe336dc3e5868e3c7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;537&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Figure 2 La variation du code des neurones face a une augmentation d&amp;rsquo;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;rsquo;incertitude.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+Globalement, la récurrence peut expliquer comment différents neurones encodent (ou non) la variance de leur entrée. Ces résultats vont dans le sens d&amp;rsquo;une compréhension plus complète du cerveau, qui ne se contente pas d&amp;rsquo;encoder des caractéristiques moyennes, comme le suggéraient les modèles précédents, mais prend également en compte la complexité des entrées, grâce à la connectivité entre les neurones.
+Il s&amp;rsquo;agit d&amp;rsquo;une étape cruciale pour comprendre comment notre cortex gère les &amp;ldquo;puzzles visuels&amp;rdquo; que nous rencontrons tous les jours, permettant au cerveau d&amp;rsquo;effectuer des calculs complexes sur des distributions probabilistes - un modèle qui gagne en popularité dans les neurosciences [5].&lt;/p&gt;
+&lt;h3 id=&#34;références&#34;&gt;Références&lt;/h3&gt;
+&lt;p&gt;[1] Von Helmholtz, H. (1925). Helmholtz&amp;rsquo;s treatise on physiological
+optics (Vol. 3). Optical Society of America.
+[2] Barthelmé, S., &amp;amp; Mamassian, P. (2009). Evaluation of objective
+uncertainty in the visual system. PLoS computational biology, 5(9),
+e1000504.
+[3] Hénaff, O. J., Boundy-Singer, Z. M., Meding, K., Ziemba, C. M., &amp;amp;
+Goris, R. L. (2020). Representation of visual uncertainty through neural
+gain variability. Nature communications, 11(1), 2513.
+[4] Leon, P. S., Vanzetta, I., Masson, G. S., &amp;amp; Perrinet, L. U.
+(2012). Motion clouds: model-based stimulus synthesis of natural-like
+random textures for the study of motion perception. Journal of
+neurophysiology, 107(11), 3217-3226.
+[5] Spratling, M. W. (2016). A neural implementation of Bayesian
+inference based on predictive coding. Connection Science, 28(4),
+346-383.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling</title>
+      <link>https://laurentperrinet.github.io/publication/ladret-23-iclr/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/ladret-23-iclr/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Accepted paper (poster) at the &lt;a href=&#34;https://www.sparseneural.net/accepted-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR 2023 Workshop on
+Sparsity in Neural Networks&lt;/a&gt;:&lt;/li&gt;
+&lt;li&gt;the focus of the WS is on &amp;ldquo;On practical limitations and tradeoffs between sustainability and efficiency&amp;rdquo; in Kigali, Rwanda / May 5th 2023&lt;/li&gt;
+&lt;li&gt;reviews will be made public on &lt;a href=&#34;https://openreview.net/forum?id=tgr8FEcl28M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openreview.net/forum?id=tgr8FEcl28M&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-epistemic-uncertainty-in-a-csc-dictionary-improves-both-sparseness-and-reconstruction-performance-a-elements-from-dictionaries-with-fixed-epistemic-uncertainty-before-green-and-after-dictionary-learning-orange-b-elements-from-a-dictionary-with-heterogeneous-epistemic-uncertainty-before-blue-and-after-dictionary-learning-purple-c-elements-from-a-dictionary-learned-from-scratch-d-distribution-of-the-sparseness-top-and-peak-signal-to-noise-ratio-psnr-right-of-the-five-dictionaries-shown-as-a-scatter-plot-for-each-of-the-600-images-of-the-dataset-center-median-values-are-shown-as-dashed-line-on-the-histograms&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.&#34; srcset=&#34;
+               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_132b0f0bf1c689cd37be872a9dfcdbde.webp 400w,
+               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_dffe9389ea996908f82a3624a7172a29.webp 760w,
+               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_132b0f0bf1c689cd37be872a9dfcdbde.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;455&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. &lt;strong&gt;(a)&lt;/strong&gt; Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). &lt;strong&gt;(b)&lt;/strong&gt; Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). &lt;strong&gt;(c)&lt;/strong&gt; Elements from a dictionary learned from scratch. &lt;strong&gt;(d)&lt;/strong&gt; Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;This theoretical work accompanies a similar study in neurophysiology: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/nelson-cortes/&#34;&gt;Nelson Cortes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/lamyae-ikan/&#34;&gt;Lamyae Ikan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frederic Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/christian-casanova/&#34;&gt;Christian Casanova&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2023).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23/&#34;&gt;Cortical recurrence supports resilience to sensory variance in the primary visual cortex&lt;/a&gt;.
+   &lt;em&gt;Nature Communications Biology&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-23/ladret-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/ladret-23/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/s42003-023-05042-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Beyond $\ell_1$ sparse coding in V1</title>
+      <title>Ultra-Fast Image Categorization in biology and in neural models</title>
+      <link>https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/</link>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/</guid>
+      <description>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/Jeremie-etal-Vision_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;ul&gt;
+&lt;li&gt;read the paper &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; or in &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full code&lt;/a&gt; with extensive &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary Material&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt; and code for  &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;join the &lt;a href=&#34;https://www.zotero.org/groups/4560566/ultrafastcat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero group&lt;/a&gt; to add and discuss more items&lt;/li&gt;
+&lt;li&gt;this is a follow-up of: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2021).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/&#34;&gt;Ultra-fast categorization of images containing animals in vivo and in computo&lt;/a&gt;.
+   &lt;em&gt;Champalimaud Research Symposium (CRS21)&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/jeremie-21-crs.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/jeremie-21-crs/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;li&gt;see an extension perspective to visual search in: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/&#34;&gt;Ultra-rapid visual search in natural images using active deep learning&lt;/a&gt;.
+   &lt;em&gt;Proceedings of AREADNE&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/jeremie-22-areadne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/jeremie-22-areadne/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+     
+   
+   
+   
+   
+   
+     
+   
+   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://areadne.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+     URL&lt;/a&gt;
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resilience to sensory uncertainty in the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/ladret-23-cosyne/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/ladret-23-cosyne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning heterogeneous delays of spiking neurons for motion detection</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-23-gdr/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-23-gdr/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see a follow-up as journal paper: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2023).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
+   &lt;em&gt;Accepted in Biological Cybernetics&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Preprint
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/grimaldi-23-bc/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;li&gt;presented at &lt;a href=&#34;https://gdr-vision-2023.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR vision 2023 2022&lt;/a&gt; January 2023 in Toulouse, France&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accurate detection of spiking motifs in multi-unit raster plots</title>
+      <link>https://laurentperrinet.github.io/publication/perrinet-23-icann/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/perrinet-23-icann/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Will be presented at the &lt;a href=&#34;https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;special session on Recent Advances in Spiking Neural Networks at this year&amp;rsquo;s ICANN 2023 conference&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;This theoretical implements the objectives set up in this review: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/amelie-gruel/&#34;&gt;Amélie Gruel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/camille-besnainou/&#34;&gt;Camille Besnainou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-martinet/&#34;&gt;Jean Martinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2022).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34;&gt;Precise spiking motifs in neurobiological and neuromorphic data&lt;/a&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/grimaldi-22-polychronies.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/grimaldi-22-polychronies/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3390/brainsci13010068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond $ell_1$ sparse coding in V1</title>
       <link>https://laurentperrinet.github.io/publication/rentzeperis-23/</link>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/rentzeperis-23/</guid>
       <description></description>
     </item>
@@ -34,7 +747,7 @@
     <item>
       <title>Learning heterogeneous delays in a layer of spiking neurons for fast motion detection</title>
       <link>https://laurentperrinet.github.io/publication/grimaldi-23-bc/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/grimaldi-23-bc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;a follow-up of  
@@ -137,759 +850,22 @@
     </item>
     
     <item>
-      <title>Cortical recurrence supports resilience to sensory variance in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/ladret-23/</link>
-      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/ladret-23/</guid>
+      <title>Retinotopy improves the categorisation and localisation of visual objects in CNNs</title>
+      <link>https://laurentperrinet.github.io/publication/jeremie-23-ccn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/jeremie-23-ccn/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;open access: &lt;a href=&#34;https://www.nature.com/articles/s42003-023-05042-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/s42003-023-05042-3&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;5 minutes summary: &lt;a href=&#34;https://hugoladret.github.io/publications/ladret_et_al_variance_v1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hugoladret.github.io/publications/ladret_et_al_variance_v1/&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Code : &lt;a href=&#34;https://github.com/hugoladret/variance-processing-V1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/hugoladret/variance-processing-V1&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Data : &lt;a href=&#34;https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://figshare.com/articles/dataset/Data_for_Ladret_et_al_2023_Cortical_recurrence_supports_resilience_to_sensory_variance_in_the_primary_visual_cortex_/23366588&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;to be presented at the &lt;em&gt;Computational Cognitive Neuroscience Society Meeting 2023&lt;/em&gt; in Oxford&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Artboard&#34; srcset=&#34;
-               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp 400w,
-               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_d386c57f089f4f8d472393124f01d72b.webp 760w,
-               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;How our brains deal with uncertainty is investigated here by Ladret et al, who identify 2 populations of V1 neurons that are either vulnerable or resilient to variance of oriented inputs. &lt;a href=&#34;https://twitter.com/hugoladret?ref_src=twsrc%5Etfw&#34;&gt;@hugoladret&lt;/a&gt; &lt;a href=&#34;https://twitter.com/laurentperrinet?ref_src=twsrc%5Etfw&#34;&gt;@laurentperrinet&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt; &lt;a href=&#34;https://twitter.com/uMontreal_news?ref_src=twsrc%5Etfw&#34;&gt;@uMontreal_news&lt;/a&gt; &lt;a href=&#34;https://t.co/thGxTNWpsl&#34;&gt;https://t.co/thGxTNWpsl&lt;/a&gt; &lt;a href=&#34;https://t.co/PDtBZWqSAY&#34;&gt;pic.twitter.com/PDtBZWqSAY&lt;/a&gt;&lt;/p&gt;&amp;mdash; Communications Biology (@CommsBio) &lt;a href=&#34;https://twitter.com/CommsBio/status/1673229104353509377?ref_src=twsrc%5Etfw&#34;&gt;June 26, 2023&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;preprint of a former revision: &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;This neurophysiological work accompanies a similar study in theoretical neuroscience : 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2023).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/&#34;&gt;Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling&lt;/a&gt;.
-   &lt;em&gt;ICLR 2023 SNN Workshop&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/ladret-23-iclr.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/ladret-23-iclr/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;communiqué-de-presse-comment-le-cerveau-fait-face-à-lincertitude&#34;&gt;Communiqué de presse: Comment le cerveau fait face à l&amp;rsquo;incertitude ?&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;[Introduction :] Nous vivons dans un monde fait d&amp;rsquo;incertitudes, qui pourtant ne nous empêchepas d&amp;rsquo;effectuer nos tâches quotidiennes. Vous ne traverseriez pas la route avant d&amp;rsquo;être certain que le conducteur de la voiture passante vous a vu, pas d&amp;rsquo;avantage que vous ne vous approcheriez pas d&amp;rsquo;un buisson avant d&amp;rsquo;être sûr qu&amp;rsquo;il est occupé par un oiseau plutôt que par un lion. Malgré la nécessité fondamentale de résoudre ces incertitudes au quotidien, nous savons relativement peu sur la manière dont notre cerveau procède pour ce faire. Dans cet article publié dans &lt;em&gt;Nature Communications Biology&lt;/em&gt;, les scientifiques présentent des enregistrements des neurones du cerveau, et mettent en évidence un nouveau type de neurone qui encode cette incertitude. Cette recherche est clé pour avancer la compréhension de notre cerveau et construire des modèles artificiels qui peuvent prendre en compte leurs certitudes.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Imaginez que vous vous promeniez dans une forêt. Le vent bruisse dans les feuilles, quand soudain un bruit étrange attire votre attention. S&amp;rsquo;agit-il d&amp;rsquo;un écureuil qui se précipite sur le sentier à la vue de tous ? Ou peut-être d&amp;rsquo;un oiseau niché derrière les buissons, caché dans le feuillage ? Dans ce dernier cas, prenez-vous le temps de voir l&amp;rsquo;oiseau, ou en déduirez-vous que le bruissement est plutôt celui d&amp;rsquo;un lion, et vous enfuirez-vous le plus vite possible ?&lt;/p&gt;
-&lt;p&gt;Ce simple scénario illustre un problème quotidien auquel nous sommes confrontés : comment notre cerveau peut-il donner un sens au monde, alors que nos sens sont bombardés d&amp;rsquo;informations peu fiables ? Ce manque de précision - l&amp;rsquo;inverse de la variance d&amp;rsquo;une information - est marquant dans le domaine de la vision. En effet, une image peut être décomposée en de nombreuses lignes ou &amp;ldquo;bords&amp;rdquo; qui forment sa structure, à l&amp;rsquo;instar d&amp;rsquo;un puzzle composé de nombreuses pièces différentes.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-figure-1-les-images-naturelles-ici-une-vue-des-calanques-de-marseille-sont-décomposées-en-éléments-orientés-en-bas-à-gauche-par-des-réseaux-de-neurones-dont-les-interactions-sont-contraintes-par-lincertitude-locale-qui-décrit-des-parties-du-champ-visuel&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;#39;incertitude locale qui décrit des parties du champ visuel.&#34; srcset=&#34;
-               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp 400w,
-               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_d386c57f089f4f8d472393124f01d72b.webp 760w,
-               /publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/ladret-23/Artboard_hu45b0eef3cced9ee079a219ee74cfbd37_1071626_60abe86905f3fbe0c0e427ea8b3c76c6.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;rsquo;incertitude locale qui décrit des parties du champ visuel.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;Cependant, toutes les pièces du puzzle ne sont pas coupées de la même manière, et certaines ont des bords plus variables que d&amp;rsquo;autres. C&amp;rsquo;est un problème pour la toute première zone de notre cerveau qui commence à donner un sens à ces &amp;ldquo;pièces de puzzle&amp;rdquo; visuelles, le cortex visuel primaire. Jusqu&amp;rsquo;à récemment, notre compréhension de la manière dont le cerveau traite ces données visuelles complexes reposait en grande partie sur l&amp;rsquo;observation du comportement humain [1,2]. Ces dernières années, cependant, les chercheurs ont commencé à sonder le cortex visuel primaire des macaques et ont découvert que cette zone du cerveau présente des comportements complexes qui reflètent les processus de prise de décision complexes que nous entreprenons en tant qu&amp;rsquo;êtres humains [3].&lt;/p&gt;
-&lt;p&gt;En effectuant des enregistrements dans le cortex visuel primaire, la zone responsable du traitement de l&amp;rsquo;information visuelle dans le cerveau, les chercheurs ont découvert un phénomène remarquable : les neurones de notre cortex visuel primaire ont des réponses distinctes à la complexité des images. Deux types principaux de neurones ont été identifiés sur la base de leurs réponses : certains sont relativement indifférents à l&amp;rsquo;augmentation de la variance, tandis que d&amp;rsquo;autres montrent une décroissance rapide de leur capacité d&amp;rsquo;encodage face à cette variance (non linéaires).&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-figure-2-la-variation-du-code-des-neurones-face-a-une-augmentation-dincertitude-dépend-de-leur-position-dans-le-cortex-a-b-un-phénomène-expliqué-par-une-activité-récurrente-plus-intense-pour-les-neurones-encodant-lincertitude&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2 La variation du code des neurones face a une augmentation d&amp;#39;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;#39;incertitude.&#34; srcset=&#34;
-               /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_89476a242fb8aeefe336dc3e5868e3c7.webp 400w,
-               /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_175b581c8b4b4c7a6cf4633aa6cca7a3.webp 760w,
-               /publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/ladret-23/microcicuit_hu7b74ff61228d5d3a80a4af46b95c283c_206340_89476a242fb8aeefe336dc3e5868e3c7.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;537&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      Figure 2 La variation du code des neurones face a une augmentation d&amp;rsquo;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;rsquo;incertitude.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;Globalement, la récurrence peut expliquer comment différents neurones encodent (ou non) la variance de leur entrée. Ces résultats vont dans le sens d&amp;rsquo;une compréhension plus complète du cerveau, qui ne se contente pas d&amp;rsquo;encoder des caractéristiques moyennes, comme le suggéraient les modèles précédents, mais prend également en compte la complexité des entrées, grâce à la connectivité entre les neurones.&lt;/p&gt;
-&lt;p&gt;Il s&amp;rsquo;agit d&amp;rsquo;une étape cruciale pour comprendre comment notre cortex gère les &amp;ldquo;puzzles visuels&amp;rdquo; que nous rencontrons tous les jours, permettant au cerveau d&amp;rsquo;effectuer des calculs complexes sur des distributions probabilistes - un modèle qui gagne en popularité dans les neurosciences [5].&lt;/p&gt;
-&lt;h3 id=&#34;références&#34;&gt;Références&lt;/h3&gt;
-&lt;p&gt;[1] Von Helmholtz, H. (1925). Helmholtz&amp;rsquo;s treatise on physiological
-optics (Vol. 3). Optical Society of America.&lt;/p&gt;
-&lt;p&gt;[2] Barthelmé, S., &amp;amp; Mamassian, P. (2009). Evaluation of objective
-uncertainty in the visual system. PLoS computational biology, 5(9),
-e1000504.&lt;/p&gt;
-&lt;p&gt;[3] Hénaff, O. J., Boundy-Singer, Z. M., Meding, K., Ziemba, C. M., &amp;amp;
-Goris, R. L. (2020). Representation of visual uncertainty through neural
-gain variability. Nature communications, 11(1), 2513.&lt;/p&gt;
-&lt;p&gt;[4] Leon, P. S., Vanzetta, I., Masson, G. S., &amp;amp; Perrinet, L. U.
-(2012). Motion clouds: model-based stimulus synthesis of natural-like
-random textures for the study of motion perception. Journal of
-neurophysiology, 107(11), 3217-3226.&lt;/p&gt;
-&lt;p&gt;[5] Spratling, M. W. (2016). A neural implementation of Bayesian
-inference based on predictive coding. Connection Science, 28(4),
-346-383.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Stakes of Neuromorphic Foveation: a promising future for embedded event cameras</title>
       <link>https://laurentperrinet.github.io/publication/gruel-23-bc/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/gruel-23-bc/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling</title>
-      <link>https://laurentperrinet.github.io/publication/ladret-23-iclr/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/ladret-23-iclr/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Accepted paper (poster) at the &lt;a href=&#34;https://www.sparseneural.net/accepted-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR 2023 Workshop on
-Sparsity in Neural Networks&lt;/a&gt;:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;the focus of the WS is on &amp;ldquo;On practical limitations and tradeoffs between sustainability and efficiency&amp;rdquo; in Kigali, Rwanda / May 5th 2023&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;reviews will be made public on &lt;a href=&#34;https://openreview.net/forum?id=tgr8FEcl28M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openreview.net/forum?id=tgr8FEcl28M&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-epistemic-uncertainty-in-a-csc-dictionary-improves-both-sparseness-and-reconstruction-performance-a-elements-from-dictionaries-with-fixed-epistemic-uncertainty-before-green-and-after-dictionary-learning-orange-b-elements-from-a-dictionary-with-heterogeneous-epistemic-uncertainty-before-blue-and-after-dictionary-learning-purple-c-elements-from-a-dictionary-learned-from-scratch-d-distribution-of-the-sparseness-top-and-peak-signal-to-noise-ratio-psnr-right-of-the-five-dictionaries-shown-as-a-scatter-plot-for-each-of-the-600-images-of-the-dataset-center-median-values-are-shown-as-dashed-line-on-the-histograms&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.&#34; srcset=&#34;
-               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_132b0f0bf1c689cd37be872a9dfcdbde.webp 400w,
-               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_dffe9389ea996908f82a3624a7172a29.webp 760w,
-               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_132b0f0bf1c689cd37be872a9dfcdbde.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;455&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. &lt;strong&gt;(a)&lt;/strong&gt; Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). &lt;strong&gt;(b)&lt;/strong&gt; Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). &lt;strong&gt;(c)&lt;/strong&gt; Elements from a dictionary learned from scratch. &lt;strong&gt;(d)&lt;/strong&gt; Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;ul&gt;
-&lt;li&gt;This theoretical work accompanies a similar study in neurophysiology: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/nelson-cortes/&#34;&gt;Nelson Cortes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/lamyae-ikan/&#34;&gt;Lamyae Ikan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frederic Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/christian-casanova/&#34;&gt;Christian Casanova&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2023).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23/&#34;&gt;Cortical recurrence supports resilience to sensory variance in the primary visual cortex&lt;/a&gt;.
-   &lt;em&gt;Nature Communications Biology&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-23/ladret-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/ladret-23/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/s42003-023-05042-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   DOI
- &lt;/a&gt;
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resilience to sensory uncertainty in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/ladret-23-cosyne/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/ladret-23-cosyne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning heterogeneous delays of spiking neurons for motion detection</title>
-      <link>https://laurentperrinet.github.io/publication/grimaldi-23-gdr/</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/grimaldi-23-gdr/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;see a follow-up as journal paper: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2023).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
-   &lt;em&gt;Submitted&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/grimaldi-23-bc/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/li&gt;
-&lt;li&gt;presented at &lt;a href=&#34;https://gdr-vision-2023.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR vision 2023 2022&lt;/a&gt; January 2023 in Toulouse, France&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Accurate detection of spiking motifs in multi-unit raster plots</title>
-      <link>https://laurentperrinet.github.io/publication/perrinet-23-icann/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/perrinet-23-icann/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Will be presented at the &lt;a href=&#34;https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;special session on Recent Advances in Spiking Neural Networks at this year&amp;rsquo;s ICANN 2023 conference&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;This theoretical implements the objectives set up in this review: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/amelie-gruel/&#34;&gt;Amélie Gruel&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/camille-besnainou/&#34;&gt;Camille Besnainou&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-martinet/&#34;&gt;Jean Martinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2022).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34;&gt;Precise spiking motifs in neurobiological and neuromorphic data&lt;/a&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/grimaldi-22-polychronies.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/grimaldi-22-polychronies/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.3390/brainsci13010068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   DOI
- &lt;/a&gt;
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ultra-Fast Image Categorization in biology and in neural models</title>
-      <link>https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/</guid>
-      <description>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/Jeremie-etal-Vision_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;read the paper &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; or in &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full code&lt;/a&gt; with extensive &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary Material&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt; and code for  &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;join the &lt;a href=&#34;https://www.zotero.org/groups/4560566/ultrafastcat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero group&lt;/a&gt; to add and discuss more items&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;this is a follow-up of: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2021).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/&#34;&gt;Ultra-fast categorization of images containing animals in vivo and in computo&lt;/a&gt;.
-   &lt;em&gt;Champalimaud Research Symposium (CRS21)&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-21-crs/jeremie-21-crs.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/jeremie-21-crs/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;see an extension perspective to visual search in: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/jean-nicolas-jeremie/&#34;&gt;Jean-Nicolas Jérémie&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2022).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/&#34;&gt;Ultra-rapid visual search in natural images using active deep learning&lt;/a&gt;.
-   &lt;em&gt;Proceedings of AREADNE&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-areadne/jeremie-22-areadne.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/jeremie-22-areadne/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
-   
-   
-     
-   
-   
-   
-   
-   
-     
-   
-   &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://areadne.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-     URL&lt;/a&gt;
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
@@ -981,13 +957,21 @@ Sparsity in Neural Networks&lt;/a&gt;:&lt;/p&gt;
    &lt;/span&gt;
    (2023).
    &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
-   &lt;em&gt;Submitted&lt;/em&gt;.
+   &lt;em&gt;Accepted in Biological Cybernetics&lt;/em&gt;.
    
    &lt;p&gt;
  
  
  
  
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Preprint
+ &lt;/a&gt;
  
  
  
@@ -1628,7 +1612,7 @@ The objective of this special session is to highlight the importance of neuromor
   
     
   
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2001,8 +1985,14 @@ The objective of this special session is to highlight the importance of neuromor
 
 
   
+    
+  
 
 
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-22-fens/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
 
 
 
@@ -2274,7 +2264,7 @@ The objective of this special session is to highlight the importance of neuromor
   
     
   
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -2545,8 +2535,14 @@ The objective of this special session is to highlight the importance of neuromor
 
 
   
+    
+  
 
 
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-fens/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
 
 
 
@@ -2597,14 +2593,6 @@ The objective of this special session is to highlight the importance of neuromor
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>A Robust Event-Driven Approach to Always-on Object Recognition</title>
-      <link>https://laurentperrinet.github.io/publication/grimaldi-23/</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/grimaldi-23/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -2953,7 +2941,7 @@ The objective of this special session is to highlight the importance of neuromor
        &lt;a href=&#34;https://laurentperrinet.github.io/author/ryad-benosman/&#34;&gt;Ryad Benosman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
        &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
    &lt;/span&gt;
-   (2022).
+   (2023).
    &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/&#34;&gt;A Robust Event-Driven Approach to Always-on Object Recognition&lt;/a&gt;.
    &lt;em&gt;TechRxiv preprint&lt;/em&gt;.
    
@@ -2993,7 +2981,7 @@ The objective of this special session is to highlight the importance of neuromor
  
  
  
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.36227/techrxiv.18003077.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.36227/techrxiv.18003077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
    DOI
  &lt;/a&gt;
  
@@ -3237,7 +3225,7 @@ The objective of this special session is to highlight the importance of neuromor
        &lt;a href=&#34;https://laurentperrinet.github.io/author/ryad-benosman/&#34;&gt;Ryad Benosman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
        &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
    &lt;/span&gt;
-   (2022).
+   (2023).
    &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/&#34;&gt;A Robust Event-Driven Approach to Always-on Object Recognition&lt;/a&gt;.
    &lt;em&gt;TechRxiv preprint&lt;/em&gt;.
    
@@ -3277,7 +3265,7 @@ The objective of this special session is to highlight the importance of neuromor
  
  
  
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.36227/techrxiv.18003077.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.36227/techrxiv.18003077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
    DOI
  &lt;/a&gt;
  
@@ -3471,7 +3459,7 @@ The objective of this special session is to highlight the importance of neuromor
        &lt;a href=&#34;https://laurentperrinet.github.io/author/ryad-benosman/&#34;&gt;Ryad Benosman&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
        &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
    &lt;/span&gt;
-   (2022).
+   (2023).
    &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/&#34;&gt;A Robust Event-Driven Approach to Always-on Object Recognition&lt;/a&gt;.
    &lt;em&gt;TechRxiv preprint&lt;/em&gt;.
    
@@ -3511,7 +3499,7 @@ The objective of this special session is to highlight the importance of neuromor
  
  
  
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.36227/techrxiv.18003077.v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.36227/techrxiv.18003077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
    DOI
  &lt;/a&gt;
  
@@ -3936,7 +3924,7 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
    
      
    
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
    Preprint
  &lt;/a&gt;
  
@@ -8886,245 +8874,9 @@ More complex parts of the brain are not required at this stage, contrary to what
     </item>
     
     <item>
-      <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
-      <link>https://laurentperrinet.github.io/publication/taouali-14-areadne/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/taouali-14-areadne/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;see a follow-up in this &lt;a href=&#34;https://laurentperrinet.github.io/publication/taouali-16/&#34;&gt;publication&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
-      <link>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;see a follow-up in this &lt;a href=&#34;https://laurentperrinet.github.io/publication/taouali-16/&#34;&gt;publication&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dynamic Textures For Probing Motion Perception</title>
-      <link>https://laurentperrinet.github.io/publication/vacher-14-ihp/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;See a followup in 
-
-
-
-
-
-
-
-
-
-  
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    
-
-  &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/jonathan-vacher/&#34;&gt;Jonathan Vacher&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-isaac-meso/&#34;&gt;Andrew Isaac Meso&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-peyre/&#34;&gt;Gabriel Peyré&lt;/a&gt;&lt;/span&gt;
-  &lt;/span&gt;
-  (2018).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/vacher-16/&#34;&gt;Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures&lt;/a&gt;.
-  &lt;em&gt;Neural Computation&lt;/em&gt;.
-  
-  &lt;p&gt;
-
-
-
-
-
-  
-  
-    
-  
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1611.01390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Preprint
-&lt;/a&gt;
-
-
-
-
-  
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/vacher-16/vacher-16.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
-
-
-&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/vacher-16/cite.bib&#34;&gt;
-  Cite
-&lt;/a&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
-
-
-&lt;/p&gt;
-
-  
-  
-&lt;/div&gt;
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the nature of anticipatory eye movements and the factors affecting them</title>
-      <link>https://laurentperrinet.github.io/publication/damasse-14-gdr/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/damasse-14-gdr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relationship between natural image statistics and lateral connectivity in the primary visual cortex</title>
-      <link>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;see a follow-up: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2015).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
-   &lt;em&gt;Scientific Reports&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
-   
-   
-     
-   
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   Preprint
- &lt;/a&gt;
- 
- 
- 
- 
-   
-     
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
-   
-   
-     
-   
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   Code
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   DOI
- &lt;/a&gt;
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Signature of an anticipatory response in area V1 as modeled by a probabilistic model and a spiking neural network</title>
       <link>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Jul 2014 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/kaplan-khoei-14/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
@@ -9412,6 +9164,242 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 4: &lt;em&gt;Rasterplot of input and output spikes.&lt;/em&gt; The raster plot from excitatory neurons is ordered according to their position. Each input spike is a blue dot and each output spike is a black dot. While input is scattered during blanking periods (Figure 1), the network output shows shows some tuned activity during the blank (compare with the activity before visual stimulation). To decode such patterns of activity we used a maximum-likelihood estimation technique based on the tuning curve of the neurons.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-14-areadne/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-14-areadne/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see a follow-up in this &lt;a href=&#34;https://laurentperrinet.github.io/publication/taouali-16/&#34;&gt;publication&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Simple Model of Orientation Encoding Accounting For Multivariate Neural Noise</title>
+      <link>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/taouali-14-neurocomp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see a follow-up in this &lt;a href=&#34;https://laurentperrinet.github.io/publication/taouali-16/&#34;&gt;publication&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Textures For Probing Motion Perception</title>
+      <link>https://laurentperrinet.github.io/publication/vacher-14-ihp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;See a followup in 
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/jonathan-vacher/&#34;&gt;Jonathan Vacher&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/andrew-isaac-meso/&#34;&gt;Andrew Isaac Meso&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/gabriel-peyre/&#34;&gt;Gabriel Peyré&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2018).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/vacher-16/&#34;&gt;Bayesian Modeling of Motion Perception using Dynamical Stochastic Textures&lt;/a&gt;.
+  &lt;em&gt;Neural Computation&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+  
+  
+    
+  
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/1611.01390&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;/a&gt;
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/vacher-16/vacher-16.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/vacher-16/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1162/neco_a_01142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the nature of anticipatory eye movements and the factors affecting them</title>
+      <link>https://laurentperrinet.github.io/publication/damasse-14-gdr/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/damasse-14-gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship between natural image statistics and lateral connectivity in the primary visual cortex</title>
+      <link>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/rudiger-14-cosyne/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see a follow-up: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/james-a-bednar/&#34;&gt;James A Bednar&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2015).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-bednar-15/&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;/a&gt;.
+   &lt;em&gt;Scientific Reports&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://hal-amu.archives-ouvertes.fr/hal-01202447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Preprint
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+   
+     
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;http://www.nature.com/articles/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/perrinet-bednar-15/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/PerrinetBednar15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Code
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/srep11400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -10360,6 +10348,14 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     </item>
     
     <item>
+      <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The behavioral receptive field underlying motion integration for primate tracking eye movements</title>
       <link>https://laurentperrinet.github.io/publication/masson-12/</link>
       <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
@@ -11096,14 +11092,6 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       Figure 4: &lt;em&gt;(Top)&lt;/em&gt; Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. &lt;em&gt;(Bottom)&lt;/em&gt; Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
-      <description></description>
     </item>
     
     <item>

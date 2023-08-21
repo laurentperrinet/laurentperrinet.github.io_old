@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/author/jean-nicolas-jeremie/</link>
       <atom:link href="https://laurentperrinet.github.io/author/jean-nicolas-jeremie/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Nicolas Jérémie</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/jean-nicolas-jeremie/avatar_hua40b5f042c40f2b2bbad89397dde279b_69684_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jean-Nicolas Jérémie</title>
@@ -13,20 +13,9 @@
     </image>
     
     <item>
-      <title>Retinotopy improves the categorisation and localisation of visual objects in CNNs</title>
-      <link>https://laurentperrinet.github.io/publication/jeremie-23-ccn/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/jeremie-23-ccn/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;to be presented at the &lt;em&gt;Computational Cognitive Neuroscience Society Meeting 2023&lt;/em&gt; in Oxford&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Ultra-Fast Image Categorization in biology and in neural models</title>
       <link>https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/</guid>
       <description>
 
@@ -47,20 +36,11 @@
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/Jeremie-etal-Vision_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;read the paper &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; or in &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full code&lt;/a&gt; with extensive &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary Material&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt; and code for  &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;join the &lt;a href=&#34;https://www.zotero.org/groups/4560566/ultrafastcat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero group&lt;/a&gt; to add and discuss more items&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;this is a follow-up of: 
+&lt;li&gt;read the paper &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; or in &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full code&lt;/a&gt; with extensive &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary Material&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt; and code for  &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;join the &lt;a href=&#34;https://www.zotero.org/groups/4560566/ultrafastcat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero group&lt;/a&gt; to add and discuss more items&lt;/li&gt;
+&lt;li&gt;this is a follow-up of: 
  
  
  
@@ -134,10 +114,8 @@
  &lt;/div&gt;
  
  
-&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;see an extension perspective to visual search in: 
+&lt;li&gt;see an extension perspective to visual search in: 
  
  
  
@@ -226,8 +204,18 @@
  &lt;/div&gt;
  
  
-&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retinotopy improves the categorisation and localisation of visual objects in CNNs</title>
+      <link>https://laurentperrinet.github.io/publication/jeremie-23-ccn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/jeremie-23-ccn/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;to be presented at the &lt;em&gt;Computational Cognitive Neuroscience Society Meeting 2023&lt;/em&gt; in Oxford&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -337,7 +325,7 @@
   
     
   
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -708,7 +696,7 @@
   
     
   
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -979,8 +967,14 @@
 
 
   
+    
+  
 
 
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-fens/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
 
 
 
@@ -1061,7 +1055,7 @@
   
     
   
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;/a&gt;
 
@@ -1179,8 +1173,14 @@
 
 
   
+    
+  
 
 
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/jeremie-22-fens/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
 
 
 

@@ -1001,6 +1001,14 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
     </item>
     
     <item>
+      <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
+      <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The behavioral receptive field underlying motion integration for primate tracking eye movements</title>
       <link>https://laurentperrinet.github.io/publication/masson-12/</link>
       <pubDate>Wed, 21 Mar 2012 00:00:00 +0000</pubDate>
@@ -1612,14 +1620,6 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       Figure 4: &lt;em&gt;(Top)&lt;/em&gt; Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. &lt;em&gt;(Bottom)&lt;/em&gt; Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pattern discrimination for moving random textures: Richer stimuli are more difficult to recognize</title>
-      <link>https://laurentperrinet.github.io/publication/simoncini-11-vss/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/simoncini-11-vss/</guid>
-      <description></description>
     </item>
     
     <item>
