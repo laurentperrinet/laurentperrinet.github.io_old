@@ -31966,7 +31966,84 @@ $$&lt;/p&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
-&lt;h1 id=&#34;frame-based-camera&#34;&gt;Frame-Based Camera&lt;/h1&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;http://38.media.tumblr.com/831aada3328557146e214efe1cb867a5/tumblr_mslrotKPS01snyrdto1_500.gif&#34;
+  &gt;
+
+&lt;!-- 
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The&amp;#43;Horse&amp;#43;in&amp;#43;Motion,&amp;#43;1878.%C2%A0Eadweard&amp;#43;Muybridge&amp;#43;(b.&amp;#43;9&amp;#43;April,&amp;#43;1830)The&amp;#43;first&amp;#43;movie&amp;#43;ever&amp;#43;made,&amp;#43;from&amp;#43;still&amp;#43;photographs..gif&#34;
+  &gt;
+ --&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;background.svg&#34;
+  &gt;
+
+&lt;h1 id=&#34;frame-based-camera-analog-signal&#34;&gt;Frame-Based Camera: Analog signal&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/analog_signal.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;frame-based-camera-temporal-discretization&#34;&gt;Frame-Based Camera: Temporal discretization&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/frame-based_signal.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;!-- 
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;http://farm5.static.flickr.com/4070/4304428495_35c7cbff8b_o.jpg&#34;
+  &gt;
+ --&gt;
+&lt;!-- https://www.tumblr.com/search/galloping+horse --&gt;
+&lt;!-- 
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The&amp;#43;Horse&amp;#43;in&amp;#43;Motion,&amp;#43;1878.%C2%A0Eadweard&amp;#43;Muybridge&amp;#43;(b.&amp;#43;9&amp;#43;April,&amp;#43;1830)The&amp;#43;first&amp;#43;movie&amp;#43;ever&amp;#43;made,&amp;#43;from&amp;#43;still&amp;#43;photographs..gif&#34;
+  &gt;
+ --&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;frame-based-camera-aliasing&#34;&gt;Frame-Based Camera: Aliasing&lt;/h1&gt;
 
 
 
@@ -31995,8 +32072,55 @@ $$&lt;/p&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;event-based-camera&#34;&gt;Event-Based Camera&lt;/h1&gt;
+&lt;h1 id=&#34;frame-based-camera-wagon-wheel-illusion&#34;&gt;Frame-Based Camera: Wagon-Wheel Illusion&lt;/h1&gt;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-sam-brinson-2020httpswwwsambrinsoncomnature-of-perception&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://vignette.wikia.nocookie.net/revengeristsconsortium/images/2/25/Whee.gif/revision/latest/scale-to-width-down/340?cb=20141209071330&#34; alt=&#34;[[Sam Brinson, 2020](https://www.sambrinson.com/nature-of-perception/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      [&lt;a href=&#34;https://www.sambrinson.com/nature-of-perception/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sam Brinson, 2020&lt;/a&gt;]
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;break down problem in three different levels: Marr (+ Poggio)&lt;/li&gt;
+&lt;li&gt;arbitrary, but useful division of labor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera&#34;&gt;Event-Based Camera&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;!-- 
 
 
 
@@ -32015,16 +32139,20 @@ $$&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://lenzgregor.com/posts/event-cameras/post-rethinking/events.gif&#34; alt=&#34;[[Gregor Lenz, 2020](https://lenzgregor.com/posts/event-cameras/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://lenzgregor.com/posts/event-cameras/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gregor Lenz, 2020&lt;/a&gt;]
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;break down problem in three different levels: Marr (+ Poggio)&lt;/li&gt;
 &lt;li&gt;arbitrary, but useful division of labor&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;a-paradigm-shift-in-signal-acquisition&#34;&gt;A Paradigm Shift in Signal Acquisition&lt;/h2&gt;
+&lt;!-- 
+---
+
+## A Paradigm Shift in Signal Acquisition
+
 
 
 
@@ -32045,6 +32173,7 @@ $$&lt;/p&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://tonic.readthedocs.io/en/latest/reading_material/intro-event-cameras.html#fig:event-cameras-framestream&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tonic manual&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;active: the eye is always moving&lt;/li&gt;
@@ -32054,8 +32183,45 @@ $$&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
+ --&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;dynamic-range&#34;&gt;Dynamic Range&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-1&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_low.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
 
 
 
@@ -32075,7 +32241,7 @@ $$&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://docs.prophesee.ai/stable/_images/CD_generation.png&#34; alt=&#34;[Prophesee](https://docs.prophesee.ai/stable/concepts.html)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://docs.prophesee.ai/stable/concepts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prophesee&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;Loihi: &lt;a href=&#34;https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg?lossy=0&amp;amp;strip=none&amp;amp;ssl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg?lossy=0&amp;strip=none&amp;ssl=1&lt;/a&gt;&lt;/p&gt;
@@ -32084,27 +32250,7 @@ $$&lt;/p&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
-&lt;h1 id=&#34;always-on-computations&#34;&gt;Always-on computations&lt;/h1&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-marr-1982httpsoutdexyz2020-01-12overappreciated-arguments-marrs-three-levelshtml&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://outde.xyz/img/Rawski/Marr/3Lvls.jpg&#34; alt=&#34;[[Marr, 1982](https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      [&lt;a href=&#34;https://outde.xyz/2020-01-12/overappreciated-arguments-marrs-three-levels.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marr, 1982&lt;/a&gt;]
-    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;computer-vision-with-event-based-cameras&#34;&gt;Computer vision with Event-Based Cameras&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;computational-neuroscience-of-vision&#34;&gt;Computational neuroscience of vision&lt;/h2&gt;
 
@@ -32151,6 +32297,33 @@ $$&lt;/p&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       [&lt;a href=&#34;https://tonic.readthedocs.io/en/latest/_images/neuron-models.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tonic manual&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;spiking-neural-networks-neuromorphic-hardware&#34;&gt;Spiking Neural Networks: neuromorphic hardware&lt;/h1&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-propheseehttpsdocspropheseeaistableconceptshtml&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://docs.prophesee.ai/stable/_images/CD_generation.png&#34; alt=&#34;[Prophesee](https://docs.prophesee.ai/stable/concepts.html)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://docs.prophesee.ai/stable/concepts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prophesee&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;Loihi: &lt;a href=&#34;https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg?lossy=0&amp;amp;strip=none&amp;amp;ssl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg?lossy=0&amp;strip=none&amp;ssl=1&lt;/a&gt;&lt;/p&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;spiking-neural-networks-leaky-integrate-and-fire-neuron&#34;&gt;Spiking Neural Networks: Leaky Integrate-and-Fire Neuron&lt;/h2&gt;
 
@@ -32389,36 +32562,7 @@ $$&lt;/p&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-from-frame-based-to-event-based-cameras&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png&#34; alt=&#34;From frame-based to event-based cameras.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      From frame-based to event-based cameras.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;event-based cameras&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-1&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+&lt;h2 id=&#34;spiking-neural-networks-hd-snn&#34;&gt;Spiking Neural Networks: HD-SNN&lt;/h2&gt;
 
 
 
@@ -32447,7 +32591,7 @@ $$&lt;/p&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-2&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+&lt;h2 id=&#34;spiking-neural-networks-hd-snn-1&#34;&gt;Spiking Neural Networks: HD-SNN&lt;/h2&gt;
 
 
 
@@ -32475,7 +32619,7 @@ $$&lt;/p&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-3&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+&lt;h2 id=&#34;spiking-neural-networks-hd-snn-2&#34;&gt;Spiking Neural Networks: HD-SNN&lt;/h2&gt;
 
 
 
@@ -32504,7 +32648,7 @@ $$&lt;/p&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;spiking-neural-networks-in-neuromorphic-engineering-4&#34;&gt;Spiking Neural Networks in neuromorphic engineering&lt;/h2&gt;
+&lt;h2 id=&#34;spiking-neural-networks-hd-snn-3&#34;&gt;Spiking Neural Networks: HD-SNN&lt;/h2&gt;
 
 
 
