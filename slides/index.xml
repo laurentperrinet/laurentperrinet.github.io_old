@@ -6959,6 +6959,7 @@ $$&lt;/p&gt;
 &lt;img src=&#34;https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg&#34; alt=&#34;logos&#34; height=&#34;130&#34;/&gt;
 &lt;!-- &lt;img src=&#34;https://laurentperrinet.github.io/talk/2023-09-08_fresnel/qrcode.png&#34; alt=&#34;qrcode&#34; height=&#34;130&#34;/&gt; --&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://laurentperrinet.github.io/talk/2023-09-08-fresnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/talk/2023-09-08-fresnel/&lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;welcome to the course on COMPUTATIONAL NEUROSCIENCE 2023 entitled &amp;ldquo;Machine learning to analyze complex data&amp;rdquo;&lt;/li&gt;
@@ -6985,42 +6986,9 @@ $$&lt;/p&gt;
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;https://www.filmsranked.com/wp-content/uploads/2020/05/two-fencers.gif&#34;
-  &gt;
-
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
       data-background-image=&#34;http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The&amp;#43;Horse&amp;#43;in&amp;#43;Motion,&amp;#43;1878.%C2%A0Eadweard&amp;#43;Muybridge&amp;#43;(b.&amp;#43;9&amp;#43;April,&amp;#43;1830)The&amp;#43;first&amp;#43;movie&amp;#43;ever&amp;#43;made,&amp;#43;from&amp;#43;still&amp;#43;photographs..gif&#34;
   &gt;
 
-&lt;!-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://38.media.tumblr.com/831aada3328557146e214efe1cb867a5/tumblr_mslrotKPS01snyrdto1_500.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt; --&gt;
-&lt;!-- 
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;background.svg&#34;
-  &gt;
- --&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;representing-spatio-temporal-luminous-information&#34;&gt;Representing spatio-temporal luminous information&lt;/h2&gt;
 
@@ -7042,7 +7010,9 @@ $$&lt;/p&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/analog_signal.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
+  &lt;p&gt;&lt;a href=&#34;http://38.media.tumblr.com/831aada3328557146e214efe1cb867a5/tumblr_mslrotKPS01snyrdto1_500.gif&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://38.media.tumblr.com/831aada3328557146e214efe1cb867a5/tumblr_mslrotKPS01snyrdto1_500.gif&lt;/a&gt;
+&lt;a href=&#34;https://www.filmsranked.com/wp-content/uploads/2020/05/two-fencers.gif%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.filmsranked.com/wp-content/uploads/2020/05/two-fencers.gif&#34;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;break down problem in three different levels: Marr (+ Poggio)&lt;/li&gt;
 &lt;li&gt;arbitrary, but useful division of labor&lt;/li&gt;
 &lt;/ul&gt;
@@ -7157,21 +7127,21 @@ $$&lt;/p&gt;
 &lt;td&gt;DSLR&lt;/td&gt;
 &lt;td&gt;44.6  dB&lt;/td&gt;
 &lt;td&gt;120     fps&lt;/td&gt;
-&lt;td&gt;2&amp;ndash;8   Mpx&lt;/td&gt;
+&lt;td&gt;2&amp;ndash;20  Mpx&lt;/td&gt;
 &lt;td&gt;30  W&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Ultra-high speed&lt;/td&gt;
 &lt;td&gt;64    dB&lt;/td&gt;
-&lt;td&gt;12500   fps&lt;/td&gt;
+&lt;td&gt;10^4 fps&lt;/td&gt;
 &lt;td&gt;0.3&amp;ndash;4 Mpx&lt;/td&gt;
 &lt;td&gt;300 W&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Event-based&lt;/td&gt;
 &lt;td&gt;120   dB&lt;/td&gt;
-&lt;td&gt;1000000 fps&lt;/td&gt;
-&lt;td&gt;.1&amp;ndash;2  Mpx&lt;/td&gt;
+&lt;td&gt;10^6 fps&lt;/td&gt;
+&lt;td&gt;0.1&amp;ndash;2 Mpx&lt;/td&gt;
 &lt;td&gt;30 mW&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -7199,7 +7169,7 @@ $$&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_1.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_1.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   
@@ -7222,7 +7192,7 @@ $$&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_2.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_2.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   
@@ -7245,7 +7215,7 @@ $$&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_5.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_5.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-camera-4&#34;&gt;Event-Based Camera&lt;/h2&gt;
@@ -7265,7 +7235,7 @@ $$&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_10.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_10.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-camera-5&#34;&gt;Event-Based Camera&lt;/h2&gt;
@@ -7285,7 +7255,7 @@ $$&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_20.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_20.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-camera-6&#34;&gt;Event-Based Camera&lt;/h2&gt;
