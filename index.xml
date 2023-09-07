@@ -31975,6 +31975,22 @@ $$&lt;/p&gt;
       data-background-image=&#34;http://38.media.tumblr.com/831aada3328557146e214efe1cb867a5/tumblr_mslrotKPS01snyrdto1_500.gif&#34;
   &gt;
 
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;https://www.filmsranked.com/wp-content/uploads/2020/05/two-fencers.gif&#34;
+  &gt;
+
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The&amp;#43;Horse&amp;#43;in&amp;#43;Motion,&amp;#43;1878.%C2%A0Eadweard&amp;#43;Muybridge&amp;#43;(b.&amp;#43;9&amp;#43;April,&amp;#43;1830)The&amp;#43;first&amp;#43;movie&amp;#43;ever&amp;#43;made,&amp;#43;from&amp;#43;still&amp;#43;photographs..gif&#34;
+  &gt;
+
 &lt;!-- 
 
 
@@ -31998,13 +32014,6 @@ $$&lt;/p&gt;
   
       
       data-background-image=&#34;background.svg&#34;
-  &gt;
- --&gt;
-&lt;!-- 
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The&amp;#43;Horse&amp;#43;in&amp;#43;Motion,&amp;#43;1878.%C2%A0Eadweard&amp;#43;Muybridge&amp;#43;(b.&amp;#43;9&amp;#43;April,&amp;#43;1830)The&amp;#43;first&amp;#43;movie&amp;#43;ever&amp;#43;made,&amp;#43;from&amp;#43;still&amp;#43;photographs..gif&#34;
   &gt;
  --&gt;
 &lt;hr&gt;
@@ -32121,6 +32130,183 @@ $$&lt;/p&gt;
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-camera&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Sensor&lt;/th&gt;
+&lt;th&gt;Range&lt;/th&gt;
+&lt;th&gt;Framerate&lt;/th&gt;
+&lt;th&gt;Resolution&lt;/th&gt;
+&lt;th&gt;Power&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Human eye&lt;/td&gt;
+&lt;td&gt;30    dB&lt;/td&gt;
+&lt;td&gt;300 (?) fps&lt;/td&gt;
+&lt;td&gt;10 (?) Mpx&lt;/td&gt;
+&lt;td&gt;10 mW&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;DSLR&lt;/td&gt;
+&lt;td&gt;44.6  dB&lt;/td&gt;
+&lt;td&gt;120     fps&lt;/td&gt;
+&lt;td&gt;2&amp;ndash;8   Mpx&lt;/td&gt;
+&lt;td&gt;30  W&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ultra-high speed&lt;/td&gt;
+&lt;td&gt;64    dB&lt;/td&gt;
+&lt;td&gt;12500   fps&lt;/td&gt;
+&lt;td&gt;0.3&amp;ndash;4 Mpx&lt;/td&gt;
+&lt;td&gt;300 W&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Event-based&lt;/td&gt;
+&lt;td&gt;120   dB&lt;/td&gt;
+&lt;td&gt;1000000 fps&lt;/td&gt;
+&lt;td&gt;.1&amp;ndash;2  Mpx&lt;/td&gt;
+&lt;td&gt;30 mW&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Event_camera#Functional_description&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Event_camera#Functional_description&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;more in &lt;a href=&#34;https://arxiv.org/pdf/1904.08405.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/1904.08405.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera-1&#34;&gt;Event-Based Camera&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_1.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera-2&#34;&gt;Event-Based Camera&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_2.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera-3&#34;&gt;Event-Based Camera&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_5.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera-4&#34;&gt;Event-Based Camera&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_10.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera-5&#34;&gt;Event-Based Camera&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_20.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera-6&#34;&gt;Event-Based Camera&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera-7&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
@@ -32162,13 +32348,11 @@ $$&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;break down problem in three different levels: Marr (+ Poggio)&lt;/li&gt;
-&lt;li&gt;arbitrary, but useful division of labor&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-1&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-8&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
@@ -32187,26 +32371,6 @@ $$&lt;/p&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_low.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;!-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-propheseehttpsdocspropheseeaistableconceptshtml&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://docs.prophesee.ai/stable/_images/CD_generation.png&#34; alt=&#34;[Prophesee](https://docs.prophesee.ai/stable/concepts.html)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      &lt;a href=&#34;https://docs.prophesee.ai/stable/concepts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prophesee&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;Loihi: &lt;a href=&#34;https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg?lossy=0&amp;amp;strip=none&amp;amp;ssl=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg?lossy=0&amp;strip=none&amp;ssl=1&lt;/a&gt;&lt;/p&gt;
@@ -32623,7 +32787,7 @@ $$&lt;/p&gt;
 
 &lt;figure  id=&#34;figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/HDSNN_conv.png&#34; alt=&#34;[Grimaldi &amp;amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/laurentperrinet/figures/7f382a8074552de1a6a0c5728c60d48788b5a9f8/animated_neurons/conv_HDSNN.svg&#34; alt=&#34;[Grimaldi &amp;amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grimaldi &amp;amp; LP (2023) Biol Cybernetics&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -32681,7 +32845,65 @@ $$&lt;/p&gt;
 
 &lt;figure  id=&#34;figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/accuracy.png&#34; alt=&#34;[Grimaldi &amp;amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_raw.svg&#34; alt=&#34;[Grimaldi &amp;amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grimaldi &amp;amp; LP (2023) Biol Cybernetics&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;frugal computing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-hd-snn-4&#34;&gt;Spiking Neural Networks: HD-SNN&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_shortening.svg&#34; alt=&#34;[Grimaldi &amp;amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grimaldi &amp;amp; LP (2023) Biol Cybernetics&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;frugal computing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;spiking-neural-networks-hd-snn-5&#34;&gt;Spiking Neural Networks: HD-SNN&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy.svg&#34; alt=&#34;[Grimaldi &amp;amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grimaldi &amp;amp; LP (2023) Biol Cybernetics&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
