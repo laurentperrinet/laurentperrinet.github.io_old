@@ -58,7 +58,7 @@
 <p><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
 <p><a href="https://laurentperrinet.github.io/talk/2023-09-08-fresnel/" target="_blank" rel="noopener">https://laurentperrinet.github.io/talk/2023-09-08-fresnel/</a></p>
 <aside class="notes">
-  Hello, I&rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this seminar at the Institut Fresnel, I&rsquo;ll be presenting event-driven cameras, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. I&rsquo;d like to thank Loic le Goff for his kind invitation, and all of you for coming. These slides are available from my website, along with a number of references. The plan of the talk is as follows: first, we&rsquo;ll describe what an event-driven camera is - in particular, by comparing it to a conventional camera; then, we&rsquo;ll show some examples of applications of these cameras with dedicated algorithms; and finally, we&rsquo;ll present how our knowledge of biological mechanisms in neuroscience can enable us to improve these algorithms.
+  <em>Hello</em>, I&rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this seminar at the Institut Fresnel, I&rsquo;ll be presenting <em>event-driven cameras</em>, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. I&rsquo;d like to <em>thank</em> Loic le Goff for his kind invitation, and all of you for coming. These slides are available from my website, along with a number of references. The <em>outline</em> of the talk is as follows: first, we&rsquo;ll describe what an event-driven camera is - in particular, by comparing it to a conventional camera; then, we&rsquo;ll show some examples of applications of these cameras with dedicated algorithms; and finally, we&rsquo;ll present how our knowledge of biological mechanisms in neuroscience can enable us to improve these algorithms.
 </aside>
 </section>
 
@@ -74,7 +74,7 @@
 <section>
 <h1 id="sensing-light">Sensing light</h1>
 <aside class="notes">
-  First of all, the general aim of imaging is to represent a light signal, i.e. a luminous intensity, a color, distributed over the visual field, giving us a vivid impression of the visual scene before our eyes.
+  First of all, the general aim of <em>imaging</em> is to represent a light signal, i.e. a luminous intensity, a color, distributed over the visual field, giving us a vivid impression of the visual scene before our eyes.
 </aside>
 
     </section>
@@ -92,7 +92,7 @@
   >
 
 <aside class="notes">
-  This is perfectly illustrated in this galloping horse. We get a vivid impression of movement. Thanks to a rapid sequence of still images consistent with the scene being represented. This technique clearly exploits a visual illusion, because we know that at each point in the visual space, the light signal is made up of a continuous stream of an analogous signal representing the energy of the photos.
+  This is perfectly illustrated in this <em>galloping horse</em>. We get a <em>vivid</em> impression of movement. Thanks to a rapid sequence of still images consistent with the scene being represented. This technique clearly exploits a visual <em>illusion</em>, because we know that at each point in the visual space, the light signal is made up of a <em>continuous</em> stream of an analogous signal representing the energy of the photos.
 </aside>
 
     </section>
@@ -110,7 +110,7 @@
   >
 
 <aside class="notes">
-  This technique is inspired by the research carried out by Étienne-Jules Marey (<a href="https://en.wikipedia.org/wiki/" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/</a>Étienne-Jules_Marey), who gave his name to the ISM, under the term chronophotography, which notably enabled later Muybridge to demonstrate the mechanism of a horse&rsquo;s gallop. In particular, Marey literally used a camera mounted on a gun-like structure to shoot a visual scene.
+  This technique is inspired by the research carried out by Étienne-Jules <em>Marey</em> (<a href="https://en.wikipedia.org/wiki/" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/</a>Étienne-Jules_Marey), who gave his name to the ISM, under the term <em>chronophotography</em>, which notably enabled later Muybridge to demonstrate the mechanism of a horse&rsquo;s gallop. In particular, Marey literally used a camera mounted on a <em>gun</em>-like structure to shoot a visual scene.
 </aside>
 
     </section>
@@ -128,7 +128,7 @@
   >
 
 <aside class="notes">
-  The use of such dynamic visualization is crucial in the scientific field, whether in biology or physics, as it enables us to quantify the characteristics of the experiment being carried out - I&rsquo;m thinking, for example, of quantifying the movements and number of bacteria in a biological assay.
+  The use of such dynamic <em>visualization</em> is crucial in the scientific field, whether in biology or physics, as it enables us to quantify the characteristics of the experiment being carried out - I&rsquo;m thinking, for example, of quantifying the movements and number of bacteria in a biological assay.
 </aside>
 
     </section>
@@ -146,7 +146,7 @@
   >
 
 <aside class="notes">
-  In the laboratory, we use it in particular to quantify eye movements when a stimulus is presented to an observer.
+  In the laboratory, we use it in particular to quantify <em>eye movements</em> when a stimulus is presented to an observer.
 </aside>
 
     </section>
@@ -178,7 +178,7 @@
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/analog_signal.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
 <aside class="notes">
-  <p>To better understand the mechanism behind this technology, let&rsquo;s imagine that we represent a single pixel in the space of the visual field. Here, I&rsquo;ve taken a video from an episode from the Monty Python Flying Circus TV series. In this way, we can represent the evolution of the log intensity of the light signal as a function of time.</p>
+  <p>To better understand the mechanism behind this technology, let&rsquo;s imagine that we represent a <em>single pixel</em> in the space of the visual field. Here, I&rsquo;ve taken a grayscale <em>video</em> from an episode from the Monty Python Flying Circus TV series. In this way, we can represent the evolution of the <em>log intensity</em> of the light signal as a function of time.</p>
 <p><a href="http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The&#43;Horse&#43;in&#43;Motion,&#43;1878.%C2%A0Eadweard&#43;Muybridge&#43;%28b.&#43;9&#43;April,&#43;1830%29The&#43;first&#43;movie&#43;ever&#43;made,&#43;from&#43;still&#43;photographs..gif" target="_blank" rel="noopener">http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The+Horse+in+Motion,+1878.%C2%A0Eadweard+Muybridge+(b.+9+April,+1830)The+first+movie+ever+made,+from+still+photographs..gif</a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/The_Horse_in_Motion-anim.gif" target="_blank" rel="noopener">https://upload.wikimedia.org/wikipedia/commons/0/07/The_Horse_in_Motion-anim.gif</a>
 <a href="https://hackaday.com/wp-content/uploads/2018/04/saccades.gif?w=600&amp;h=600" target="_blank" rel="noopener">https://hackaday.com/wp-content/uploads/2018/04/saccades.gif?w=600&h=600</a>
@@ -216,8 +216,8 @@
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/frame-based_signal.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
 <aside class="notes">
-  From this representation, expressed in continuous time, we can discretize time and measure the log intensity at regular time intervals. The difference between two images gives the temporal resolution, and its inverse gives the number of images per second. This is the representation classically used in chronophotography, but also in all conventional video stream acquisition and viewing technologies.
-This technology is highly efficient for a wide range of signals. However, it does have certain limitations.
+  From this representation, expressed in continuous time, we can <em>discretize</em> time and measure the log intensity at regular time intervals. The difference between two images gives the <em>temporal resolution</em>, and its inverse gives the number of images per second. This is the representation classically used in chronophotography, but also in all conventional video stream <em>acquisition and viewing</em> technologies.
+This technology is highly efficient for a wide range of signals. However, it does have certain <em>limitations</em>.
 </aside>
 
     </section>
@@ -251,7 +251,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
       [<a href="https://lenzgregor.com/posts/event-cameras/" target="_blank" rel="noopener">Gregor Lenz, 2020</a>]
     </figcaption></figure>
 <aside class="notes">
-  Let&rsquo;s take the example of three colored cubes rotating in a frontal axis along a circle. Because of temporal resolution and the length of time the shutter is open, the images captured at each instant can produce a certain amount of blur, and movement can become increasingly difficult to estimate. If the movement of the cubes begins to accelerate, temporal aliasing can be observed.
+  Let&rsquo;s take the <em>example</em> of three colored cubes rotating in a frontal axis along a circle. Because of temporal resolution and the length of time the shutter is open, the images captured at each instant can produce a certain amount of <em>blur</em>, and movement can become increasingly difficult to estimate. If the movement of the cubes begins to accelerate, temporal <em>aliasing</em> can be observed.
 </aside>
 
     </section>
@@ -285,8 +285,9 @@ This technology is highly efficient for a wide range of signals. However, it doe
       [<a href="https://www.sambrinson.com/nature-of-perception/" target="_blank" rel="noopener">Sam Brinson, 2020</a>]
     </figcaption></figure>
 <aside class="notes">
-  This phenomenon is particularly striking when we look at a spinning wheel at high speed, and this wheel&rsquo;s rotational speed is such that two successive images give the illusion that the movement is in the opposite direction to the real, physical moment. It&rsquo;s striking here in this car wheel, where you can perceive that the central hub appears motionless, and the wheel is perceived as turning in the opposite direction to the physical rolling motion on the road.
+  This phenomenon is particularly striking when we look at a spinning <em>wheel</em> at high speed, and this wheel&rsquo;s rotational speed is such that two successive images give the illusion that the movement is in the opposite direction to the real, physical moment. It&rsquo;s striking here in this car wheel, where you can perceive that the central hub appears motionless, and the wheel is perceived as turning in the <em>opposite direction</em> to the physical rolling motion on the road.
 </aside>
+</section>
 
     </section>
     
@@ -297,27 +298,10 @@ This technology is highly efficient for a wide range of signals. However, it doe
     <section>
     
       
-<h2 id="event-based-camera">Event-Based Camera</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" alt="" loading="lazy" data-zoomable width="100%" /></div>
-  </div></figure>
+<section>
+<h1 id="event-based-camera">Event-Based Camera</h1>
 <aside class="notes">
-  Now let&rsquo;s introduce the event camera. This consists of a conventional sensor which, like most CMOS-type sensors, transforms visual energy into an electric current. However, there are two fundamental differences, inspired by our knowledge of the retina, which is the sensor of vision. Firstly, each pixel of this sensor is independent and is not cadenced according to a global clock. Secondly, each pixel will follow the evolution of the log intensity and signal an event when an increment or decrement exceeds a threshold. Let&rsquo;s explain this mechanism in relation to our analog signal.
+  Now let&rsquo;s introduce the <em>event camera</em>.
 </aside>
 
     </section>
@@ -346,10 +330,10 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_1.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+    <div class="w-100" ><img src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
 <aside class="notes">
-  First of all, the signal will evolve over time, and we can see here that it may cross a threshold. An event will then be produced by this pixel. Here, the event is of negative polarity, as it corresponds to an decrement.
+  This consists of a conventional sensor which, like most CMOS-type sensors, transforms visual energy into an electric current. However, there are two fundamental differences, inspired by our knowledge of the retina, which is the sensor of vision. Firstly, each pixel of this sensor is <em>independent</em> and is not cadenced according to a global clock. Secondly, each pixel will follow the evolution of the log intensity and signal an event when an increment or decrement exceeds a threshold. Let&rsquo;s explain this mechanism in relation to our analog signal.
 </aside>
 
     </section>
@@ -378,8 +362,11 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_2.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_1.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+<aside class="notes">
+  First of all, the signal will evolve over time, and we can see here that it may cross a <em>threshold</em>. An event will then be produced by this pixel. Here, the <em>event</em> is of negative polarity, as it corresponds to an decrement.
+</aside>
 
     </section>
     
@@ -407,11 +394,8 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_5.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_2.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
-<aside class="notes">
-  Then, the signal will continue its course in time and cross a threshold again, possibly once more, at which point a new event will be produced. Here, we&rsquo;re seeing decrements, or negative polarizations.
-</aside>
 
     </section>
     
@@ -423,6 +407,38 @@ This technology is highly efficient for a wide range of signals. However, it doe
     
       
 <h2 id="event-based-camera-4">Event-Based Camera</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_5.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+  </div></figure>
+<aside class="notes">
+  Then, the signal will continue its course in time and cross a threshold again, possibly once more, at which point a new event will be produced. Here, we&rsquo;re also seeing increments, ie positive polarizations.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="event-based-camera-5">Event-Based Camera</h2>
 
 
 
@@ -451,7 +467,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     <section>
     
       
-<h2 id="event-based-camera-5">Event-Based Camera</h2>
+<h2 id="event-based-camera-6">Event-Based Camera</h2>
 <p>
 
 
@@ -471,7 +487,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_20.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
 <aside class="notes">
-  And so on, this simple mechanism will produce a stream of events for each pixel, this list being made up of the times of occurrence and the corresponding polarities.
+  And so on, this simple mechanism will produce a <em>stream</em> of events for each pixel, this <em>list</em> being made up of the times of occurrence and the corresponding polarities.
 </aside></p>
 
     </section>
@@ -483,7 +499,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     <section>
     
       
-<h2 id="event-based-camera-6">Event-Based Camera</h2>
+<h2 id="event-based-camera-7">Event-Based Camera</h2>
 
 
 
@@ -512,7 +528,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     <section>
     
       
-<h2 id="event-based-camera-7">Event-Based Camera</h2>
+<h2 id="event-based-camera-8">Event-Based Camera</h2>
 
 
 
@@ -532,7 +548,8 @@ This technology is highly efficient for a wide range of signals. However, it doe
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
 <aside class="notes">
-  It&rsquo;s worth noting in particular that, compared with frame-by-frame representations, this one is particularly sparse: in particular, a signal with very few changes can be represented by just a few events. This is a very useful feature, not only because it saves bandwidth, but also because it allows us to concentrate the computations around the few events that represent the image. It&rsquo;s also a fundamental feature of neuron function in the brain, and we&rsquo;ll come back to it later.
+  Let&rsquo;s show it now applied to the whole analog signal.
+It&rsquo;s worth noting in particular that, compared with frame-by-frame representations, this one is particularly <em>sparse</em>: in particular, a signal with very few changes can be represented by just a few events. This is a very useful feature, not only because it saves <em>bandwidth</em>, but also because it allows us to concentrate the <em>computations</em> around the few events that represent the image. It&rsquo;s also a fundamental feature of neuron function in the brain, and we&rsquo;ll come back to it later.
 </aside>
 
     </section>
@@ -544,7 +561,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     <section>
     
       
-<h2 id="event-based-camera-8">Event-Based Camera</h2>
+<h2 id="event-based-camera-9">Event-Based Camera</h2>
 
 
 
@@ -584,7 +601,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
       [<a href="https://lenzgregor.com/posts/event-cameras/" target="_blank" rel="noopener">Gregor Lenz, 2020</a>]
     </figcaption></figure> -->
 <aside class="notes">
-  <p>Finally, for the signal as a whole, we obtain a list of events, and therefore for the image as a whole, a list of events, including pixel addresses, times of occurrence and polarities. As they are generated over time, they are naturally arranged in order of occurrence. All these events are then transmitted in real time to the output bus, typically by means of a USB3 connection. Note the analogy between this representation and the one made in the optic nerve that connects our retina to the rest of the brain: indeed, the million ganglion cells that make up the retina&rsquo;s output emit action potentials, which are the only source of information that leaves the retina via the optic nerve.</p>
+  <p>Finally, we obtain a list of events for each pixels  which can be <em>merged</em> for the image as a whole, forming a list of events, including pixel addresses, times of occurrence and polarities. As they are generated over time, they are naturally arranged in order of occurrence. All these events are then transmitted in <em>real time</em> to the output bus, typically by means of a USB3 connection. Note the analogy between this representation and the one made in the optic nerve that connects our retina to the rest of the brain: indeed, the million ganglion cells that make up the retina&rsquo;s output emit action potentials, which are the only source of information that leaves the retina via the <em>optic nerve</em>.</p>
 <ul>
 <li><a href="https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg" target="_blank" rel="noopener">https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg</a></li>
 </ul>
@@ -600,7 +617,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     <section>
     
       
-<h2 id="event-based-camera-9">Event-Based Camera</h2>
+<h2 id="event-based-camera-10">Event-Based Camera</h2>
 <table>
 <thead>
 <tr>
@@ -643,42 +660,10 @@ This technology is highly efficient for a wide range of signals. However, it doe
 </tbody>
 </table>
 <aside class="notes">
-  <p>There are many properties of event-driven cameras that make them remarkable. First of all, the temporal precision of events is of the order of microseconds, enabling a theoretical frame rate of the order of a million images per second to be reached. This can be compared with a conventional camera, which is of the order of a hundred images per second, or with a high-speed camera, which can reach 10,000 images per second. It is difficult to estimate the sampling frequency of human perception, because while 25 frames per second is often sufficient for movie viewing, it has been shown that the human eye can distinguish temporal details up to 300 or even 1,000 frames per second. It&rsquo;s worth noting that the resolution of these event cameras is often relatively modest, in the order of megapixels, but this is not a technical limitation, but more due to the technological applications in which these cameras are used. Compared with conventional cameras, which will consume several watts, event cameras consume very little electrical energy, in the order of 10 milliwatts, a consumption equivalent to that of the human eye.  Another important feature of these cameras is their ability to detect a very wide range of luminosity, far exceeding that of conventional cameras at 120 dB (a factor of a million, compared with the human eye&rsquo;s factor of 1 in a thousand between full moon and full sun),</p>
+  <p>There are several properties of event-driven cameras that make them remarkable. First of all, the <em>temporal precision</em> of events is of the order of microseconds, enabling a theoretical frame rate of the order of a million images per second to be reached. This can be compared with a conventional camera, which is of the order of a hundred images per second, or with a high-speed camera, which can reach 10,000 images per second. It is difficult to estimate the sampling frequency of human perception, because while 25 frames per second is often sufficient for movie viewing, it has been shown that the human eye can distinguish temporal details up to 300 or even 1,000 frames per second. It&rsquo;s worth noting that the <em>spatial resolution</em> of these event cameras is often relatively modest, in the order of megapixels, but this is not a technical limitation, but rather due to the technological applications in which these cameras are commonly used. Compared with conventional cameras, which will consume several watts, event cameras consume very little electrical <em>energy</em>, in the order of 10 milliwatts, a consumption equivalent to that of the human eye.  Another important feature of these cameras is their ability to detect a very wide <em>range</em> of luminosity, far exceeding that of conventional cameras at 120 dB (a factor of a million, compared with the human eye&rsquo;s factor of 1 in a thousand between full moon and full sun),</p>
 <p><a href="https://en.wikipedia.org/wiki/Event_camera#Functional_description" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Event_camera#Functional_description</a></p>
 <p>more in <a href="https://arxiv.org/pdf/1904.08405.pdf" target="_blank" rel="noopener">https://arxiv.org/pdf/1904.08405.pdf</a></p>
 
-</aside>
-
-    </section>
-    
-
-    
-    
-    
-    <section>
-    
-      
-<h2 id="event-based-camera-10">Event-Based Camera</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
-  </div></figure>
-<aside class="notes">
-  This ability to adapt to changing light conditions can be illustrated by going back to our analog signal and its event representation, and imagining that we have a halving of the signal (a cloud?) after a certain period of time.
 </aside>
 
     </section>
@@ -707,10 +692,42 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 <figure  >
   <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+  </div></figure>
+<aside class="notes">
+  This ability to <em>adapt</em> to changing light conditions can be illustrated by going back to our analog signal and its event representation, and imagining. A typical example would be an autonomous car driving in daylight, entering and leaving a <em>tunnel</em>, involving changes in brightness by a factor of several thousand.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="event-based-camera-12">Event-Based Camera</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_low.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
 <aside class="notes">
-  This is represented here by a sharp decrement in log intensity space. This is clearly indicated by events of negative polarity, but we can see that since this is a camera that uses log intensity, dividing the light signal produces the same signal course over time, and therefore events that are identical.  Event-driven cameras are therefore particularly well-suited to dynamic signals, where the lighting context can change drastically. A typical example would be an autonomous car driving in daylight, entering and leaving a tunnel, involving changes in brightness by a factor of several thousand.
+  Here we have a division by a factor 8 of the signal in the middle section. It will be reported by a frame-based camera. In an event-based camera, this is represented here by a <em>sharp decrement</em> in log intensity space and clearly indicated by events of negative polarity, but we can see that since this is a camera that uses log intensity, dividing the light signal produces the <em>same signal</em> course over time, and therefore events that are identical.  Event-driven cameras are therefore particularly well-suited to <em>dynamic signals</em>, where the lighting context can change drastically.
 </aside>
 </section>
 
