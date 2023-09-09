@@ -33,7 +33,47 @@
       <link>https://laurentperrinet.github.io/publication/grimaldi-23/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/grimaldi-23/</guid>
-      <description></description>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-hots-architecture&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/hots.png&#34; alt=&#34;The HOTS architecture.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The HOTS architecture.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-preformance-of-the-algorithm-on-the-dvsgesture-dataset-for-this-gesture-recognition-task-the-online-hots-accuracy-remains-close-to-the-chance-level-for-about-100-events-more-evidence-needs-to-be-accumulated-and-then-the-accuracy-increases-monotonically-outperforming-the-previous-method-after-about-10000-events-at-an-average-of-93-of-the-number-of-events-in-the-sample&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png&#34; alt=&#34;Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
     </item>
     
     <item>
