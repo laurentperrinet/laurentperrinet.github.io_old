@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Wowchemy 5.5.0 for Hugo">
+
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://laurentperrinet.github.io/slides/2023-09-27_icann/">
+
+  <title> | Novel visual computations</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/white.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" id="highlight-theme">
+
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      <h2 id="__accurate-detection-of-spiking-motifs-by-learning-heterogeneous-delays-of-a-spiking-neural-networkhttpslaurentperrinetgithubioslides2023-09-27_icanntransitionfade__"><strong><a href="https://laurentperrinet.github.io/slides/2023-09-27_icann/?transition=fade" target="_blank" rel="noopener">Accurate detection of spiking motifs by learning Heterogeneous Delays of a Spiking Neural Network</a></strong></h2>
+<h4 id="laurent-perrinethttpslaurentperrinetgithubio"><em><a href="https://laurentperrinet.github.io" target="_blank" rel="noopener">Laurent Perrinet</a></em></h4>
+<h4 id="icann-workshop-on-___recent-advances-in-snnshttpse-nnsorgicann2023wp-contentuploadssites7202304icann2023-asnn-cfppdf___">ICANN workshop on <em><strong><a href="https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf" target="_blank" rel="noopener">Recent Advances in SNNs</a></strong></em></h4>
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+<!-- <img src="https://laurentperrinet.github.io/talk/2023-09-27_icann/qrcode.png" alt="qrcode" height="130"/> -->
+<p><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
+<p><sup><a href="https://laurentperrinet.github.io/talk/2023-09-27-icann" target="_blank" rel="noopener">https://laurentperrinet.github.io/talk/2023-09-27-icann</a></sup></p>
+<aside class="notes">
+  <em>Hello</em>, I&rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this seminar at the Institut Fresnel, I&rsquo;ll be presenting <em>event-driven cameras</em>, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. I&rsquo;d like to <em>thank</em> Loic le Goff for his kind invitation, and all of you for coming. These slides are available from my website, along with a number of references. The <em>outline</em> of the talk is as follows: first, we&rsquo;ll describe what an event-driven camera is - in particular, by comparing it to a conventional camera; then, we&rsquo;ll show some examples of applications of these cameras with dedicated algorithms; and finally, we&rsquo;ll present how our knowledge of biological mechanisms in neuroscience can enable us to improve these algorithms.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="core-mechanism-of-spiking-motif-detection">Core Mechanism of Spiking Motif Detection</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/izhikevich.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+  </div></figure>
+<aside class="notes">
+  To better understand the mechanism behind this technology, let&rsquo;s imagine that we represent a <em>single pixel</em> in the space of the visual field. Here, I&rsquo;ve taken a grayscale <em>video</em> from an episode from the Monty Python Flying Circus TV series. In this way, we can represent the evolution of the <em>log intensity</em> of the light signal as a function of time.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="from-generating-raster-plots-to-inferring-spiking-motifs">From generating raster plots to inferring spiking motifs</h2>
+<img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-a_k.svg" width="45%">
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-b.svg" width="45%">
+</span>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-c.svg" width="45%">
+</span>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-a.svg" width="45%">
+</span>
+<aside class="notes">
+  To better understand the mechanism behind this technology, let&rsquo;s imagine that we represent a <em>single pixel</em> in the space of the visual field. Here, I&rsquo;ve taken a grayscale <em>video</em> from an episode from the Monty Python Flying Circus TV series. In this way, we can represent the evolution of the <em>log intensity</em> of the light signal as a function of time.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="detecting-spiking-motifs-using-heterogeneous-delays">Detecting spiking motifs using heterogeneous delays.</h2>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_SMs.svg" width="31%">
+</span>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_pre.svg" width="31%">
+</span>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_SM_time.svg" width="31%">
+</span>
+<aside class="notes">
+  comparison with MSE
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="detecting-spiking-motifs-using-spiking-neurons-with-heterogeneous-delays">Detecting spiking motifs using spiking neurons with heterogeneous delays.</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_xcorr-supervised.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+  </div></figure>
+<aside class="notes">
+  Fully differentiable -&gt; supervised learning
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="accurate-detection-of-spiking-motifs-by-learning-heterogeneous-delays-of-a-spiking-neural-networkhttpslaurentperrinetgithubioslides2023-09-27_icanntransitionfade"><a href="https://laurentperrinet.github.io/slides/2023-09-27_icann/?transition=fade" target="_blank" rel="noopener">Accurate detection of spiking motifs by learning Heterogeneous Delays of a Spiking Neural Network</a></h2>
+<h4 id="laurent-perrinethttpslaurentperrinetgithubio-1"><em><a href="https://laurentperrinet.github.io" target="_blank" rel="noopener">Laurent Perrinet</a></em></h4>
+<h4 id="u2023-09-27httpslaurentperrinetgithubiotalk2023-09-27-icann-recent-advances-in-spiking-neural-networkshttpse-nnsorgicann2023wp-contentuploadssites7202304icann2023-asnn-cfppdfu"><u><a href="https://laurentperrinet.github.io/talk/2023-09-27-icann" target="_blank" rel="noopener">[2023-09-27]</a> <a href="https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf" target="_blank" rel="noopener">Recent Advances in Spiking Neural Networks</a></u></h4>
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+<!-- <img src="https://laurentperrinet.github.io/talk/2023-09-27_icann/qrcode.png" alt="qrcode" height="130"/> -->
+<p><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
+<p><a href="https://laurentperrinet.github.io/talk/2023-09-27-icann" target="_blank" rel="noopener">https://laurentperrinet.github.io/talk/2023-09-27-icann</a></p>
+<aside class="notes">
+  <em>Hello</em>, I&rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this seminar at the Institut Fresnel, I&rsquo;ll be presenting <em>event-driven cameras</em>, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. I&rsquo;d like to <em>thank</em> Loic le Goff for his kind invitation, and all of you for coming. These slides are available from my website, along with a number of references. The <em>outline</em> of the talk is as follows: first, we&rsquo;ll describe what an event-driven camera is - in particular, by comparing it to a conventional camera; then, we&rsquo;ll show some examples of applications of these cameras with dedicated algorithms; and finally, we&rsquo;ll present how our knowledge of biological mechanisms in neuroscience can enable us to improve these algorithms.
+</aside>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/highlight/highlight.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/search/search.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/math/math.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/plugin.js" integrity="sha256-M6JwAjnRAWmi+sbXURR/yAhWZKYhAw7YXnnLvIxrdGs=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.js" integrity="sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.css" integrity="sha256-0fU8HKLaTjgzfaV9CgSqbsN8ilA3zo6zK1M6rlgULd8=" crossorigin="anonymous">
+  
+
+  
+
+  
+  <script src="/js/wowchemy-slides.js"></script>
+
+</body>
+</html>
