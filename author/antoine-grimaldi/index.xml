@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/author/antoine-grimaldi/</link>
       <atom:link href="https://laurentperrinet.github.io/author/antoine-grimaldi/index.xml" rel="self" type="application/rss+xml" />
     <description>Antoine Grimaldi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/antoine-grimaldi/avatar_hu85406bb2d5f7db2dce1cab01b4e48063_27520_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Antoine Grimaldi</title>
@@ -13,151 +13,9 @@
     </image>
     
     <item>
-      <title>A Robust Event-Driven Approach to Always-on Object Recognition</title>
-      <link>https://laurentperrinet.github.io/publication/grimaldi-23/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/grimaldi-23/</guid>
-      <description>
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-the-hots-architecture&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/hots.png&#34; alt=&#34;The HOTS architecture.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      The HOTS architecture.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-preformance-of-the-algorithm-on-the-dvsgesture-dataset-for-this-gesture-recognition-task-the-online-hots-accuracy-remains-close-to-the-chance-level-for-about-100-events-more-evidence-needs-to-be-accumulated-and-then-the-accuracy-increases-monotonically-outperforming-the-previous-method-after-about-10000-events-at-an-average-of-93-of-the-number-of-events-in-the-sample&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png&#34; alt=&#34;Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample).
-    &lt;/figcaption&gt;&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning heterogeneous delays of spiking neurons for motion detection</title>
-      <link>https://laurentperrinet.github.io/publication/grimaldi-23-gdr/</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/grimaldi-23-gdr/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;see a follow-up as journal paper: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2023).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
-   &lt;em&gt;Biological Cybernetics&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
-   
-   
-     
-   
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   Preprint
- &lt;/a&gt;
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/grimaldi-23-bc/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
-&lt;/li&gt;
-&lt;li&gt;presented at &lt;a href=&#34;https://gdr-vision-2023.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR vision 2023 2022&lt;/a&gt; January 2023 in Toulouse, France&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Learning heterogeneous delays in a layer of spiking neurons for fast motion detection</title>
       <link>https://laurentperrinet.github.io/publication/grimaldi-23-bc/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/grimaldi-23-bc/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;a follow-up of  
@@ -255,6 +113,144 @@
 
 
 &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Robust Event-Driven Approach to Always-on Object Recognition</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-23/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-23/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-hots-architecture&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/hots.png&#34; alt=&#34;The HOTS architecture.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The HOTS architecture.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-preformance-of-the-algorithm-on-the-dvsgesture-dataset-for-this-gesture-recognition-task-the-online-hots-accuracy-remains-close-to-the-chance-level-for-about-100-events-more-evidence-needs-to-be-accumulated-and-then-the-accuracy-increases-monotonically-outperforming-the-previous-method-after-about-10000-events-at-an-average-of-93-of-the-number-of-events-in-the-sample&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png&#34; alt=&#34;Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning heterogeneous delays of spiking neurons for motion detection</title>
+      <link>https://laurentperrinet.github.io/publication/grimaldi-23-gdr/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/grimaldi-23-gdr/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;see a follow-up as journal paper: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2023).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
+   &lt;em&gt;Biological Cybernetics&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/grimaldi-23-bc/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s00422-023-00975-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/li&gt;
+&lt;li&gt;presented at &lt;a href=&#34;https://gdr-vision-2023.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GDR vision 2023 2022&lt;/a&gt; January 2023 in Toulouse, France&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -364,14 +360,6 @@
  
  
  
-   
-   
-     
-   
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.techrxiv.org/articles/preprint/A_robust_event-driven_approach_to_always-on_object_recognition/18003077&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   Preprint
- &lt;/a&gt;
- 
  
  
  
@@ -401,6 +389,10 @@
  
  
  
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s00422-023-00975-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
  
  
  &lt;/p&gt;
