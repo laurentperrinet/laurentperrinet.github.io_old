@@ -1,0 +1,1966 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+    <meta name="google-site-verification" content="6jjjboKLYp2QzywShNDvZkAfb0Yc8SDtfFzOonP3o0o" />
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Laurent U Perrinet" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Connectivité Horizontale et Prédiction de Cohérences dans l&#39;Intégration de Contour et Mouvement dans le Cortex Visuel Primaire" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.8722fd0f5cb8e5cb38d3b73367786cc1.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Novel visual computations" />
+  <meta property="og:url" content="https://laurentperrinet.github.io/grant/anr-horizontal-v1/" />
+  <meta property="og:title" content="ANR Horizontal-V1 (2017/2021) | Novel visual computations" />
+  <meta property="og:description" content="Connectivité Horizontale et Prédiction de Cohérences dans l&#39;Intégration de Contour et Mouvement dans le Cortex Visuel Primaire" /><meta property="og:image" content="https://laurentperrinet.github.io/grant/anr-horizontal-v1/featured.png" />
+    <meta property="twitter:image" content="https://laurentperrinet.github.io/grant/anr-horizontal-v1/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2016-04-27T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2016-04-27T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+  
+
+  <link rel="me" href="https://neuromatch.social/@laurentperrinet" />
+
+
+  <title>ANR Horizontal-V1 (2017/2021) | Novel visual computations</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="41e2feb90580d53e6cf9614ae014fde2" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.2ed908358299dd7ab553faae685c746c.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Novel visual computations</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Novel visual computations</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#featured"><span>Featured</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Events</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#grants"><span>Grants</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/sciblog/" target="_blank" rel="noopener"><span>BlogBook</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>ANR Horizontal-V1 (2017/2021)</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/yves-fregnac/">Yves Fregnac</a></span>, <span >
+      <a href="/author/frederic-chavane/">Frédéric Chavane</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 27, 2016
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 395px; max-height: 172px;">
+  <div style="position: relative">
+    <img src="/grant/anr-horizontal-v1/featured_hu3bc8a76be4783dc6edddc464c7e9ac00_16940_720x2500_fit_q75_h2_lanczos_3.webp" width="395" height="172" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <ul>
+<li>Description on the official website of the <a href="http://www.agence-nationale-recherche.fr/Project-ANR-17-CE37-0006" target="_blank" rel="noopener">ANR</a></li>
+</ul>
+<p>The Horizontal-V1 project aimed at understanding the emergence of sensory predictions linking local shape attributes (orientation, contour) to global indices of movement (direction, speed, trajectory) at the earliest stage of cortical processing (primary visual cortex, i.e. V1). We studied how the long-distance &ldquo;horizontal&rdquo; connectivity, intrinsic to V1 and the feedback from higher cortical areas contribute to a dynamic processing of local-to-global features as a function of the context (eg displacement along a trajectory; during reafference change induced by eye-movements&hellip;). We characterized the dynamic processes based on lateral propagation intra-V1, through which spatio-temporal inferences (continuous movement or apparent motion sequences) facilitating spatial (&ldquo;filling-in&rdquo;) or positional (&ldquo;flash-lag&rdquo;) future expected responses may be generated.</p>
+<h2 id="our-main-contributions-to-the-project">Our main contributions to the project:</h2>
+<ul>
+<li>
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/frederic-chavane/">Frédéric Chavane</a></span>, <span >
+      <a href="/author/franck-ruffier/">Franck Ruffier</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2021).
+  <a href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/">Sparse Deep Predictive Coding captures contour integration capabilities of the early visual system</a>.
+  <em>PLoS Computational Biology</em>.
+  
+  <p>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1902.07651" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/boutin-franciosini-chavane-ruffier-perrinet-20.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/boutin-franciosini-chavane-ruffier-perrinet-20/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/VictorBoutin/InteractionMap" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pcbi.1008629" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+
+</li>
+<li>
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/franck-ruffier/">Franck Ruffier</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2020).
+  <a href="/publication/boutin-franciosini-ruffier-perrinet-20-feedback/">Effect of top-down connections in Hierarchical Sparse Coding</a>.
+  <em>Neural Computation</em>.
+  
+  <p>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2002.00892" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/boutin-franciosini-ruffier-perrinet-20-feedback/boutin-franciosini-ruffier-perrinet-20-feedback.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/boutin-franciosini-ruffier-perrinet-20-feedback/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1162/neco_a_01325" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+
+</li>
+<li>
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/victor-boutin/">Victor Boutin</a></span>, <span >
+      <a href="/author/angelo-franciosini/">Angelo Franciosini</a></span>, <span >
+      <a href="/author/frederic-chavane/">Frédéric Chavane</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2022).
+  <a href="/publication/franciosini-21/">Pooling in a predictive model of V1 explains functional and structural diversity across species</a>.
+  <em>PLoS Computational Biology</em>.
+  
+  <p>
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.biorxiv.org/content/10.1101/2021.04.19.440444" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/franciosini-21" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/franciosini-21/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pcbi.1010270" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+
+</li>
+<li>
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/alberto-arturo-vergani/">Alberto Arturo Vergani</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2021).
+  <a href="/publication/vergani-21-bernstein/">Simulating anticipatory activity in a 1D Spiking Neural Network Model</a>.
+  <em>Bernstein Conference 2021</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/vergani-21-bernstein/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.12751/nncn.bc2021.p094" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+
+</li>
+<li>
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/alberto-arturo-vergani/">Alberto Arturo Vergani</a></span>, <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </span>
+  (2021).
+  <a href="/post/2021-06-15_neural-turing/">Neural Turing Patterns</a>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/art-science/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+
+</li>
+</ul>
+<h1 id="wp3---design-of-novel-visual-paradigms-probabilistic-model-of-v1-and-data-driven-simulations---co-lead-unic-int">WP3 - Design of novel visual paradigms, probabilistic model of V1 and data-driven simulations - co lead UNIC-INT.</h1>
+<p>Objectives : This WP will have two primary goals. The first one is theoretically driven, and for sake of simplicity will ignore the dynamic features of neural integration (as expected from a statistical model of image analysis). Binding the different features of visual objects at the local scale (contours) as well as a more global level involves understanding the statistical regularities of the sensory inflow. In particular, titrating the predictions that can be done at the statistical level can be seen as a first pass to better search for critical parameters constraining the network behaviour. From these, we will build probabilistic predictive models optimized for edge co-occurrence classification and generate novel visual statistics 1) which obey rules imposed by the functional horizontal connectivity anisotropies, such as co- circularity, and 2) which facilitate binding in the orientation domain, such as log-polar planforms. These statistics generated in the first half of the grant will be implemented and tested experimentally in the second half of the grant. The second one is more data-driven (as well as phenomenological for feedback from higher cortical areas, since it will not be explored in the grant). Since model fitting will depend on close interactions with WP1 and WP2 measurements, it will be done in the second half of the grant.</p>
+<h2 id="wp3-task-1-theoretically-oriented-workplan--lead-int-laurent-perrinet">WP3-Task 1: Theoretically oriented workplan – Lead INT (Laurent Perrinet)</h2>
+<ul>
+<li>
+<p>WP3-Task 1.1 - theory : we will exploit our current expertise in integrating these statistics in the form of probabilistic models to make predictions both at the physiological and modelling levels. First, we will take advantage of our previous work on the quantification of the association field in different classes of natural images (Perrinet &amp; Bednar, 2015). Using an existing library (<a href="https://github.com/bicv/SparseEdges%29" target="_blank" rel="noopener">https://github.com/bicv/SparseEdges)</a>, we will use the sparse representation of static natural images to compute histograms of edge co-occurrences. Using an existing algorithm for unsupervised learning (<a href="https://github.com/bicv/SparseHebbianLearning%29" target="_blank" rel="noopener">https://github.com/bicv/SparseHebbianLearning)</a>, we will learn the different independent components of edge co-occurrences. Such an algorithm fits well a traditional deep-learning convolutional neural network, but, in addition, will include constraints imposed by intra-layer horizontal connectivity. We expect that relevant features will be co-linear or co-circular pairs of edges, but also T-junctions or end-stopping features.</p>
+</li>
+<li>
+<p>WP3-Task 1.2 - image/film synthesis : We have previously found that random synthetic textures, coined &ldquo;Motion Clouds&rdquo;, can be used to quantify V1 implication in visual motion perception (Leon et al, 2012; Simoncini et al, 2012). Recently, the INT and UNIC, partners proved mathematically that these stimuli were optimal with respect to some common geometrical transformations, such as translation, zoom or rotations (Vacher et al, 2015). A main characteristic of these textures is to be generated with a maximally entropic arrangement of elementary textures (so-called textons).</p>
+</li>
+</ul>
+<p>**        Informed by the generative model of edge co-occurrences studied in subtask 1, we will be able to extend the family of motion cloud stimuli (Leon et al, 2012; Simoncini et al, 2012) to include joint dependencies between different elements in position or orientation. An exact solution to this problem is hard to achieve as it involves a combinatorial search of all possible combinations of pairs of edges. However, numerous variational approaches are possible and fit well with our probabilistic framework. We will use the convolutional neural network described above but using a back-propagating stream to generate different images. Such a representation will then be optimized using an unsupervised learning method. This is similar to the process used in Generative Adversarial Networks in deep-learning architectures (Radford et al, Archives).
+**        Finally, the regularities observed in static images will be extended to dynamical scenes by observing that a co-occurrence can be implemented by simple geometrical operations as they are operated in time. For instance a co-circularity is easily described as the set of smooth roto-translational transformations of an edge in time using the group of Galilean transformations (Sarti and Citti, 2006). This theory calls for a first prediction to understand the set of whole possible spatio-temporal co-occurrences of edges as geodesics in the lifted space of all possible trajectories. We predict that such decomposition should allow us to better understand the different classes of features that emerged in the first task.</p>
+<ul>
+<li>WP3-Task 1.3 - Feedback of theory on experimentation : An essential aspect of this work would be to apply these stimuli in neurophysiological experiments and in the modelling. In particular, the ability to select different types of dependencies from the different classes learned above (for instance, co-circularities of a certain curvature range) will make it possible to evaluate the relative contribution of different components of the contextual information. This justifies the fact that the WP3 post-doctoral fellow should have the mobility (between INT and UNIC) and multi-disciplinar profile (theoretical and experimental) to perform this task.</li>
+<li>WP3-Task 1.4 - Generic modelling : These various subtasks will allow us to determine the hierarchy of critical features relevant to describe the full statistics of the space of spatio-temporal edge co-occurrences. Indeed, in static images, we will be able to find independent component in the histograms of edge co-occurrences between metric aspect (distance or scale between edge) from configurational aspects (difference of angle or co-circularity angle).</li>
+</ul>
+<p>Similarly, we expect to see that the different independent features should decompose at various scales both in space and in time. For instance, we expect configurational aspects to be more local while aspects related to a motion (Perrinet and Masson, 2012; Khoei et al, 2016) or global shape (form) should be more global. This translates into a probabilistic hierarchical model that would combine dependencies from different cues. In particular, through the emergence of differential pathways for form and motion. These quantitative predictions should finally be confronted at the modelling and neurophysiological levels.</p>
+<h2 id="wp3-task-2--data-driven-comprehensive-model-of-v1--co-lead-unic-and-int">WP3-Task 2 : Data-driven comprehensive model of V1 – Co-lead UNIC and INT</h2>
+<p>The second task is more data-driven (as well as phenomenological for the feedback circuit part, since largely unknown). Since simulations will depend on close interactions with WP1 and WP2 measurements, it will be developed by the WP3-Post-Doc in the second half of the grant. It will benefit from existing structuro-functional models addressing separately two distinct levels of neural integration, microscopic (conductance-based in Kremkow et al, 2016; Antolik et al, submitted, Chariker et al, 2016) and mesoscopic (VSD-like mean field in Rankin and Chavane, 2017). Efforts will be made to merge these models to fit - in a unified multiscale biologically realistic model - the cellular and VSD data targeting critically horizontal propagation. The parameterization should be flexible enough to produce a generic cortical architecture accounting possibly for species-specificity (Antolik for cat; Chaliker for monkey)</p>
+<h2 id="acknowledgement">Acknowledgement</h2>
+<p>This work was supported by ANR project &ldquo;Horizontal-V1&rdquo; N° ANR-17-CE37-0006.</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/grant/">grant</a>
+  
+  <a class="badge badge-light" href="/tag/past-grant/">past-grant</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/grant/anr-horizontal-v1/&amp;text=ANR%20Horizontal-V1%20%282017/2021%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/grant/anr-horizontal-v1/&amp;t=ANR%20Horizontal-V1%20%282017/2021%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=ANR%20Horizontal-V1%20%282017/2021%29&amp;body=https://laurentperrinet.github.io/grant/anr-horizontal-v1/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/grant/anr-horizontal-v1/&amp;title=ANR%20Horizontal-V1%20%282017/2021%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=ANR%20Horizontal-V1%20%282017/2021%29%20https://laurentperrinet.github.io/grant/anr-horizontal-v1/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/grant/anr-horizontal-v1/&amp;title=ANR%20Horizontal-V1%20%282017/2021%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/yves-fregnac/"><img class="avatar mr-3 avatar-circle" src="/author/yves-fregnac/avatar_hu7f243e40992babb9913c4d41003b14d5_58451_270x270_fill_q75_lanczos_center.jpg" alt="Yves Fregnac"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/yves-fregnac/">Yves Fregnac</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=S1vqJ6YAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://neuropsi.cnrs.fr/annuaire/yves-fregnac/" target="_blank" rel="noopener">
+        <i class="fas fa-external-link-alt"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/frederic-chavane/"><img class="avatar mr-3 avatar-circle" src="/author/frederic-chavane/avatar_hu939e22bfda132e5dfe756f4281477277_68002_270x270_fill_lanczos_center_3.png" alt="Frédéric Chavane"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/frederic-chavane/">Frédéric Chavane</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Frederic_Chavane" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=LT0P6OwAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://laurentperrinet.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/laurent-u-perrinet/avatar_hufdd75f582622d56af8f81b6f2821d19b_501026_270x270_fill_lanczos_center_3.png" alt="Laurent U Perrinet"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://laurentperrinet.github.io/">Laurent U Perrinet</a></h5>
+      <h6 class="card-subtitle">Researcher in Computational Neuroscience</h6>
+      <p class="card-text">My research interests include Machine Learning and computational neuroscience applied to Vision.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://neuromatch.social/@laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-mastodon"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-9536-010X" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 <a rel="me" href="https://neuromatch.social/@laurentperrinet">Laurent U Perrinet</a>. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.5a3a4e7cbc7b4e121b2d29312cf8ad59.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.d66c8b3b4ad0f66a62428f6bc7cf477d.js"></script>
+
+    
+    
+      <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.b0d291ed6d27eacec233e6cf5204f99a.js" type="module"></script>
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>
