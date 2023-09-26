@@ -65,10 +65,10 @@
   
     
   
-  <meta name="description" content="Recently, interest has grown in exploring the hypothesis that neural activity conveys information through precise spiking motifs. To investigate this phenomenon, various algorithms have been proposed to detect such motifs in Single Unit Activity (SUA) recorded from populations of neurons. In this study, we present a novel detection model based on the inversion of a generative model of raster plot synthesis. Using this generative model, we derive an optimal detection procedure that takes the form of logistic regression combined with temporal convolution. A key advantage of this model is its differentiability, which allows us to formulate a supervised learning approach using a gradient descent on the binary cross-entropy loss. To assess the model&#39;s ability to detect spiking motifs in synthetic data, we first perform numerical evaluations. This analysis highlights the advantages of using spiking motifs over traditional firing rate based population codes. We then successfully demonstrate that our learning method can recover synthetically generated spiking motifs, indicating its potential for further applications. In the future, we aim to extend this method to real neurobiological data, where the ground truth is unknown, to explore and detect spiking motifs in a more natural and biologically relevant context." />
+  <meta name="description" content="ANR PredictEye (2018/2020) : Mapping and predicting trajectories for eye  movements" />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/publication/perrinet-23-icann/" />
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/grant/anr-predicteye/" />
 
   
   
@@ -286,7 +286,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://laurentperrinet.github.io/publication/perrinet-23-icann/" />
+  <link rel="canonical" href="https://laurentperrinet.github.io/grant/anr-predicteye/" />
 
   
   
@@ -297,7 +297,6 @@
   
   
     
-    
   
   
 
@@ -306,67 +305,26 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Novel visual computations" />
-  <meta property="og:url" content="https://laurentperrinet.github.io/publication/perrinet-23-icann/" />
-  <meta property="og:title" content="Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network | Novel visual computations" />
-  <meta property="og:description" content="Recently, interest has grown in exploring the hypothesis that neural activity conveys information through precise spiking motifs. To investigate this phenomenon, various algorithms have been proposed to detect such motifs in Single Unit Activity (SUA) recorded from populations of neurons. In this study, we present a novel detection model based on the inversion of a generative model of raster plot synthesis. Using this generative model, we derive an optimal detection procedure that takes the form of logistic regression combined with temporal convolution. A key advantage of this model is its differentiability, which allows us to formulate a supervised learning approach using a gradient descent on the binary cross-entropy loss. To assess the model&#39;s ability to detect spiking motifs in synthetic data, we first perform numerical evaluations. This analysis highlights the advantages of using spiking motifs over traditional firing rate based population codes. We then successfully demonstrate that our learning method can recover synthetically generated spiking motifs, indicating its potential for further applications. In the future, we aim to extend this method to real neurobiological data, where the ground truth is unknown, to explore and detect spiking motifs in a more natural and biologically relevant context." /><meta property="og:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://laurentperrinet.github.io/grant/anr-predicteye/" />
+  <meta property="og:title" content="ANR PredictEye (2018/2020) | Novel visual computations" />
+  <meta property="og:description" content="ANR PredictEye (2018/2020) : Mapping and predicting trajectories for eye  movements" /><meta property="og:image" content="https://laurentperrinet.github.io/grant/anr-predicteye/featured.png" />
+    <meta property="twitter:image" content="https://laurentperrinet.github.io/grant/anr-predicteye/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2023-07-21T11:12:04&#43;00:00"
+        content="2016-04-27T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2023-07-21T13:12:04&#43;02:00">
+    <meta property="article:modified_time" content="2016-04-27T00:00:00&#43;00:00">
   
 
   
 
 
-    
-
-
-
-
-
-
-
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://laurentperrinet.github.io/publication/perrinet-23-icann/"
-  },
-  "headline": "Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network",
-  
-  "datePublished": "2023-07-21T11:12:04Z",
-  "dateModified": "2023-07-21T13:12:04+02:00",
-  
-  "author": {
-    "@type": "Person",
-    "name": "Laurent U Perrinet"
-  },
-  
-  "publisher": {
-    "@type": "Organization",
-    "name": "Novel visual computations",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_192x192_fill_lanczos_center_3.png"
-    }
-  },
-  "description": "Recently, interest has grown in exploring the hypothesis that neural activity conveys information through precise spiking motifs. To investigate this phenomenon, various algorithms have been proposed to detect such motifs in Single Unit Activity (SUA) recorded from populations of neurons. In this study, we present a novel detection model based on the inversion of a generative model of raster plot synthesis. Using this generative model, we derive an optimal detection procedure that takes the form of logistic regression combined with temporal convolution. A key advantage of this model is its differentiability, which allows us to formulate a supervised learning approach using a gradient descent on the binary cross-entropy loss. To assess the model's ability to detect spiking motifs in synthetic data, we first perform numerical evaluations. This analysis highlights the advantages of using spiking motifs over traditional firing rate based population codes. We then successfully demonstrate that our learning method can recover synthetically generated spiking motifs, indicating its potential for further applications. In the future, we aim to extend this method to real neurobiological data, where the ground truth is unknown, to explore and detect spiking motifs in a more natural and biologically relevant context."
-}
-</script>
-
-  
 
   
 
@@ -375,11 +333,11 @@
   <link rel="me" href="https://neuromatch.social/@laurentperrinet" />
 
 
-  <title>Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network | Novel visual computations</title>
+  <title>ANR PredictEye (2018/2020) | Novel visual computations</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="ccecc6c0120262a3f1f97fb2989f4379" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="ff269cbba8f72317d77037993d278463" >
 
   
   
@@ -902,16 +860,7 @@
     
     
 
-    
-
-
-
-
-
-
-
-
-<div class="pub">
+    <article class="article">
 
   
 
@@ -926,18 +875,25 @@
 
 
 
-  
+
+
+
+
+
+
+
+
 
   
   
-  
+
+
 <div class="article-container pt-3">
-  <h1>Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network</h1>
+  <h1>ANR PredictEye (2018/2020)</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -950,6 +906,7 @@
     
 
   <span >
+      <a href="/author/anna-montagnini/">Anna Montagnini</a></span>, <span >
       <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
   </div>
   
@@ -961,7 +918,7 @@
     
       
     
-    September, 2023
+    Apr 27, 2016
   </span>
   
 
@@ -979,213 +936,54 @@
 
 </div>
 
-    
-
-
-
-
-<div class="btn-links mb-3">
-  
   
 
 
 
-
-
-
-
-
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header" href="/publication/perrinet-23-icann/perrinet-23-icann.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
-        data-filename="/publication/perrinet-23-icann/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="https://laurentperrinet.github.io/publication/perrinet-23-icann/" target="_blank" rel="noopener">
-    URL</a>
 
 
 </div>
 
 
-  
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 395px; max-height: 172px;">
+  <div style="position: relative">
+    <img src="/grant/anr-predicteye/featured_hu3bc8a76be4783dc6edddc464c7e9ac00_16940_720x2500_fit_q75_h2_lanczos_3.webp" width="395" height="172" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
 
   <div class="article-container">
 
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract">Recently, interest has grown in exploring the hypothesis that neural activity conveys information through precise spiking motifs. To investigate this phenomenon, various algorithms have been proposed to detect such motifs in Single Unit Activity (SUA) recorded from populations of neurons. In this study, we present a novel detection model based on the inversion of a generative model of raster plot synthesis. Using this generative model, we derive an optimal detection procedure that takes the form of logistic regression combined with temporal convolution. A key advantage of this model is its differentiability, which allows us to formulate a supervised learning approach using a gradient descent on the binary cross-entropy loss. To assess the model&rsquo;s ability to detect spiking motifs in synthetic data, we first perform numerical evaluations. This analysis highlights the advantages of using spiking motifs over traditional firing rate based population codes. We then successfully demonstrate that our learning method can recover synthetically generated spiking motifs, indicating its potential for further applications. In the future, we aim to extend this method to real neurobiological data, where the ground truth is unknown, to explore and detect spiking motifs in a more natural and biologically relevant context.</p>
-    
-
-    
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            <a href="/publication/#1">
-              Conference paper
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>ICANN Special Session on Recent Advances in Spiking Neural Networks</em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="space-below"></div>
-
-    <div class="article-style"><ul>
+    <div class="article-style">
+      <p>The objectives of PREDICTEYE is to rigorously test and define the functional and neurophysiological grounds of probabilistic oculomotor internal models by investigating the multiple timescales at which the trajectory of a moving target is learned and represented in a probabilistic framework (Aim #1). Second, we will investigate the role of (pre)frontal oculomotor networks in building such probabilistic representations and their impact upon two of their downstream neural targets of the brainstem premotor centers (superior colliculus for saccades; NRTP for pursuit) (Aim #2). Our third objective is to model and simulate the dynamics of target motion prediction and eye movement performance. A key question is to unveil how probabilistic information about target timing and motion (i.e. direction and speed) is sampled over trial history by neuronal populations and integrated with Prior knowledge (i.e. sequence properties and rules of conditional probabilities) in order to coordinate saccades and pursuit and optimize their precisions (Aim #3).</p>
+<ul>
 <li>
-<p>paper presented during the <a href="https://e-nns.org/icann2023/" target="_blank" rel="noopener">32nd International Conference on Artificial Neural Networks (ICANN 2023)</a></p>
+<p>ANR-2018 Project PREDICTEYE - Agence Nationale de la Recherche (2018-2022). This project starts november 2018, for 4 years. It will investigate the neural networks in human volunteers supporting anticipatory pursuit eye movements using magnetic transcranial stimulation (TMS) to perturb frontal networks during ocular tracking of predictable targets. In complementary studies conducted in macaque monkeys, perturbations will be applied pharmacologically to subcortical targets of this frontal network, namely superior colliculus and NTRP, a pontine nucleus relaying information to the pursuit networks of the cerebellum. The project involves 4 CNRS permanent researchers from the INVIBE team headed by G Masson. The funding is 507K€ for 4 years. PI: G Masson, co-PI: A Montagnini, L Perrinet, L Goffart</p>
 </li>
 <li>
-<p>Will be presented at the <a href="https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf" target="_blank" rel="noopener">special session on Recent Advances in Spiking Neural Networks at this year&rsquo;s ICANN 2023 conference</a></p>
-</li>
-<li>
-<p>This theoretical implements the objectives set up in this review: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
- 
-   
-   
- 
-   <span class="article-metadata li-cite-author">
-     
- 
-   <span >
-       <a href="/author/antoine-grimaldi/">Antoine Grimaldi</a></span>, <span >
-       <a href="/author/amelie-gruel/">Amélie Gruel</a></span>, <span >
-       <a href="/author/camille-besnainou/">Camille Besnainou</a></span>, <span >
-       <a href="/author/jean-nicolas-jeremie/">Jean-Nicolas Jérémie</a></span>, <span >
-       <a href="/author/jean-martinet/">Jean Martinet</a></span>, <span >
-       <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
-   </span>
-   (2022).
-   <a href="/publication/grimaldi-22-polychronies/">Precise spiking motifs in neurobiological and neuromorphic data</a>.
-   
-   <p>
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/grimaldi-22-polychronies/grimaldi-22-polychronies.pdf" target="_blank" rel="noopener">
-   PDF
- </a>
- 
- 
- 
- <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-         data-filename="/publication/grimaldi-22-polychronies/cite.bib">
-   Cite
- </a>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3390/brainsci13010068" target="_blank" rel="noopener">
-   DOI
- </a>
- 
- 
- </p>
- 
-   
-   
- </div>
- 
- 
-</p>
+<p>related grant by the Fondation pour le Recherche Médicale, under the program Équipe FRM (DEQ20180339203/PredictEye/PI: G Masson/ A. Montagnini and L. Perrinet as participants).</p>
 </li>
 </ul>
-</div>
+<p>Acknowledgement</p>
+<pre><code>This work was supported by ANR project &quot;PredictEye&quot; ANR-XXXX.
+</code></pre>
+
+    </div>
 
     
 
 
 
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/grant/">grant</a>
+  
+  <a class="badge badge-light" href="/tag/past-grant/">past-grant</a>
+  
+</div>
 
 
 
@@ -1200,7 +998,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/publication/perrinet-23-icann/&amp;text=Accurate%20Detection%20of%20Spiking%20Motifs%20by%20Learning%20Heterogeneous%20Delays%20of%20a%20Spiking%20Neural%20Network" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/grant/anr-predicteye/&amp;text=ANR%20PredictEye%20%282018/2020%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1213,7 +1011,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/publication/perrinet-23-icann/&amp;t=Accurate%20Detection%20of%20Spiking%20Motifs%20by%20Learning%20Heterogeneous%20Delays%20of%20a%20Spiking%20Neural%20Network" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/grant/anr-predicteye/&amp;t=ANR%20PredictEye%20%282018/2020%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1226,7 +1024,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Accurate%20Detection%20of%20Spiking%20Motifs%20by%20Learning%20Heterogeneous%20Delays%20of%20a%20Spiking%20Neural%20Network&amp;body=https://laurentperrinet.github.io/publication/perrinet-23-icann/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=ANR%20PredictEye%20%282018/2020%29&amp;body=https://laurentperrinet.github.io/grant/anr-predicteye/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1239,7 +1037,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/publication/perrinet-23-icann/&amp;title=Accurate%20Detection%20of%20Spiking%20Motifs%20by%20Learning%20Heterogeneous%20Delays%20of%20a%20Spiking%20Neural%20Network" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/grant/anr-predicteye/&amp;title=ANR%20PredictEye%20%282018/2020%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1252,7 +1050,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Accurate%20Detection%20of%20Spiking%20Motifs%20by%20Learning%20Heterogeneous%20Delays%20of%20a%20Spiking%20Neural%20Network%20https://laurentperrinet.github.io/publication/perrinet-23-icann/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=ANR%20PredictEye%20%282018/2020%29%20https://laurentperrinet.github.io/grant/anr-predicteye/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1265,7 +1063,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/publication/perrinet-23-icann/&amp;title=Accurate%20Detection%20of%20Spiking%20Motifs%20by%20Learning%20Heterogeneous%20Delays%20of%20a%20Spiking%20Neural%20Network" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/grant/anr-predicteye/&amp;title=ANR%20PredictEye%20%282018/2020%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1284,6 +1082,83 @@
 
 
   
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/anna-montagnini/"><img class="avatar mr-3 avatar-circle" src="/author/anna-montagnini/avatar_hub896de861e914f410b9e146cfca223b5_17258_270x270_fill_q75_lanczos_center.jpg" alt="Anna Montagnini"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/anna-montagnini/">Anna Montagnini</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/annamontagnini" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Anna_Montagnini" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/anna-montagnini-a292606" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
   
     
 
@@ -1381,7 +1256,7 @@
 
 
   </div>
-</div>
+</article>
   </div>
 
   <div class="page-footer">
