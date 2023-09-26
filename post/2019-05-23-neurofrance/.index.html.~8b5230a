@@ -1,0 +1,1496 @@
+<!DOCTYPE html><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.5.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+    <meta name="google-site-verification" content="6jjjboKLYp2QzywShNDvZkAfb0Yc8SDtfFzOonP3o0o" />
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Laurent U Perrinet" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="We organized a Symposium at NeuroFrance 2019 entitled *Active Inference: Bridging theoretical and experimental neurosciences*. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/post/2019-05-23-neurofrance/" />
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.c7b8d9abd591ba2253ea42747e3ac3f5.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha512-W0xM4mr6dEP9nREo7Z9z+9X70wytKvMGeDsj7ps2+xg5QPrEBXC8tAW1IFnzjR6eoJ90JmCnFzerQJTLzIEHjA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.8722fd0f5cb8e5cb38d3b73367786cc1.css" />
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://laurentperrinet.github.io/post/2019-05-23-neurofrance/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Novel visual computations" />
+  <meta property="og:url" content="https://laurentperrinet.github.io/post/2019-05-23-neurofrance/" />
+  <meta property="og:title" content="2019-05-20: Symposium on Active Inference at NeuroFrance 2019 | Novel visual computations" />
+  <meta property="og:description" content="We organized a Symposium at NeuroFrance 2019 entitled *Active Inference: Bridging theoretical and experimental neurosciences*. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society." /><meta property="og:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2019-05-20T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2019-05-20T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://laurentperrinet.github.io/post/2019-05-23-neurofrance/"
+  },
+  "headline": "2019-05-20: Symposium on Active Inference at NeuroFrance 2019",
+  
+  "datePublished": "2019-05-20T00:00:00Z",
+  "dateModified": "2019-05-20T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Laurent U Perrinet"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Novel visual computations",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "We organized a Symposium at NeuroFrance 2019 entitled *Active Inference: Bridging theoretical and experimental neurosciences*. This is part of a series of theoretical neuroscience symposia organized in this international conference from the french Neursocience Society."
+}
+</script>
+
+  
+
+  
+
+  
+
+  <link rel="me" href="https://neuromatch.social/@laurentperrinet" />
+
+
+  <title>2019-05-20: Symposium on Active Inference at NeuroFrance 2019 | Novel visual computations</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a0b7a36433cf7e7c8e007741c44013fe" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.2ed908358299dd7ab553faae685c746c.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header class="header--fixed">
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Novel visual computations</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Novel visual computations</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#featured"><span>Featured</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Events</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#grants"><span>Grants</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/sciblog/" target="_blank" rel="noopener"><span>BlogBook</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>2019-05-20: Symposium on Active Inference at NeuroFrance 2019</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/laurent-u-perrinet/">Laurent U Perrinet</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 20, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    7 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="active-inference-bridging-theoretical-and-experimental-neurosciences--inference-active-un-pont-entre-neurosciences-théoriques-et-expérimentales">Active Inference: Bridging theoretical and experimental neurosciences. / Inference Active: Un pont entre neurosciences théoriques et expérimentales.</h2>
+<p><a href="https://www.neurosciences.asso.fr/V2/colloques/SN19/index_en.php" target="_blank" rel="noopener">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://neuro-marseille.org/wp-content/uploads/2018/07/capture-decran-2018-07-06-a-190423.png" alt="Site NeuroFrance" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</a></p>
+<ul>
+<li>SYMPOSIUM S17</li>
+<li>When: 23.05.2019 11:00-13:00h</li>
+<li>When: Endoume 1+2</li>
+</ul>
+<h3 id="s171httpswwwprofessionalabstractscomnf2019iplannerpresentation1397-active-inference-and-brain-computer-interfaces--inférence-active-et-interfaces-cerveau-machine"><a href="https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1397" target="_blank" rel="noopener">S17.1</a> 	Active inference and Brain-Computer Interfaces / Inférence active et interfaces cerveau-machine</h3>
+<ul>
+<li>Mattout J. (Lyon, France), Mladenovic J. (Lyon, France), Frey J. (Bordeaux, France)3, Joffily M. (Lyon, France), Maby E. (Lyon, France), Lotte F. (Lyon, France)</li>
+</ul>
+<p>Brain-Computer Interfaces (BCIs) devices bypass natural pathways to connect the brain with a machine, directly. They may rely on invasive or non-invasive measures of brain activity and applications cover a large domain, mostly but not restricted to clinical ones. A major objective is to restore communication and autonomy in heavily motor impaired patients.
+However, no BCI has made its way to a routinely used clinical application yet. One lead for improvement is to endow the machine with learning abilities so that it can optimize its decisions and adapt to changes in the user signals over time1. Several approaches have been proposed but a generic framework is still lacking to foster the development of efficient adaptive BCIs2.
+Initially proposed to model perception, learning and action by the brain, the Active Inference (AI) framework offers great promises in that aim3. It rests on an explicit generative model of the environment. In BCI, from the machine&rsquo;s point of view, brain signals play the role of sensory inputs on which the machine&rsquo;s perception of mental states will be based. Furthermore, the machine builds up decisions and trades between different actions such as: go on observing, deciding to decide, correcting its previous action or moving on.
+In this talk, I will present an instantiation of AI in the context of the EEG-based P300-speller BCI for communication, showing it can flexibly combine complementary adaptive features pertaining to both perception and action, and yield significant improvements as shown on realistic simulations. We will discuss perspectives to further extend the current model and performance as well as the challenges ahead to implement this framework online.</p>
+<ol>
+<li>Mattout, J. Brain-Computer Interfaces: A Neuroscience Paradigm of Social Interaction? A Matter of Perspective. Frontiers in Human Neuroscience 6, (2012).</li>
+<li>Mladenovic, J., Mattout, J. &amp; Lotte, F. A Generic Framework for Adaptive EEG-Based BCI Training and Operation. in Brain-computer interfaces handbook: technological and theoretical advances (eds. Nam, C. S., Nijholt, A. &amp; Lotte, F.) Chapter 31 (Taylor &amp; Francis, CRC Press, 2018).</li>
+<li>Friston, K., Mattout, J. &amp; Kilner, J. Action understanding and active inference. Biological Cybernetics 104, 137-160 (2011).</li>
+</ol>
+<h3 id="s172httpswwwprofessionalabstractscomnf2019iplannerpresentation1398-comparing-active-inference-and-reinforcement-learning-models-of-a-go-nogo-task-and-their-relationships-to-striatal-dopamine-2-receptors-assessed-using-pet--comparaison-des-modèles-dinférence-active-et-dapprentissage-par-renforcement-dans-une-tâche-go--nogo--relation-avec-les-récepteurs-dopaminergiques-d2-striataux-évalués-par-tep"><a href="https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398" target="_blank" rel="noopener">S17.2</a> 	Comparing active inference and reinforcement learning models of a Go NoGo task and their relationships to striatal dopamine 2 receptors assessed using PET / Comparaison des modèles d&rsquo;inférence active et d&rsquo;apprentissage par renforcement dans une tâche Go / NoGo : relation avec les récepteurs dopaminergiques D2 striataux évalués par TEP</h3>
+<ul>
+<li>R. Adams (London)</li>
+<li><a href="https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398" target="_blank" rel="noopener">https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1398</a></li>
+</ul>
+<p>Adaptive behaviour includes the ability to choose actions that result in advantageous outcomes. It is key to survival and a fundamental function of nervous systems. Active inference (AI) and reinforcement learning (RL) are two influential models of how the brain might achieve this. A key AI parameter is the precision of beliefs about policies. Precision controls the stochasticity of action selection - similar to decision temperature in RL - and is thought to be encoded by striatal dopamine. 75 healthy subjects performed a &lsquo;go/no-go&rsquo; task, and we measured striatal dopamine 2/3 receptor (D2/3R) availability in a subset of 25 using [11C]-(+)-PHNO positron emission tomography. In behavioural model comparison, RL performed best across the whole group but AI performed best in accurate subjects. D2/3R availability in the limbic striatum correlated with AI policy precision and also with RL irreducible decision &rsquo;noise&rsquo;. Limbic striatal D2/3R availability also correlated with AI Pavlovian prior beliefs - i.e. the respective probabilities of making or withholding actions in rewarding or loss-avoiding contexts - and the RL learning rate. These findings are consistent with the notion that occupancy of inhibitory striatal D2/3Rs controls the variability of action selection.</p>
+<h3 id="s173httpswwwprofessionalabstractscomnf2019iplannerpresentation1399-principles-and-psychophysics-of-active-inference-in-anticipating-a-dynamic-switching-probabilistic-bias--principes-et-psychophysique-de-linférence-active-dans-lestimation-dun-biais-dynamique-et-volatile-de-probabilité"><a href="https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1399" target="_blank" rel="noopener">S17.3</a> 	Principles and psychophysics of active inference in anticipating a dynamic, switching probabilistic bias / Principes et psychophysique de l&rsquo;inférence active dans l´estimation d&rsquo;un biais dynamique et volatile de probabilité</h3>
+<ul>
+<li>L. Perrinet (Marseille)</li>
+<li>see more info on this <a href="https://laurentperrinet.github.io/talk/2019-05-23-neurofrance/">talk</a></li>
+</ul>
+<h3 id="s174httpswwwprofessionalabstractscomnf2019iplannerpresentation1400-is-laziness-contagious-a-computational-approach-to-attitude-alignment--la-fainéantise-est-elle-contagieuse-une-approche-computationnelle-de-lalignement-des-attitudes"><a href="https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/1400" target="_blank" rel="noopener">S17.4</a> 	Is laziness contagious? A computational approach to attitude alignment / La fainéantise est-elle contagieuse? Une approche computationnelle de l´alignement des attitudes</h3>
+<ul>
+<li>J. Daunizeau (Paris)</li>
+</ul>
+<p>What do people learn from observing others´ attitudes, such as prudence, impatience or laziness? Rather than viewing these attitudes as examples of subjective and biologically entrenched personality traits, we assume that they derive from uncertain (and mostly implicit) beliefs about how to best weigh risks, delays and efforts in ensuing cost-benefit trade-offs. In this view, it is adaptive to update one´s belief after having observed others´ attitude, which provides valuable information regarding how to best behave in related difficult decision contexts. This is the starting point of our bayesian model of attitude alignment, which we derive in the light of recent neuroimaging findings. First, we disclose a few non-trivial predictions from this model. Second, we validate these predictions experimentally by profiling people´s prudence, impatience and laziness both before and after guessing a series of cost-benefit arbitrages performed by calibrated artificial agents (which are impersonating human individuals). Third, we extend these findings and assess attitude alignment in autistic individuals. Finally, we discuss the relevance and implications of this work, with a particular emphasis on the assessment of biases of social cognition.</p>
+<h3 id="s175httpswwwprofessionalabstractscomnf2019iplannerpresentation223-generative-bayesian-modeling-for-causal-inference-between-neural-activity-and-behavior-in-drosophila-larva"><a href="https://www.professionalabstracts.com/nf2019/iplanner/#/presentation/223" target="_blank" rel="noopener">S17.5</a> 	Generative Bayesian modeling for causal inference between neural activity and behavior in Drosophila larva</h3>
+<ul>
+<li>C. Barre (Paris) (TBC)</li>
+</ul>
+<p>A fundamental property of the central nervous system is its ability to select appropriate behavioral patterns or sequences of behavioral patterns in response to sensory cues, but what are the biological mechanisms underlying decision making? The Drosophila larva is an ideal animal model for reverse-engineering the neural processes underlying behavior. The full connectome of the larva brain has been imaged at the individual-synapse level using electron microscopy.
+The host of genetic techniques available for Drosophila allows us to optogenetically manipulate over 1,500 of its roughly 12,000 neurons individually in freely behaving larvae.
+This enables us to establish causal relationships between neural activity, and behavior at the fundamental level of individual neurons and neural connections.
+We have access to video record of the individual behavior of ~3,000,000 larvae. We have identified 6 stereotypical behavioral patterns using a combination of supervised and unsupervised machine learning. The behavioral identified for the larva: crawl, turn, stop, crawl backward, hunch (retract the head), and roll (lateral slide). Each realization of a behavioral pattern is characterized by a different duration, amplitude, and velocity.
+Here we present a generative model that extracts the behavior of wildtype larvae using Bayesian inference, and interprets behavioral changes following neuron activation or inactivation from large-scale experimental screens. Fig. shows the average behavior of 10,000 larvae over time in a screen where a single neuron is activated at t=30s. A clear change in behavior is seen following activation is seen which is well captured by the model, illustrating its accuracy.
+The generative model enables us to robustly detect behavioral modifications as significant deviations of the patterns in the larvae&rsquo;s sequence of activities from their equilibrium behavior.</p>
+<h3 id="neurofrance-marseille-capitale-des-neurosciences">NeuroFrance: Marseille, capitale des neurosciences</h3>
+<p>Du  22 au 24 mai 2019 au Palais des congrès de Marseille (Parc Chanot), près de 1300 chercheurs, cliniciens et étudiants venus du monde entier partageront leurs travaux lors de NeuroFrance 2019, colloque international organisé par la Société des Neurosciences.Au total, 8 conférences plénières, 42 symposiums, 6 sessions spécialisées, 525 communications affichées, ainsi qu’une exposition avec 42 entreprises et sociétés de biotechnologies, feront de ce colloque un moment exceptionnel pour mettre en lumière les avancées majeures scientifiques et technologiques sur le fonctionnement du cerveau. Vous pourrez aussi découvrir le &ldquo;Neurovillage&rdquo; qui permettra de vous immerger au cœur des innovations neuroscientifiques marseillaises, ainsi que  l’exposition  « L’Art en tête », composée de cinq œuvres originales créées par des artistes et des scientifiques. Plusieurs événements seront également proposés autour du colloque pour le grand public comme pour les chercheurs.</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/events/">events</a>
+  
+  <a class="badge badge-light" href="/tag/probalistic-inference/">probalistic-inference</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/post/2019-05-23-neurofrance/&amp;text=2019-05-20:%20Symposium%20on%20Active%20Inference%20at%20NeuroFrance%202019" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/post/2019-05-23-neurofrance/&amp;t=2019-05-20:%20Symposium%20on%20Active%20Inference%20at%20NeuroFrance%202019" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=2019-05-20:%20Symposium%20on%20Active%20Inference%20at%20NeuroFrance%202019&amp;body=https://laurentperrinet.github.io/post/2019-05-23-neurofrance/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/post/2019-05-23-neurofrance/&amp;title=2019-05-20:%20Symposium%20on%20Active%20Inference%20at%20NeuroFrance%202019" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=2019-05-20:%20Symposium%20on%20Active%20Inference%20at%20NeuroFrance%202019%20https://laurentperrinet.github.io/post/2019-05-23-neurofrance/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/post/2019-05-23-neurofrance/&amp;title=2019-05-20:%20Symposium%20on%20Active%20Inference%20at%20NeuroFrance%202019" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://laurentperrinet.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/laurent-u-perrinet/avatar_hufdd75f582622d56af8f81b6f2821d19b_501026_270x270_fill_lanczos_center_3.png" alt="Laurent U Perrinet"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://laurentperrinet.github.io/">Laurent U Perrinet</a></h5>
+      <h6 class="card-subtitle">Researcher in Computational Neuroscience</h6>
+      <p class="card-text">My research interests include Machine Learning and computational neuroscience applied to Vision.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://neuromatch.social/@laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-mastodon"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-9536-010X" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2023 <a rel="me" href="https://neuromatch.social/@laurentperrinet">Laurent U Perrinet</a>. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.5a3a4e7cbc7b4e121b2d29312cf8ad59.js"></script>
+
+    
+    
+    
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js" integrity="sha512-Ypjm0o7jOxAd4hpdoppSEN0TQOC19UtPAqD+4s5AlXmUvbmmS/YMxYqAqarQYyxTnB6/rqip9qcxlNB/3U9Wdg==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/python.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+
+    
+    
+    
+    <script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+    
+    
+      <script src="/js/wowchemy-headroom.c251366b4128fd5e6b046d4c97a62a51.js" type="module"></script>
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.d66c8b3b4ad0f66a62428f6bc7cf477d.js"></script>
+
+    
+    
+      <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+    
+    
+    
+    
+      
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <script src="/js/wowchemy-publication.b0d291ed6d27eacec233e6cf5204f99a.js" type="module"></script>
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>

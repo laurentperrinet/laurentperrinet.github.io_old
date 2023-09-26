@@ -65,10 +65,10 @@
   
     
   
-  <meta name="description" content="Scientific website of Laurent Udo Perrinet." />
+  <meta name="description" content="Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial Inteligence (2019)." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/author/frederic-chavane/" />
+  <link rel="alternate" hreflang="en-us" href="https://laurentperrinet.github.io/grant/spikeai/" />
 
   
   
@@ -280,15 +280,13 @@
   
 
   
-    <link rel="alternate" href="/author/frederic-chavane/index.xml" type="application/rss+xml" title="Novel visual computations" />
-  
 
   
 
   <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://laurentperrinet.github.io/author/frederic-chavane/" />
+  <link rel="canonical" href="https://laurentperrinet.github.io/grant/spikeai/" />
 
   
   
@@ -299,7 +297,6 @@
   
   
     
-    
   
   
 
@@ -308,33 +305,39 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Novel visual computations" />
-  <meta property="og:url" content="https://laurentperrinet.github.io/author/frederic-chavane/" />
-  <meta property="og:title" content="Frederic Chavane | Novel visual computations" />
-  <meta property="og:description" content="Scientific website of Laurent Udo Perrinet." /><meta property="og:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="https://laurentperrinet.github.io/grant/spikeai/" />
+  <meta property="og:title" content="SpikeAI: laureat du Défi Biomimétisme (2019) | Novel visual computations" />
+  <meta property="og:description" content="Algorithmes événementiels d’Intelligence Artificielle / Event-Based Artificial Inteligence (2019)." /><meta property="og:image" content="https://laurentperrinet.github.io/grant/spikeai/featured.png" />
+    <meta property="twitter:image" content="https://laurentperrinet.github.io/grant/spikeai/featured.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2023-06-06T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2019-04-15T10:00:00&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2019-04-15T10:00:00&#43;00:00">
   
 
   
 
 
+
+  
 
   
 
   <link rel="me" href="https://neuromatch.social/@laurentperrinet" />
 
 
-  <title>Frederic Chavane | Novel visual computations</title>
+  <title>SpikeAI: laureat du Défi Biomimétisme (2019) | Novel visual computations</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="986f8977b09cddc0bbe478e9bc9acf79" >
 
   
   
@@ -857,56 +860,326 @@
     
     
 
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>SpikeAI: laureat du Défi Biomimétisme (2019)</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
     
+    
+      
+    
+    Apr 15, 2019
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1>Frederic Chavane</h1>
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
-    
-    
-
-    
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/ladret-23/">Cortical recurrence supports resilience to sensory variance in the primary visual cortex</a>
-        </li>
-        
-        <li>
-          <a href="/publication/ladret-23-cosyne/">Resilience to sensory uncertainty in the primary visual cortex</a>
-        </li>
-        
-        <li>
-          <a href="/publication/chavane-22/">Revisiting Horizontal Connectivity Rules in V1: From like-to-like towards like-to-All</a>
-        </li>
-        
-        <li>
-          <a href="/talk/2021-08-27-ddxl/">Dynamical processing of orientation precision in the primary visual cortex</a>
-        </li>
-        
-        <li>
-          <a href="/talk/2021-05-20-neuro-france/">Dynamical processing of orientation precision in the primary visual cortex</a>
-        </li>
-        
-        <li>
-          <a href="/publication/benvenuti-22/">Anticipatory Responses along Motion Trajectories in Awake Monkey Area V1</a>
-        </li>
-        
-      </ul>
-    </div>
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 709px; max-height: 709px;">
+  <div style="position: relative">
+    <img src="/grant/spikeai/featured_huf1b05ff6317052c34d59704b12bfa116_214441_720x2500_fit_q75_h2_lanczos_3.webp" width="709" height="709" alt="" class="featured-image">
     
   </div>
-</section>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h1 id="description">Description</h1>
+<ul>
+<li>Le projet SpikeAI est lauréat de l&rsquo;<a href="http://www.cnrs.fr/mi/spip.php?article1452&amp;lang=fr" target="_blank" rel="noopener">appel à projets 2019 <em>Biomimétisme</em></a> :</li>
+</ul>
+<p>The SpikeAI project targets analog computing for artificial intelligence in the form of Spiking Neural Networks (SNNs). Computer vision systems widely rely on artificial intelligence and especially neural network based machine learning, which recently gained huge visibility. The training stage for deep convolutional neural networks is time-consuming and yields enormous energy consumption. In contrast, the human brain has the ability to perform visual tasks with unrivaled computational and energy efficiency. It is believed that one major factor of this efficiency is the fact that information is vastly represented by short pulses (spikes) at analog –not discrete– times. However, computer vision algorithms using such representation still lack in practice, and its high potential is largely underexploited. Inspired from biology, the project addresses the scientific question of developing a low-power, end-to-end analog sensing and processing architecture. This will be applied on the particular context of a field programmable analog array (FPAA) applied to a stereovision system dedicated to coastal surveillance using an aerial robot of 3D visual scenes, running on analog devices, without a central clock and to validate them in real-life situations. The ambitious long-term vision of the project is to develop the next generation AI paradigm that will at term compete with deep learning. We believe that neuromorphic computing, mainly studied in EU countries, will be a key technology in the next decade. It is therefore both a scientific and strategic challenge for France and EU to foster this technological breakthrough. <em>This call will help kickstart collaboration within this European consortium to help leverage the chance to successfully apply to future large-scale grant proposals (e.g. ANR, CHIST-ERA, ERC).</em></p>
+<ul>
+<li>Get <a href="https://spikeai.github.io/" target="_blank" rel="noopener">more information</a>.</li>
+</ul>
+<h2 id="outcomes">outcomes</h2>
+<p>The main goal was mainly to build a network of actors and to answer to relevant calls in the field of biomimetic research. We have communicated through the diffusion of computational frameworks and actions which are gathered online @ <a href="https://github.com/SpikeAI" target="_blank" rel="noopener">https://github.com/SpikeAI</a>.</p>
+<p>Summary of the actions taken:</p>
+<ul>
+<li>
+<p>We had a APROVIS3D FPP meeting April 23-24, 2019 in Lille with all partners. The call could support the travel of the 5 participants from outside Lille. During these two days, we had a first day to know each other better and a second day devoted to writing the grant proposal.</p>
+</li>
+<li>
+<p>With the help of this call, we could kickstart a collaboration within this European consortium which helped successfully achieve a large-scale grant proposal (CHIST-ERA : <a href="https://laurentperrinet.github.io/grant/aprovis-3-d/" target="_blank" rel="noopener">https://laurentperrinet.github.io/grant/aprovis-3-d/</a> ).</p>
+</li>
+<li>
+<p>We organized a tutorial on deep learning during the GDR Vision, see <a href="https://github.com/SpikeAI/2019-10-10_ML-tutorial" target="_blank" rel="noopener">https://github.com/SpikeAI/2019-10-10_ML-tutorial</a> and <a href="https://laurentperrinet.github.io/post/2019-10-10_gdrvision-atelier/" target="_blank" rel="noopener">https://laurentperrinet.github.io/post/2019-10-10_gdrvision-atelier/</a></p>
+</li>
+<li>
+<p>We could invite a major actor of the modeling of biomimetic computations, Ryad Benosman, to the GDR vision meeting. The call could support his travel and accommodation and was acknowledged in all communications (see <a href="https://gdrvision2019.sciencesconf.org/resource/page/id/6%29" target="_blank" rel="noopener">https://gdrvision2019.sciencesconf.org/resource/page/id/6)</a>.</p>
+</li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/grant/">grant</a>
+  
+  <a class="badge badge-light" href="/tag/past-grant/">past-grant</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://laurentperrinet.github.io/grant/spikeai/&amp;text=SpikeAI:%20laureat%20du%20D%c3%a9fi%20Biomim%c3%a9tisme%20%282019%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://laurentperrinet.github.io/grant/spikeai/&amp;t=SpikeAI:%20laureat%20du%20D%c3%a9fi%20Biomim%c3%a9tisme%20%282019%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=SpikeAI:%20laureat%20du%20D%c3%a9fi%20Biomim%c3%a9tisme%20%282019%29&amp;body=https://laurentperrinet.github.io/grant/spikeai/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://laurentperrinet.github.io/grant/spikeai/&amp;title=SpikeAI:%20laureat%20du%20D%c3%a9fi%20Biomim%c3%a9tisme%20%282019%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=SpikeAI:%20laureat%20du%20D%c3%a9fi%20Biomim%c3%a9tisme%20%282019%29%20https://laurentperrinet.github.io/grant/spikeai/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://laurentperrinet.github.io/grant/spikeai/&amp;title=SpikeAI:%20laureat%20du%20D%c3%a9fi%20Biomim%c3%a9tisme%20%282019%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://laurentperrinet.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/laurent-u-perrinet/avatar_hufdd75f582622d56af8f81b6f2821d19b_501026_270x270_fill_lanczos_center_3.png" alt="Laurent U Perrinet"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://laurentperrinet.github.io/">Laurent U Perrinet</a></h5>
+      <h6 class="card-subtitle">Researcher in Computational Neuroscience</h6>
+      <p class="card-text">My research interests include Machine Learning and computational neuroscience applied to Vision.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://neuromatch.social/@laurentperrinet" target="_blank" rel="noopener">
+        <i class="fab fa-mastodon"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-9536-010X" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
   </div>
 
   <div class="page-footer">
