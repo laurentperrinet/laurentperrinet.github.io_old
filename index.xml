@@ -21,6 +21,229 @@
     </item>
     
     <item>
+      <title>Emergences (2023 / 2027)</title>
+      <link>https://laurentperrinet.github.io/grant/emergences/</link>
+      <pubDate>Thu, 05 Oct 2023 14:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/grant/emergences/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    TL;DR: Conventional deep learning models consume too much energy. Inspired by biology, we will explore new models that are more energy efficient.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;description-of-the-emergences-project&#34;&gt;Description of the &amp;ldquo;Emergences&amp;rdquo; project&lt;/h2&gt;
+&lt;p&gt;Contemporary machine learning (ML) has incurred profound changes in the scientific, societal and economic landscapes alike. After a decade of sustained progress AI as a discipline is still making regular breakthroughs on many fronts, at the expense of an ever-increasing amount of consumption of compute resources. Modern language models feature hundreds of billion parameters and training energy consumption alone likely falls in the GWh range, with a logical forecast worsening the already prohibitive carbon footprint of AI.&lt;/p&gt;
+&lt;p&gt;Besides the flourishing initiatives aimed at defining AI-friendly digital compute stack, the next logical breakthrough on the horizon is undoubtedly the emergence of disruptive AI compute technologies having improved energy efficiency. This development will likely involve the utilization of models that differ from those traditionally used in ML and exhibit properties that resemble the behavior of physical components, thereby facilitating implementation.&lt;/p&gt;
+&lt;p&gt;The Emergences project aims at advancing the state-of-the art on near-physics emerging models by collaboratively exploring various computation models leveraging physical devices properties. Efforts will be put on 3 distinct fronts: Event-based models, Physics-inspired models (from physical systems dynamics) and innovative near-physics ML solutions (exploiting device properties). The investigations will be focused on embedded systems for Edge AI that call for increased energy efficiency for inference and learning, which could be incremental. They will apply to several application domains ranging for instance from the monitoring of the environment to health. Other important tasks such as common tools, performance metrics definition and model scalability analysis and will be conducted through as a collaborative transverse initiative.&lt;/p&gt;
+&lt;p&gt;Emergences further intends to extend the collaborative research activities beyond the fence of the consortium by means of connecting with other projects of the PEPR IA and other research institutes, some of which are listed in this proposal. Finally, because of the unavoidable societal and philosophical implications of AI as a whole, Emergences will concurrently to the research activities run a track aimed at analyzing and anticipating the impact of its upcoming contributions.&lt;/p&gt;
+&lt;h2 id=&#34;description-of-the-phd-project-wp1-focus-of-attention-a-sensory-motor-task-for-energy-reduction-in-unsupervised-spiking-neural-networks&#34;&gt;Description of the PhD project (WP1): &lt;em&gt;Focus of attention: a sensory-motor task for energy reduction in unsupervised spiking neural networks&lt;/em&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;attention mechanisms based on our cognitive architecture using a dual pathway: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/emmanuel-dauce/&#34;&gt;Emmanuel Daucé&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/pierre-albiges/&#34;&gt;Pierre Albigès&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2020).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34;&gt;A dual foveal-peripheral visual processing model implements efficient saccade selection&lt;/a&gt;.
+   &lt;em&gt;Journal of Vision&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://www.biorxiv.org/content/10.1101/725879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Preprint
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+   
+     
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/dauce-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/dauce-20/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+   
+   
+     
+   
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://github.com/laurentperrinet/WhereIsMyMNIST&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Code
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1167/jov.20.8.22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;implementation in a spiking neural network based: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+ 
+   
+   
+ 
+   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+     
+ 
+   &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/&#34;&gt;Antoine Grimaldi&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+   &lt;/span&gt;
+   (2023).
+   &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;.
+   &lt;em&gt;Biological Cybernetics&lt;/em&gt;.
+   
+   &lt;p&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   PDF
+ &lt;/a&gt;
+ 
+ 
+ 
+ &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+         data-filename=&#34;/publication/grimaldi-23-bc/cite.bib&#34;&gt;
+   Cite
+ &lt;/a&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1007/s00422-023-00975-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DOI
+ &lt;/a&gt;
+ 
+ 
+ &lt;/p&gt;
+ 
+   
+   
+ &lt;/div&gt;
+ 
+ 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-figures&#34;&gt;Key figures&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;starting date: September 1, 2023&lt;/li&gt;
+&lt;li&gt;Duration: 48 months&lt;/li&gt;
+&lt;li&gt;14 partners&lt;/li&gt;
+&lt;li&gt;Nb of PhD: 19&lt;/li&gt;
+&lt;li&gt;Nb of Post doc: 13&lt;/li&gt;
+&lt;li&gt;TRL: basic research&lt;/li&gt;
+&lt;li&gt;Total grant requested: 6.8 M€&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;grant number XXX-23-XXX-XXX:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;quot; Ce travail a bénéficié d’une aide du gouvernement français au titre de France 2030, dans le cadre de l’Initiative d’Excellence d’Aix-Marseille Université – A*MIDEX, projet numero AMX-21-RID-025 &amp;quot;&lt;/li&gt;
+&lt;li&gt;&amp;quot; This work received support from the french government under the France 2030 investment plan, as part of the Initiative d’Excellence d’Aix-Marseille Université – A*MIDEX, under grant number  AMX-21-RID-025 ”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;latest-news&#34;&gt;Latest news&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2023-10-05: Kick-off meeting!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network</title>
       <link>https://laurentperrinet.github.io/publication/perrinet-23-icann/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
