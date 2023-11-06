@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Wowchemy 5.5.0 for Hugo">
+
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://laurentperrinet.github.io/slides/2023-11-07-snufa/">
+
+  <title> | Novel visual computations</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/white.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" id="highlight-theme">
+
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    <section>
+    
+      <h2 id="__accurate-detection-of-spiking-motifs-by-learning-heterogeneous-delays-of-a-spiking-neural-networkhttpslaurentperrinetgithubioslides2023-09-27_icanntransitionfade__"><strong><a href="https://laurentperrinet.github.io/slides/2023-09-27_icann/?transition=fade" target="_blank" rel="noopener">Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network</a></strong></h2>
+<h4 id="laurent-perrinethttpslaurentperrinetgithubio"><em><a href="https://laurentperrinet.github.io" target="_blank" rel="noopener">Laurent Perrinet</a></em></h4>
+<h4 id="___snufa-spiking-neural-networks-as-universal-function-approximatorshttpssnufanet2023___"><em><strong><a href="https://snufa.net/2023/" target="_blank" rel="noopener">SNUFA: Spiking Neural networks as Universal Function Approximators</a></strong></em></h4>
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+<!-- <img src="https://laurentperrinet.github.io/talk/2023-09-27_icann/qrcode.png" alt="qrcode" height="130"/> -->
+<p><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
+<p><sup><a href="https://laurentperrinet.github.io/talk/2023-11-07-snufa" target="_blank" rel="noopener">https://laurentperrinet.github.io/talk/2023-11-07-snufa</a></sup></p>
+<aside class="notes">
+  <em>Hello</em>, I&rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this talk at this ICANN workshop on Recent Advances in SNNs, I&rsquo;ll be presenting a method for the <em>Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network</em>, and how it may also impact the design of SNNs. I&rsquo;d like to <em>thank</em> Sander Bohté and Sebastian Otte for the organization of this workshop and you for listening. These slides are available from my web-site, along with a number of references. The <em>outline</em> of the talk is as follows: first, I&rsquo;ll describe how one may perform computations using Heterogeneous Delays - and present a toy model example; then, I&rsquo;ll show real scale example quantifying the performance on synthetic data ; and finally, I&rsquo;ll present how this SNN is in fact differentiable and may be extended for future applications.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="core-mechanism-of-spiking-motif-detection">Core Mechanism of Spiking Motif Detection</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/izhikevich_left.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+  </div></figure>
+<aside class="notes">
+  The core idea of the method follows the use of polychronous groups as defined by Izhikevich in 2006. Suppose three presynaptic neurons are connected to two postsynaptic neurons by certains weights and certain delays, which correspond to the time it takes for a spike to travel from one neuron to the next.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="core-mechanism-of-spiking-motif-detection-1">Core Mechanism of Spiking Motif Detection</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/izhikevich_middle.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+  </div></figure>
+<aside class="notes">
+  If we assume these delays are different, then if presynaptic neurons are activated synchronously, then postsynaptic currents do not match in time, such that the membrane potential is not reached.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="core-mechanism-of-spiking-motif-detection-2">Core Mechanism of Spiking Motif Detection</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/izhikevich.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
+  </div></figure>
+<aside class="notes">
+  However, if the timing of presynaptic spikes forms a <em>spiking motif</em> such that they reach the soma of neuron b_1 at the same time then this neuron will be selectively activated.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="from-generating-raster-plots-to-inferring-spiking-motifs">From generating raster plots to inferring spiking motifs</h2>
+<img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-a_k.svg" width="42%">
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-b.svg" width="42%">
+</span>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-c.svg" width="42%">
+</span>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_toy-a.svg" width="42%">
+</span>
+<aside class="notes">
+  <em>A</em> In this work, this principle was framed in a probabilistic setting such that we could provide an optimal scheme for detecting generic spiking motifs which may be superposed at random times. Starting with 10 presynaptic inputs, this model allows to generate a synthetic raster plot as the combination of four different spiking motifs.
+<em>B</em> These motifs are defined by a positive (red) or negative (blue) contribution to the spiking probability which are represented here.
+<em>C</em> Applying a Bayesian approach, we may define four formal spiking neurons which will integrate the incoming spiking information from the presynaptic neurons - this analog signal can then be thresholded to give the detection of each spiking motif (vertical) bar which was here always exact with respect to the ground truth (stars).
+<em>D</em> The beauty of this is that we can recover in the presynaptic raster plot the contribution of each spiking motif to the original raster plot.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="detecting-spiking-motifs-using-heterogeneous-delays">Detecting spiking motifs using heterogeneous delays</h2>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_SMs.svg" width="31%">
+</span>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_pre.svg" width="31%">
+</span>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_N_SM_time.svg" width="31%">
+</span>
+<aside class="notes">
+  This was a toy example and let&rsquo;s now quantify the performance of this method in real scale settings by measuring the accuracy of finding the right SM at the right time. For this we will compare our method to a classical approach using the correlation.
+First, by increasing the number of motifs, we show that the accuracy of our method (in blue) is very high and outperforms the cross-correlation method (red), in particular as the number of SMs increases. The same trend is shown also when the number of presynaptic inputs increases from a low to a high dimension. Finally, the number of possible delays is a crucial parameter and enough heterogenous delays are necessary to reach a good performance.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="detecting-spiking-motifs-using-heterogeneous-delays-1">Detecting spiking motifs using heterogeneous delays</h2>
+<span class="fragment " >
+  <img src="https://github.com/laurentperrinet/2023-07-20_HDSNN-ICANN/raw/master/figures/THC_xcorr-supervised.svg" width="62%">
+</span>
+<aside class="notes">
+  An advantage of our method is that is is fully differentiable. We thus applied a supervised learning method and starting with random weights, we could recover the spiking motifs, as is shown here in this cross-correlagram of the weights of the learned werights with respect to the ground truth.
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="__accurate-detection-of-spiking-motifs-by-learning-heterogeneous-delays-of-a-spiking-neural-networkhttpslaurentperrinetgithubioslides2023-09-27_icanntransitionfade__-1"><strong><a href="https://laurentperrinet.github.io/slides/2023-09-27_icann/?transition=fade" target="_blank" rel="noopener">Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network</a></strong></h2>
+<h4 id="laurent-perrinethttpslaurentperrinetgithubio-1"><em><a href="https://laurentperrinet.github.io" target="_blank" rel="noopener">Laurent Perrinet</a></em></h4>
+<h4 id="icann-workshop-on-___recent-advances-in-snnshttpse-nnsorgicann2023wp-contentuploadssites7202304icann2023-asnn-cfppdf___">ICANN workshop on <em><strong><a href="https://e-nns.org/icann2023/wp-content/uploads/sites/7/2023/04/ICANN2023-ASNN-CfP.pdf" target="_blank" rel="noopener">Recent Advances in SNNs</a></strong></em></h4>
+<img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
+<p><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
+<p><sup><a href="https://laurentperrinet.github.io/talk/2023-09-27-icann" target="_blank" rel="noopener">https://laurentperrinet.github.io/talk/2023-09-27-icann</a></sup></p>
+<aside class="notes">
+  <p>As a conclusion, this heterogenous delay spiking neural network provides an efficient neural computation. It has some limitations that we detail in the paper, notably that it works on discrete time and that it is supervised, yet we hope to deliver soon an unsupervised learning method using this computational brick which could be used to build novel SNNs - we did that for detecting motion in event-based data - but also to analyse neurobiological data.</p>
+<p>Thanks for your attention, slides are also available online</p>
+
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="__accurate-detection-of-spiking-motifs-by-learning-heterogeneous-delays-of-a-spiking-neural-networkhttpslaurentperrinetgithubioslides2023-09-27_icanntransitionfade__-2"><strong><a href="https://laurentperrinet.github.io/slides/2023-09-27_icann/?transition=fade" target="_blank" rel="noopener">Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network</a></strong></h2>
+<img src="https://laurentperrinet.github.io/talk/2023-09-27-icann/qrcode.png" alt="qrcode" width="45%"/>
+<p><sup><a href="https://laurentperrinet.github.io/talk/2023-09-27-icann" target="_blank" rel="noopener">https://laurentperrinet.github.io/talk/2023-09-27-icann</a></sup></p>
+<aside class="notes">
+  &hellip; by scanning this qrcode!
+</aside>
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/highlight/highlight.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/search/search.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/math/math.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/plugin.js" integrity="sha256-M6JwAjnRAWmi+sbXURR/yAhWZKYhAw7YXnnLvIxrdGs=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.js" integrity="sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.css" integrity="sha256-0fU8HKLaTjgzfaV9CgSqbsN8ilA3zo6zK1M6rlgULd8=" crossorigin="anonymous">
+  
+
+  
+
+  
+  <script src="/js/wowchemy-slides.js"></script>
+
+</body>
+</html>
