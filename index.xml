@@ -19,6 +19,7 @@
       <guid>https://laurentperrinet.github.io/talk/2023-11-07-snufa/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Poster Session at &lt;a href=&#34;https://snufa.net/2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snufa.net/2023/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://snufa.net/2023/abstracts/laurent-perrinet-accurate.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snufa.net/2023/abstracts/laurent-perrinet-accurate.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;code: &lt;a href=&#34;https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/laurentperrinet/2023-09-27_HDSNN-ICANN&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -34026,7 +34027,7 @@ First, by increasing the number of motifs, we show that the accuracy of our meth
 &lt;p&gt;&lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;sup&gt;&lt;a href=&#34;https://laurentperrinet.github.io/talk/2023-11-07-snufa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/talk/2023-11-07-snufa&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;em&gt;Hello&lt;/em&gt;, I&amp;rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this talk at this ICANN workshop on Recent Advances in SNNs, I&amp;rsquo;ll be presenting a method for the &lt;em&gt;Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network&lt;/em&gt;, and how it may also impact the design of SNNs. I&amp;rsquo;d like to &lt;em&gt;thank&lt;/em&gt; Sander Bohté and Sebastian Otte for the organization of this workshop and you for listening. These slides are available from my web-site, along with a number of references. The &lt;em&gt;outline&lt;/em&gt; of the talk is as follows: first, I&amp;rsquo;ll describe how one may perform computations using Heterogeneous Delays - and present a toy model example; then, I&amp;rsquo;ll show real scale example quantifying the performance on synthetic data ; and finally, I&amp;rsquo;ll present how this SNN is in fact differentiable and may be extended for future applications.
+  &lt;em&gt;Hello&lt;/em&gt;, I&amp;rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this talk at SNUFA, I&amp;rsquo;ll be presenting a method for the &lt;em&gt;Accurate Detection of Spiking Motifs by Learning Heterogeneous Delays of a Spiking Neural Network&lt;/em&gt;, and how it may also impact the design of SNNs. The &lt;em&gt;outline&lt;/em&gt; of the talk is as follows: first, I&amp;rsquo;ll describe how one may perform computations using Heterogeneous Delays - and present a toy model example; then, I&amp;rsquo;ll show real scale example quantifying the performance on synthetic data ; and finally, I&amp;rsquo;ll present how this SNN is in fact differentiable and may be extended for future applications.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;core-mechanism-of-spiking-motif-detection&#34;&gt;Core Mechanism of Spiking Motif Detection&lt;/h2&gt;
