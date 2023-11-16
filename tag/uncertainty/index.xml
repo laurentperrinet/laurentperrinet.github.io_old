@@ -51,87 +51,87 @@ Sparsity in Neural Networks&lt;/a&gt;:&lt;/li&gt;
       Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. &lt;strong&gt;(a)&lt;/strong&gt; Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). &lt;strong&gt;(b)&lt;/strong&gt; Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). &lt;strong&gt;(c)&lt;/strong&gt; Elements from a dictionary learned from scratch. &lt;strong&gt;(d)&lt;/strong&gt; Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.
     &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;li&gt;This theoretical work accompanies a similar study in neurophysiology: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- &lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-   &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
- 
-   
-   
- 
-   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-     
- 
-   &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/nelson-cortes/&#34;&gt;Nelson Cortes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/lamyae-ikan/&#34;&gt;Lamyae Ikan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frederic Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/christian-casanova/&#34;&gt;Christian Casanova&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
-       &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
-   &lt;/span&gt;
-   (2023).
-   &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23/&#34;&gt;Cortical recurrence supports resilience to sensory variance in the primary visual cortex&lt;/a&gt;.
-   &lt;em&gt;Nature Communications Biology&lt;/em&gt;.
-   
-   &lt;p&gt;
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-23/ladret-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   PDF
- &lt;/a&gt;
- 
- 
- 
- &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-         data-filename=&#34;/publication/ladret-23/cite.bib&#34;&gt;
-   Cite
- &lt;/a&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/s42003-023-05042-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-   DOI
- &lt;/a&gt;
- 
- 
- &lt;/p&gt;
- 
-   
-   
- &lt;/div&gt;
- 
- 
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/hugo-ladret/&#34;&gt;Hugo Ladret&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/nelson-cortes/&#34;&gt;Nelson Cortes&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/lamyae-ikan/&#34;&gt;Lamyae Ikan&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/frederic-chavane/&#34;&gt;Frederic Chavane&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/christian-casanova/&#34;&gt;Christian Casanova&lt;/a&gt;&lt;/span&gt;, &lt;span &gt;
+      &lt;a href=&#34;https://laurentperrinet.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent U Perrinet&lt;/a&gt;&lt;/span&gt;
+  &lt;/span&gt;
+  (2023).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23/&#34;&gt;Cortical recurrence supports resilience to sensory variance in the primary visual cortex&lt;/a&gt;.
+  &lt;em&gt;Nature Communications Biology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-23/ladret-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/ladret-23/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/s42003-023-05042-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
