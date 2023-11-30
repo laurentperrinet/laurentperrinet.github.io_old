@@ -15646,10 +15646,10 @@ qu’on se la représente traditionnellement.&lt;/p&gt;
 &lt;figure  id=&#34;figure-sparse-coding-of-images-in-the-retina-follows-regular-statistics-at-the-global-not-the-local-scale&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Sparse coding of images in the retina follows regular statistics at the global, not the local scale.&#34; srcset=&#34;
-               /publication/ravello-16-droplets/retina_hu07a58fb8663810a20684fb1e8c27828e_513201_1a8ab72a345214763136815e5fee5a67.webp 400w,
+               /publication/ravello-16-droplets/retina_hu07a58fb8663810a20684fb1e8c27828e_513201_6836d6f3f8c86563fe368af6906bcb3c.webp 400w,
                /publication/ravello-16-droplets/retina_hu07a58fb8663810a20684fb1e8c27828e_513201_76e9a94cac53d043d78ddea2ac0af6f5.webp 760w,
                /publication/ravello-16-droplets/retina_hu07a58fb8663810a20684fb1e8c27828e_513201_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/ravello-16-droplets/retina_hu07a58fb8663810a20684fb1e8c27828e_513201_1a8ab72a345214763136815e5fee5a67.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/ravello-16-droplets/retina_hu07a58fb8663810a20684fb1e8c27828e_513201_6836d6f3f8c86563fe368af6906bcb3c.webp&#34;
                width=&#34;760&#34;
                height=&#34;376&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -34201,14 +34201,16 @@ First, by increasing the number of motifs, we show that the accuracy of our meth
 &lt;img src=&#34;https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg&#34; alt=&#34;logos&#34; height=&#34;130&#34;/&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;em&gt;Hello&lt;/em&gt;, I&amp;rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this seminar at the BioComp 2023 colloquium, I&amp;rsquo;ll be presenting &lt;em&gt;event-driven cameras&lt;/em&gt;, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. I&amp;rsquo;d like to &lt;em&gt;thank&lt;/em&gt; organizers for this opportunity, and all of you for coming. These slides are available from my website, along with a number of references. The &lt;em&gt;outline&lt;/em&gt; of the talk is as follows: first, we&amp;rsquo;ll describe what an event-driven camera is - in particular, by comparing it to a conventional camera; then, we&amp;rsquo;ll show some examples of applications of these cameras with dedicated algorithms; and finally, we&amp;rsquo;ll present how our knowledge of biological mechanisms in neuroscience can enable us to improve these algorithms.
+  &lt;p&gt;&lt;em&gt;Hello&lt;/em&gt;, can you hear me in the back?&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and during this seminar at the BioComp 2023 colloquium, I&amp;rsquo;ll be presenting &lt;em&gt;event-driven cameras&lt;/em&gt;, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. I&amp;rsquo;d like to &lt;em&gt;thank&lt;/em&gt; organizers for this opportunity, and all of you for coming. These slides are available from my website, along with a number of references. The &lt;em&gt;outline&lt;/em&gt; of the talk is as follows: first, we&amp;rsquo;ll describe what an event-driven camera is - in particular, by comparing it to a conventional camera; then, we&amp;rsquo;ll show some examples of applications of these cameras with dedicated algorithms; and finally, we&amp;rsquo;ll present how our knowledge of biological mechanisms in neuroscience can enable us to improve these algorithms.&lt;/p&gt;
+
 &lt;/aside&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
 &lt;h1 id=&#34;sensing-light&#34;&gt;Sensing light&lt;/h1&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  First of all, the general aim of &lt;em&gt;imaging&lt;/em&gt; is to represent a light signal, i.e. a luminous intensity, a color, distributed over the visual field, giving us a vivid impression of the visual scene before our eyes.
+  First of all, the general aim of &lt;em&gt;imaging&lt;/em&gt; is to represent a visual signal, i.e. a luminous intensity, a color, distributed over the visual field, giving us a vivid impression of the visual scene before our eyes.
 &lt;/aside&gt;
 &lt;hr&gt;
 
@@ -34230,7 +34232,7 @@ First, by increasing the number of motifs, we show that the accuracy of our meth
   &gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
-  This technique is inspired by the research carried out by Étienne-Jules &lt;em&gt;Marey&lt;/em&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/&lt;/a&gt;Étienne-Jules_Marey), who gave his name to the ISM, under the term &lt;em&gt;chronophotography&lt;/em&gt;, which notably enabled later Muybridge to demonstrate the mechanism of a horse&amp;rsquo;s gallop. In particular, Marey literally used a camera mounted on a &lt;em&gt;gun&lt;/em&gt;-like structure to shoot a visual scene.
+  This technique is inspired by the research carried out by Étienne-Jules &lt;em&gt;Marey&lt;/em&gt; (&lt;a href=&#34;https://en.wikipedia.org/wiki/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/&lt;/a&gt;Étienne-Jules_Marey), under the term &lt;em&gt;chronophotography&lt;/em&gt;, litterally shooting scene with a gun-like apparatus, which notably enabled later Muybridge to demonstrate the mechanism of a horse&amp;rsquo;s gallop. In particular, Marey literally used a camera mounted on a &lt;em&gt;gun&lt;/em&gt;-like structure to shoot a visual scene.
 &lt;/aside&gt;
 &lt;hr&gt;
 
@@ -34410,7 +34412,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_1.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  First of all, the signal will evolve over time, and we can see here that it may cross a &lt;em&gt;threshold&lt;/em&gt;. An event will then be produced by this pixel. Here, the &lt;em&gt;event&lt;/em&gt; is of negative polarity, as it corresponds to an decrement.
+  First of all, the signal will evolve over time, and we can see here that it may cross a &lt;em&gt;threshold&lt;/em&gt;. An event will then be produced by this pixel. Here, the &lt;em&gt;event&lt;/em&gt; is of negative polarity, as it corresponds to a decrement.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-camera-3&#34;&gt;Event-Based Camera&lt;/h2&gt;
