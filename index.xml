@@ -34439,10 +34439,10 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_1.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_0.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  First of all, the signal will evolve over time, and we can see here that it may cross a &lt;em&gt;threshold&lt;/em&gt;. An event will then be produced by this pixel. Here, the &lt;em&gt;event&lt;/em&gt; is of negative polarity, as it corresponds to a decrement.
+  First of all, the signal will evolve over time, &amp;hellip;
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-camera-3&#34;&gt;Event-Based Camera&lt;/h2&gt;
@@ -34462,10 +34462,33 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_1.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &amp;hellip; and we can see here that it may cross a &lt;em&gt;threshold&lt;/em&gt;. An event will then be produced by this pixel. Here, the &lt;em&gt;event&lt;/em&gt; is of negative polarity, as it corresponds to a decrement.
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;event-based-camera-4&#34;&gt;Event-Based Camera&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_2.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-4&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-5&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
@@ -34488,7 +34511,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
   Then, the signal will continue its course in time and cross a threshold again, possibly once more, at which point a new event will be produced. Here, we&amp;rsquo;re also seeing increments, ie positive polarizations.
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-5&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-6&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
@@ -34508,7 +34531,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_10.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-6&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-7&#34;&gt;Event-Based Camera&lt;/h2&gt;
 &lt;p&gt;
 
 
@@ -34531,7 +34554,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
   And so on, this simple mechanism will produce a &lt;em&gt;stream&lt;/em&gt; of events for each pixel, this &lt;em&gt;list&lt;/em&gt; being made up of the times of occurrence and the corresponding polarities.
 &lt;/aside&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-7&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-8&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
@@ -34551,7 +34574,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_-1.svg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-8&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-9&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
@@ -34575,7 +34598,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
 It&amp;rsquo;s worth noting in particular that, compared with frame-by-frame representations, this one is particularly &lt;em&gt;sparse&lt;/em&gt;: in particular, a signal with very few changes can be represented by just a few events. This is a very useful feature, not only because it saves &lt;em&gt;bandwidth&lt;/em&gt;, but also because it allows us to concentrate the &lt;em&gt;computations&lt;/em&gt; around the few events that represent the image. It&amp;rsquo;s also a fundamental feature of neuron function in the brain, and we&amp;rsquo;ll come back to it later.
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-9&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-10&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
@@ -34622,7 +34645,7 @@ It&amp;rsquo;s worth noting in particular that, compared with frame-by-frame rep
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-10&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-11&#34;&gt;Event-Based Camera&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -34634,6 +34657,13 @@ It&amp;rsquo;s worth noting in particular that, compared with frame-by-frame rep
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Human eye&lt;/td&gt;
+&lt;td&gt;60 (?) dB&lt;/td&gt;
+&lt;td&gt;300 (?) fps&lt;/td&gt;
+&lt;td&gt;100 (?) Mpx&lt;/td&gt;
+&lt;td&gt;10 mW&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;DSLR&lt;/td&gt;
 &lt;td&gt;44.6 dB&lt;/td&gt;
@@ -34647,13 +34677,6 @@ It&amp;rsquo;s worth noting in particular that, compared with frame-by-frame rep
 &lt;td&gt;10^4 fps&lt;/td&gt;
 &lt;td&gt;0.3&amp;ndash;4  Mpx&lt;/td&gt;
 &lt;td&gt;300 W&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Human eye&lt;/td&gt;
-&lt;td&gt;60 (?) dB&lt;/td&gt;
-&lt;td&gt;300 (?) fps&lt;/td&gt;
-&lt;td&gt;100 (?) Mpx&lt;/td&gt;
-&lt;td&gt;10 mW&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Event-based&lt;/td&gt;
@@ -34671,7 +34694,7 @@ It&amp;rsquo;s worth noting in particular that, compared with frame-by-frame rep
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-11&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-12&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
@@ -34694,7 +34717,7 @@ It&amp;rsquo;s worth noting in particular that, compared with frame-by-frame rep
   This ability to &lt;em&gt;adapt&lt;/em&gt; to changing light conditions can be illustrated by going back to our analog signal and its event representation, and imagining. A typical example would be an autonomous car driving in daylight, entering and leaving a &lt;em&gt;tunnel&lt;/em&gt;, involving changes in brightness by a factor of several thousand.
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;event-based-camera-12&#34;&gt;Event-Based Camera&lt;/h2&gt;
+&lt;h2 id=&#34;event-based-camera-13&#34;&gt;Event-Based Camera&lt;/h2&gt;
 
 
 
