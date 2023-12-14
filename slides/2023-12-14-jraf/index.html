@@ -18,7 +18,7 @@
 
   <link rel="canonical" href="https://laurentperrinet.github.io/slides/2023-12-14-jraf/">
 
-  <title> | Novel visual computations</title>
+  <title>2023-12-14-jraf.md | Novel visual computations</title>
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/white.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" id="highlight-theme">
 
@@ -58,7 +58,7 @@
 <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
 <aside class="notes">
   <p><em>Hello</em>, can you hear me in the back?</p>
-<p>I&rsquo;m Adrien Fois from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit. I&rsquo;m a post-doc under the supervision of Laurent Perrinet, and during this seminar, I&rsquo;ll be presenting <em>event-driven cameras</em>, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. I&rsquo;d like to <em>thank</em> organizers for this opportunity, and all of you for coming. These slides are available from the website of Laurent Perrinet, along with a number of references. The <em>outline</em> of the talk is as follows: first, we&rsquo;ll describe what an event-driven camera is - in particular, by comparing it to a conventional frame-based camera; then, we&rsquo;ll show some examples of applications of these cameras with dedicated algorithms; and finally, we&rsquo;ll present how our knowledge of biological mechanisms in neuroscience can enable us to improve these algorithms.</p>
+<p>I&rsquo;m Adrien Fois from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit. I&rsquo;m a post-doctoral researcher under the supervision of Laurent Perrinet, and during this seminar, I&rsquo;ll be presenting <em>event-driven cameras</em>. This innovative imaging technology and its influence on our understanding of vision will be our focus. I&rsquo;d like to <em>thank</em> organizers for this opportunity, and all of you for coming. You can find these slides and related references on Laurent Perrinet’s website. The <em>outline</em> of the talk is as follows: initially, I will explain the concept of an event-driven camera, especially in comparison to a traditional frame-based camera. Following that, we’ll explore some applications of these cameras using specific algorithms. Lastly, we’ll delve into how our understanding of neuroscience can enhance these algorithms.</p>
 
 </aside>
 </section>
@@ -93,7 +93,7 @@
   >
 
 <aside class="notes">
-  Imaging gives us the feeling that we’re seeing a scene right in front of us. For example, this galloping horse seems to move, but it’s not really moving. It’s an <em>illusion</em> called apparent motion. This happens when still images are shown one after another, very quickly, making it look like the scene is moving. Our brains interpret these separate images as a single, moving scene. This technique is the foundation of motion pictures and animation, where frames are displayed quickly enough to give the <em>illusion</em> of fluid motion.
+  Imaging gives us the feeling that we’re seeing a scene right in front of us. For example, this galloping horse seems to move smoothly, but it’s actually an <em>illusion</em> called apparent motion. This happens when still images are shown one after another, very quickly, making it look like the scene is moving. Our brains interpret these separate images as a single, moving scene. This technique is the foundation of motion pictures and animation, where frames are displayed quickly enough to give the <em>illusion</em> of fluid motion.
 </aside>
 
     </section>
@@ -111,7 +111,7 @@
   >
 
 <aside class="notes">
-  Imaging techniques have also opened doors to new scientific discoveries. For example, back in the late 19th century, scientists wondered if horses lifted all four feet off the ground when they galloped. It was too fast for our eyes to see. Eadweard Muybridge solved this puzzle using <em>chronophotography</em>, an early form of photography that captures movement. He took a series of photos of a running horse and showed that, yes, there are moments when all four hooves are in the air. This breakthrough helped us understand animal movement better and paved the way for modern cameras.
+  Imaging techniques have also opened doors to new scientific discoveries. For example, back in the late 19th century, scientists wondered if horses lifted all four hooves off the ground when they galloped. It was too fast for our eyes to see. Eadweard Muybridge solved this puzzle using <em>chronophotography</em>, an early form of photography that captures movement. He took a series of photos of a running horse and showed that, yes, there are moments when all four hooves are in the air. This breakthrough helped us understand animal movement better and paved the way for modern cameras.
 </aside>
 
     </section>
@@ -419,7 +419,6 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
   </div></figure>
 <aside class="notes">
   &hellip; And we can observe that it crosses a threshold. At this precise time, the pixel generates an event. In this case, the event is of positive polarity, as it corresponds to an increase.
-TODO : C&rsquo;est pas plutôt un évènement de polarité positive ? (j&rsquo;ai déjà changé la description)
 </aside>
 
     </section>
@@ -609,7 +608,7 @@ TODO : C&rsquo;est pas plutôt un évènement de polarité positive ? (j&rsquo;a
   </div></figure>
 <aside class="notes">
   Let&rsquo;s show it now applied to the whole analog signal.
-It&rsquo;s worth noting in particular that, compared with frame-by-frame representations, this one is particularly <em>sparse</em>: in particular, a signal with very few changes can be represented by just a few binary events. This is a very useful feature, not only because it saves <em>bandwidth</em>, but also because it allows us to concentrate the <em>computations</em> around the few events that represent the image. It&rsquo;s also a fundamental feature of neuron function in the brain, and we&rsquo;ll come back to it later.
+It&rsquo;s worth noting in particular that, compared with frame-by-frame representations, this one is particularly <em>sparse</em>: in particular, a signal with very few changes can be represented by just a few binary events. This is a very useful feature, not only because it saves <em>bandwidth</em>, but also because it allows us to concentrate the <em>computations</em> around the few events that represent the image. It&rsquo;s also a fundamental feature of neuron function in the brain. Indeed neurons communicate sparsely with action potentials that can be seen as binary events.
 </aside>
 
     </section>
@@ -661,7 +660,7 @@ It&rsquo;s worth noting in particular that, compared with frame-by-frame represe
       [<a href="https://lenzgregor.com/posts/event-cameras/">Gregor Lenz, 2020</a>]
     </figcaption></figure> -->
 <aside class="notes">
-  <p>Ultimately, we obtain a list of events for each pixels which can be <em>merged</em> to represent the entire image. This list of events includes pixel addresses, times of occurrence and polarities. As events are generated over time, they are naturally sorted by their time of occurences. These events are then transmitted in <em>real-time</em> to the output bus, often through a USB3 connection.
+  <p>Ultimately, we obtain a list of events for each pixels which can be <em>merged</em> to represent the entire image. This list of events includes pixel addresses, times of occurrence and polarities. Note that as events are generated over time, they are naturally sorted by their time of occurences. These events are then transmitted in <em>real-time</em> to the output bus, often through a USB3 connection.
 It’s interesting to draw a parallel between this process and the optic nerve, which connects our retina to the brain. In fact, the retina’s output is composed of a million ganglion cells that emit action potentials, constituting the only source of information transmitted through the <em>optic nerve</em>.</p>
 <ul>
 <li><a href="https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg">https://www.researchgate.net/profile/Guido-Croon/publication/313221316/figure/fig2/AS:668997448134663@1536512829861/Picture-of-the-event-based-camera-employed-in-this-work-the-DVS_W640.jpg</a></li>
@@ -912,7 +911,7 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
     <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
   </div></figure> -->
 <aside class="notes">
-  <p>We considered a classification task using a classic camera dataset, involving the classification of 10 different types of human gestures. These biological movements are, for example, clapping hands or playing air guitar.</p>
+  <p>We considered a classification task using a classic camera dataset, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.</p>
 <aside class="notes">
   
     </section>
@@ -933,7 +932,7 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
     </figcaption></figure>
 <aside class="notes">
   So how can we process and learn data coming from an event-based camera ?
-Our team, including PhD student Antoine Grimaldi, has enhanced an existing algorithm known as <em>HOTS</em>. This algorithm employs a traditional convolutional and hierarchical structure to process information. It begins with the camera’s event data and progresses through various stacked layers, the last layer giving a high-level representation suitable for tasks like digit recognition—for example, identifying the number eight. A key aspect of HOTS is its conversion of event data into multiplexed, parallel channels that mirror the temporal sequence of events, termed the <em>temporal surface</em>. Each layer represents these temporal surfaces individually. Notably, the algorithm’s learning process is <em>unsupervised</em> at every layer, marking a significant advancement over typical deep learning methods that rely on back-propagating classification errors—which is biologically implausible. Building on HOTS, we’ve improved it by incorporated neurobiological insights, particularly the principle of <em>homeostasis</em>, to better balance the various parallel communication pathways.
+My team, including PhD student Antoine Grimaldi, has enhanced an existing algorithm known as <em>HOTS</em>. This algorithm employs a traditional convolutional and hierarchical structure to process information. It begins with the camera’s event data that are processed three stacked layers, the last layer giving a high-level representation suitable for tasks like digit recognition—for example, identifying the number eight. A key aspect of HOTS is its conversion of event data into multiplexed, parallel channels that mirror the temporal sequence of events, termed the <em>temporal surface</em>. A temporal surface provides a representation of recent activity, it jumps to one on an event and then exponentially decays through time. Each layer represents these temporal surfaces individually. Notably, the algorithm’s learning process is <em>unsupervised</em> at every layer, marking a significant advancement over typical deep learning methods that rely on back-propagating classification errors—which is biologically implausible. Building on HOTS, we’ve improved it by incorporated neurobiological insights, particularly the principle of <em>homeostasis</em>, to better balance the various parallel communication pathways.
 </aside>
 
     </section>
@@ -953,7 +952,7 @@ Our team, including PhD student Antoine Grimaldi, has enhanced an existing algor
       [<a href="https://laurentperrinet.github.io/publication/grimaldi-23/">Grimaldi, Boutin, Sio-Ieng, Benosman &amp; LP, 2023</a>]
     </figcaption></figure>
 <aside class="notes">
-  <p>To demonstrate our algorithm’s effectiveness, we tested it on a standard dataset that I presented before for classifying <em>10 distinct human gestures</em>, such as clapping, waving, or drumming. With random guessing at 10%, the original HOTS algorithm achieved 70% accuracy after processing all events. However, by adding <em>homeostasis</em>—a concept from neuroscience—we enhanced the algorithm’s performance to 82%. This underscores the value of incorporating neuroscientific principles into machine learning.</p>
+  <p>To demonstrate our algorithm’s effectiveness, we tested it on a standard dataset that I presented before for classifying <em>10 distinct human gestures</em>, such as clapping, waving, or drumming. With random guessing at 10%, the original HOTS algorithm achieved 70% accuracy after processing all events. However, by adding <em>homeostasis</em>—an important concept from neuroscience—we enhanced the algorithm’s performance to 82%. This underscores the value of incorporating neuroscientific principles into machine learning. Homeostasis is used to balance the firing rates accross neurons in a neural network. It ensures that all neurons contribute equally over time, avoiding dominance by a few neurons.</p>
 <p>Furthermore, we leveraged a key trait of biological systems: the ability to process information continuously, in real time. Traditional algorithms wait to classify until all events are processed. We innovated by enabling our algorithm to classify on-the-fly, in real-time, with each incoming event. This means that as events occur, they’re instantly processed through the layers, reaching the classification layer without delay.</p>
 </aside>
 
@@ -996,8 +995,9 @@ We’ve also refined our algorithm to select classification events based on prec
 <p><a href="mailto:adrien.fois@univ-amu.fr">adrien.fois@univ-amu.fr</a>
 <a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
 <aside class="notes">
-  In conclusion, we have seen that event-driven cameras open the door to new applications that mimic the performance of the human eye, in terms of computational dynamics, adaptation to light conditions and energy constraints. This technological development has recently been accompanied by the development of neuromorphic chips and innovative algorithms in the form of spiking neural networks. However, there is still a great deal of progress to be made at theoretical level, particularly in the understanding of these spiking neural networks, and we have shown the potential progress that can be made by exploiting the richness of temporal representations, particularly by taking advantage of heterogeneous delays.
-Beyond these particular applications to natural image processing, I hope to have succeeded in demonstrating the importance of cross-fertilizing the field of engineering applications in general with biological neuroscience. This new line of research - known as NeuroAI or, more generally, as computational neuroscience - is likely to develop over the next few years. Thank you for your attention.
+  <p>To conclude, we&rsquo;ve explored how event-driven cameras pave the way for new applications. These applications mirror the human eye&rsquo;s performance in terms of computational dynamics, rapid light condition adaptation, and energy efficiency. This tech advancement is complemented by the emergence of neuromorphic chips and innovative algorithms, specifically spiking neural networks. These networks emulate biological neurons, which communicate through binary events known as spikes rather than analog values used in traditionnal neural networks.</p>
+<p>Despite these advancements, there&rsquo;s still much to learn, especially in understanding how spiking neural networks process information. I hope I&rsquo;ve successfully highlighted the importance of integrating engineering applications with neuroscience. This emerging research area, known as NeuroAI or computational neuroscience, is evolving rapidly. The ultimate aim of NeuroAI is to emulate the brain’s performance: it’s like having the computational power of a supercomputer compacted into the size of a soccer ball, using only around 20W of power, which is comparable to the energy consumption of a light bulb.
+This emerging research area, known as NeuroAI or computational neuroscience, is set to evolve in the coming years. Thank you for your attention.</p>
 </aside>
 </section>
 
