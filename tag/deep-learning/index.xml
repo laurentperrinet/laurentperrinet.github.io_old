@@ -98,7 +98,9 @@
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.
+&lt;p&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 
 
 
@@ -119,14 +121,13 @@
 
 &lt;figure  id=&#34;figure-epistemic-uncertainty-in-a-csc-dictionary-improves-both-sparseness-and-reconstruction-performance-a-elements-from-dictionaries-with-fixed-epistemic-uncertainty-before-green-and-after-dictionary-learning-orange-b-elements-from-a-dictionary-with-heterogeneous-epistemic-uncertainty-before-blue-and-after-dictionary-learning-purple-c-elements-from-a-dictionary-learned-from-scratch-d-distribution-of-the-sparseness-top-and-peak-signal-to-noise-ratio-psnr-right-of-the-five-dictionaries-shown-as-a-scatter-plot-for-each-of-the-600-images-of-the-dataset-center-median-values-are-shown-as-dashed-line-on-the-histograms&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;fig_dicos.png&#34; alt=&#34;Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/fig_dicos.png&#34; alt=&#34;Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. &lt;strong&gt;(a)&lt;/strong&gt; Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). &lt;strong&gt;(b)&lt;/strong&gt; Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). &lt;strong&gt;(c)&lt;/strong&gt; Elements from a dictionary learned from scratch. &lt;strong&gt;(d)&lt;/strong&gt; Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;This theoretical work accompanies a similar study in neurophysiology: 
+
+&lt;ul&gt;
+&lt;li&gt;This theoretical work accompanies a similar study in neurophysiology: 
 
 
 
@@ -210,7 +211,6 @@
 &lt;/div&gt;
 
 
-&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -1641,10 +1641,10 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_fcd892154a57bcd1187806273167dd4a.webp 400w,
-               /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_b48cd39bf2b9046b6883e1787e20f1ef.webp 760w,
+               /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_cb71cf236bc387708809d4a79a440feb.webp 400w,
+               /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_4cea5ec41e387c640010465b8c9ec007.webp 760w,
                /publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_fcd892154a57bcd1187806273167dd4a.webp&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/franciosini-20-cosyne/poster_hu869adeac44b17d85c28add0c262e1474_334775_cb71cf236bc387708809d4a79a440feb.webp&#34;
                width=&#34;100%&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

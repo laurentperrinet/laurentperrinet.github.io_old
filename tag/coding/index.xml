@@ -98,6 +98,141 @@
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-epistemic-uncertainty-in-a-csc-dictionary-improves-both-sparseness-and-reconstruction-performance-a-elements-from-dictionaries-with-fixed-epistemic-uncertainty-before-green-and-after-dictionary-learning-orange-b-elements-from-a-dictionary-with-heterogeneous-epistemic-uncertainty-before-blue-and-after-dictionary-learning-purple-c-elements-from-a-dictionary-learned-from-scratch-d-distribution-of-the-sparseness-top-and-peak-signal-to-noise-ratio-psnr-right-of-the-five-dictionaries-shown-as-a-scatter-plot-for-each-of-the-600-images-of-the-dataset-center-median-values-are-shown-as-dashed-line-on-the-histograms&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/fig_dicos.png&#34; alt=&#34;Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. &lt;strong&gt;(a)&lt;/strong&gt; Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). &lt;strong&gt;(b)&lt;/strong&gt; Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). &lt;strong&gt;(c)&lt;/strong&gt; Elements from a dictionary learned from scratch. &lt;strong&gt;(d)&lt;/strong&gt; Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;This theoretical work accompanies a similar study in neurophysiology: 
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+
+  
+  
+
+  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+    
+
+  &lt;span &gt;
+      Hugo Ladret&lt;/span&gt;, &lt;span &gt;
+      Nelson Cortes&lt;/span&gt;, &lt;span &gt;
+      Lamyae Ikan&lt;/span&gt;, &lt;span &gt;
+      Frederic Chavane&lt;/span&gt;, &lt;span &gt;
+      Christian Casanova&lt;/span&gt;, &lt;span &gt;
+      Laurent U Perrinet&lt;/span&gt;
+  &lt;/span&gt;
+  (2023).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23/&#34;&gt;Cortical recurrence supports resilience to sensory variance in the primary visual cortex&lt;/a&gt;.
+  &lt;em&gt;Nature Communications Biology&lt;/em&gt;.
+  
+  &lt;p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-23/ladret-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  PDF
+&lt;/a&gt;
+
+
+
+&lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
+        data-filename=&#34;/publication/ladret-23/cite.bib&#34;&gt;
+  Cite
+&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/s42003-023-05042-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  DOI
+&lt;/a&gt;
+
+
+&lt;/p&gt;
+
+  
+  
+&lt;/div&gt;
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling</title>
+      <link>https://laurentperrinet.github.io/publication/ladret-23-iclr/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://laurentperrinet.github.io/publication/ladret-23-iclr/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Accepted paper (poster) at the &lt;a href=&#34;https://www.sparseneural.net/accepted-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR 2023 Workshop on
+Sparsity in Neural Networks&lt;/a&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the focus of the WS is on &amp;ldquo;On practical limitations and tradeoffs between sustainability and efficiency&amp;rdquo; in Kigali, Rwanda / May 5th 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;reviews will be made public on &lt;a href=&#34;https://openreview.net/forum?id=tgr8FEcl28M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openreview.net/forum?id=tgr8FEcl28M&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.
 
 
@@ -119,7 +254,14 @@
 
 &lt;figure  id=&#34;figure-epistemic-uncertainty-in-a-csc-dictionary-improves-both-sparseness-and-reconstruction-performance-a-elements-from-dictionaries-with-fixed-epistemic-uncertainty-before-green-and-after-dictionary-learning-orange-b-elements-from-a-dictionary-with-heterogeneous-epistemic-uncertainty-before-blue-and-after-dictionary-learning-purple-c-elements-from-a-dictionary-learned-from-scratch-d-distribution-of-the-sparseness-top-and-peak-signal-to-noise-ratio-psnr-right-of-the-five-dictionaries-shown-as-a-scatter-plot-for-each-of-the-600-images-of-the-dataset-center-median-values-are-shown-as-dashed-line-on-the-histograms&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;fig_dicos.png&#34; alt=&#34;Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.&#34; srcset=&#34;
+               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_132b0f0bf1c689cd37be872a9dfcdbde.webp 400w,
+               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_dffe9389ea996908f82a3624a7172a29.webp 760w,
+               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_132b0f0bf1c689cd37be872a9dfcdbde.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;455&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. &lt;strong&gt;(a)&lt;/strong&gt; Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). &lt;strong&gt;(b)&lt;/strong&gt; Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). &lt;strong&gt;(c)&lt;/strong&gt; Elements from a dictionary learned from scratch. &lt;strong&gt;(d)&lt;/strong&gt; Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -212,54 +354,8 @@
 
 &lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Convolutional Sparse Coding is improved by heterogeneous uncertainty modeling</title>
-      <link>https://laurentperrinet.github.io/publication/ladret-23-iclr/</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://laurentperrinet.github.io/publication/ladret-23-iclr/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Accepted paper (poster) at the &lt;a href=&#34;https://www.sparseneural.net/accepted-papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLR 2023 Workshop on
-Sparsity in Neural Networks&lt;/a&gt;:&lt;/li&gt;
-&lt;li&gt;the focus of the WS is on &amp;ldquo;On practical limitations and tradeoffs between sustainability and efficiency&amp;rdquo; in Kigali, Rwanda / May 5th 2023&lt;/li&gt;
-&lt;li&gt;reviews will be made public on &lt;a href=&#34;https://openreview.net/forum?id=tgr8FEcl28M&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openreview.net/forum?id=tgr8FEcl28M&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;In a nutshell: We found that sparse coding of images (here extended in a convolutional framework) is improved when using kernels with heterogeneous precision in how they encode orientation information. This was confirmed by learning, but also by comparison with what is observed in the statistics of natural images and in our recordings from neurons in primary visual cortex.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-epistemic-uncertainty-in-a-csc-dictionary-improves-both-sparseness-and-reconstruction-performance-a-elements-from-dictionaries-with-fixed-epistemic-uncertainty-before-green-and-after-dictionary-learning-orange-b-elements-from-a-dictionary-with-heterogeneous-epistemic-uncertainty-before-blue-and-after-dictionary-learning-purple-c-elements-from-a-dictionary-learned-from-scratch-d-distribution-of-the-sparseness-top-and-peak-signal-to-noise-ratio-psnr-right-of-the-five-dictionaries-shown-as-a-scatter-plot-for-each-of-the-600-images-of-the-dataset-center-median-values-are-shown-as-dashed-line-on-the-histograms&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. **(a)** Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). **(b)** Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). **(c)** Elements from a dictionary learned from scratch. **(d)** Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.&#34; srcset=&#34;
-               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_621dceff3d31ec6f32c2eb643ffaa8d1.webp 400w,
-               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_19e69c1429af68eb622997a9973ab186.webp 760w,
-               /publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://laurentperrinet.github.io/publication/ladret-23-iclr/fig_dicos_hu543a2c44a425883d173ab3dab5a1965c_559538_621dceff3d31ec6f32c2eb643ffaa8d1.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;455&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
-      Epistemic uncertainty in a CSC dictionary improves both sparseness and reconstruction performance. &lt;strong&gt;(a)&lt;/strong&gt; Elements from dictionaries with fixed epistemic uncertainty before (green) and after dictionary learning (orange). &lt;strong&gt;(b)&lt;/strong&gt; Elements from a dictionary with heterogeneous epistemic uncertainty before (blue) and after dictionary learning (purple). &lt;strong&gt;(c)&lt;/strong&gt; Elements from a dictionary learned from scratch. &lt;strong&gt;(d)&lt;/strong&gt; Distribution of the sparseness (top) and Peak Signal-to-Noise Ratio (PSNR, right) of the five dictionaries, shown as a scatter plot for each of the 600 images of the dataset (center). Median values are shown as dashed line on the histograms.
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/li&gt;
-&lt;li&gt;This theoretical work accompanies a similar study in neurophysiology: 
+&lt;li&gt;
+&lt;p&gt;This work was extended in 
 
 
 
@@ -285,15 +381,12 @@ Sparsity in Neural Networks&lt;/a&gt;:&lt;/li&gt;
 
   &lt;span &gt;
       Hugo Ladret&lt;/span&gt;, &lt;span &gt;
-      Nelson Cortes&lt;/span&gt;, &lt;span &gt;
-      Lamyae Ikan&lt;/span&gt;, &lt;span &gt;
-      Frederic Chavane&lt;/span&gt;, &lt;span &gt;
       Christian Casanova&lt;/span&gt;, &lt;span &gt;
       Laurent U Perrinet&lt;/span&gt;
   &lt;/span&gt;
-  (2023).
-  &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23/&#34;&gt;Cortical recurrence supports resilience to sensory variance in the primary visual cortex&lt;/a&gt;.
-  &lt;em&gt;Nature Communications Biology&lt;/em&gt;.
+  (2024).
+  &lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-24-sparse/&#34;&gt;Kernel Heterogeneity Improves Sparseness of Natural Images Representations&lt;/a&gt;.
+  &lt;em&gt;Submitted&lt;/em&gt;.
   
   &lt;p&gt;
 
@@ -308,14 +401,10 @@ Sparsity in Neural Networks&lt;/a&gt;:&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-23/ladret-23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  PDF
-&lt;/a&gt;
-
 
 
 &lt;a href=&#34;#&#34; class=&#34;btn btn-outline-primary btn-page-header btn-sm js-cite-modal&#34;
-        data-filename=&#34;/publication/ladret-23/cite.bib&#34;&gt;
+        data-filename=&#34;/publication/ladret-24-sparse/cite.bib&#34;&gt;
   Cite
 &lt;/a&gt;
 
@@ -331,10 +420,34 @@ Sparsity in Neural Networks&lt;/a&gt;:&lt;/li&gt;
 
 
 
-&lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://doi.org/10.1038/s42003-023-05042-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  DOI
-&lt;/a&gt;
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://laurentperrinet.github.io/publication/ladret-24-sparse/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    URL&lt;/a&gt;
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://arxiv.org/abs/2312.14685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    Preprint&lt;/a&gt;
 
 &lt;/p&gt;
 
@@ -343,6 +456,7 @@ Sparsity in Neural Networks&lt;/a&gt;:&lt;/li&gt;
 &lt;/div&gt;
 
 
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
