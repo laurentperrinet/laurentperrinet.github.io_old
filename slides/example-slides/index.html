@@ -278,10 +278,10 @@
 <h2 id="code-highlighting">Code Highlighting</h2>
 <p>Inline code: <code>variable</code></p>
 <p>Code block:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="n">porridge</span> <span class="o">=</span> <span class="s2">&#34;blueberry&#34;</span>
-<span class="k">if</span> <span class="n">porridge</span> <span class="o">==</span> <span class="s2">&#34;blueberry&#34;</span><span class="p">:</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Eating...&#34;</span><span class="p">)</span>
-</code></pre></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">porridge</span> <span class="o">=</span> <span class="s2">&#34;blueberry&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="n">porridge</span> <span class="o">==</span> <span class="s2">&#34;blueberry&#34;</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Eating...&#34;</span><span class="p">)</span>
+</span></span></code></pre></div>
     </section>
     
 
@@ -415,11 +415,11 @@ $$</p>
       
 <h2 id="speaker-notes">Speaker Notes</h2>
 <p>Add speaker notes to your presentation</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown">{{% speaker_note %}}
-<span class="k">-</span> Only the speaker can read these notes
-<span class="k">-</span> Press <span class="sb">`S`</span> key to view
-{{% /speaker_note %}}
-</code></pre></div><p>Press the <code>S</code> key to view the speaker notes!</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{% speaker_note %}}
+</span></span><span class="line"><span class="cl"><span class="k">-</span> Only the speaker can read these notes
+</span></span><span class="line"><span class="cl"><span class="k">-</span> Press <span class="sb">`S`</span> key to view
+</span></span><span class="line"><span class="cl">{{% /speaker_note %}}
+</span></span></code></pre></div><p>Press the <code>S</code> key to view the speaker notes!</p>
 <aside class="notes">
   <ul>
 <li>Only the speaker can read these notes</li>
@@ -478,10 +478,10 @@ $$</p>
 
 <h2 id="custom-slide">Custom Slide</h2>
 <p>Customize the slide style and background</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown">{{<span class="p">&lt;</span> <span class="nt">slide</span> <span class="na">background-image</span><span class="o">=</span><span class="s">&#34;/img/hulk.png&#34;</span> <span class="p">&gt;</span>}}
-{{<span class="p">&lt;</span> <span class="nt">slide</span> <span class="na">background-color</span><span class="o">=</span><span class="s">&#34;#0000FF&#34;</span> <span class="p">&gt;</span>}}
-{{<span class="p">&lt;</span> <span class="nt">slide</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;my-style&#34;</span> <span class="p">&gt;</span>}}
-</code></pre></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">slide</span> <span class="na">background-image</span><span class="o">=</span><span class="s">&#34;/img/hulk.png&#34;</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">slide</span> <span class="na">background-color</span><span class="o">=</span><span class="s">&#34;#0000FF&#34;</span> <span class="p">&gt;</span>}}
+</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">slide</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;my-style&#34;</span> <span class="p">&gt;</span>}}
+</span></span></code></pre></div>
     </section>
     
 
@@ -494,12 +494,12 @@ $$</p>
 <h2 id="custom-css-example">Custom CSS Example</h2>
 <p>Let&rsquo;s make headers navy colored.</p>
 <p>Create <code>assets/css/reveal_custom.css</code> with:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="p">.</span><span class="nc">reveal</span> <span class="nt">section</span> <span class="nt">h1</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">reveal</span> <span class="nt">section</span> <span class="nt">h2</span><span class="o">,</span>
-<span class="p">.</span><span class="nc">reveal</span> <span class="nt">section</span> <span class="nt">h3</span> <span class="p">{</span>
-  <span class="k">color</span><span class="p">:</span> <span class="kc">navy</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-css" data-lang="css"><span class="line"><span class="cl"><span class="p">.</span><span class="nc">reveal</span> <span class="nt">section</span> <span class="nt">h1</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">reveal</span> <span class="nt">section</span> <span class="nt">h2</span><span class="o">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">.</span><span class="nc">reveal</span> <span class="nt">section</span> <span class="nt">h3</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">color</span><span class="p">:</span> <span class="kc">navy</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div>
     </section>
     
 
