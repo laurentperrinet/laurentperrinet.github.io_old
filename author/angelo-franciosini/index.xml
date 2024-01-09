@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/author/angelo-franciosini/</link>
       <atom:link href="https://laurentperrinet.github.io/author/angelo-franciosini/index.xml" rel="self" type="application/rss+xml" />
     <description>Angelo Franciosini</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/angelo-franciosini/avatar_huf20cb217f6bf92656c2488dfbefe1a2d_4587_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Angelo Franciosini</title>
@@ -22,6 +22,8 @@
 
 &lt;ul&gt;
 &lt;li&gt;this paper follows this COSYNE presentation : 
+
+
 
 
 
@@ -103,6 +105,8 @@
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/li&gt;
 &lt;li&gt;see a related work describing SDPC in: 
+
+
 
 
 
@@ -204,6 +208,8 @@
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -358,12 +364,19 @@
 
 
 
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;poster.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;In this talk, I will present the following paper : 
+
+
 
 
 
@@ -464,6 +477,8 @@
 
 
 
+
+
   
 
 
@@ -553,6 +568,8 @@
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -667,13 +684,22 @@
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-fig-1-architecture-of-a-2-layered-sdpc-model&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; alt=&#34;Fig 1. Architecture of a 2-layered SDPC model.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 1. Architecture of a 2-layered SDPC model.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 One often compares biological vision to a camera-like system where an image would be processed according to a sequence of successive transformations. In particular, this “feedforward” view is prevalent in models of visual processing such as deep learning. However, neuroscientists have long stressed that more complex information flow is necessary to reach natural vision efficiency. In particular, recurrent and feedback connections in the visual cortex allow to integrate contextual information in our representation of visual stimuli. These modulations have been observed both at the low-level of neural activity and at the higher level of perception.
+
+
+
+
 
 
 
@@ -708,13 +734,23 @@ One often compares biological vision to a camera-like system where an image woul
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-fig-14-illustration-of-the-hierarchical-generative-model-learned-by-the-sdpc-model-on-the-face-database&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; alt=&#34;Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 In this study, we present an architecture that describes biological vision at both levels of analysis. It suggests that the brain uses feedforward and feedback connections to compare the sensory stimulus with its own internal representation. In contrast to classical deep learning approaches, we show that our model learns interpretable features.
+
+
+
+
 
 
 
@@ -749,13 +785,23 @@ In this study, we present an architecture that describes biological vision at bo
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-fig-7-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-45-and-colored-with-the-relative-response-wrt-no-feedback&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; alt=&#34;Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Moreover, we demonstrate that feedback signals modulate neural activity to promote good continuity of contours. Finally, the same model can disambiguate images corrupted by noise. To the best of our knowledge, this is the first time that the same model describes the effect of recurrent and feedback modulations at both neural and representational levels.
+
+
+
+
 
 
 
@@ -775,9 +821,12 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; alt=&#34;Fig 10. Effect of the feedback strength on noisy images from natural images database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 10. Effect of the feedback strength on noisy images from natural images database.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -867,6 +916,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;: 
+
+
 
 
 
@@ -985,6 +1036,10 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
@@ -995,9 +1050,12 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
                width=&#34;100%&#34;
                height=&#34;540&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;see the follow-up paper in: 
+
+
 
 
 
@@ -1098,6 +1156,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1187,6 +1247,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -1298,6 +1360,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1387,6 +1451,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -1490,6 +1556,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 &lt;ul&gt;
 &lt;li&gt;get the code @ &lt;a href=&#34;https://github.com/VictorBoutin/SPC_2L&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/VictorBoutin/SPC_2L&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;see a related work describing SDPC in: 
+
+
 
 
 
@@ -1607,6 +1675,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1696,6 +1766,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -1805,6 +1877,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1894,6 +1968,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -2002,6 +2078,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -2091,6 +2169,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -2199,6 +2279,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -2288,6 +2370,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -2399,6 +2483,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -2488,6 +2574,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -2596,6 +2684,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -2685,6 +2775,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -2798,6 +2890,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -2887,6 +2981,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -2995,6 +3091,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -3084,6 +3182,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -3192,6 +3292,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -3281,6 +3383,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -3389,6 +3493,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -3478,6 +3584,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 

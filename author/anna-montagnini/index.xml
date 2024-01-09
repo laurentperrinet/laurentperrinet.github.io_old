@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/author/anna-montagnini/</link>
       <atom:link href="https://laurentperrinet.github.io/author/anna-montagnini/index.xml" rel="self" type="application/rss+xml" />
     <description>Anna Montagnini</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/anna-montagnini/avatar_hub896de861e914f410b9e146cfca223b5_17258_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Anna Montagnini</title>
@@ -77,6 +77,8 @@ We propose to use dynamic inference as an efficient theoretical framework to und
 
 
 
+
+
   
 
 
@@ -86,11 +88,16 @@ We propose to use dynamic inference as an efficient theoretical framework to und
 &lt;video controls  &gt;
   &lt;source src=&#34;https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;check out our new paper &lt;a href=&#34;https://twitter.com/PLOSCompBiol?ref_src=twsrc%5Etfw&#34;&gt;@PLOSCompBiol&lt;/a&gt; : &amp;quot;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&amp;quot; with Chloé Pasturel and @MontagniniAnna  - talks about how to perform optimal decisions when the environment abruptly switches its statistics... &lt;a href=&#34;https://t.co/GKg87lGqdS&#34;&gt;pic.twitter.com/GKg87lGqdS&lt;/a&gt;&lt;/p&gt;&amp;mdash; @laurentperrinet@neuromatch.social (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1253715266124611586?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;at-what-point-should-we-become-alarmed-when-faced-with-changes-in-the-environment-the-sensory-system-provides-an-effective-response&#34;&gt;At what point should we become alarmed? When faced with changes in the environment, the sensory system provides an effective response.&lt;/h2&gt;
 &lt;p&gt;The current health situation has shown us how abruptly our environment can change from one state to another, tragically illustrating the volatility we can face. To understand this notion of volatility, let&amp;rsquo;s take the case of a doctor who, among the patients he receives, usually diagnoses one out of ten cases of flu. Suddenly, he gets 5 out of 10 patients who test positive. Is this an unfortunate coincidence or are we now sure that there is a switch to a flu episode? Recent events have shown us how difficult it is to make a rational decision in times of uncertainty, and in particular to decide &lt;em&gt;when&lt;/em&gt; to act. However, mathematical solutions exist that adapt our behavior by optimally combining the information explored recently with that exploited in the past. In an article published in PLoS Computational Biology, Pasturel, Montagnini and Perrinet show that our brain responds to changes in the sensory environment in the same way as this mathematical model.
+
+
+
+
 
 
 
@@ -118,6 +125,7 @@ We propose to use dynamic inference as an efficient theoretical framework to und
   &lt;/div&gt;&lt;figcaption&gt;
       By manipulating the probability bias of the presentation of a visual target on a screen, this experiment manipulates the volatility of the environment in a controlled way by introducing switches in the probability bias. These switches randomly change the bias among different degrees of probability (both left and right). At each trial, the bias then generates a realization, either left (L) or right (R).  The target moves in blocks of 50 trials (1 to 50) and these realizations are the only ones to be observed, the evolution of the bias and its shifts remaining hidden from the observer. Compared to the floating average that is conventionally used, a mathematical model can be deduced as a predictive average that allows to better follow the dynamics of the probability bias. Thanks to psychophysical experiments, we have shown that observers preferentially follow the predictive mean, rather than the floating mean, both in explicit judgements (predictive betting) and, more surprisingly, in the anticipatory movements of the eyes that are carried out without the observers being aware of them.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 These theoretical and experimental results show that in this realistic situation in which the context changes at random moments throughout the experiment, our sensory system adapts to volatility in an adaptive manner over the course of the trials. In particular, the experiments show in two behavioural experiments that humans adapt to volatility at the early sensorimotor level, through their anticipatory eye movements, but also at a higher cognitive level, through explicit evaluations. These results thus suggest that humans (and future artificial systems) can use much richer adaptation strategies than previously assumed. They provide a better understanding of how humans adapt to changing environments in order to make judgements or plan responses based on information that varies over time.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;read the &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt; (the official online &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt; or in &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007438&amp;amp;type=printable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt; is &lt;em&gt;wrongly&lt;/em&gt; typeset: the editors inverted the images of figures 2 &amp;amp; 3, while keeping the captions. Unfortunately, the policy of the journal is to issue a correction, but not to correct it. There is therefore no official correct version on the PLoS* website.)&lt;/li&gt;
@@ -155,6 +163,8 @@ These theoretical and experimental results show that in this realistic situation
       <guid>https://laurentperrinet.github.io/talk/2018-04-05-bcp-talk/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See the final publication @ 
+
+
 
 
 
@@ -268,6 +278,8 @@ These theoretical and experimental results show that in this realistic situation
       <guid>https://laurentperrinet.github.io/talk/2018-02-01-bcp-invibe-fest/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See the final publication @ 
+
+
 
 
 
@@ -677,6 +689,10 @@ These theoretical and experimental results show that in this realistic situation
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-band-pass-motion-stimuli-for-perception-and-action-tasks-a-in-the-space-representing-temporal-against-spatial-frequency-each-line-going-through-the-origin-corresponds-to-stimuli-moving-at-the-same-speed-a-simple-drifting-grating-is-a-single-point-in-this-space-our-moving-texture-stimuli-had-their-energy-distributed-within-an-ellipse-elongated-along-a-given-speed-line-keeping-constant-the-mean-spatial-and-temporal-frequencies-the-spatio-temporal-bandwidth-was-manipulated-by-co-varying-bsf-and-btf-as-illustrated-by-the-xyt-examples-human-performance-was-measured-for-two-different-tasks-run-in-parallel-blocks-b-for-ocular-tracking-motion-stimuli-were-presented-for-a-short-duration-200ms-in-the-wake-of-a-centering-saccade-to-control-both-attention-and-fixation-states-c-for-speed-discrimination-test-and-reference-stimuli-were-presented-successively-for-the-same-duration-and-subjects-were-instructed-to-indicate-whether-the-test-stimulus-was-perceived-as-slower-or-faster-than-reference&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Band-pass motion stimuli for perception and action tasks.* (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference. &#34;
@@ -684,7 +700,8 @@ These theoretical and experimental results show that in this realistic situation
            loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -731,6 +748,8 @@ These theoretical and experimental results show that in this realistic situation
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;See a followup in 
+
+
 
 
 
@@ -833,6 +852,8 @@ These theoretical and experimental results show that in this realistic situation
 
 
 
+
+
   
 
 
@@ -916,6 +937,8 @@ These theoretical and experimental results show that in this realistic situation
 
 
 
+
+
   
 
 
@@ -987,6 +1010,8 @@ These theoretical and experimental results show that in this realistic situation
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
+
+
 
 
 

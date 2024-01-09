@@ -5,12 +5,15 @@
   
   
   
+  
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Wowchemy 5.5.0 for Hugo">
+  <meta name="generator" content="Hugo Blox Builder 5.9.6">
 
+  
+    <link rel="manifest" href="/manifest.webmanifest">
   
 
   <link rel="icon" type="image/png" href="/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_32x32_fill_lanczos_center_3.png">
@@ -20,11 +23,24 @@
 
   <title>2023-12-14-jraf.md | Novel visual computations</title>
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/white.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/dracula.min.css" crossorigin="anonymous" id="highlight-theme">
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/theme/white.min.css">
 
   
   
-  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+  
+  
+    
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css">
+  
+
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/reveal_custom.min.css">
+  
 </head>
 <body>
 
@@ -138,10 +154,19 @@
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="http://1.bp.blogspot.com/-odG4Twu0Blc/UrN3ytufKnI/AAAAAAAACRM/dzJNcpV4JfY/s1600/Monty&#43;Python%27s&#43;1.gif" alt="" loading="lazy" data-zoomable width="100%" /></div>
-  </div></figure> -->
+  </div></figure>
+ -->
+
+
+
+
 
 
 
@@ -160,6 +185,7 @@
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/movie.gif" alt="" loading="lazy" data-zoomable width="66%" /></div>
   </div></figure>
+
 <aside class="notes">
   To better understand the mechanism behind this technology, let&rsquo;s take a sample video.
 Here, I&rsquo;ve taken a grayscale <em>video</em> from an episode from the Monty Python Flying Circus TV series.
@@ -189,10 +215,15 @@ Here, I&rsquo;ve taken a grayscale <em>video</em> from an episode from the Monty
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/analog_signal.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   <p>&hellip; and we will focus on a <em>single pixel</em> in the space of the visual field
 In this way, we can represent the evolution of the <em>log intensity</em> of the light signal as a function of time.</p>
@@ -228,10 +259,15 @@ In this way, we can represent the evolution of the <em>log intensity</em> of the
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/frame-based_signal.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   From this representation, expressed in continuous time, we can <em>discretize</em> time and measure the log intensity at regular time intervals. The difference between two images gives the <em>temporal resolution</em>, and its inverse gives the number of images per second. This is the representation classically used in chronophotography, but also in all conventional video stream <em>acquisition and viewing</em> technologies.
 This technology is highly efficient for a wide range of signals. However, it does have certain <em>limitations</em>.
@@ -261,12 +297,17 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 
 
+
+
+
+
 <figure  id="figure-gregor-lenz-2020httpslenzgregorcompostsevent-cameras">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://lenzgregor.com/posts/event-cameras/post-rethinking/frames.gif" alt="[[Gregor Lenz, 2020](https://lenzgregor.com/posts/event-cameras/)]" loading="lazy" data-zoomable width="85%" /></div>
   </div><figcaption>
       [<a href="https://lenzgregor.com/posts/event-cameras/" target="_blank" rel="noopener">Gregor Lenz, 2020</a>]
     </figcaption></figure>
+
 <aside class="notes">
   To illustrate a common limitation, let&rsquo;s take the <em>example</em> of three colored cubes rotating around a circle on a frontal axis. Due to the camera’s temporal resolution and the duration the shutter remains open, the captured images exhibit blur. This makes it challenging to precisely measure the cubes’ movement. As the cubes’ rotation speed increases, we might notice an effect called temporal <em>aliasing</em>, where the movement appears distorted due to the camera’s limitations.
 </aside>
@@ -295,12 +336,17 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 
 
+
+
+
+
 <figure  id="figure-sam-brinson-2020httpswwwsambrinsoncomnature-of-perception">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://vignette.wikia.nocookie.net/revengeristsconsortium/images/2/25/Whee.gif/revision/latest/scale-to-width-down/340?cb=20141209071330" alt="[[Sam Brinson, 2020](https://www.sambrinson.com/nature-of-perception/)]" loading="lazy" data-zoomable width="100%" /></div>
   </div><figcaption>
       [<a href="https://www.sambrinson.com/nature-of-perception/" target="_blank" rel="noopener">Sam Brinson, 2020</a>]
     </figcaption></figure>
+
 <aside class="notes">
   This phenomenon is particularly striking when we look at a spinning wheel moving at high speed. Sometimes, the wheel spins so fast that in two consecutive images, it appears to rotate backwards. This optical illusion is known as the wagon-wheel illusion. It’s particularly noticeable in car wheels, where the central hub may seem stationary while the wheel itself seems to turn <em>counter</em> to its actual direction on the road. Again this wagon-wheel effect is due to standard camera&rsquo;s limitations.
 </aside>
@@ -345,10 +391,15 @@ This technology is highly efficient for a wide range of signals. However, it doe
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   <p>An event-based camera is equipped with a sensor that, much like common CMOS sensors, converts light into electrical current. Yet, it stands apart from standard frame-based cameras by taking inspiration from the human retina. There are two main differences with respect to frame-based camera:
 Firstly each pixel of an event-based camera is <em>independent</em>, functioning without a synchonized global clock.
@@ -381,10 +432,15 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_0.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   Our signal is analog. It consists of the evolution of the log-intensity (y axis) of a single pixel through time (x axis).
 </aside>
@@ -413,10 +469,15 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_1.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   &hellip; And we can observe that it crosses a threshold. At this precise time, the pixel generates an event. In this case, the event is of positive polarity, as it corresponds to an increase.
 </aside>
@@ -445,10 +506,15 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_2.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   Then, the signal continue its course in time and cross a threshold again, resulting in the production of a new event with positive polarity.
 </aside>
@@ -477,10 +543,15 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_5.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   The log-intensity continues to increase, leading to increments, or in other words, positive polarizations.
 </aside>
@@ -509,10 +580,15 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_10.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   Now the signal decreases, resulting in events with negative polarity instead of positive polarity.
 </aside>
@@ -541,10 +617,15 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_20.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   Continuing this process, the simple mechanism generates a <em>stream</em> of events for each pixel, comprising a <em>list</em> of occurrence times and their respective polarities.
 </aside></p>
@@ -573,10 +654,15 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw_-1.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 
     </section>
     
@@ -602,10 +688,15 @@ Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, gene
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_raw.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   Let&rsquo;s show it now applied to the whole analog signal.
 It&rsquo;s worth noting in particular that, compared with frame-by-frame representations, this one is particularly <em>sparse</em>: in particular, a signal with very few changes can be represented by just a few binary events. This is a very useful feature, not only because it saves <em>bandwidth</em>, but also because it allows us to concentrate the <em>computations</em> around the few events that represent the image. It&rsquo;s also a fundamental feature of neuron function in the brain. Indeed neurons communicate sparsely with action potentials that can be seen as binary events.
@@ -635,11 +726,20 @@ It&rsquo;s worth noting in particular that, compared with frame-by-frame represe
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <!-- 
+
+
+
+
 
 
 
@@ -658,7 +758,8 @@ It&rsquo;s worth noting in particular that, compared with frame-by-frame represe
     <div class="w-100" ><img src="https://lenzgregor.com/posts/event-cameras/post-rethinking/events.gif" alt="[[Gregor Lenz, 2020](https://lenzgregor.com/posts/event-cameras/)]" loading="lazy" data-zoomable width="100%" /></div>
   </div><figcaption>
       [<a href="https://lenzgregor.com/posts/event-cameras/" target="_blank" rel="noopener">Gregor Lenz, 2020</a>]
-    </figcaption></figure> -->
+    </figcaption></figure>
+ -->
 <aside class="notes">
   <p>Ultimately, we obtain a list of events for each pixels which can be <em>merged</em> to represent the entire image. This list of events includes pixel addresses, times of occurrence and polarities. Note that as events are generated over time, they are naturally sorted by their time of occurences. These events are then transmitted in <em>real-time</em> to the output bus, often through a USB3 connection.
 It’s interesting to draw a parallel between this process and the optic nerve, which connects our retina to the brain. In fact, the retina’s output is composed of a million ganglion cells that emit action potentials, constituting the only source of information transmitted through the <em>optic nerve</em>.</p>
@@ -753,10 +854,15 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   But why is detecting a very wide range of luminosity usefull ? The ability to <em>adapt</em> to changing light conditions can be illustrated by revisiting our analog signal and its event representation. Consider, for example, an autonomous car driving in daylight and then entering and exiting a <em>tunnel</em>. This scenario involves changes in brightness by a factor of several thousand.
 </aside>
@@ -785,10 +891,15 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/laurentperrinet/figures/raw/main/event-based/event-based_signal_low.svg" alt="" loading="lazy" data-zoomable width="100%" /></div>
   </div></figure>
+
 <aside class="notes">
   Here we have a division by a factor 8 of the signal in the middle section. It will be reported by a frame-based camera. In an event-based camera, this is represented here by a <em>sharp decrement</em> in log intensity space and clearly indicated by events of negative polarity, but we can see that since this is a camera that uses log intensity, dividing the light signal produces the <em>same signal</em> course over time, and therefore events that are identical.  Event-driven cameras are therefore particularly well-suited to <em>dynamic signals</em>, where the lighting context can change drastically.
 </aside>
@@ -835,6 +946,10 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
@@ -852,6 +967,11 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
 
 
 
+
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
@@ -869,10 +989,16 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
 
 
 
+
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
-  </div></figure> -->
+  </div></figure>
+ -->
 <p><img src="https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif"  width="33%"/><img src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif"  width="33%"/><img src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif"  width="33%"/></p>
 <!-- !"" width="33%" >}}
 
@@ -888,6 +1014,10 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
 
 
 
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
@@ -905,10 +1035,16 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
 
 
 
+
+
+
+
+
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
-  </div></figure> -->
+  </div></figure>
+ -->
 <aside class="notes">
   We considered a classification task using a classic camera dataset, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.
 </aside>
@@ -937,12 +1073,17 @@ Another key feature is their ability to detect a very wide <em>range</em> of lum
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi-boutin-sio-ieng-benosman--lp-2023httpslaurentperrinetgithubiopublicationgrimaldi-23">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://laurentperrinet.github.io/publication/grimaldi-23/hots.png" alt="[[Grimaldi, Boutin, Sio-Ieng, Benosman &amp; LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" loading="lazy" data-zoomable width="100%" /></div>
   </div><figcaption>
       [<a href="https://laurentperrinet.github.io/publication/grimaldi-23/" target="_blank" rel="noopener">Grimaldi, Boutin, Sio-Ieng, Benosman &amp; LP, 2023</a>]
     </figcaption></figure>
+
 <aside class="notes">
   So how can we process and learn data coming from an event-based camera ?
 My team, including PhD student Antoine Grimaldi, has enhanced an existing algorithm known as <em>HOTS</em>. This algorithm employs a traditional convolutional and hierarchical structure to process information. It begins with the camera’s event data that are processed three stacked layers, the last layer giving a high-level representation suitable for tasks like digit recognition—for example, identifying the number eight. A key aspect of HOTS is its conversion of event data into multiplexed, parallel channels that mirror the temporal sequence of events, termed the <em>temporal surface</em>. A temporal surface provides a representation of recent activity, it jumps to one on an event and then exponentially decays through time. Each layer represents these temporal surfaces individually. Notably, the algorithm’s learning process is <em>unsupervised</em> at every layer, marking a significant advancement over typical deep learning methods that rely on back-propagating classification errors—which is biologically implausible. Building on HOTS, we’ve improved it by incorporated neurobiological insights, particularly the principle of <em>homeostasis</em>, to better balance the various parallel communication pathways.
@@ -972,12 +1113,17 @@ My team, including PhD student Antoine Grimaldi, has enhanced an existing algori
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi-boutin-sio-ieng-benosman--lp-2023httpslaurentperrinetgithubiopublicationgrimaldi-23">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://laurentperrinet.github.io/publication/grimaldi-23/gesture_offline.png" alt="[[Grimaldi, Boutin, Sio-Ieng, Benosman &amp; LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" loading="lazy" data-zoomable width="90%" /></div>
   </div><figcaption>
       [<a href="https://laurentperrinet.github.io/publication/grimaldi-23/" target="_blank" rel="noopener">Grimaldi, Boutin, Sio-Ieng, Benosman &amp; LP, 2023</a>]
     </figcaption></figure>
+
 <aside class="notes">
   <p>To demonstrate our algorithm’s effectiveness, we tested it on a standard dataset that I presented before for classifying <em>10 distinct human gestures</em>, such as clapping, waving, or drumming. With random guessing at 10%, the original HOTS algorithm achieved 70% accuracy after processing all events. However, by adding <em>homeostasis</em>—an important concept from neuroscience—we enhanced the algorithm’s performance to 82%. This underscores the value of incorporating neuroscientific principles into machine learning. Homeostasis is used to balance the firing rates accross neurons in a neural network. It ensures that all neurons contribute equally over time, avoiding dominance by a few neurons.</p>
 <p>Furthermore, we leveraged a key trait of biological systems: the ability to process information continuously, in real time. Traditional algorithms wait to classify until all events are processed. We innovated by enabling our algorithm to classify on-the-fly, in real-time, with each incoming event. This means that as events occur, they’re instantly processed through the layers, reaching the classification layer without delay.</p>
@@ -1008,12 +1154,17 @@ My team, including PhD student Antoine Grimaldi, has enhanced an existing algori
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi-boutin-sio-ieng-benosman--lp-2023httpslaurentperrinetgithubiopublicationgrimaldi-23">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png" alt="[[Grimaldi, Boutin, Sio-Ieng, Benosman &amp; LP, 2023](https://laurentperrinet.github.io/publication/grimaldi-23/)]" loading="lazy" data-zoomable width="90%" /></div>
   </div><figcaption>
       [<a href="https://laurentperrinet.github.io/publication/grimaldi-23/" target="_blank" rel="noopener">Grimaldi, Boutin, Sio-Ieng, Benosman &amp; LP, 2023</a>]
     </figcaption></figure>
+
 <aside class="notes">
   What&rsquo;s more interesting is that we were also able to show the <em>evolution</em> of our algorithm’s average performance relative to the dataset and the number of processed events. The blue curve reveals that with fewer than 10 events, performance hovers at chance levels. However, as more events are processed, we observe a steady improvement. Remarkably, with 10,000 events, <em>performance</em> matches that of the original algorithm and further excels with an additional tenfold increase in events. A major advantage of this algorithm is that it can be asked to classify the nature of what it sees in real-time, at any point during the event stream —not just after the entire signal is processed. Online processing is essential in biology. For example, imagine you&rsquo;re on the savannah and a <em>lion</em> jumps out at you. You won&rsquo;t have the time to wait for the video sequence to finish processing before making the right decision, which is to flee.
 We’ve also refined our algorithm to select classification events based on precision calculations for each event. By adding a precision <em>threshold</em>, we achieve high performance with merely a hundred events. This reflects a biological network trait where decisions aren’t made incrementally but rather emerge abruptly here after 200 events — and then continue to improve and stabilize.
@@ -1082,12 +1233,17 @@ This emerging research area, known as NeuroAI or computational neuroscience, is 
 
 
 
+
+
+
+
 <figure  id="figure-tonic-manualhttpstonicreadthedocsioenlatest_imagesneuron-modelspng">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://tonic.readthedocs.io/en/latest/_images/neuron-models.png" alt="[[Tonic manual](https://tonic.readthedocs.io/en/latest/_images/neuron-models.png)]" loading="lazy" data-zoomable width="70%" /></div>
   </div><figcaption>
       [<a href="https://tonic.readthedocs.io/en/latest/_images/neuron-models.png" target="_blank" rel="noopener">Tonic manual</a>]
     </figcaption></figure>
+
 <aside class="notes">
   Traditional neural networks in deep learning typically rely on an analog representation. This is illustrated in this figure, where various analog inputs are integrated and then processed through a non-linear function to output an analog activation value. This basic <em>perceptron</em> principle is at the foundation of all existing neural networks, including convolutional networks that excel in image classification. While effective for static images, this method can be resource-intensive for video processing. An alternative is the use of <em>spiking neurons</em>. Unlike their analog counterparts, spiking neurons process discrete events, which are integrated in the membrane potential. When the membrane potential crosses a theshold, it output an action potential, which can be seen as an event.
 </aside>
@@ -1116,12 +1272,17 @@ This emerging research area, known as NeuroAI or computational neuroscience, is 
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi-et-al-2023-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" alt="[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" loading="lazy" data-zoomable width="80%" /></div>
   </div><figcaption>
       [Grimaldi <em>et al</em>, 2023, <a href="https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/" target="_blank" rel="noopener">Precise Spiking Motifs</a>]
     </figcaption></figure>
+
 <aside class="notes">
   <p><strong>2 MINUTE</strong></p>
 <p>This is illustrated in this <em>animation</em>, which shows how we can transform a list of input events by giving them different weights, and then <em>integrate</em> them into the cell&rsquo;s membrane potential. When the membrane potential crosses the spiking theshold, the neuron outputs a spike.</p>
@@ -1152,12 +1313,17 @@ This emerging research area, known as NeuroAI or computational neuroscience, is 
 
 
 
+
+
+
+
 <figure  id="figure-loihi-2">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://cdn.cnx-software.com/wp-content/uploads/2022/09/Intel-Loihi-2.jpg" alt="Loihi 2" loading="lazy" data-zoomable width="100%" /></div>
   </div><figcaption>
       Loihi 2
     </figcaption></figure>
+
 <aside class="notes">
   <p>The introduction of spiking neural networks marks a <em>paradigm shift</em> in computation, in the same way that event-driven cameras have brought a paradigm shift in image representation. These spiking neural networks have led to the creation of innovative algorithms and the development of neuromorphic chips like Intel’s Loihi 2. This chip departs from traditional computing by utilizing a massively parallel array of event-driven processing units. As with event-driven cameras, this has the dual advantage of being very fast and consuming very little energy. The field continues to advance, with new neuromorphic chips being developed that could potentially replace standard CPUs and GPUs.</p>
 <figure  id="figure-propheseehttpsdocspropheseeaistableconceptshtml">
@@ -1195,12 +1361,17 @@ This emerging research area, known as NeuroAI or computational neuroscience, is 
 
 
 
+
+
+
+
 <figure  id="figure-mainen--sejnowski-1995httpsgithubcomspikeai2022_polychronies-reviewblobmainsrcfigure_2_mainensejnowski1995ipynb">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="http://i.stack.imgur.com/ixnrz.png" alt="[[Mainen &amp; Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" loading="lazy" data-zoomable width="99%" /></div>
   </div><figcaption>
       [<a href="https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb" target="_blank" rel="noopener">Mainen &amp; Sejnowski, 1995</a>]
     </figcaption></figure>
+
 <aside class="notes">
   <strong>2 MINUTE</strong>
 Spiking neural networks show great potential for processing data from event-driven cameras. However, <em>neurophysiology</em> studies reveal some unexpected behaviors, very different from the classical perceptron. I will highlight these differences with three examples. The first example is a 1995 study by Mainen and Sejnowski examined a neuron’s reaction to repeated stimulations.
@@ -1227,12 +1398,17 @@ In contrast, Panel B at the botton shows the neuron’s response to stimulation 
 
 
 
+
+
+
+
 <figure  id="figure-mainen--sejnowski-1995httpsgithubcomspikeai2022_polychronies-reviewblobmainsrcfigure_2_mainensejnowski1995ipynb">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" alt="[[Mainen &amp; Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)]" loading="lazy" data-zoomable width="99%" /></div>
   </div><figcaption>
       [<a href="https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb" target="_blank" rel="noopener">Mainen &amp; Sejnowski, 1995</a>]
     </figcaption></figure>
+
 
 
 <aside class="notes">
@@ -1266,12 +1442,17 @@ In contrast, Panel B at the botton shows the neuron’s response to stimulation 
 
 
 
+
+
+
+
 <figure  id="figure-diesmann-et-al-1999httpsgithubcomspikeai2022_polychronies-reviewblobmainsrcfigure_3_diesmann_et_al_1999py">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" alt="[[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)]" loading="lazy" data-zoomable width="99%" /></div>
   </div><figcaption>
       [<a href="https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py" target="_blank" rel="noopener">Diesmann et al. 1999</a>]
     </figcaption></figure>
+
 <aside class="notes">
   <p><strong>2 MINUTE</strong></p>
 <p>In this second example, I show a simulation reproducing the 1999 paper by Diesmann and colleagues. This <em>theoretical model</em> considers ten interconnected groups, each comprising 100 neurons. Each group is connected to the next one. A key finding is that information transfer across groups depends on the temporal concentration of spikes. Initially, information is too scattered within the first group, leading to a dilution effect in subsequent groups. However, once a threshold is reached, a cluster of synchronous spikes ensures efficient propagation through the network. This non-linear dynamic is characteristic of spiking neural networks, adding a layer of richness, but also a cerain complexity.</p>
@@ -1302,12 +1483,17 @@ In contrast, Panel B at the botton shows the neuron’s response to stimulation 
 
 
 
+
+
+
+
 <figure  id="figure-haimerl-et-al-2019httpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" alt="[[Haimerl et al, 2019](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" loading="lazy" data-zoomable width="99%" /></div>
   </div><figcaption>
       [<a href="https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/" target="_blank" rel="noopener">Haimerl et al, 2019</a>]
     </figcaption></figure>
+
 <aside class="notes">
   <strong>2 MINUTE</strong>
 A third example shows an experiment conducted by Rosa Cossart&rsquo;s group at INMED and recently published by Haimerl and colleagues. They used <em>calcium fluorescence</em> imaging to track neuronal activity in mice. By arranging the neurons in <em>temporal order of activation</em>, it shows a sequential activation of these neurons, a mechanism which resembles the model mentioned earlier. These patterns closely align with the mouse’s motor behavior, as depicted in the accompanying graph. Notably, these activity sequences remained consistent, even when recorded on the <em>next day</em>, underscoring the importance of temporal dynamics in neural computation.
@@ -1355,12 +1541,17 @@ A third example shows an experiment conducted by Rosa Cossart&rsquo;s group at I
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi-et-al-2023-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" alt="[Grimaldi *et al*, 2023, [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)]" loading="lazy" data-zoomable width="80%" /></div>
   </div><figcaption>
       [Grimaldi <em>et al</em>, 2023, <a href="https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/" target="_blank" rel="noopener">Precise Spiking Motifs</a>]
     </figcaption></figure>
+
 <aside class="notes">
   <strong>2 MINUTE</strong>
 Consider an ultra-simplified neural network with three presynaptic neurons and two output neurons, connected by <em>heterogeneous</em> delays. With synchronous inputs, the output neurons activate at different times, failing to reach the threshold for an output spike. However, if the delays align the action potentials to arrive simultaneously, the combined input can trigger an output spike at the <em>same instant</em>, as indicated by the red bar.
@@ -1390,12 +1581,17 @@ Consider an ultra-simplified neural network with three presynaptic neurons and t
 
 
 
+
+
+
+
 <figure  id="figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/LIF.gif" alt="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." loading="lazy" data-zoomable width="80%" /></div>
   </div><figcaption>
       Review on <a href="https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/" target="_blank" rel="noopener">Precise Spiking Motifs</a>.
     </figcaption></figure>
+
 <aside class="notes">
   <p><strong>2 MINUTE</strong></p>
 <p>To better grasp this mechanism, let’s revisit the animation of a spiking neuron. Without delays, action potentials reach the neuron’s cell body immediately, where they’re integrated to potentially trigger a spike.</p>
@@ -1426,12 +1622,17 @@ Consider an ultra-simplified neural network with three presynaptic neurons and t
 
 
 
+
+
+
+
 <figure  id="figure-review-on-precise-spiking-motifshttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/HSD.gif" alt="Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)." loading="lazy" data-zoomable width="80%" /></div>
   </div><figcaption>
       Review on <a href="https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/" target="_blank" rel="noopener">Precise Spiking Motifs</a>.
     </figcaption></figure>
+
 <aside class="notes">
   <strong>2 MINUTE</strong>
 Now using <em>heterogeneous</em> delays, the timing of spike arrival at the cell body varies. Introducing a specific <em>spiking motif</em>, marked by green action potentials, allows these spikes to converge simultaneously due to the delays. This synchronicity results in the neuron generating a new spike.
@@ -1456,6 +1657,8 @@ Now using <em>heterogeneous</em> delays, the timing of spike arrival at the cell
 
 
 
+
+
   
 
 
@@ -1465,6 +1668,7 @@ Now using <em>heterogeneous</em> delays, the timing of spike arrival at the cell
 <video autoplay loop  >
   <source src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/FastMotionDetection_input.mp4" type="video/mp4">
 </video>
+
 <aside class="notes">
   <strong>2 MINUTE</strong>
 In applying this theoretical principle, we developed an algorithm to detect movement in images. We began by simulating event data from natural images set in motion along paths similar to those observed during free visual exploration. The event-driven output exhibits distinct characteristics. For instance, rapid movement results in a higher spike rate. Conversely, edges aligned with the motion direction yield minimal changes, leading to fewer spikes. This phenomenon is known as the aperture problem.
@@ -1494,12 +1698,17 @@ In applying this theoretical principle, we developed an algorithm to detect move
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://raw.githubusercontent.com/laurentperrinet/figures/7f382a8074552de1a6a0c5728c60d48788b5a9f8/animated_neurons/conv_HDSNN.svg" alt="[Grimaldi &amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" loading="lazy" data-zoomable width="100%" /></div>
   </div><figcaption>
       <a href="https://laurentperrinet.github.io/publication/grimaldi-23-bc/" target="_blank" rel="noopener">Grimaldi &amp; LP (2023) Biol Cybernetics</a>
     </figcaption></figure>
+
 <aside class="notes">
   <p><strong>2 MINUTE</strong></p>
 <p>We then used a neural network with a classical architecture, which we enhanced by using an spike representation that accounts for various synaptic delays values. In this figure, the input is on the left grid, indicating spikes of either positive or negative polarity. This input is processed through multiple channels, represented by green and orange, and generate membrane activity. This activity, in turn, led to the production of output spikes, particularly in synaptic connection nuclei with heterogeneous delays. These delays are key to identifying specific spatio-temporal patterns.</p>
@@ -1530,12 +1739,17 @@ In applying this theoretical principle, we developed an algorithm to detect move
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/motion_kernels.png" alt="[Grimaldi &amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" loading="lazy" data-zoomable width="90%" /></div>
   </div><figcaption>
       <a href="https://laurentperrinet.github.io/publication/grimaldi-23-bc/" target="_blank" rel="noopener">Grimaldi &amp; LP (2023) Biol Cybernetics</a>
     </figcaption></figure>
+
 <aside class="notes">
   <strong>2 MINUTE</strong>
 A key advantage of this network is its differentiability, which allows the application of traditional machine learning techniques, such as supervised learning.
@@ -1568,12 +1782,17 @@ vim Such spatio-temporal filtering is observed in neurobiology, but to my knowle
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_raw.svg" alt="[Grimaldi &amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" loading="lazy" data-zoomable width="80%" /></div>
   </div><figcaption>
       <a href="https://laurentperrinet.github.io/publication/grimaldi-23-bc/" target="_blank" rel="noopener">Grimaldi &amp; LP (2023) Biol Cybernetics</a>
     </figcaption></figure>
+
 <aside class="notes">
   <p><strong>2 MINUTE</strong></p>
 <p>We will now study the performance of this network in detecting motion in the flow of events entering the network. When we use all the weights of the convolution kernel, we get a very good performance of the order of 99%, represented by the black dot in the top right-hand corner. Note that in the kernels we&rsquo;ve seen emerge, most of the synaptic weights are close to zero, so we might consider removing some of these weights, as this can be shown to reduce the number of event calculations required.</p>
@@ -1604,12 +1823,17 @@ vim Such spatio-temporal filtering is observed in neurobiology, but to my knowle
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy_shortening.svg" alt="[Grimaldi &amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" loading="lazy" data-zoomable width="80%" /></div>
   </div><figcaption>
       <a href="https://laurentperrinet.github.io/publication/grimaldi-23-bc/" target="_blank" rel="noopener">Grimaldi &amp; LP (2023) Biol Cybernetics</a>
     </figcaption></figure>
+
 <aside class="notes">
   <strong>2 MINUTE</strong>
 This is what we&rsquo;ve done, by first removing the parts of the core corresponding to the longest delays. This &ldquo;shortens&rdquo; the kernel. We quickly observed a degradation in performance, which reached half-saturation when we reduced the number of weights by around 50%. This demonstrates the importance of integrating information that is quite distant and structured over time.
@@ -1639,12 +1863,17 @@ This is what we&rsquo;ve done, by first removing the parts of the core correspon
 
 
 
+
+
+
+
 <figure  id="figure-grimaldi--lp-2023-biol-cyberneticshttpslaurentperrinetgithubiopublicationgrimaldi-23-bc">
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img src="https://laurentperrinet.github.io/publication/grimaldi-23-bc/quant_accuracy.svg" alt="[Grimaldi &amp; LP (2023) Biol Cybernetics](https://laurentperrinet.github.io/publication/grimaldi-23-bc/)" loading="lazy" data-zoomable width="80%" /></div>
   </div><figcaption>
       <a href="https://laurentperrinet.github.io/publication/grimaldi-23-bc/" target="_blank" rel="noopener">Grimaldi &amp; LP (2023) Biol Cybernetics</a>
     </figcaption></figure>
+
 <aside class="notes">
   <p><strong>2 MINUTE</strong></p>
 <p>In a second step, we performed a pruning operation, which consists in progressively removing the weights that are the weakest. This time, performance remains optimal over a wide compression range, and we reach half-saturation when we have removed around 99.8% of the weights. This means that the network is able to maintain very good performance, even when only one weight out of 600 has been kept, and therefore, with a computation time increased by a factor of 600. This property, which we didn&rsquo;t expect, seems promising for creating machine learning algorithms that are less energy-hungry.</p>
@@ -1662,13 +1891,13 @@ This is what we&rsquo;ve done, by first removing the parts of the core correspon
 
 
 
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.js" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/highlight/highlight.min.js" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/search/search.min.js" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/math/math.min.js" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+  
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/plugin/search/search.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/plugin/math/math.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
 
   
   
@@ -1678,7 +1907,9 @@ This is what we&rsquo;ve done, by first removing the parts of the core correspon
   
 
   
+  
 
+  
   
   <script src="/js/wowchemy-slides.js"></script>
 

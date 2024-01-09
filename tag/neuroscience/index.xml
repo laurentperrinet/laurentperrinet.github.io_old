@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/neuroscience/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     <description>neuroscience</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sat, 16 Dec 2023 20:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sat, 16 Dec 2023 20:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>neuroscience</title>
@@ -67,6 +67,10 @@
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-rétinotopie-limage-du-tableau-les-ambassadeurs-de-hans-holbein-le-jeune-peut-être-représentée-sur-une-grille-régulière-représentée-par-des-lignes-verticales-rouges-et-horizontales-bleues-la-rétinotopie-transforme-radicalement-cette-grille-et-en-particulier-la-zone-représentant-la-fovéa-en-gris-occupe-environ-la-moitié-de-lespace-dans-lespace-rétinien-appliquée-à-limage-originale-du-portrait-limage-est-fortement-déformée-et-représente-plus-finalement-les-parties-situées-sous-laxe-de-vision-ici-la-main&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Rétinotopie.* L’image du tableau “Les Ambassadeurs” de Hans Holbein le Jeune peut être représentée sur une grille régulière représentée par des lignes verticales (rouges) et horizontales (bleues). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l’espace dans l’espace rétinien. Appliquée à l’image originale du portrait, l’image est fortement déformée et représente plus finalement les parties situées sous l’axe de vision (ici la main).&#34; srcset=&#34;
@@ -80,6 +84,7 @@
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       &lt;em&gt;Rétinotopie.&lt;/em&gt; L’image du tableau “Les Ambassadeurs” de Hans Holbein le Jeune peut être représentée sur une grille régulière représentée par des lignes verticales (rouges) et horizontales (bleues). La rétinotopie transforme radicalement cette grille, et en particulier la zone représentant la fovéa (en gris) occupe environ la moitié de l’espace dans l’espace rétinien. Appliquée à l’image originale du portrait, l’image est fortement déformée et représente plus finalement les parties situées sous l’axe de vision (ici la main).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;p&gt;Publication d&amp;rsquo;un article écrit pour le catalogue de l&amp;rsquo;exposition &amp;ldquo;Vasarely, d&amp;rsquo;un art programmatique au numérique&amp;rdquo; qui a eu lieu du 17 juin au 15 octobre 2023 à l&amp;rsquo;Espace Culturel départemental Lympia de Nice.&lt;/p&gt;
 &lt;p&gt;Le catalogue est édité par &lt;a href=&#34;https://www.decitre.fr/livres/vasarely-9788836649587.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Décitre&lt;/a&gt; - (ISBN: 978-88-366-4958-7).&lt;/p&gt;
 &lt;p&gt;Pour plus d&amp;rsquo;informations sur l&amp;rsquo;exposition, suivre le lien : &lt;a href=&#34;https://www.departement06.fr/culture/vasarely-d-un-art-programmatique-au-numerique-13667.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.departement06.fr/culture/vasarely-d-un-art-programmatique-au-numerique-13667.html&lt;/a&gt;&lt;/p&gt;
@@ -236,6 +241,10 @@
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-random-points--a&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://a5huynh.github.io/img/2019/rng-example.png&#34; alt=&#34;Random points  (A).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;49%&#34; /&gt;&lt;/div&gt;
@@ -255,12 +264,18 @@
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-random-points--b&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://a5huynh.github.io/img/2019/poisson-disk-example.png&#34; alt=&#34;Random points  (B).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;49%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Random points  (B).
-    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+ --&gt;
 &lt;img src=&#34;https://a5huynh.github.io/img/2019/rng-example.png&#34; width=&#34;70%&#34; &gt;
 &lt;img src=&#34;https://a5huynh.github.io/img/2019/poisson-disk-example.png&#34; width=&#34;70%&#34; &gt;
 &lt;p&gt;&lt;a href=&#34;https://a5huynh.github.io/posts/2019/poisson-disk-sampling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Huynh, generating Poisson disk noise&lt;/a&gt;&lt;/p&gt;
@@ -294,12 +309,17 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-instabilité-etienne-reyhttpslaurentperrinetgithubiopost2018-09-09_artorama&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/post/2018-09-09_artorama/featured.png&#34; alt=&#34;[Instabilité, Etienne Rey.](https://laurentperrinet.github.io/post/2018-09-09_artorama/)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://laurentperrinet.github.io/post/2018-09-09_artorama/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instabilité, Etienne Rey.&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;
@@ -330,12 +350,17 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-cydonia-mensae-1976-viking-orbiter-imagehttpsfrwikipediaorgwikicydonia_mensae&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg&#34; alt=&#34;[Cydonia Mensae (1976) *Viking Orbiter image*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://fr.wikipedia.org/wiki/Cydonia_Mensae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (1976) &lt;em&gt;Viking Orbiter image&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;going further &amp;hellip;&lt;/li&gt;
@@ -358,12 +383,17 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-cydonia-mensae-2007-mars-global-surveyorhttpsfrwikipediaorgwikicydonia_mensae&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png&#34; alt=&#34;[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://fr.wikipedia.org/wiki/Cydonia_Mensae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;when going to the same place a few years later &amp;hellip;&lt;/li&gt;
@@ -386,12 +416,17 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-cydonia-mensae-2007-mars-global-surveyorhttpsfrwikipediaorgwikicydonia_mensae&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png&#34; alt=&#34;[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://fr.wikipedia.org/wiki/Cydonia_Mensae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;the face was gone &amp;hellip;&lt;/li&gt;
@@ -411,6 +446,8 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
   
 
 
@@ -420,6 +457,7 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 &lt;video controls  &gt;
   &lt;source src=&#34;https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2020-03_video-abstract/Bet_eyeMvt/eyeMvt.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;to test this in the lab, we analyzed the response of observers to a sequences of left / right moving dots&lt;/li&gt;
@@ -429,15 +467,15 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;sequence-prediction-1&#34;&gt;Sequence prediction&lt;/h1&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-A: 👍👍👍👍🤘👍👍👍👍👍🤘👍👍👍👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-B: 👍🤘🤘🤘👍👍👍🤘🤘👍🤘👍🤘👍👍🤘👍🤘👍👍👍🤘👍🤘👍🤘🤘🤘👍🤘 ?
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-C: 👍🤘🤘🤘👍🤘👍👍🤘🤘🤘🤘🤘🤘👍👍🤘👍🤘🤘🤘👍🤘👍🤘🤘🤘🤘🤘👍 ?
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
-&lt;/code&gt;&lt;/pre&gt;&lt;aside class=&#34;notes&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A: 👍👍👍👍🤘👍👍👍👍👍🤘👍👍👍👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;B: 👍🤘🤘🤘👍👍👍🤘🤘👍🤘👍🤘👍👍🤘👍🤘👍👍👍🤘👍🤘👍🤘🤘🤘👍🤘 ?
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C: 👍🤘🤘🤘👍🤘👍👍🤘🤘🤘🤘🤘🤘👍👍🤘👍🤘🤘🤘👍🤘👍🤘🤘🤘🤘🤘👍 ?
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;to simplify the problem, let&amp;rsquo;s show these sequences as the sequence of these 2 emojis&lt;/p&gt;
@@ -479,12 +517,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-pasturel-et-al-2020httpslaurentperrinetgithubiopublicationpasturel-montagnini-perrinet-20&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/synthesis.png&#34; alt=&#34;([Pasturel *et al*, 2020](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       (&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pasturel &lt;em&gt;et al&lt;/em&gt;, 2020&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;
@@ -521,12 +564,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-nash-equilibrium-rock-paper-scissorshttpsenwikipediaorgwikirock_paper_scissors&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg&#34; alt=&#34;Nash equilibrium ([Rock paper scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Nash equilibrium (&lt;a href=&#34;https://en.wikipedia.org/wiki/Rock_paper_scissors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rock paper scissors&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
@@ -562,12 +610,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-prisoners-dilemma-salem-marafihttpwwwsalemmaraficombusinessprisoners-dilemma&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://www.salemmarafi.com/wp-content/uploads/2011/10/prisoners_dilemma.jpg&#34; alt=&#34;Prisoner’s Dilemma ([Salem Marafi](http://www.salemmarafi.com/business/prisoners-dilemma/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;60%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Prisoner’s Dilemma (&lt;a href=&#34;http://www.salemmarafi.com/business/prisoners-dilemma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Salem Marafi&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 
 
 &lt;aside class=&#34;notes&#34;&gt;
@@ -593,12 +646,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-visual-epistemic-uncertainty-hugo-ladrethttpstheconversationcomle-jeu-du-cerveau-et-du-hasard-159388&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png&#34; alt=&#34;Visual epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Visual epistemic uncertainty (&lt;a href=&#34;https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Ladret&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;in the case of images, a local patch may have the same most likely orientation, yet with different bandwidth (textures)&lt;/li&gt;
@@ -623,12 +681,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-visual-epistemic-uncertainty-hugo-ladrethttpslaurentperrinetgithubiopublicationladret-23&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/ladret-23/featured_hubbf63d8d7d25b21f139c2f10354080fc_466086_720x2500_fit_q75_h2_lanczos_3.webp&#34; alt=&#34;Visual epistemic uncertainty ([Hugo Ladret](https://laurentperrinet.github.io/publication/ladret-23/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Visual epistemic uncertainty (&lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Ladret&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -664,12 +727,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-aleatoric-uncertainty-pasturel-et-al-2020httpslaurentperrinetgithubiopublicationpasturel-montagnini-perrinet-20&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/synthesis.png&#34; alt=&#34;Aleatoric uncertainty ([Pasturel *et al*, 2020](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Aleatoric uncertainty (&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pasturel &lt;em&gt;et al&lt;/em&gt;, 2020&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;The brain uses predictive coding, for instance for sequence learning&lt;/li&gt;
@@ -692,12 +760,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-epistemic-uncertainty-hugo-ladrethttpstheconversationcomle-jeu-du-cerveau-et-du-hasard-159388&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png&#34; alt=&#34;Epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Epistemic uncertainty (&lt;a href=&#34;https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Ladret&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;For this, it represents explictly uncertainty (epistemic noise)&lt;/li&gt;

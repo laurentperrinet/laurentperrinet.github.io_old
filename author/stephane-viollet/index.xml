@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/author/stephane-viollet/</link>
       <atom:link href="https://laurentperrinet.github.io/author/stephane-viollet/index.xml" rel="self" type="application/rss+xml" />
     <description>Stéphane Viollet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/stephane-viollet/avatar_hubd61016f0516c23f97ee4a475538d118_14706_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Stéphane Viollet</title>
@@ -18,6 +18,10 @@
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/grant/anr-anr/</guid>
       <description>&lt;!-- youtube-dl https://www.youtube.com/watch\?v\=36CTDiJjQ8I --&gt;
+
+
+
+
 
 
 
@@ -45,6 +49,7 @@
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       An Unmanned aerial vehicle (UAV) flying autonomously in a cluttered environment would require the agility to navigate rapidly by detecting as fast as possible potential obstacles, as represented here by the collision zone, given a cruising speed, associated to slow or fast latencies (respectively red and blue shaded areas). This project will provide with a novel neuromorphic architecture designed to meet these requirements thanks to an event-based, two-way processing.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;h2 id=&#34;fiche-didentité&#34;&gt;Fiche d&amp;rsquo;identité&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Acronyme : AgileNeuRobot (ANR-20-CE23-0021)&lt;/li&gt;
@@ -56,6 +61,10 @@
 &lt;li&gt;Budget total: 435 k€&lt;/li&gt;
 &lt;li&gt;Responsables Scientifiques : Stéphane Viollet (BioRobotique, Inst Sciences Mouvement), Ryad Benosman (Inst de la Vision ) | Laurent Perrinet (NeOpTo, Inst Neurosciences de la Timone, coordinateur)&lt;/li&gt;
 &lt;/ul&gt;
+
+
+
+
 
 
 
@@ -83,8 +92,13 @@
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       A miniature, event-based ATIS sensor. Contrary to a classical frame-based camera for which a full dense image representation is given at discrete, regularly spaced timings, the event-based camera provides with events at the micro-second resolution. These are sparse as they represent luminance increments or decrements (ON and OFF events, respectively).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;h2 id=&#34;résumé&#34;&gt;Résumé&lt;/h2&gt;
 &lt;p&gt;Des robots aériens autonomes seraient des outils essentiels dans les opérations de recherche et de sauvetage. Toutefois, voler dans des environnements complexes exige un haut niveau d&amp;rsquo;agilité, ce qui implique par exemple la capacité de déclencher des manœuvres agressives pour esquiver les obstacles: Les caméras et algorithmes d&amp;rsquo;intelligence artificielle conventionnels n&amp;rsquo;ont pas ces capacités. Dans ce projet, nous proposerons une solution associant de manière bio-inspirée une dynamique rapide de détection visuelle et de stabilisation. Nous intégrerons ces différents aspects dans un système neuromorphique événementiel de bout en bout. La clé de cette approche est l&amp;rsquo;optimisation des délais du système par traitement prédictif. Ceci permettra de voler indépendamment, sans aucune intervention de l&amp;rsquo;utilisateur. Notre objectif à plus long terme est de satisfaire ces besoins avec un minimum d&amp;rsquo;énergie et de fournir des solutions novatrices aux défis des algorithmes traditionnels d&amp;rsquo;IA.&lt;/p&gt;
+
+
+
+
 
 
 
@@ -112,6 +126,7 @@
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Our system is divided into 3 units to process visual inputs (ATIS) until the rotors: the &lt;em&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/em&gt;amera, &lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;/em&gt;rocessor and &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt;otor units. Each represents respectively multi-channel feature maps ($C_i$), an estimate of the depth-of-field ($P$) and a navigation map, for instance time-of-contacts on a polar map ($M$). Compared to a discrete-time pipeline, we will design an integrated, back-to-back event-driven system based on a fast, two-way processing between the &lt;em&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;/em&gt; units. Event-driven, feed-forward and feed-back communications are denoted respectively in yellow, black and red. Notice the attention module $A$ from $P$ to $C$ and the feed-back of navigation information from $M$ and the IMU to $P$.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Autonomous aerial robots would be essential tools in search and rescue operations. But flying in complex environments requires a high level of agility, which implies the ability to initiate aggressive maneuvers to avoid obstacles: Conventional AI cameras and algorithms do not have these capabilities. In this project, we propose a solution that will integrate bio-inspired rapid visual detection and stabilization dynamics into an end-to-end event based neuromorphic system. The key to this approach will be the optimization of delays through predictive processing. This will allow these robots to fly independently, without any user intervention. Our longer-term goal is to meet the requirements with very little power and provide innovative solutions to the challenges of traditional AI algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;

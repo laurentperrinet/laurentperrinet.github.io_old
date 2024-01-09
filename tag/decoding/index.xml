@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/decoding/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/decoding/index.xml" rel="self" type="application/rss+xml" />
     <description>decoding</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>decoding</title>
@@ -55,6 +55,8 @@
 &lt;/li&gt;
 &lt;li&gt;preprint of a former revision: &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;This neurophysiological work accompanies a similar study in theoretical neuroscience : 
+
+
 
 
 
@@ -148,6 +150,10 @@ Ce simple scénario illustre un problème quotidien auquel nous sommes confront�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-figure-1-les-images-naturelles-ici-une-vue-des-calanques-de-marseille-sont-décomposées-en-éléments-orientés-en-bas-à-gauche-par-des-réseaux-de-neurones-dont-les-interactions-sont-contraintes-par-lincertitude-locale-qui-décrit-des-parties-du-champ-visuel&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;#39;incertitude locale qui décrit des parties du champ visuel.&#34; srcset=&#34;
@@ -161,8 +167,13 @@ Ce simple scénario illustre un problème quotidien auquel nous sommes confront�
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;rsquo;incertitude locale qui décrit des parties du champ visuel.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Cependant, toutes les pièces du puzzle ne sont pas coupées de la même manière, et certaines ont des bords plus variables que d&amp;rsquo;autres. C&amp;rsquo;est un problème pour la toute première zone de notre cerveau qui commence à donner un sens à ces &amp;ldquo;pièces de puzzle&amp;rdquo; visuelles, le cortex visuel primaire. Jusqu&amp;rsquo;à récemment, notre compréhension de la manière dont le cerveau traite ces données visuelles complexes reposait en grande partie sur l&amp;rsquo;observation du comportement humain [1,2]. Ces dernières années, cependant, les chercheurs ont commencé à sonder le cortex visuel primaire des macaques et ont découvert que cette zone du cerveau présente des comportements complexes qui reflètent les processus de prise de décision complexes que nous entreprenons en tant qu&amp;rsquo;êtres humains [3].
 En effectuant des enregistrements dans le cortex visuel primaire, la zone responsable du traitement de l&amp;rsquo;information visuelle dans le cerveau, les chercheurs ont découvert un phénomène remarquable : les neurones de notre cortex visuel primaire ont des réponses distinctes à la complexité des images. Deux types principaux de neurones ont été identifiés sur la base de leurs réponses : certains sont relativement indifférents à l&amp;rsquo;augmentation de la variance, tandis que d&amp;rsquo;autres montrent une décroissance rapide de leur capacité d&amp;rsquo;encodage face à cette variance (non linéaires).
+
+
+
+
 
 
 
@@ -190,6 +201,7 @@ En effectuant des enregistrements dans le cortex visuel primaire, la zone respon
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Figure 2 La variation du code des neurones face a une augmentation d&amp;rsquo;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;rsquo;incertitude.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Globalement, la récurrence peut expliquer comment différents neurones encodent (ou non) la variance de leur entrée. Ces résultats vont dans le sens d&amp;rsquo;une compréhension plus complète du cerveau, qui ne se contente pas d&amp;rsquo;encoder des caractéristiques moyennes, comme le suggéraient les modèles précédents, mais prend également en compte la complexité des entrées, grâce à la connectivité entre les neurones.
 Il s&amp;rsquo;agit d&amp;rsquo;une étape cruciale pour comprendre comment notre cortex gère les &amp;ldquo;puzzles visuels&amp;rdquo; que nous rencontrons tous les jours, permettant au cerveau d&amp;rsquo;effectuer des calculs complexes sur des distributions probabilistes - un modèle qui gagne en popularité dans les neurosciences [5].&lt;/p&gt;
 &lt;h3 id=&#34;références&#34;&gt;Références&lt;/h3&gt;
@@ -218,6 +230,8 @@ inference based on predictive coding. Connection Science, 28(4),
       <guid>https://laurentperrinet.github.io/publication/ladret-23-cosyne/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This poster is presented in the following paper (published in Nature Comm Biology): 
+
+
 
 
 
@@ -311,6 +325,8 @@ inference based on predictive coding. Connection Science, 28(4),
       <guid>https://laurentperrinet.github.io/publication/ladret-21-crs/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This poster is presented in the following paper (published in Nature Comm Biology): 
+
+
 
 
 

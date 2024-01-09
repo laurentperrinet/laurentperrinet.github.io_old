@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/psychophysics/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/psychophysics/index.xml" rel="self" type="application/rss+xml" />
     <description>psychophysics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>psychophysics</title>
@@ -26,6 +26,8 @@
 
 
 
+
+
   
 
 
@@ -35,12 +37,15 @@
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/Jeremie-etal-Vision_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;ul&gt;
 &lt;li&gt;read the paper &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; or in &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full code&lt;/a&gt; with extensive &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary Material&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt; and code for  &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;join the &lt;a href=&#34;https://www.zotero.org/groups/4560566/ultrafastcat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero group&lt;/a&gt; to add and discuss more items&lt;/li&gt;
 &lt;li&gt;this is a follow-up of: 
+
+
 
 
 
@@ -116,6 +121,8 @@
 
 &lt;/li&gt;
 &lt;li&gt;see an extension perspective to visual search in: 
+
+
 
 
 
@@ -257,6 +264,10 @@
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-random-points--a&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://a5huynh.github.io/img/2019/rng-example.png&#34; alt=&#34;Random points  (A).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;49%&#34; /&gt;&lt;/div&gt;
@@ -276,12 +287,18 @@
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-random-points--b&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://a5huynh.github.io/img/2019/poisson-disk-example.png&#34; alt=&#34;Random points  (B).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;49%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Random points  (B).
-    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+ --&gt;
 &lt;img src=&#34;https://a5huynh.github.io/img/2019/rng-example.png&#34; width=&#34;70%&#34; &gt;
 &lt;img src=&#34;https://a5huynh.github.io/img/2019/poisson-disk-example.png&#34; width=&#34;70%&#34; &gt;
 &lt;p&gt;&lt;a href=&#34;https://a5huynh.github.io/posts/2019/poisson-disk-sampling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Huynh, generating Poisson disk noise&lt;/a&gt;&lt;/p&gt;
@@ -315,12 +332,17 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-instabilité-etienne-reyhttpslaurentperrinetgithubiopost2018-09-09_artorama&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/post/2018-09-09_artorama/featured.png&#34; alt=&#34;[Instabilité, Etienne Rey.](https://laurentperrinet.github.io/post/2018-09-09_artorama/)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://laurentperrinet.github.io/post/2018-09-09_artorama/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instabilité, Etienne Rey.&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;
@@ -351,12 +373,17 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-cydonia-mensae-1976-viking-orbiter-imagehttpsfrwikipediaorgwikicydonia_mensae&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Face-on-mars.jpg&#34; alt=&#34;[Cydonia Mensae (1976) *Viking Orbiter image*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://fr.wikipedia.org/wiki/Cydonia_Mensae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (1976) &lt;em&gt;Viking Orbiter image&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;going further &amp;hellip;&lt;/li&gt;
@@ -379,12 +406,17 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-cydonia-mensae-2007-mars-global-surveyorhttpsfrwikipediaorgwikicydonia_mensae&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_low.png&#34; alt=&#34;[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://fr.wikipedia.org/wiki/Cydonia_Mensae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;when going to the same place a few years later &amp;hellip;&lt;/li&gt;
@@ -407,12 +439,17 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-cydonia-mensae-2007-mars-global-surveyorhttpsfrwikipediaorgwikicydonia_mensae&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/Viking_moc_face_20m_high.png&#34; alt=&#34;[Cydonia Mensae (2007) *Mars Global Surveyor*](https://fr.wikipedia.org/wiki/Cydonia_Mensae)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;a href=&#34;https://fr.wikipedia.org/wiki/Cydonia_Mensae&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cydonia Mensae (2007) &lt;em&gt;Mars Global Surveyor&lt;/em&gt;&lt;/a&gt;
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;the face was gone &amp;hellip;&lt;/li&gt;
@@ -432,6 +469,8 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 
 
 
+
+
   
 
 
@@ -441,6 +480,7 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 &lt;video controls  &gt;
   &lt;source src=&#34;https://github.com/chloepasturel/AnticipatorySPEM/raw/master/2020-03_video-abstract/Bet_eyeMvt/eyeMvt.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;to test this in the lab, we analyzed the response of observers to a sequences of left / right moving dots&lt;/li&gt;
@@ -450,15 +490,15 @@ Only one of these panels shows a random distribution of dots | Source: Bully for
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;sequence-prediction-1&#34;&gt;Sequence prediction&lt;/h1&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-A: 👍👍👍👍🤘👍👍👍👍👍🤘👍👍👍👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-B: 👍🤘🤘🤘👍👍👍🤘🤘👍🤘👍🤘👍👍🤘👍🤘👍👍👍🤘👍🤘👍🤘🤘🤘👍🤘 ?
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-C: 👍🤘🤘🤘👍🤘👍👍🤘🤘🤘🤘🤘🤘👍👍🤘👍🤘🤘🤘👍🤘👍🤘🤘🤘🤘🤘👍 ?
-&lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;
-D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
-&lt;/code&gt;&lt;/pre&gt;&lt;aside class=&#34;notes&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A: 👍👍👍👍🤘👍👍👍👍👍🤘👍👍👍👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;B: 👍🤘🤘🤘👍👍👍🤘🤘👍🤘👍🤘👍👍🤘👍🤘👍👍👍🤘👍🤘👍🤘🤘🤘👍🤘 ?
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;C: 👍🤘🤘🤘👍🤘👍👍🤘🤘🤘🤘🤘🤘👍👍🤘👍🤘🤘🤘👍🤘👍🤘🤘🤘🤘🤘👍 ?
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍👍👍🤘👍🤘👍👍👍👍👍🤘 ?
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;to simplify the problem, let&amp;rsquo;s show these sequences as the sequence of these 2 emojis&lt;/p&gt;
@@ -500,12 +540,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-pasturel-et-al-2020httpslaurentperrinetgithubiopublicationpasturel-montagnini-perrinet-20&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/synthesis.png&#34; alt=&#34;([Pasturel *et al*, 2020](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       (&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pasturel &lt;em&gt;et al&lt;/em&gt;, 2020&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;
@@ -542,12 +587,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-nash-equilibrium-rock-paper-scissorshttpsenwikipediaorgwikirock_paper_scissors&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/6/67/Rock-paper-scissors.svg&#34; alt=&#34;Nash equilibrium ([Rock paper scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Nash equilibrium (&lt;a href=&#34;https://en.wikipedia.org/wiki/Rock_paper_scissors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rock paper scissors&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
@@ -583,12 +633,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-prisoners-dilemma-salem-marafihttpwwwsalemmaraficombusinessprisoners-dilemma&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://www.salemmarafi.com/wp-content/uploads/2011/10/prisoners_dilemma.jpg&#34; alt=&#34;Prisoner’s Dilemma ([Salem Marafi](http://www.salemmarafi.com/business/prisoners-dilemma/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;60%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Prisoner’s Dilemma (&lt;a href=&#34;http://www.salemmarafi.com/business/prisoners-dilemma/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Salem Marafi&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 
 
 &lt;aside class=&#34;notes&#34;&gt;
@@ -614,12 +669,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-visual-epistemic-uncertainty-hugo-ladrethttpstheconversationcomle-jeu-du-cerveau-et-du-hasard-159388&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png&#34; alt=&#34;Visual epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Visual epistemic uncertainty (&lt;a href=&#34;https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Ladret&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;in the case of images, a local patch may have the same most likely orientation, yet with different bandwidth (textures)&lt;/li&gt;
@@ -644,12 +704,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-visual-epistemic-uncertainty-hugo-ladrethttpslaurentperrinetgithubiopublicationladret-23&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/ladret-23/featured_hubbf63d8d7d25b21f139c2f10354080fc_466086_720x2500_fit_q75_h2_lanczos_3.webp&#34; alt=&#34;Visual epistemic uncertainty ([Hugo Ladret](https://laurentperrinet.github.io/publication/ladret-23/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Visual epistemic uncertainty (&lt;a href=&#34;https://laurentperrinet.github.io/publication/ladret-23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Ladret&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -685,12 +750,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-aleatoric-uncertainty-pasturel-et-al-2020httpslaurentperrinetgithubiopublicationpasturel-montagnini-perrinet-20&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/synthesis.png&#34; alt=&#34;Aleatoric uncertainty ([Pasturel *et al*, 2020](https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Aleatoric uncertainty (&lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-montagnini-perrinet-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pasturel &lt;em&gt;et al&lt;/em&gt;, 2020&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;The brain uses predictive coding, for instance for sequence learning&lt;/li&gt;
@@ -713,12 +783,17 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-epistemic-uncertainty-hugo-ladrethttpstheconversationcomle-jeu-du-cerveau-et-du-hasard-159388&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://images.theconversation.com/files/407867/original/file-20210623-17-ai1gc3.png&#34; alt=&#34;Epistemic uncertainty ([Hugo Ladret](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Epistemic uncertainty (&lt;a href=&#34;https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Ladret&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;For this, it represents explictly uncertainty (epistemic noise)&lt;/li&gt;
@@ -777,11 +852,20 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 	
 	
 	
+	
+	
+	
+	
 	&lt;figure  &gt;
 	  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
 	    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/khoei-masson-perrinet-17/header.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-	  &lt;/div&gt;&lt;/figure&gt;	&lt;/th&gt;
+	  &lt;/div&gt;&lt;/figure&gt;
+	&lt;/th&gt;
 	&lt;th width=&#34;20%&#34;&gt;
+	
+	
+	
+	
 	
 	
 	
@@ -800,6 +884,7 @@ D: 🤘🤘🤘🤘🤘👍🤘🤘🤘👍🤘🤘🤘🤘👍🤘👍👍👍�
 	  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
 	    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
 	  &lt;/div&gt;&lt;/figure&gt;
+
 	&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -811,6 +896,10 @@ __[2022-11-21] Alex Reynaud&#39;s lab meeting__
 &lt;!-- ---
 
 |
+
+
+
+
 
 
 
@@ -841,10 +930,16 @@ __[2022-11-21] Alex Reynaud&#39;s lab meeting__
 
 
 
+
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/coverart.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;29%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;|
+  &lt;/div&gt;&lt;/figure&gt;
+|
 
 __[2022-11-21] Alex Reynaud&#39;s lab meeting__
 https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
@@ -866,13 +961,22 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-ultra-rapid-visual-processing-see-reviewhttpslaurentperrinetgithubiopublicationgrimaldi-22-polychronies&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../publication/grimaldi-22-polychronies/featured.jpg&#34; alt=&#34;Ultra-rapid visual processing ([see review](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Ultra-rapid visual processing (&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see review&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -893,7 +997,12 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
   &lt;/div&gt;&lt;figcaption&gt;
       Compensating visual delays (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet, Adams &amp;amp; Friston 2014&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -914,8 +1023,11 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
   &lt;/div&gt;&lt;figcaption&gt;
       Compensating visual delays (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet Adams &amp;amp; Friston, 2014&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
 &lt;h2 id=&#34;travelling-waves&#34;&gt;Travelling waves?&lt;/h2&gt;
+
+
 
 
 
@@ -934,7 +1046,10 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/line_motion.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;hr&gt;
+
+
 
 
 
@@ -953,7 +1068,12 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/2022-01-12_NeuroCercle/figures/phi_motion.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -974,9 +1094,12 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
   &lt;/div&gt;&lt;figcaption&gt;
       Suppressive travelling waves (&lt;a href=&#34;https://laurentperrinet.github.io/publication/chemla-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chemla &lt;em&gt;et al&lt;/em&gt;, 2019&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
 &lt;h2 id=&#34;predictive-coding&#34;&gt;Predictive coding&lt;/h2&gt;
 &lt;hr&gt;
+
+
 
 
 
@@ -995,8 +1118,11 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_aperture.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;!--
 ---
+
+
 
 
 
@@ -1015,8 +1141,11 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_box.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt; --&gt;
+&lt;/video&gt;
+ --&gt;
 &lt;hr&gt;
+
+
 
 
 
@@ -1035,7 +1164,12 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/aperture_cube.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1056,7 +1190,12 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
   &lt;/div&gt;&lt;figcaption&gt;
       Motion-based prediction (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet &lt;em&gt;et al&lt;/em&gt;, 2012&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1077,7 +1216,10 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
   &lt;/div&gt;&lt;figcaption&gt;
       Motion-based prediction (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet &lt;em&gt;et al&lt;/em&gt;, 2012&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;!-- ---
+
+
 
 
 
@@ -1098,7 +1240,10 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line-nopred_particles.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
+
 ---
+
+
 
 
 
@@ -1118,8 +1263,11 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
  --&gt;
 &lt;hr&gt;
+
+
 
 
 
@@ -1138,10 +1286,13 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/line_particles.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;p&gt;Motion-based prediction (&lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-12-pred/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perrinet &lt;em&gt;et al&lt;/em&gt;, 2012&lt;/a&gt;).&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;flash-lag-effect&#34;&gt;Flash-lag effect&lt;/h2&gt;
 &lt;hr&gt;
+
+
 
 
 
@@ -1160,7 +1311,12 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1181,7 +1337,12 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
   &lt;/div&gt;&lt;figcaption&gt;
       Flash-lag effect (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1202,8 +1363,13 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
   &lt;/div&gt;&lt;figcaption&gt;
       Diagonal markov model (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;!--
 ---
+
+
+
+
 
 
 
@@ -1226,8 +1392,13 @@ https://laurentperrinet.github.io/slides/2022-11-21_flash-lag-effect
       Diagonal markov model (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
 
+
 https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10.1371/journal.pcbi.1005068.g002
 ---
+
+
+
+
 
 
 
@@ -1250,7 +1421,12 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10
       Diagonal markov
     &lt;/figcaption&gt;&lt;/figure&gt;
 
+
 ---
+
+
+
+
 
 
 
@@ -1273,7 +1449,12 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10
       Diagonal markov
     &lt;/figcaption&gt;&lt;/figure&gt;
 
+
 ---
+
+
+
+
 
 
 
@@ -1294,9 +1475,12 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_pull.jpg&#34; alt=&#34;Diagonal markov (pull)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Diagonal markov (pull)
-    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+ --&gt;
 &lt;!--
 ---
+
+
 
 
 
@@ -1319,7 +1503,10 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10
 &lt;/video&gt;
 
 
+
 ---
+
+
 
 
 
@@ -1342,7 +1529,10 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10
 &lt;/video&gt;
 
 
+
 ---
+
+
 
 
 
@@ -1364,7 +1554,10 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10
   &lt;source src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_flash_spatial_readout.mp4?raw=true&#34; type=&#34;video/mp4?raw=true&#34;&gt;
 &lt;/video&gt;
 
+
 ---
+
+
 
 
 
@@ -1384,8 +1577,11 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10
 
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/blob/master/figures/MBP_dot_spatial_readout.mp4?raw=true&#34; type=&#34;video/mp4?raw=true&#34;&gt;
-&lt;/video&gt; --&gt;
+&lt;/video&gt;
+ --&gt;
 &lt;!-- ---
+
+
 
 
 
@@ -1405,6 +1601,7 @@ https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;id=10
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/PBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).
 
@@ -1419,6 +1616,8 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 
 
+
+
   
 
 
@@ -1429,9 +1628,12 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
+
 Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)). --&gt;
 &lt;hr&gt;
 &lt;p&gt;
+
+
 
 
 
@@ -1457,6 +1659,9 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 
 
+
+
+
   
 
 
@@ -1465,9 +1670,12 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/p&gt;
+&lt;/video&gt;
+&lt;/p&gt;
 &lt;p&gt;Flash-lag effect: MBP (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).&lt;/p&gt;
 &lt;hr&gt;
+
+
 
 
 
@@ -1486,7 +1694,12 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2016-07-07_EDP-proba/figures/positional-delay.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1507,10 +1720,15 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
   &lt;/div&gt;&lt;figcaption&gt;
       Flash-lag effect (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;!--
 
 
 ---
+
+
+
+
 
 
 
@@ -1532,6 +1750,7 @@ Flash-lag effect: MBP ([Khoei *et al*, 2017](https://laurentperrinet.github.io/p
   &lt;/div&gt;&lt;figcaption&gt;
       Qauntitative result
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 
 
 https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE.jpg
@@ -1571,13 +1790,22 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-probability-distributions-khoei-et-al-2017httpslaurentperrinetgithubiopublicationkhoei-masson-perrinet-17&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_histogram.jpg&#34; alt=&#34;Probability distributions ([Khoei *et al*, 2017](https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/)).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Probability distributions (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1598,7 +1826,12 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
   &lt;/div&gt;&lt;figcaption&gt;
       Probability distributions (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1619,7 +1852,12 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
   &lt;/div&gt;&lt;figcaption&gt;
       Motion reversal (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1640,7 +1878,10 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
   &lt;/div&gt;&lt;figcaption&gt;
       Motion reversal (smoothed) (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
 
 
 
@@ -1659,7 +1900,12 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1680,7 +1926,12 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
   &lt;/div&gt;&lt;figcaption&gt;
       Probability distributions (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1701,8 +1952,13 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
   &lt;/div&gt;&lt;figcaption&gt;
       Limit cycles (&lt;a href=&#34;https://laurentperrinet.github.io/publication/khoei-masson-perrinet-17/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khoei &lt;em&gt;et al&lt;/em&gt;, 2017&lt;/a&gt;).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;!--
 ---
+
+
+
+
 
 
 
@@ -1723,8 +1979,13 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/Khoei_2017_PLoSCB/raw/master/figures/FLE_DiagonalMarkov_neural.jpg&#34; alt=&#34;Diagonal neural&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;95%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Diagonal neural
-    &lt;/figcaption&gt;&lt;/figure&gt; --&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+ --&gt;
 &lt;hr&gt;
+
+
+
+
 
 
 
@@ -1745,6 +2006,7 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
   &lt;/div&gt;&lt;figcaption&gt;
       Application to the &lt;a href=&#34;https://eyewiki.aao.org/Pulfrich_Phenomenon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pulfrich phenomenon&lt;/a&gt;?
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;Ask info @ &lt;a href=&#34;mailto:laurent.perrinet@univ-amu.fr&#34;&gt;laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/p&gt;
@@ -1759,6 +2021,8 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
       <guid>https://laurentperrinet.github.io/publication/jeremie-21-crs/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see a follow-up in: 
+
+
 
 
 
@@ -1842,6 +2106,8 @@ src=&#34;../../publication/khoei-masson-perrinet-17/MBP_spatial_readout.mp4&#34;
 
 &lt;/li&gt;
 &lt;li&gt;see an extension to visual search in: 
+
+
 
 
 
@@ -2024,6 +2290,10 @@ List of Contributors :&lt;/li&gt;
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-flash-lag-effect-when-a-visual-stimulus-moves-along-a-continuous-trajectory-it-may-be-seen-ahead-of-its-veridical-position-with-respect-to-an-unpredictable-event-such-as-a-punctuate-flash-this-illusion-tells-us-something-important-about-the-visual-system-contrary-to-classical-computers-neural-activity-travels-at-a-relatively-slow-speed-it-is-largely-accepted-that-the-resulting-delays-cause-this-perceived-spatial-lag-of-the-flash-still-after-several-decades-of-debates-there-is-no-consensus-regarding-the-underlying-mechanisms&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&#34;
@@ -2032,11 +2302,16 @@ List of Contributors :&lt;/li&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Flash-Lag Effect.&lt;/em&gt; When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;strong&gt;Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.&lt;/strong&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New Research: The Flash-Lag Effect as a Motion-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; Khoei et al. &lt;a href=&#34;https://twitter.com/hashtag/vision?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#vision&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#motion&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/RElm4Qqo58&#34;&gt;pic.twitter.com/RElm4Qqo58&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829354100273745920?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 Visual illusions are still popular: in a quasi-magical way, they can make objects appear where they are not expected&amp;hellip; They are also excellent opportunities to question the constraints of our perceptual system. Many illusions are based on motion, such as the flash-lag effect. Observe a luminous dot that moves along a rectilinear trajectory. If a second light dot is flashed very briefly just above the first, the moving point will always be perceived in front of the flash while they are vertically aligned.
+
+
+
+
 
 
 
@@ -2057,8 +2332,13 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 2. &lt;em&gt;Diagonal Markov chain.&lt;/em&gt; In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. (C) Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x + v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
 The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&amp;rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
+
+
+
+
 
 
 
@@ -2079,6 +2359,7 @@ The researchers show that this hypothesis also makes it possible to explain the 
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 5. &lt;em&gt;Histogram of the estimated positions as a function of time for the dMBP model.&lt;/em&gt; Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &amp;ldquo;hidden&amp;rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &amp;ldquo;simulation&amp;rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &amp;ldquo;science fiction&amp;rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New from Khoei et al. The Flash-Lag Effect as a &lt;a href=&#34;https://twitter.com/hashtag/Motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Motion&lt;/a&gt;-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/iWsd9nK5qp&#34;&gt;pic.twitter.com/iWsd9nK5qp&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829474896023474176?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -2101,6 +2382,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://figshare.com/articles/media/HD_natural_images_database_for_sparse_coding/24167265&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;get the dataset&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See the preprint publication @ 
+
+
 
 
 
@@ -2182,6 +2465,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/laurentperrinet/bayesianchangepoint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See the final publication @ 
+
+
 
 
 
@@ -2286,6 +2571,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;li&gt;&lt;a href=&#34;https://github.com/invibe/ANEMO/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See a poster @ &lt;a href=&#34;https://laurentperrinet.github.io/publication/pasturel-18-anemo/&#34;&gt;Pasturel, Montagnini and Perrinet (2018)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;This library was used in the following publication @ 
+
+
 
 
 
@@ -2412,6 +2699,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
   
 
 
@@ -2510,6 +2799,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
   
 
 
@@ -2597,6 +2888,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 &lt;/li&gt;
 &lt;li&gt;It was notably used in the following paper 
+
+
 
 
 
@@ -2708,6 +3001,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
   
 
 
@@ -2794,6 +3089,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;/li&gt;
 &lt;li&gt;54 citations on &lt;a href=&#34;https://scholar.google.com/scholar?cluster=3780829296605136744&amp;amp;hl=fr&amp;amp;as_sdt=7,39&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt; (last updated 22/10/2021)&lt;/li&gt;
 &lt;li&gt;Follow-up paper 
+
+
 
 
 
@@ -2904,6 +3201,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
   
 
 
@@ -2994,6 +3293,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
   
 
 
@@ -3072,6 +3373,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;/div&gt;
 
 
+ 
+ 
  
  
  
@@ -3171,6 +3474,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
   
 
 
@@ -3251,6 +3556,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 &lt;li&gt;&lt;a href=&#34;https://neuralensemble.github.io/PyNN/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web-site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/NeuralEnsemble/PyNN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Source code&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;This algorithm was presented in the following paper 
+
+
 
 
 
@@ -3370,6 +3677,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
   
 
 
@@ -3468,6 +3777,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <guid>https://laurentperrinet.github.io/publication/vacher-14-ihp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;See a followup in 
+
+
 
 
 
@@ -3639,6 +3950,10 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-band-pass-motion-stimuli-for-perception-and-action-tasks-a-in-the-space-representing-temporal-against-spatial-frequency-each-line-going-through-the-origin-corresponds-to-stimuli-moving-at-the-same-speed-a-simple-drifting-grating-is-a-single-point-in-this-space-our-moving-texture-stimuli-had-their-energy-distributed-within-an-ellipse-elongated-along-a-given-speed-line-keeping-constant-the-mean-spatial-and-temporal-frequencies-the-spatio-temporal-bandwidth-was-manipulated-by-co-varying-bsf-and-btf-as-illustrated-by-the-xyt-examples-human-performance-was-measured-for-two-different-tasks-run-in-parallel-blocks-b-for-ocular-tracking-motion-stimuli-were-presented-for-a-short-duration-200ms-in-the-wake-of-a-centering-saccade-to-control-both-attention-and-fixation-states-c-for-speed-discrimination-test-and-reference-stimuli-were-presented-successively-for-the-same-duration-and-subjects-were-instructed-to-indicate-whether-the-test-stimulus-was-perceived-as-slower-or-faster-than-reference&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Band-pass motion stimuli for perception and action tasks.* (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference. &#34;
@@ -3646,7 +3961,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
            loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -3697,12 +4013,17 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-this-schematic-shows-the-dependencies-among-various-quantities-that-are-assumed-when-modeling-the-exchanges-of-a-self-organizing-system-like-the-brain-with-the-environment-the-top-panel-describes-the-states-of-the-environment-and-the-system-or-agent-in-terms-of-a-probabilistic-dependency-graph-where-connections-denote-directed-dependencies-the-quantities-are-described-within-the-nodes-of-this-graph-with-exemplar-forms-for-their-dependencies-on-other-variables-see-main-text-here-hidden-and-internal-states-are-separated-by-action-and-sensory-states-both-action-and-internal-states-encoding-a-conditional-density-minimize-free-energy-while-internal-states-encoding-prior-beliefs-maximize-salience-both-free-energy-and-salience-are-defined-in-terms-of-a-generative-model-that-is-shown-as-fictive-dependency-graph-in-the-lower-panel-note-that-the-variables-in-the-real-world-and-the-form-of-their-dynamics-are-different-from-that-assumed-by-the-generative-model-this-is-why-external-states-are-in-bold-furthermore-note-that-action-is-a-state-in-the-model-of-the-brain-but-is-replaced-by-hidden-controls-in-the-brains-model-of-its-world-this-means-that-the-agent-is-not-aware-of-action-but-has-beliefs-about-hidden-causes-in-the-world-that-action-can-fulfill-through-minimizing-free-energy-these-beliefs-correspond-to-prior-expectations-that-sensory-states-will-be-sampled-in-a-way-that-optimizes-conditional-confidence-or-salience&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; alt=&#34;**This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.** The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.&lt;/strong&gt; The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

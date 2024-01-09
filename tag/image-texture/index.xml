@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/image-texture/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/image-texture/index.xml" rel="self" type="application/rss+xml" />
     <description>Image texture</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>Image texture</title>
@@ -18,6 +18,10 @@
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://laurentperrinet.github.io/publication/ravello-16-droplets/</guid>
       <description>
+
+
+
+
 
 
 
@@ -44,6 +48,7 @@
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Sparse coding of images in the retina follows regular statistics at the global, not the local scale.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;p&gt;See &lt;a href=&#34;https://laurentperrinet.github.io//sciblog/posts/2017-11-21_retina_sparseness.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;supplementray code&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;how-does-the-retina-respond-to-stimuli-with-different-sparseness&#34;&gt;How does the retina respond to stimuli with different sparseness?&lt;/h1&gt;
 &lt;p&gt;This stimulus is generated simply using the &lt;a href=&#34;https://github.com/NeuralEnsemble/MotionClouds/blob/master/MotionClouds/MotionClouds.py#L282&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Motion Clouds library&lt;/a&gt; by defining a sparse draw of events:&lt;/p&gt;
@@ -97,6 +102,8 @@
       <guid>https://laurentperrinet.github.io/publication/nava-13/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;relies on log-Gabor filters: 
+
+
 
 
 

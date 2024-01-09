@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/association-field/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/association-field/index.xml" rel="self" type="application/rss+xml" />
     <description>association field</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>association field</title>
@@ -52,6 +52,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-edge-co-occurrences-a-an-example-image-with-the-list-of-extracted-edges-overlaid-each-edge-is-represented-by-a-red-line-segment-which-represents-its-position-center-of-segment-orientation-and-scale-length-of-segment-we-controlled-the-quality-of-the-reconstruction-from-the-edge-information-such-that-the-residual-energy-was-less-than-5-b-the-relationship-between-a-reference-edge-a-and-another-edge-b-can-be-quantified-in-terms-of-the-difference-between-their-orientations-theta-ratio-of-scale-sigma-distance-d-between-their-centers-and-difference-of-azimuth-angular-location-phi-additionally-we-define-psiphi---theta2-which-is-symmetric-with-respect-to-the-choice-of-the-reference-edge-in-particular-psi0-for-co-circular-edges--see-text-as-incitetgeisler01-edges-outside-a-central-circular-mask-are-discarded-in-the-computation-of-the-statistics-to-avoid-artifacts-image-credit-andrew-shiva-creative-commons-attribution-share-alike-30-unported-licensehttpscommonswikimediaorgwikifileelephant_28loxodonta_africana29_05jpg-this-is-used-to-compute-the-chevron-map-in-figure2&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Edge co-occurrences **(A)** An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. **(B)** The relationship between a reference edge *A* and another edge *B* can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: [Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license](https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg)). This is used to compute the chevron map in Figure~2.&#34; srcset=&#34;
@@ -65,8 +69,13 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Edge co-occurrences &lt;strong&gt;(A)&lt;/strong&gt; An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. &lt;strong&gt;(B)&lt;/strong&gt; The relationship between a reference edge &lt;em&gt;A&lt;/em&gt; and another edge &lt;em&gt;B&lt;/em&gt; can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt;). This is used to compute the chevron map in Figure~2.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;動物か否かの見分け方。&lt;a href=&#34;http://t.co/TTY8MwZGoO&#34;&gt;http://t.co/TTY8MwZGoO&lt;/a&gt;　引用されてるけど、Thorpe (1996)の150msで区別されてるって話(なつかしい)と関係ありそう。&lt;/p&gt;&amp;mdash; Makito Oku (@okumakito) &lt;a href=&#34;https://twitter.com/okumakito/status/613128456637841408?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
 
 
 
@@ -95,8 +104,13 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&amp;rsquo; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;a href=&#34;http://t.co/NY9HapBx2S&#34;&gt;http://t.co/NY9HapBx2S&lt;/a&gt; &lt;a href=&#34;http://t.co/rKQ8I5i6Ty&#34;&gt;pic.twitter.com/rKQ8I5i6Ty&lt;/a&gt;&lt;/p&gt;&amp;mdash; Francis Villatoro (@emulenews) &lt;a href=&#34;https://twitter.com/emulenews/status/612988348400070656?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
 
 
 
@@ -139,6 +153,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-classification-results-to-quantify-the-difference-in-low-level-feature-statistics-across-categories-see-figure3-we-used-a-standard-support-vector-machine-svm-classifier-to-measure-how-each-representation-affected-the-classifiers-reliability-for-identifying-the-image-category-for-each-individual-image-we-constructed-a-vector-of-features-as-either-fo-the-histogram-of-first-order-statistics-as-the-histogram-of-edges-orientations-cm-the-chevron-map-subset-of-the-second-order-statistics-ie-the-two-dimensional-histogram-of-relative-orientation-and-azimuth-see-figure-2--or-so-the-full-four-dimensional-histogram-of-second-order-statistics-ie-all-parameters-of-the-edge-co-occurrences-we-gathered-these-vectors-for-each-different-class-of-images-and-report-here-the-results-of-the-svm-classifier-using-an-f1-score-50-represents-chance-level-while-it-was-expected-that-differences-would-be-clear-between-non-animal-natural-images-versus-laboratory-man-made-images-results-are-still-quite-high-for-classifying-animal-images-versus-non-animal-natural-images-and-are-in-the-range-reported-bycitetserre07-f1-score-of-80-for-human-observers-and-82-for-their-model-even-using-the-cm-features-alone-we-further-extend-this-results-to-the-psychophysical-results-of-serre-et-al-2007-in-figure-5&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&amp;#39;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&amp;#39; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50\% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80\% for human observers and 82\% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.&#34; srcset=&#34;
@@ -166,6 +185,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-to-see-whether-the-patterns-of-errors-made-by-humans-are-consistent-with-our-model-we-studied-the-second-order-statistics-of-the-50-non-animal-images-that-human-subjects-in-serre-et-al-2007-most-commonly-falsely-reported-as-having-an-animal-we-call-this-set-of-images-the-false-alarm-image-dataset-left-this-chevron-map-plot-shows-the-ratio-between-the-second-order-statistics-of-the-false-alarm-images-and-the-full-non-animal-natural-image-dataset-computed-as-in-figure-3-left-just-as-for-the-images-that-actually-do-contain-animals-figure3-left-the-images-falsely-reported-as-having-animals-have-more-co-circular-and-converging-red-chevrons-and-fewer-collinear-and-orthogonal-configurations-blue-chevrons-right-to-quantify-this-similarity-we-computed-the-kullback-leibler-distance-between-the-histogram-of-each-of-these-images-from-the-false-alarm-image-dataset-and-the-average-histogram-of-each-class-the-difference-between-these-two-distances-gives-a-quantitative-measure-of-how-close-each-image-is-to-the-average-histograms-for-each-class-consistent-with-the-idea-that-humans-are-using-edge-co-occurences-to-do-rapid-image-categorization-the-50-non-animal-images-that-were-worst-classified-are-biased-toward-the-animal-histogram-d--104-while-the-550-best-classified-non-animal-images-are-closer-to-the-non-animal-histogram&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;#39; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram. &#34; srcset=&#34;
@@ -178,7 +202,8 @@ More complex parts of the brain are not required at this stage, contrary to what
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;rsquo; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -189,6 +214,8 @@ More complex parts of the brain are not required at this stage, contrary to what
       <guid>https://laurentperrinet.github.io/publication/perrinet-bednar-14-vss/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;see a follow-up: 
+
+
 
 
 
@@ -333,6 +360,8 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
   
 
 
@@ -441,6 +470,8 @@ More complex parts of the brain are not required at this stage, contrary to what
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;related publication : 
+
+
 
 
 
@@ -585,6 +616,8 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
   
 
 
@@ -679,12 +712,17 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; alt=&#34;Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections). &#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -736,6 +774,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-multi-scale-oriented-representation&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*&#34;
@@ -743,7 +785,8 @@ More complex parts of the brain are not required at this stage, contrary to what
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

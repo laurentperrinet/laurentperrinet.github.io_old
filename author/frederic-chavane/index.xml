@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/author/frederic-chavane/</link>
       <atom:link href="https://laurentperrinet.github.io/author/frederic-chavane/index.xml" rel="self" type="application/rss+xml" />
     <description>Frédéric Chavane</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/author/frederic-chavane/avatar_hu939e22bfda132e5dfe756f4281477277_68002_270x270_fill_lanczos_center_3.png</url>
       <title>Frédéric Chavane</title>
@@ -22,6 +22,8 @@
 
 &lt;ul&gt;
 &lt;li&gt;this paper follows this COSYNE presentation : 
+
+
 
 
 
@@ -103,6 +105,8 @@
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/li&gt;
 &lt;li&gt;see a related work describing SDPC in: 
+
+
 
 
 
@@ -204,6 +208,8 @@
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -322,13 +328,22 @@
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-fig-1-architecture-of-a-2-layered-sdpc-model&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; alt=&#34;Fig 1. Architecture of a 2-layered SDPC model.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 1. Architecture of a 2-layered SDPC model.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 One often compares biological vision to a camera-like system where an image would be processed according to a sequence of successive transformations. In particular, this “feedforward” view is prevalent in models of visual processing such as deep learning. However, neuroscientists have long stressed that more complex information flow is necessary to reach natural vision efficiency. In particular, recurrent and feedback connections in the visual cortex allow to integrate contextual information in our representation of visual stimuli. These modulations have been observed both at the low-level of neural activity and at the higher level of perception.
+
+
+
+
 
 
 
@@ -363,13 +378,23 @@ One often compares biological vision to a camera-like system where an image woul
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-fig-14-illustration-of-the-hierarchical-generative-model-learned-by-the-sdpc-model-on-the-face-database&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; alt=&#34;Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 In this study, we present an architecture that describes biological vision at both levels of analysis. It suggests that the brain uses feedforward and feedback connections to compare the sensory stimulus with its own internal representation. In contrast to classical deep learning approaches, we show that our model learns interpretable features.
+
+
+
+
 
 
 
@@ -404,13 +429,23 @@ In this study, we present an architecture that describes biological vision at bo
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-fig-7-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-45-and-colored-with-the-relative-response-wrt-no-feedback&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; alt=&#34;Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Moreover, we demonstrate that feedback signals modulate neural activity to promote good continuity of contours. Finally, the same model can disambiguate images corrupted by noise. To the best of our knowledge, this is the first time that the same model describes the effect of recurrent and feedback modulations at both neural and representational levels.
+
+
+
+
 
 
 
@@ -430,9 +465,12 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; alt=&#34;Fig 10. Effect of the feedback strength on noisy images from natural images database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 10. Effect of the feedback strength on noisy images from natural images database.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -522,6 +560,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;: 
+
+
 
 
 
@@ -633,6 +673,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This poster is presented in the following paper (published in Nature Comm Biology): 
+
+
 
 
 
@@ -773,6 +815,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -862,6 +906,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -987,6 +1033,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1076,6 +1124,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -1206,6 +1256,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1304,6 +1356,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1384,6 +1438,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;
+
+
 
 
 
@@ -1484,6 +1540,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1550,6 +1608,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;
+
+
 
 
 
@@ -1688,6 +1748,10 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-a-predictive-sequence-is-essential-in-resolving-the-coherence-problem--the-sequence-in-which-a-set-of-local-motion-is-shown-is-essential-for-the-detection-of-global-motion-we-replicate-here-the-experiments-by-scott-watamaniuk-and-colleagues-they-have-shown-behaviourally-that-a-dot-in-noise-is-much-more-detectable-when-it-follows-a-coherent-trajectory-up-to-an-order-of-magnitude-of-10-times-what-would-be-predicted-by-the-local-components-of-the-trajectory-in-this--movie-we-observe-white-noise-and-at-first-sight-no-information-is-detectable-in-fact-there-is-a-dot-moving-along-some-smooth-linear-trajectory-since-this-is-compatible-with-a-predictive-sequence-it-is-much-easier-to-see-the-dot-from-left-to-right-in-the-top-of-the-image-a-smooth-pursuit-helps-to-catch-it-this-simple-experiment-shows-that-even-if-local-motion-is-similar-in-both-movies-a-coherent-trajectory-is-more-easy-to-track-obviously-we-may-thus-conclude-that-the-whole-trajectory-is-more-that-its-individual-parts-and-that-the-independence-hypothesis-does-not-hold-if-we-want-to-account-for-the-predictive-information-in-input-sequences-such-as-seems-to-be-crucial-for-the-ap&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*A predictive sequence is essential in resolving the coherence problem.*  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.&#34;
@@ -1696,6 +1760,7 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;A predictive sequence is essential in resolving the coherence problem.&lt;/em&gt;  The sequence in which a set of local motion is shown is essential for the detection of global motion. we replicate here the experiments by Scott Watamaniuk and colleagues. They have shown behaviourally that a dot in noise is much more detectable when it follows a coherent trajectory, up to an order of magnitude of 10 times what would be predicted by the local components of the trajectory. In this  movie we observe white noise and at first sight, no information is detectable. In fact, there is a dot moving along some smooth linear trajectory. Since this is compatible with a predictive sequence, it is much easier to see the dot (from left to right in the top of the image, a smooth pursuit helps to catch it). This simple experiment shows that, even if local motion is similar in both movies, a coherent trajectory is more easy to track. Obviously, we may thus conclude that the whole trajectory is more that its individual parts, and that the independence hypothesis does not hold if we want to account for the predictive information in input sequences such as seems to be crucial for the AP.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;h2 id=&#34;acknowledgement&#34;&gt;Acknowledgement&lt;/h2&gt;
 &lt;p&gt;This work was supported by ANR project &amp;ldquo;TRAJECTORY&amp;rdquo; N° ANR-15-CE37-0011.&lt;/p&gt;
 </description>
@@ -1747,6 +1812,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
       <guid>https://laurentperrinet.github.io/publication/khoei-13-cns/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
+
+
 
 
 
@@ -1839,6 +1906,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1910,6 +1979,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
+
+
 
 
 

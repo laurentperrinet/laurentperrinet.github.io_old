@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/publication-type/2/</link>
       <atom:link href="https://laurentperrinet.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -34,6 +34,8 @@
 
 
 
+
+
   
 
 
@@ -43,6 +45,7 @@
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/2023-09-14_HDSNN_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;read the paper &lt;a href=&#34;https://doi.org/10.1007/s00422-023-00975-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; (paywall) or read the reprint as &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
@@ -55,6 +58,8 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;this paper is a follow-up of  
+
+
 
 
 
@@ -173,6 +178,10 @@
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-the-hots-architecture&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/hots.png&#34; alt=&#34;The HOTS architecture.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;100%&#34; /&gt;&lt;/div&gt;
@@ -193,12 +202,18 @@
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-preformance-of-the-algorithm-on-the-dvsgesture-dataset-for-this-gesture-recognition-task-the-online-hots-accuracy-remains-close-to-the-chance-level-for-about-100-events-more-evidence-needs-to-be-accumulated-and-then-the-accuracy-increases-monotonically-outperforming-the-previous-method-after-about-10000-events-at-an-average-of-93-of-the-number-of-events-in-the-sample&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/gesture_online.png&#34; alt=&#34;Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample).&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;90%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Preformance of the algorithm on the DVSgesture dataset. For this gesture recognition task, the online HOTS accuracy remains close to the chance level for about 100 events. More evidence needs to be accumulated, and then the accuracy increases monotonically, outperforming the previous method after about 10.000 events (at an average of 9.3% of the number of events in the sample).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 </description>
     </item>
     
@@ -245,6 +260,8 @@
 &lt;/li&gt;
 &lt;li&gt;preprint of a former revision: &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;This neurophysiological work accompanies a similar study in theoretical neuroscience : 
+
+
 
 
 
@@ -338,6 +355,10 @@ Ce simple scénario illustre un problème quotidien auquel nous sommes confront�
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-figure-1-les-images-naturelles-ici-une-vue-des-calanques-de-marseille-sont-décomposées-en-éléments-orientés-en-bas-à-gauche-par-des-réseaux-de-neurones-dont-les-interactions-sont-contraintes-par-lincertitude-locale-qui-décrit-des-parties-du-champ-visuel&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;#39;incertitude locale qui décrit des parties du champ visuel.&#34; srcset=&#34;
@@ -351,8 +372,13 @@ Ce simple scénario illustre un problème quotidien auquel nous sommes confront�
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Figure 1. Les images naturelles (ici, une vue des calanques de Marseille), sont décomposées en éléments orientés (en bas à gauche) par des réseaux de neurones, dont les interactions sont contraintes par l&amp;rsquo;incertitude locale qui décrit des parties du champ visuel.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Cependant, toutes les pièces du puzzle ne sont pas coupées de la même manière, et certaines ont des bords plus variables que d&amp;rsquo;autres. C&amp;rsquo;est un problème pour la toute première zone de notre cerveau qui commence à donner un sens à ces &amp;ldquo;pièces de puzzle&amp;rdquo; visuelles, le cortex visuel primaire. Jusqu&amp;rsquo;à récemment, notre compréhension de la manière dont le cerveau traite ces données visuelles complexes reposait en grande partie sur l&amp;rsquo;observation du comportement humain [1,2]. Ces dernières années, cependant, les chercheurs ont commencé à sonder le cortex visuel primaire des macaques et ont découvert que cette zone du cerveau présente des comportements complexes qui reflètent les processus de prise de décision complexes que nous entreprenons en tant qu&amp;rsquo;êtres humains [3].
 En effectuant des enregistrements dans le cortex visuel primaire, la zone responsable du traitement de l&amp;rsquo;information visuelle dans le cerveau, les chercheurs ont découvert un phénomène remarquable : les neurones de notre cortex visuel primaire ont des réponses distinctes à la complexité des images. Deux types principaux de neurones ont été identifiés sur la base de leurs réponses : certains sont relativement indifférents à l&amp;rsquo;augmentation de la variance, tandis que d&amp;rsquo;autres montrent une décroissance rapide de leur capacité d&amp;rsquo;encodage face à cette variance (non linéaires).
+
+
+
+
 
 
 
@@ -380,6 +406,7 @@ En effectuant des enregistrements dans le cortex visuel primaire, la zone respon
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Figure 2 La variation du code des neurones face a une augmentation d&amp;rsquo;incertitude dépend de leur position dans le cortex (a, b), un phénomène expliqué par une activité récurrente plus intense pour les neurones encodant l&amp;rsquo;incertitude.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Globalement, la récurrence peut expliquer comment différents neurones encodent (ou non) la variance de leur entrée. Ces résultats vont dans le sens d&amp;rsquo;une compréhension plus complète du cerveau, qui ne se contente pas d&amp;rsquo;encoder des caractéristiques moyennes, comme le suggéraient les modèles précédents, mais prend également en compte la complexité des entrées, grâce à la connectivité entre les neurones.
 Il s&amp;rsquo;agit d&amp;rsquo;une étape cruciale pour comprendre comment notre cortex gère les &amp;ldquo;puzzles visuels&amp;rdquo; que nous rencontrons tous les jours, permettant au cerveau d&amp;rsquo;effectuer des calculs complexes sur des distributions probabilistes - un modèle qui gagne en popularité dans les neurosciences [5].&lt;/p&gt;
 &lt;h3 id=&#34;références&#34;&gt;Références&lt;/h3&gt;
@@ -415,6 +442,8 @@ inference based on predictive coding. Connection Science, 28(4),
 
 
 
+
+
   
 
 
@@ -424,12 +453,15 @@ inference based on predictive coding. Connection Science, 28(4),
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/jeremie-23-ultra-fast-cat/Jeremie-etal-Vision_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;ul&gt;
 &lt;li&gt;read the paper &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; or in &lt;a href=&#34;https://www.mdpi.com/2411-5150/7/2/29/pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full code&lt;/a&gt; with extensive &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary Material&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt; and code for  &lt;a href=&#34;https://github.com/SpikeAI/2022-09_UltraFastCat/blob/main/Jeremie-etal-Vision_video-abstract.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;join the &lt;a href=&#34;https://www.zotero.org/groups/4560566/ultrafastcat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero group&lt;/a&gt; to add and discuss more items&lt;/li&gt;
 &lt;li&gt;this is a follow-up of: 
+
+
 
 
 
@@ -505,6 +537,8 @@ inference based on predictive coding. Connection Science, 28(4),
 
 &lt;/li&gt;
 &lt;li&gt;see an extension perspective to visual search in: 
+
+
 
 
 
@@ -620,6 +654,8 @@ inference based on predictive coding. Connection Science, 28(4),
 
 
 
+
+
   
 
 
@@ -629,6 +665,7 @@ inference based on predictive coding. Connection Science, 28(4),
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/2022-12-23_polychrony-review_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;ul&gt;
 &lt;li&gt;read the paper &lt;a href=&#34;https://doi.org/10.3390/brainsci13010068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online&lt;/a&gt; or in &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/grimaldi-22-polychronies.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/2022-12-23_polychrony-review_video-abstract.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video Abstract&lt;/a&gt;&lt;/li&gt;
@@ -649,12 +686,17 @@ inference based on predictive coding. Connection Science, 28(4),
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-core-mechanism-of-polychrony-detection-left-in-this-example-three-presynaptic-neurons-denoted-b-c-and-d-are-fully-connected-to-two-post-synaptic-neurons-a-and-e-with-different-delays-of-respectively-1-5-and-9-ms-for-a-and-8-5-and-1-ms-for-e-middle-if-three-synchronous-pulses-are-emitted-from-presynaptic-neurons-this-will-generate-post-synaptic-potentials-that-will-reach-a-and-e-asynchronously-because-of-the-heterogeneous-delays-and-they-may-not-be-sufficient-to-reach-the-membrane-threshold-in-either-of-the-post-synaptic-neurons-therefore-no-spike-will-be-emitted-as-this-is-not-sufficient-to-reach-the-membrane-threshold-of-the-post-synaptic-neuron-so-no-output-spike-is-emitted-right-if-the-pulses-are-emitted-from-presynaptic-neurons-such-that-taking-into-account-the-delays-they-reach-the-post-synaptic-neuron-a-at-the-same-time-here-at-t--10-ms-the-post-synaptic-potentials-evoked-by-the-three-pre-synaptic-neurons-sum-up-causing-the-voltage-threshold-to-be-crossed-and-thus-to-the-emission-of-an-output-spike-red-color-while-none-is-emitted-from-post-synaptic-neuron-e&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png&#34; alt=&#34;**Core mechanism of polychrony detection.** *(Left)* In this example, three presynaptic neurons denoted *b*, *c* and *d* are fully connected to two post-synaptic neurons *a* and *e*, with different delays of respectively 1, 5, and 9 ms for *a* and 8, 5, and 1 ms for *e*. *(Middle)* If three synchronous pulses are emitted from presynaptic neurons, this will generate post-synaptic potentials that will reach a and e asynchronously because of the heterogeneous delays, and they may not be sufficient to reach the membrane threshold in either of the post-synaptic neurons; therefore, no spike will be emitted, as this is not sufficient to reach the membrane threshold of the post synaptic neuron, so no output spike is emitted. *(Right)* If the pulses are emitted from presynaptic neurons such that, taking into account the delays, they reach the post-synaptic neuron *a* at the same time (here, at t = 10 ms), the post-synaptic potentials evoked by the three pre-synaptic neurons sum up, causing the voltage threshold to be crossed and thus to the emission of an output spike (red color), while none is emitted from post-synaptic neuron *e*.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;Core mechanism of polychrony detection.&lt;/strong&gt; &lt;em&gt;(Left)&lt;/em&gt; In this example, three presynaptic neurons denoted &lt;em&gt;b&lt;/em&gt;, &lt;em&gt;c&lt;/em&gt; and &lt;em&gt;d&lt;/em&gt; are fully connected to two post-synaptic neurons &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;e&lt;/em&gt;, with different delays of respectively 1, 5, and 9 ms for &lt;em&gt;a&lt;/em&gt; and 8, 5, and 1 ms for &lt;em&gt;e&lt;/em&gt;. &lt;em&gt;(Middle)&lt;/em&gt; If three synchronous pulses are emitted from presynaptic neurons, this will generate post-synaptic potentials that will reach a and e asynchronously because of the heterogeneous delays, and they may not be sufficient to reach the membrane threshold in either of the post-synaptic neurons; therefore, no spike will be emitted, as this is not sufficient to reach the membrane threshold of the post synaptic neuron, so no output spike is emitted. &lt;em&gt;(Right)&lt;/em&gt; If the pulses are emitted from presynaptic neurons such that, taking into account the delays, they reach the post-synaptic neuron &lt;em&gt;a&lt;/em&gt; at the same time (here, at t = 10 ms), the post-synaptic potentials evoked by the three pre-synaptic neurons sum up, causing the voltage threshold to be crossed and thus to the emission of an output spike (red color), while none is emitted from post-synaptic neuron &lt;em&gt;e&lt;/em&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;more posts on &lt;a href=&#34;https://www.reddit.com/r/neuroscience/comments/104q30e/precise_spiking_motifs_in_neurobiological_and/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reddit&lt;/a&gt;, &lt;a href=&#34;https://www.researchgate.net/publication/365497113_Precise_Spiking_Motifs_in_Neurobiological_and_Neuromorphic_Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RG&lt;/a&gt;, &lt;a href=&#34;https://magazine.sciencepod.net/2023/01/01/precise-spiking-motifs-in-neurobiological-and-neuromorphic-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sciowire&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/Preprints_org/status/1593167106907979777,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twit&lt;/a&gt; or &lt;a href=&#34;https://hal.science/hal-03918338&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HAL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -671,6 +713,8 @@ inference based on predictive coding. Connection Science, 28(4),
 
 &lt;ul&gt;
 &lt;li&gt;this paper follows this COSYNE presentation : 
+
+
 
 
 
@@ -752,6 +796,8 @@ inference based on predictive coding. Connection Science, 28(4),
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/li&gt;
 &lt;li&gt;see a related work describing SDPC in: 
+
+
 
 
 
@@ -853,6 +899,8 @@ inference based on predictive coding. Connection Science, 28(4),
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/li&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -990,13 +1038,22 @@ inference based on predictive coding. Connection Science, 28(4),
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-fig-1-architecture-of-a-2-layered-sdpc-model&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g001&#34; alt=&#34;Fig 1. Architecture of a 2-layered SDPC model.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 1. Architecture of a 2-layered SDPC model.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 One often compares biological vision to a camera-like system where an image would be processed according to a sequence of successive transformations. In particular, this “feedforward” view is prevalent in models of visual processing such as deep learning. However, neuroscientists have long stressed that more complex information flow is necessary to reach natural vision efficiency. In particular, recurrent and feedback connections in the visual cortex allow to integrate contextual information in our representation of visual stimuli. These modulations have been observed both at the low-level of neural activity and at the higher level of perception.
+
+
+
+
 
 
 
@@ -1031,13 +1088,23 @@ One often compares biological vision to a camera-like system where an image woul
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-fig-14-illustration-of-the-hierarchical-generative-model-learned-by-the-sdpc-model-on-the-face-database&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g014&#34; alt=&#34;Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 14. Illustration of the hierarchical generative model learned by the SDPC model on the face database.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 In this study, we present an architecture that describes biological vision at both levels of analysis. It suggests that the brain uses feedforward and feedback connections to compare the sensory stimulus with its own internal representation. In contrast to classical deep learning approaches, we show that our model learns interpretable features.
+
+
+
+
 
 
 
@@ -1072,13 +1139,23 @@ In this study, we present an architecture that describes biological vision at bo
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-fig-7-example-of-a-9--9-interaction-map-of-a-v1-area-centered-on-neurons-strongly-responding-to-a-central-preferred-orientation-of-45-and-colored-with-the-relative-response-wrt-no-feedback&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g007&#34; alt=&#34;Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 7. Example of a 9 × 9 interaction map of a V1 area centered on neurons strongly responding to a central preferred orientation of 45°, and colored with the relative response w.r.t. no feedback.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Moreover, we demonstrate that feedback signals modulate neural activity to promote good continuity of contours. Finally, the same model can disambiguate images corrupted by noise. To the best of our knowledge, this is the first time that the same model describes the effect of recurrent and feedback modulations at both neural and representational levels.
+
+
+
+
 
 
 
@@ -1098,9 +1175,12 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://journals.plos.org/ploscompbiol/article/figure/image?size=large&amp;amp;download=&amp;amp;id=10.1371/journal.pcbi.1008629.g010&#34; alt=&#34;Fig 10. Effect of the feedback strength on noisy images from natural images database.&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 10. Effect of the feedback strength on noisy images from natural images database.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;more about the role of top-down connections: 
+
+
 
 
 
@@ -1190,6 +1270,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 &lt;/li&gt;
 &lt;li&gt;presented during this &lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-03-25-hdr-robin-baures/&#34;&gt;talk&lt;/a&gt;: 
+
+
 
 
 
@@ -1317,12 +1399,19 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;for a more mathematical treatment, see 
+
+
 
 
 
@@ -1444,6 +1533,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1551,6 +1642,8 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 
 
 
+
+
   
 
 
@@ -1560,11 +1653,16 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
 &lt;video controls  &gt;
   &lt;source src=&#34;https://raw.githubusercontent.com/chloepasturel/AnticipatorySPEM/master/2020-03_video-abstract/PasturelMontagniniPerrinet2020_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;check out our new paper &lt;a href=&#34;https://twitter.com/PLOSCompBiol?ref_src=twsrc%5Etfw&#34;&gt;@PLOSCompBiol&lt;/a&gt; : &amp;quot;Humans adapt their anticipatory eye movements to the volatility of visual motion properties&amp;quot; with Chloé Pasturel and @MontagniniAnna  - talks about how to perform optimal decisions when the environment abruptly switches its statistics... &lt;a href=&#34;https://t.co/GKg87lGqdS&#34;&gt;pic.twitter.com/GKg87lGqdS&lt;/a&gt;&lt;/p&gt;&amp;mdash; @laurentperrinet@neuromatch.social (@laurentperrinet) &lt;a href=&#34;https://twitter.com/laurentperrinet/status/1253715266124611586?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;at-what-point-should-we-become-alarmed-when-faced-with-changes-in-the-environment-the-sensory-system-provides-an-effective-response&#34;&gt;At what point should we become alarmed? When faced with changes in the environment, the sensory system provides an effective response.&lt;/h2&gt;
 &lt;p&gt;The current health situation has shown us how abruptly our environment can change from one state to another, tragically illustrating the volatility we can face. To understand this notion of volatility, let&amp;rsquo;s take the case of a doctor who, among the patients he receives, usually diagnoses one out of ten cases of flu. Suddenly, he gets 5 out of 10 patients who test positive. Is this an unfortunate coincidence or are we now sure that there is a switch to a flu episode? Recent events have shown us how difficult it is to make a rational decision in times of uncertainty, and in particular to decide &lt;em&gt;when&lt;/em&gt; to act. However, mathematical solutions exist that adapt our behavior by optimally combining the information explored recently with that exploited in the past. In an article published in PLoS Computational Biology, Pasturel, Montagnini and Perrinet show that our brain responds to changes in the sensory environment in the same way as this mathematical model.
+
+
+
+
 
 
 
@@ -1592,6 +1690,7 @@ Moreover, we demonstrate that feedback signals modulate neural activity to promo
   &lt;/div&gt;&lt;figcaption&gt;
       By manipulating the probability bias of the presentation of a visual target on a screen, this experiment manipulates the volatility of the environment in a controlled way by introducing switches in the probability bias. These switches randomly change the bias among different degrees of probability (both left and right). At each trial, the bias then generates a realization, either left (L) or right (R).  The target moves in blocks of 50 trials (1 to 50) and these realizations are the only ones to be observed, the evolution of the bias and its shifts remaining hidden from the observer. Compared to the floating average that is conventionally used, a mathematical model can be deduced as a predictive average that allows to better follow the dynamics of the probability bias. Thanks to psychophysical experiments, we have shown that observers preferentially follow the predictive mean, rather than the floating mean, both in explicit judgements (predictive betting) and, more surprisingly, in the anticipatory movements of the eyes that are carried out without the observers being aware of them.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 These theoretical and experimental results show that in this realistic situation in which the context changes at random moments throughout the experiment, our sensory system adapts to volatility in an adaptive manner over the course of the trials. In particular, the experiments show in two behavioural experiments that humans adapt to volatility at the early sensorimotor level, through their anticipatory eye movements, but also at a higher cognitive level, through explicit evaluations. These results thus suggest that humans (and future artificial systems) can use much richer adaptation strategies than previously assumed. They provide a better understanding of how humans adapt to changing environments in order to make judgements or plan responses based on information that varies over time.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;read the &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/784116v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;preprint&lt;/a&gt; (the official online &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1007438&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt; or in &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007438&amp;amp;type=printable&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt; is &lt;em&gt;wrongly&lt;/em&gt; typeset: the editors inverted the images of figures 2 &amp;amp; 3, while keeping the captions. Unfortunately, the policy of the journal is to issue a correction, but not to correct it. There is therefore no official correct version on the PLoS* website.)&lt;/li&gt;
@@ -1673,6 +1772,10 @@ Ces textures complexes sont plus proches des images naturellement observées et 
  
  
  
+ 
+ 
+ 
+ 
  &lt;figure  id=&#34;figure-pour-une-cellule-représentative-on-montre-ici-la-réponse-au-cours-du-temps-sous-forme-dimpulsions-pour-différentes-présentations-trial-ainsi-que-la-moyenne-de-cette-réponse-firing-rate-les-différentes-colonnes-représentent-différentes-vitesses-des-stimulations-sur-la-rétine-les-différentes-lignes-sont-différentes-stimulations-en-bleu-une-stimulation-classique-sous-forme-de-réseaux-de-lignes--grating--en-vert-et-orange-la-réponse-à-une-texture-progressivement-plus-complexe-de--mc-narrow--à--mc-broad--si-les-réponses-aux-différents-stimulations-sont-en-moyenne-similaires-elles-sont-variables-dessai-en-essai-et-une-analyse-statistique-a-permis-de-montrer-que-dans-la-majorité-des-cellules-les-réponses-sont-dautant-plus-précises-que-la-stimulation-est-complexe--cesar-ravello&#34;&gt;
    &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
      &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Pour une cellule représentative, on montre ici la réponse au cours du temps sous forme d&amp;#39;impulsions pour différentes présentations (Trial) ainsi que la moyenne de cette réponse (Firing rate). Les différentes colonnes représentent différentes vitesses des stimulations sur la rétine. Les différentes lignes sont différentes stimulations. En bleu, une stimulation classique sous forme de réseaux de lignes (« Grating »). En vert et Orange, la réponse à une texture progressivement plus complexe (de « Mc Narrow » à « MC Broad »). Si les réponses aux différents stimulations sont en moyenne similaires, elles sont variables d’essai en essai et une analyse statistique a permis de montrer que dans la majorité des cellules, les réponses sont d&amp;#39;autant plus précises que la stimulation est complexe. © Cesar Ravello &#34; srcset=&#34;
@@ -1695,6 +1798,9 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 
 
 
+
+
+
   
 
 
@@ -1704,6 +1810,7 @@ Ces textures complexes sont plus proches des images naturellement observées et 
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/ravello-19/video_perrinet.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 Cette vidéo montre les trois classes de stimulations utilisées dans cette étude. En plus des réseaux sinusoïdaux (“Grating”) qui sont classiquement utilisés en neurosciences, cette étude a utilisé des textures aléatoires (Motion Clouds (MC)) qui sont inspirées de modèles du traitement visuel. Ils permettent en particulier de manipuler des paramètres visuels critiques comme la variété de fréquences spatiales qui sont superposées: soit unique (“Grating”), fine (“MC Narrow”), soit plus large (“MC Broad”). Ces vidéos ont été directement projetées sur des rétines posées sur des grilles d’électrodes qui permettent de mesurer l’activité neurale (voir figure). © Laurent Perrinet / Cesar Ravello&lt;/p&gt;
 </description>
     </item>
@@ -1723,6 +1830,8 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
+
+
   
 
 
@@ -1732,6 +1841,7 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;ul&gt;
 &lt;li&gt;supplementary info : &lt;a href=&#34;https://spikeai.github.io/HULK/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.mdpi.com/2411-5150/3/3/47&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
@@ -1742,6 +1852,8 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 &lt;li&gt;code for figures &lt;a href=&#34;https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/SpikeAI/HULK/blob/master/Annex.ipynb&lt;/a&gt; (which is rendered @ &lt;a href=&#34;https://spikeai.github.io/HULK/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://spikeai.github.io/HULK/&lt;/a&gt; )&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2019-09-11_Perrinet19.mp4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video abstract&lt;/a&gt; (and the &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/posts/2019-09-11_video-abstract-vision.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt; for generating it)&lt;/li&gt;
 &lt;li&gt;previous publication : 
+
+
 
 
 
@@ -1836,6 +1948,8 @@ Cette vidéo montre les trois classes de stimulations utilisées dans cette étu
 
 
 
+
+
 $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
 1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}$$
 &lt;/li&gt;
@@ -1872,6 +1986,8 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
 
 
 
+
+
   
 
 
@@ -1880,8 +1996,11 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
 
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/li&gt;
+&lt;/video&gt;
+&lt;/li&gt;
 &lt;li&gt;la même chose avec un arrêt:
+
+
 
 
 
@@ -1899,7 +2018,8 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
 
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/flash_lag_stop.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;&lt;/li&gt;
+&lt;/video&gt;
+&lt;/li&gt;
 &lt;li&gt;pour illustrer la fleche du temps (&amp;quot; Or dans tout système, d’après le second principe de la thermodynamique, le désordre mesuré par l’entropie se doit d’augmenter. Voilà pourquoi il existe une asymétrie dans l’écoulement du temps, c’est-à-dire une flèche du temps. Résultat, si l’on filme une partie de billard, on trouvera incongru cette séquence si on la projette dans le sens inverse du temps. &amp;ldquo;), on peut aussi utiliser cette video d&amp;rsquo;un bocal qui se brise qu&amp;rsquo;il est aisé de lire dans le sens inverse du temps:
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -1951,6 +2071,10 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-flash-lag-effect-when-a-visual-stimulus-moves-along-a-continuous-trajectory-it-may-be-seen-ahead-of-its-veridical-position-with-respect-to-an-unpredictable-event-such-as-a-punctuate-flash-this-illusion-tells-us-something-important-about-the-visual-system-contrary-to-classical-computers-neural-activity-travels-at-a-relatively-slow-speed-it-is-largely-accepted-that-the-resulting-delays-cause-this-perceived-spatial-lag-of-the-flash-still-after-several-decades-of-debates-there-is-no-consensus-regarding-the-underlying-mechanisms&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Flash-Lag Effect.* When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.&#34;
@@ -1959,11 +2083,16 @@ $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Flash-Lag Effect.&lt;/em&gt; When a visual stimulus moves along a continuous trajectory, it may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash. This illusion tells us something important about the visual system: contrary to classical computers, neural activity travels at a relatively slow speed. It is largely accepted that the resulting delays cause this perceived spatial lag of the flash. Still, after several decades of debates, there is no consensus regarding the underlying mechanisms.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;strong&gt;Researchers from the Timone Institute of Neurosciences bring a new theoretical hypothesis on a visual illusion discovered at the beginning of the 20th century. This illusion remained misunderstood while it poses fundamental questions about how our brains represent events in space and time. This study published on January 26, 2017 in the journal PLOS Computational Biology, shows that the solution lies in the predictive mechanisms intrinsic to the neural processing of information.&lt;/strong&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New Research: The Flash-Lag Effect as a Motion-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; Khoei et al. &lt;a href=&#34;https://twitter.com/hashtag/vision?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#vision&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#motion&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/RElm4Qqo58&#34;&gt;pic.twitter.com/RElm4Qqo58&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829354100273745920?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 Visual illusions are still popular: in a quasi-magical way, they can make objects appear where they are not expected&amp;hellip; They are also excellent opportunities to question the constraints of our perceptual system. Many illusions are based on motion, such as the flash-lag effect. Observe a luminous dot that moves along a rectilinear trajectory. If a second light dot is flashed very briefly just above the first, the moving point will always be perceived in front of the flash while they are vertically aligned.
+
+
+
+
 
 
 
@@ -1984,8 +2113,13 @@ Visual illusions are still popular: in a quasi-magical way, they can make object
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 2. &lt;em&gt;Diagonal Markov chain.&lt;/em&gt; In the current study, the estimated state vector z = {x, y, u, v} is composed of the 2D position (x and y) and velocity (u and v) of a (moving) stimulus. (A) First, we extend a classical Markov chain using Nijhawan’s diagonal model in order to take into account the known neural delay τ: At time t, information is integrated until time t − τ, using a Markov chain and a model of state transitions p(zt|zt−δt) such that one can infer the state until the last accessible information p(zt−τ|I0:t−τ). This information can then be “pushed” forward in time by predicting its trajectory from t − τ to t. In particular p(zt|I0:t−τ) can be predicted by the same internal model by using the state transition at the time scale of the delay, that is, p(zt|zt−τ). This is virtually equivalent to a motion extrapolation model but without sensory measurements during the time window between t − τ and t. Note that both predictions in this model are based on the same model of state transitions. (B) One can write a second, equivalent “pull” mode for the diagonal model. Now, the current state is directly estimated based on a Markov chain on the sequence of delayed estimations. While being equivalent to the push-mode described above, such a direct computation allows to more easily combine information from areas with different delays. Such a model implements Nijhawan’s “diagonal model”, but now motion information is probabilistic and therefore, inferred motion may be modulated by the respective precisions of the sensory and internal representations. (C) Such a diagonal delay compensation can be demonstrated in a two-layered neural network including a source (input) and a target (predictive) layer [44]. The source layer receives the delayed sensory information and encodes both position and velocity topographically within the different retinotopic maps of each layer. For the sake of simplicity, we illustrate only one 2D map of the motions (x, v). The integration of coherent information can either be done in the source layer (push mode) or in the target layer (pull mode). Crucially, to implement a delay compensation in this motion-based prediction model, one may simply connect each source neuron to a predictive neuron corresponding to the corrected position of stimulus (x + v ⋅ τ, v) in the target layer. The precision of this anisotropic connectivity map can be tuned by the width of convergence from the source to the target populations. Using such a simple mapping, we have previously shown that the neuronal population activity can infer the current position along the trajectory despite the existence of neural delays.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Processing visual information takes time and even if these delays are remarkably short, they are not negligible and the nervous system must compensate them. For an object that moves predictably, the neural network can infer its most probable position taking into account this processing time. For the flash, however, this prediction can not be established because its appearance is unpredictable. Thus, while the two targets are aligned on the retina at the time of the flash, the position of the moving object is anticipated by the brain to compensate for the processing time: it is this differentiated treatment that causes the flash-lag effect.
 The researchers show that this hypothesis also makes it possible to explain the cases where this illusion does not work: for example if the flash appears at the end of the moving dot&amp;rsquo;s trajectory or if the target reverses its path in an unexpected way. In this work, the major innovation is to use the accuracy of information in the dynamics of the model. Thus, the corrected position of the moving target is calculated by combining the sensory flux with the internal representation of the trajectory, both of which exist in the form of probability distributions. To manipulate the trajectory is to change the precision and therefore the relative weight of these two information when they are optimally combined in order to know where an object is at the present time. The researchers propose to call parodiction (from the ancient Greek paron, the present) this new theory that joins Bayesian inference with taking into account neuronal delays.
+
+
+
+
 
 
 
@@ -2006,6 +2140,7 @@ The researchers show that this hypothesis also makes it possible to explain the 
   &lt;/div&gt;&lt;figcaption&gt;
       Fig 5. &lt;em&gt;Histogram of the estimated positions as a function of time for the dMBP model.&lt;/em&gt; Histograms of the inferred horizontal positions (blueish bottom panel) and horizontal velocity (reddish top panel), as a function of time frame, from the dMBP model. Darker levels correspond to higher probabilities, while a light color corresponds to an unlikely estimation. We highlight three successive epochs along the trajectory, corresponding to the flash initiated, standard (mid-point) and flash terminated cycles. The timing of the flashes are respectively indicated by the dashed vertical lines. In dark, the physical time and in green the delayed input knowing τ = 100 ms. Histograms are plotted at two different levels of our model in the push mode. The left-hand column illustrates the source layer that corresponds to the integration of delayed sensory information, including the prior on motion. The right-hand illustrates the target layer corresponding to the same information but after the occurrence of some motion extrapolation compensating for the known neural delay τ.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 Despite the simplicity of this solution, parodiction has elements that may seem counter-intuitive. Indeed, in this model, the physical world is considered &amp;ldquo;hidden&amp;rdquo;, that is to say, it can only be guessed by our sensations and our experience. The role of visual perception is then to deliver to our central nervous system the most likely information despite the different sources of noise, ambiguity and time delays. According to the authors of this publication, the visual treatment would consist in a &amp;ldquo;simulation&amp;rdquo; of the visual world projected at the present time, even before the visual information can actually modulate, confirm or cancel this simulation. This hypothesis, which seems to belong to &amp;ldquo;science fiction&amp;rdquo;, is being tested with more detailed and biologically plausible hierarchical neural network models that should allow us to better understand the mysteries underlying our perception. Visual illusions have still the power to amaze us!
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;New from Khoei et al. The Flash-Lag Effect as a &lt;a href=&#34;https://twitter.com/hashtag/Motion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Motion&lt;/a&gt;-Based Predictive Shift &lt;a href=&#34;https://t.co/K3KWPO8l4a&#34;&gt;https://t.co/K3KWPO8l4a&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/neuralnetworks?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#neuralnetworks&lt;/a&gt; &lt;a href=&#34;https://t.co/iWsd9nK5qp&#34;&gt;pic.twitter.com/iWsd9nK5qp&lt;/a&gt;&lt;/p&gt;&amp;mdash; PLOS Comp Biol (@PLOSCompBiol) &lt;a href=&#34;https://twitter.com/PLOSCompBiol/status/829474896023474176?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -2037,6 +2172,8 @@ Despite the simplicity of this solution, parodiction has elements that may seem 
       <description>&lt;ul&gt;
 &lt;li&gt;Talk @ NeurIPS: &lt;a href=&#34;https://neurips.cc/Conferences/2015/Schedule?showEvent=5418&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://neurips.cc/Conferences/2015/Schedule?showEvent=5418&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;See a followup in 
+
+
 
 
 
@@ -2161,6 +2298,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-edge-co-occurrences-a-an-example-image-with-the-list-of-extracted-edges-overlaid-each-edge-is-represented-by-a-red-line-segment-which-represents-its-position-center-of-segment-orientation-and-scale-length-of-segment-we-controlled-the-quality-of-the-reconstruction-from-the-edge-information-such-that-the-residual-energy-was-less-than-5-b-the-relationship-between-a-reference-edge-a-and-another-edge-b-can-be-quantified-in-terms-of-the-difference-between-their-orientations-theta-ratio-of-scale-sigma-distance-d-between-their-centers-and-difference-of-azimuth-angular-location-phi-additionally-we-define-psiphi---theta2-which-is-symmetric-with-respect-to-the-choice-of-the-reference-edge-in-particular-psi0-for-co-circular-edges--see-text-as-incitetgeisler01-edges-outside-a-central-circular-mask-are-discarded-in-the-computation-of-the-statistics-to-avoid-artifacts-image-credit-andrew-shiva-creative-commons-attribution-share-alike-30-unported-licensehttpscommonswikimediaorgwikifileelephant_28loxodonta_africana29_05jpg-this-is-used-to-compute-the-chevron-map-in-figure2&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Edge co-occurrences **(A)** An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. **(B)** The relationship between a reference edge *A* and another edge *B* can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: [Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license](https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg)). This is used to compute the chevron map in Figure~2.&#34; srcset=&#34;
@@ -2174,8 +2315,13 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       Edge co-occurrences &lt;strong&gt;(A)&lt;/strong&gt; An example image with the list of extracted edges overlaid. Each edge is represented by a red line segment which represents its position (center of segment), orientation, and scale (length of segment). We controlled the quality of the reconstruction from the edge information such that the residual energy was less than 5%. &lt;strong&gt;(B)&lt;/strong&gt; The relationship between a reference edge &lt;em&gt;A&lt;/em&gt; and another edge &lt;em&gt;B&lt;/em&gt; can be quantified in terms of the difference between their orientations $\theta$, ratio of scale $\sigma$, distance $d$ between their centers, and difference of azimuth (angular location) $\phi$. Additionally, we define $\psi=\phi - \theta/2$, which is symmetric with respect to the choice of the reference edge; in particular, $\psi=0$ for co-circular edges. % (see text). As in~\citet{Geisler01}, edges outside a central circular mask are discarded in the computation of the statistics to avoid artifacts. (Image credit: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Elephant_/%28Loxodonta_Africana/%29_05.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Shiva, Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt;). This is used to compute the chevron map in Figure~2.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;動物か否かの見分け方。&lt;a href=&#34;http://t.co/TTY8MwZGoO&#34;&gt;http://t.co/TTY8MwZGoO&lt;/a&gt;　引用されてるけど、Thorpe (1996)の150msで区別されてるって話(なつかしい)と関係ありそう。&lt;/p&gt;&amp;mdash; Makito Oku (@okumakito) &lt;a href=&#34;https://twitter.com/okumakito/status/613128456637841408?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
 
 
 
@@ -2204,8 +2350,13 @@ More complex parts of the brain are not required at this stage, contrary to what
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       The probability distribution function $p(\psi, \theta)$ represents the distribution of the different geometrical arrangements of edges&amp;rsquo; angles, which we call a chevron map. We show here the histogram for non-animal natural images, illustrating the preference for co-linear edge configurations. For each chevron configuration, deeper and deeper red circles indicate configurations that are more and more likely with respect to a uniform prior, with an average maximum of about $3$ times more likely, and deeper and deeper blue circles indicate configurations less likely than a flat prior (with a minimum of about $0.8$ times as likely). Conveniently, this chevron map shows in one graph that non-animal natural images have on average a preference for co-linear and parallel edges, (the horizontal middle axis) and orthogonal angles (the top and bottom rows),along with a slight preference for co-circular configurations (for $\psi=0$ and $\psi=\pm \frac \pi 2$, just above and below the central row). We compare chevron maps in different image categories in Figure~3.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Edge co-occurrences can account for rapid categorization of natural versus animal images&lt;a href=&#34;http://t.co/NY9HapBx2S&#34;&gt;http://t.co/NY9HapBx2S&lt;/a&gt; &lt;a href=&#34;http://t.co/rKQ8I5i6Ty&#34;&gt;pic.twitter.com/rKQ8I5i6Ty&lt;/a&gt;&lt;/p&gt;&amp;mdash; Francis Villatoro (@emulenews) &lt;a href=&#34;https://twitter.com/emulenews/status/612988348400070656?ref_src=twsrc%5Etfw&#34;&gt;June 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+
+
 
 
 
@@ -2248,6 +2399,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-classification-results-to-quantify-the-difference-in-low-level-feature-statistics-across-categories-see-figure3-we-used-a-standard-support-vector-machine-svm-classifier-to-measure-how-each-representation-affected-the-classifiers-reliability-for-identifying-the-image-category-for-each-individual-image-we-constructed-a-vector-of-features-as-either-fo-the-histogram-of-first-order-statistics-as-the-histogram-of-edges-orientations-cm-the-chevron-map-subset-of-the-second-order-statistics-ie-the-two-dimensional-histogram-of-relative-orientation-and-azimuth-see-figure-2--or-so-the-full-four-dimensional-histogram-of-second-order-statistics-ie-all-parameters-of-the-edge-co-occurrences-we-gathered-these-vectors-for-each-different-class-of-images-and-report-here-the-results-of-the-svm-classifier-using-an-f1-score-50-represents-chance-level-while-it-was-expected-that-differences-would-be-clear-between-non-animal-natural-images-versus-laboratory-man-made-images-results-are-still-quite-high-for-classifying-animal-images-versus-non-animal-natural-images-and-are-in-the-range-reported-bycitetserre07-f1-score-of-80-for-human-observers-and-82-for-their-model-even-using-the-cm-features-alone-we-further-extend-this-results-to-the-psychophysical-results-of-serre-et-al-2007-in-figure-5&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Classification results. To quantify the difference in low-level feature statistics across categories (see Figure~3, we used a standard Support Vector Machine (SVM) classifier to measure how each representation affected the classifier&amp;#39;s reliability for identifying the image category. For each individual image, we constructed a vector of features as either (FO) the histogram of first-order statistics as the histogram of edges&amp;#39; orientations, (CM) the chevron map subset of the second-order statistics, (i.e., the two-dimensional histogram of relative orientation and azimuth; see Figure 2 ), or (SO) the full, four-dimensional histogram of second-order statistics (i.e., all parameters of the edge co-occurrences). We gathered these vectors for each different class of images and report here the results of the SVM classifier using an F1 score (50\% represents chance level). While it was expected that differences would be clear between non-animal natural images versus laboratory (man-made) images, results are still quite high for classifying animal images versus non-animal natural images, and are in the range reported by~\citet{Serre07} (F1 score of 80\% for human observers and 82\% for their model), even using the CM features alone. We further extend this results to the psychophysical results of Serre et al. (2007) in Figure 5.&#34; srcset=&#34;
@@ -2275,6 +2431,11 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-to-see-whether-the-patterns-of-errors-made-by-humans-are-consistent-with-our-model-we-studied-the-second-order-statistics-of-the-50-non-animal-images-that-human-subjects-in-serre-et-al-2007-most-commonly-falsely-reported-as-having-an-animal-we-call-this-set-of-images-the-false-alarm-image-dataset-left-this-chevron-map-plot-shows-the-ratio-between-the-second-order-statistics-of-the-false-alarm-images-and-the-full-non-animal-natural-image-dataset-computed-as-in-figure-3-left-just-as-for-the-images-that-actually-do-contain-animals-figure3-left-the-images-falsely-reported-as-having-animals-have-more-co-circular-and-converging-red-chevrons-and-fewer-collinear-and-orthogonal-configurations-blue-chevrons-right-to-quantify-this-similarity-we-computed-the-kullback-leibler-distance-between-the-histogram-of-each-of-these-images-from-the-false-alarm-image-dataset-and-the-average-histogram-of-each-class-the-difference-between-these-two-distances-gives-a-quantitative-measure-of-how-close-each-image-is-to-the-average-histograms-for-each-class-consistent-with-the-idea-that-humans-are-using-edge-co-occurences-to-do-rapid-image-categorization-the-50-non-animal-images-that-were-worst-classified-are-biased-toward-the-animal-histogram-d--104-while-the-550-best-classified-non-animal-images-are-closer-to-the-non-animal-histogram&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;#39; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram. &#34; srcset=&#34;
@@ -2287,7 +2448,8 @@ More complex parts of the brain are not required at this stage, contrary to what
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
       To see whether the patterns of errors made by humans are consistent with our model, we studied the second-order statistics of the 50 non-animal images that human subjects in Serre et al. (2007) most commonly falsely reported as having an animal. We call this set of images the false-alarm image dataset. (Left) This chevron map plot shows the ratio between the second-order statistics of the false-alarm images and the full non-animal natural image dataset, computed as in Figure 3 (left). Just as for the images that actually do contain animals (Figure~3, left), the images falsely reported as having animals have more co-circular and converging (red chevrons) and fewer collinear and orthogonal configurations (blue chevrons). (Right) To quantify this similarity, we computed the Kullback-Leibler distance between the histogram of each of these images from the false-alarm image dataset, and the average histogram of each class. The difference between these two distances gives a quantitative measure of how close each image is to the average histograms for each class. Consistent with the idea that humans are using edge co-occurences to do rapid image categorization, the 50 non-animal images that were worst classified are biased toward the animal histogram ($d&amp;rsquo; = 1.04$), while the 550 best classified non-animal images are closer to the non-animal histogram.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -2298,6 +2460,10 @@ More complex parts of the brain are not required at this stage, contrary to what
       <guid>https://laurentperrinet.github.io/publication/perrinet-adams-friston-14/</guid>
       <description>&lt;h1 id=&#34;active-inference-tracking-eye-movements-and-oculomotor-delays&#34;&gt;Active Inference, tracking eye movements and oculomotor delays&lt;/h1&gt;
 &lt;p&gt;Tracking eye movements face a difficult task: they have to be fast while they suffer inevitable delays. If we focus on area MT of humans for instance as it is crucial for detecting the motion of visual objects, sensory information coming to this area is already lagging some 35 milliseconds behind operational time – that is, it reflects some past information. Still the fastest action that may be done there is only able to reach the effector muscles of the eyes some 40 milliseconds later – that is, in the future. The tracking eye movement system is however able to respond swiftly and even to anticipate repetitive movements (e.g. Barnes et al, 2000 – refs in manuscript). In that case, it means that information in a cortical area is both predicted from the past sensory information but also anticipated to give an optimal response in the future. Even if numerous models have been described to model different mechanisms to account for delays, no theoretical approach has tackled the whole problem explicitly. In several areas of vision research, authors have proposed models at different levels of abstractions from biomechanical models, to neurobiological implementations (e.g. Robinson, 1986) or Bayesian models. This study is both novel and important because – using a neurobiologically plausible hierarchical Bayesian model – it demonstrates that using generalized coordinates to finesse the prediction of a target&amp;rsquo;s motion, the model can reproduce characteristic properties of tracking eye movements in the presence of delays. Crucially, the different refinements to the model that we propose – pursuit initiation, smooth pursuit eye movements, and anticipatory response – are consistent with the different types of tracking eye movements that may be observed experimentally.
+
+
+
+
 
 
 
@@ -2324,7 +2490,8 @@ More complex parts of the brain are not required at this stage, contrary to what
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;(A)&lt;/strong&gt; This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. &lt;strong&gt;(B)&lt;/strong&gt; This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -2335,6 +2502,8 @@ More complex parts of the brain are not required at this stage, contrary to what
       <guid>https://laurentperrinet.github.io/publication/khoei-13-jpp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
+
+
 
 
 
@@ -2418,6 +2587,8 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
+
+
 
 
 
@@ -2535,6 +2706,10 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-figure-1-the-problem-of-fragmented-trajectories-and-motion-extrapolation-as-an-object-moves-in-visual-space-as-represented-here-for-commodity-by-the-red-trajectory-of-a-tennis-ball-in-a-spacetime-diagram-with-a-one-dimensional-space-on-the-vertical-axis-the-sensory-flux-may-be-interrupted-by-a-sudden-and-transient-blank-as-denoted-by-the-vertical-gray-area-and-the-dashed-trajectory-how-can-the-instantaneous-position-of-the-dot-be-estimated-at-the-time-of-reappearance-this-mechanism-is-the-basis-of-motion-extrapolation-and-is-rooted-on-the-prior-knowledge-on-the-coherency-of-trajectories-in-natural-images-we-show-below-the-typical-eye-velocity-profile-that-is-observed-during-smooth-pursuit-eye-movements-spem-as-a-prototypical-sensory-response-it-consists-of-three-phases-first-a-convergence-of-the-eye-velocity-toward-the-physical-speed-second-a-drop-of-velocity-during-the-blank-and-finally-a-sudden-catch-up-of-speed-at-reappearance-becker-and-fuchs-1985&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985).&#34; srcset=&#34;
@@ -2547,7 +2722,8 @@ More complex parts of the brain are not required at this stage, contrary to what
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 1: The problem of fragmented trajectories and motion extrapolation. As an object moves in visual space (as represented here for commodity by the red trajectory of a tennis ball in a space–time diagram with a one-dimensional space on the vertical axis), the sensory flux may be interrupted by a sudden and transient blank (as denoted by the vertical, gray area and the dashed trajectory). How can the instantaneous position of the dot be estimated at the time of reappearance? This mechanism is the basis of motion extrapolation and is rooted on the prior knowledge on the coherency of trajectories in natural images. We show below the typical eye velocity profile that is observed during Smooth Pursuit Eye Movements (SPEM) as a prototypical sensory response. It consists of three phases: first, a convergence of the eye velocity toward the physical speed, second, a drop of velocity during the blank and finally, a sudden catch-up of speed at reappearance (Becker and Fuchs, 1985).
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -2559,6 +2735,8 @@ More complex parts of the brain are not required at this stage, contrary to what
       <guid>https://laurentperrinet.github.io/publication/kaplan-13/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
+
+
 
 
 
@@ -2651,6 +2829,8 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 
 
+
+
   
 
 
@@ -2722,6 +2902,8 @@ More complex parts of the brain are not required at this stage, contrary to what
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
+
+
 
 
 
@@ -2835,6 +3017,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
       <guid>https://laurentperrinet.github.io/publication/nava-13/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;relies on log-Gabor filters: 
+
+
 
 
 
@@ -3049,6 +3233,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
+
+
   
 
 
@@ -3127,6 +3313,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;/div&gt;
 
 
+ 
+ 
  
  
  
@@ -3224,6 +3412,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
+
+
   
 
 
@@ -3310,6 +3500,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-figure-4-broadband-vs-narrowband-stimuli-from-a-through-b-to-c-the-frequency-bandwidth-bf-increases-while-all-other-parameters-such-as-f0-are-kept-constant-the-mc-with-the-broadest-bandwidth-is-thought-to-best-represent-natural-stimuli-since-as-those-it-contains-many-frequency-components-a-bf--005-supplemental-movie-s4-b-bf--015-supplemental-movie-s5-c-bf--04-supplemental-movie-s6&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Figure 4** Broadband vs. narrowband stimuli. From A through B to C, the frequency bandwidth Bf increases, while all other parameters (such as f0) are kept constant. The MC with the broadest bandwidth is thought to best represent natural stimuli, since, as those, it contains many frequency components. A: Bf = 0:05 (Supplemental Movie S4). B: Bf = 0:15 (Supplemental Movie S5). C: Bf = 0:4 (Supplemental Movie S6).&#34; srcset=&#34;
@@ -3322,7 +3516,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;Figure 4&lt;/strong&gt; Broadband vs. narrowband stimuli. From A through B to C, the frequency bandwidth Bf increases, while all other parameters (such as f0) are kept constant. The MC with the broadest bandwidth is thought to best represent natural stimuli, since, as those, it contains many frequency components. A: Bf = 0:05 (Supplemental Movie S4). B: Bf = 0:15 (Supplemental Movie S5). C: Bf = 0:4 (Supplemental Movie S6).
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -3362,6 +3557,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Based on 
+
+
 
 
 
@@ -3491,6 +3688,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-band-pass-motion-stimuli-for-perception-and-action-tasks-a-in-the-space-representing-temporal-against-spatial-frequency-each-line-going-through-the-origin-corresponds-to-stimuli-moving-at-the-same-speed-a-simple-drifting-grating-is-a-single-point-in-this-space-our-moving-texture-stimuli-had-their-energy-distributed-within-an-ellipse-elongated-along-a-given-speed-line-keeping-constant-the-mean-spatial-and-temporal-frequencies-the-spatio-temporal-bandwidth-was-manipulated-by-co-varying-bsf-and-btf-as-illustrated-by-the-xyt-examples-human-performance-was-measured-for-two-different-tasks-run-in-parallel-blocks-b-for-ocular-tracking-motion-stimuli-were-presented-for-a-short-duration-200ms-in-the-wake-of-a-centering-saccade-to-control-both-attention-and-fixation-states-c-for-speed-discrimination-test-and-reference-stimuli-were-presented-successively-for-the-same-duration-and-subjects-were-instructed-to-indicate-whether-the-test-stimulus-was-perceived-as-slower-or-faster-than-reference&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Band-pass motion stimuli for perception and action tasks.* (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference. &#34;
@@ -3498,7 +3699,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
            loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Band-pass motion stimuli for perception and action tasks.&lt;/em&gt; (a) In the space representing temporal against spatial frequency, each line going through the origin corresponds to stimuli moving at the same speed. A simple drifting grating is a single point in this space. Our moving texture stimuli had their energy distributed within an ellipse elongated along a given speed line, keeping constant the mean spatial and temporal frequencies. The spatio-temporal bandwidth was manipulated by co-varying Bsf and Btf as illustrated by the (x,y,t) examples. Human performance was measured for two different tasks, run in parallel blocks. (b) For ocular tracking, motion stimuli were presented for a short duration (200ms) in the wake of a centering saccade to control both attention and fixation states. (c) For speed discrimination, test and reference stimuli were presented successively for the same duration and subjects were instructed to indicate whether the test stimulus was perceived as slower or faster than reference.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -3549,6 +3751,10 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-the-estimation-of-the-motion-of-an-elongated-slanted-segment-here-moving-horizontally-to-the-right-on-a-limited-area-such-as-the-receptive-field-of-a-neuron-leads-to-ambiguous-velocity-measurements-compared-to-physical-motion-its-the-aperture-problem-we-represent-as-arrows-the-velocity-vectors-that-are-most-likely-detected-by-a-motion-energy-model-hue-indicates-direction-angle-introducing-predictive-coding-resolves-the-aperture-problem&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.&#34;
@@ -3557,6 +3763,11 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
   &lt;/div&gt;&lt;figcaption&gt;
       The estimation of the motion of an elongated, slanted segment (here moving horizontally to the right) on a limited area (such as the receptive field of a neuron) leads to ambiguous velocity measurements compared to physical motion: it’s the aperture problem. We represent as arrows the velocity vectors that are most likely detected by a motion energy model; hue indicates direction angle. Introducing predictive coding resolves the aperture problem.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
 
 
 
@@ -3598,6 +3809,11 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-figure-2-architecture-of-the-model-the-model-is-constituted-by-a-classical-measurement-stage-and-of-a-predictive-coding-layer-the-measurement-stage-consists-of-a-inferring-from-two-consecutive-frames-of-the-input-flow-b-a-likelihood-distribution-of-motion-this-layer-interacts-with-the-predictive-layer-which-consists-of-c-a-prediction-stage-that-infers-from-the-current-estimate-and-the-transition-prior-the-upcoming-state-estimate-and-d-an-estimation-stage-that-merges-the-current-prediction-of-motion-with-the-likelihood-measured-at-the-same-instant-in-the-previous-layer-b&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of (C) a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).&#34; srcset=&#34;
@@ -3611,6 +3827,11 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 2: Architecture of the model. The model is constituted by a classical measurement stage and of a predictive coding layer. The measurement stage consists of (A) inferring from two consecutive frames of the input flow, (B) a likelihood distribution of motion. This layer interacts with the predictive layer which consists of (C) a prediction stage that infers from the current estimate and the transition prior the upcoming state estimate and (D) an estimation stage that merges the current prediction of motion with the likelihood measured at the same instant in the previous layer (B).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
 
 
 
@@ -3652,6 +3873,11 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-figure-4-top-prediction-implements-a-competition-between-different-trajectories-here-we-focus-on-one-step-of-the-algorithm-by-testing-different-trajectories-at-three-key-positions-of-the-segment-stimulus-the-two-edges-and-the-center-dashed-circles-compared-to-the-pure-sensory-velocity-likelihood-left-insets-in-grayscale-prediction-modulates-response-as-shown-by-the-velocity-vectors-direction-coded-as-hue-as-in-figure-1-and-by-the-ratio-of-velocity-probabilities-log-ratio-in-bits-right-insets-there-is-no-change-for-the-middle-of-the-segment-yellow-tone-but-trajectories-that-are-predicted-out-of-the-line-are-explained-away-navy-tone-while-others-may-be-amplified-orange-tone-notice-the-asymmetry-between-both-edges-the-upper-edge-carrying-a-suppressive-predictive-information-while-the-bottom-edge-diffuses-coherent-motion-bottom-finally-the-aperture-problem-is-solved-due-to-the-repeated-application-of-this-spatio-temporal-contextual-information-modulation-to-highlight-the-anisotropic-diffusion-of-information-over-the-rest-of-the-line-we-plot-as-a-function-of-time-horizontal-axis-the-histogram-of-the-detected-motion-marginalized-over-horizontal-positions-vertical-axis-while-detected-direction-of-velocity-is-given-by-the-distribution-of-hues-blueish-colors-correspond-to-the-direction-perpendicular-to-the-diagonal-while-a-green-color-represents-a-disambiguated-motion-to-the-right-as-in-figure-1-the-plot-shows-that-motion-is-disambiguated-by-progressively-explaining-away-incoherent-motion-note-the-asymmetry-in-the-propagation-of-coherent-information&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 4: *(Top)* Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. *(Bottom)* Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.&#34; srcset=&#34;
@@ -3664,7 +3890,8 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Figure 4: &lt;em&gt;(Top)&lt;/em&gt; Prediction implements a competition between different trajectories. Here, we focus on one step of the algorithm by testing different trajectories at three key positions of the segment stimulus: the two edges and the center (dashed circles). Compared to the pure sensory velocity likelihood (left insets in grayscale), prediction modulates response as shown by the velocity vectors (direction coded as hue as in Figure 1) and by the ratio of velocity probabilities (log ratio in bits, right insets). There is no change for the middle of the segment (yellow tone), but trajectories that are predicted out of the line are “explained away” (navy tone) while others may be amplified (orange tone). Notice the asymmetry between both edges, the upper edge carrying a suppressive predictive information while the bottom edge diffuses coherent motion. &lt;em&gt;(Bottom)&lt;/em&gt; Finally, the aperture problem is solved due to the repeated application of this spatio-temporal contextual information modulation. To highlight the anisotropic diffusion of information over the rest of the line, we plot as a function of time (horizontal axis) the histogram of the detected motion marginalized over horizontal positions (vertical axis), while detected direction of velocity is given by the distribution of hues. Blueish colors correspond to the direction perpendicular to the diagonal while a green color represents a disambiguated motion to the right (as in Figure 1). The plot shows that motion is disambiguated by progressively explaining away incoherent motion. Note the asymmetry in the propagation of coherent information.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -3715,12 +3942,17 @@ lication/khoei-13-jpp&amp;quot; view=&amp;ldquo;4&amp;rdquo; &amp;gt;}}&lt;/li&g
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-this-schematic-shows-the-dependencies-among-various-quantities-that-are-assumed-when-modeling-the-exchanges-of-a-self-organizing-system-like-the-brain-with-the-environment-the-top-panel-describes-the-states-of-the-environment-and-the-system-or-agent-in-terms-of-a-probabilistic-dependency-graph-where-connections-denote-directed-dependencies-the-quantities-are-described-within-the-nodes-of-this-graph-with-exemplar-forms-for-their-dependencies-on-other-variables-see-main-text-here-hidden-and-internal-states-are-separated-by-action-and-sensory-states-both-action-and-internal-states-encoding-a-conditional-density-minimize-free-energy-while-internal-states-encoding-prior-beliefs-maximize-salience-both-free-energy-and-salience-are-defined-in-terms-of-a-generative-model-that-is-shown-as-fictive-dependency-graph-in-the-lower-panel-note-that-the-variables-in-the-real-world-and-the-form-of-their-dynamics-are-different-from-that-assumed-by-the-generative-model-this-is-why-external-states-are-in-bold-furthermore-note-that-action-is-a-state-in-the-model-of-the-brain-but-is-replaced-by-hidden-controls-in-the-brains-model-of-its-world-this-means-that-the-agent-is-not-aware-of-action-but-has-beliefs-about-hidden-causes-in-the-world-that-action-can-fulfill-through-minimizing-free-energy-these-beliefs-correspond-to-prior-expectations-that-sensory-states-will-be-sampled-in-a-way-that-optimizes-conditional-confidence-or-salience&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; alt=&#34;**This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.** The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.&lt;/strong&gt; The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -3799,6 +4031,8 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;See a followup in 
+
+
 
 
 
@@ -3937,6 +4171,8 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 
 
 
+
+
   
 
 
@@ -4045,6 +4281,8 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;related publication : 
+
+
 
 
 
@@ -4256,6 +4494,10 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-figure-1-multiresolution-schemes-a-schematic-contours-of-the-log-gabor-filters-in-the-fourier-domain-with-5-scales-and-8-orientations-only-the-contours-at-78-of-the-filter-maximum-are-drawn-b-the-real-part-of-the-corresponding-filters-is-drawn-in-the-spatial-domain-the-two-first-scales-are-drawn-at-the-bottom-magnified-by-a-factor-of-4-for-a-better-visualization-the-different-scales-are-arranged-in-rows-and-the-orientations-in-columns-the-low-pass-filter-is-drawn-in-the-upper-left-part-c-the-corresponding-imaginary-parts-of-the-filters-are-shown-in-the-same-arrangement-note-that-the-low-pass-filter-does-not-have-imaginary-part-insets-b-and-c-show-the-final-filters-built-through-all-the-processes-described-in-section-2-d-in-the-proposed-scheme-the-elongation-of-log-gabor-wavelets-increases-with-the-number-of-orientations-nt--here-the-real-parts-left-column-and-imaginary-parts-right-column-are-drawn-for-the-3-4-6-8-10-12-and-16-orientation-schemes-e-as-a-comparison-orthogonal-wavelet-filters-db4-are-shown-horizontal-vertical-and-diagonal-wavelets-are-arranged-on-columns-low-pass-on-top-f-as-a-second-comparison-steerable-pyramid-filters-portilla-et-al-2003-are-shown-the-arrangement-over-scales-and-orientations-is-the-same-as-for-the-log-gabor-scheme&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**Figure 1** Multiresolution schemes. (a) Schematic contours of the log-Gabor filters in the Fourier domain with 5 scales and 8 orientations (only the contours at 78% of the filter maximum are drawn). (b) The real part of the corresponding filters is drawn in the spatial domain. The two first scales are drawn at the bottom magnified by a factor of 4 for a better visualization. The different scales are arranged in rows and the orientations in columns. The low-pass filter is drawn in the upper-left part. (c) The corresponding imaginary parts of the filters are shown in the same arrangement. Note that the low-pass filter does not have imaginary part. Insets (b) and (c) show the final filters built through all the processes described in Section 2. (d) In the proposed scheme the elongation of log-Gabor wavelets increases with the number of orientations nt . Here the real parts (left column) and imaginary parts (right column) are drawn for the 3, 4, 6, 8, 10, 12 and 16 orientation schemes. (e) As a comparison orthogonal wavelet filters ‘Db4’ are shown. Horizontal, vertical and diagonal wavelets are arranged on columns (low-pass on top). (f) As a second comparison, steerable pyramid filters (Portilla et al., 2003) are shown. The arrangement over scales and orientations is the same as for the log-Gabor scheme.&#34; srcset=&#34;
@@ -4268,7 +4510,8 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;Figure 1&lt;/strong&gt; Multiresolution schemes. (a) Schematic contours of the log-Gabor filters in the Fourier domain with 5 scales and 8 orientations (only the contours at 78% of the filter maximum are drawn). (b) The real part of the corresponding filters is drawn in the spatial domain. The two first scales are drawn at the bottom magnified by a factor of 4 for a better visualization. The different scales are arranged in rows and the orientations in columns. The low-pass filter is drawn in the upper-left part. (c) The corresponding imaginary parts of the filters are shown in the same arrangement. Note that the low-pass filter does not have imaginary part. Insets (b) and (c) show the final filters built through all the processes described in Section 2. (d) In the proposed scheme the elongation of log-Gabor wavelets increases with the number of orientations nt . Here the real parts (left column) and imaginary parts (right column) are drawn for the 3, 4, 6, 8, 10, 12 and 16 orientation schemes. (e) As a comparison orthogonal wavelet filters ‘Db4’ are shown. Horizontal, vertical and diagonal wavelets are arranged on columns (low-pass on top). (f) As a second comparison, steerable pyramid filters (Portilla et al., 2003) are shown. The arrangement over scales and orientations is the same as for the log-Gabor scheme.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -4352,6 +4595,8 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
       <guid>https://laurentperrinet.github.io/publication/fischer-07/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;relies on log-Gabor filters: 
+
+
 
 
 
@@ -4455,12 +4700,17 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-schematic-structure-of-the-primary-visual-cortex-implemented-in-the-present-study-simple-cortical-cells-are-modeled-through-log-gabor-functions-they-are-organized-in-pairs-in-quadrature-of-phase-dark-gray-circles-for-each-position-the-set-of-different-orientations-compose-a-pinwheel-large-light-gray-circles-the-retinotopic-organization-induces-that-adjacent-spatial-positions-are-arranged-in-adjacent-pinwheels-inhibition-interactions-occur-towards-the-closest-adjacent-positions-which-are-in-the-direc-tions-perpendicular-to-the-cell-preferred-orientation-and-toward-adjacent-orientations-light-red-connections-facilitation-occurs-to-wards-co-aligned-cells-up-to-a-larger-distance-dark-blue-connections&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/fischer-07/figure2.png&#34; alt=&#34;Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections). &#34; loading=&#34;lazy&#34; data-zoomable width=&#34;80%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Schematic structure of the primary visual cortex implemented in the present study. Simple cortical cells are modeled through log-Gabor functions. They are organized in pairs in quadrature of phase (dark-gray circles). For each position the set of different orientations compose a pinwheel (large light-gray circles). The retinotopic organization induces that adjacent spatial positions are arranged in adjacent pinwheels. Inhibition interactions occur towards the closest adjacent positions which are in the direc-tions perpendicular to the cell preferred orientation and toward adjacent orientations (light-red connections). Facilitation occurs to-wards co-aligned cells up to a larger distance (dark-blue connections).
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -4512,6 +4762,10 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-multi-scale-oriented-representation&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*&#34;
@@ -4519,7 +4773,8 @@ Le code neural est mieux compris grâce aux techniques d’imagerie récentes. L
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/active-inference/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/active-inference/index.xml" rel="self" type="application/rss+xml" />
     <description>active inference</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>active inference</title>
@@ -19,6 +19,8 @@
       <guid>https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-retinotopic/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Follows a previous work 
+
+
 
 
 
@@ -126,6 +128,8 @@
 
 
 
+
+
   
 
 
@@ -135,8 +139,11 @@
 &lt;video controls  &gt;
   &lt;source src=&#34;https://laurentperrinet.github.io/talk/2022-06-19-neuro-vision-retinotopic/2022-06-10_Jeremie-etal-NeuroVision_video-abstract.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
+
 &lt;ul&gt;
 &lt;li&gt;for a follow-up, check out  
+
+
 
 
 
@@ -225,6 +232,8 @@
       <guid>https://laurentperrinet.github.io/publication/dauce-20-iwai/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;a follow-up of: 
+
+
 
 
 
@@ -339,10 +348,15 @@
 
 
 
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/li&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
 &lt;li&gt;What:: talk @ &lt;a href=&#34;https://iwaiworkshop.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1st International Workshop on Active Inference (IWAI 2020)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Who:: Emmanuel Daucé and Laurent Perrinet&lt;/li&gt;
 &lt;li&gt;Where: Ghent (Belgium), gone virtual, see &lt;a href=&#34;https://laurentperrinet.github.io/talk/2020-09-14-iwai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/talk/2020-09-14-iwai&lt;/a&gt;&lt;/li&gt;
@@ -376,12 +390,19 @@
 
 
 
+
+
+
+
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://github.com/laurentperrinet/2020-09-14_IWAI/blob/master/2020-09-10_video-abstract.gif?raw=true&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;for a more mathematical treatment, see 
+
+
 
 
 
@@ -551,12 +572,21 @@ List of Contributors :&lt;/li&gt;
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-problem-setting-in-generic-ecological-settings-the-visual-system-faces-a-tricky-problem-when-searching-for-one-target-from-a-class-of-targets-in-a-cluttered-environment-a-it-is-synthesized-in-the-following-experiment-after-a-fixation-period-of-200-ms-an-observer-is-presented-with-a-luminous-display--showing-a-single-target-from-a-known-class-here-digits-and-at-a-random-position-the-display-is-presented-for-a-short-period-of-500-ms-light-shaded-area-in-b-that-is-enough-to-perform-at-most-one-saccade-here-successful-on-the-potential-target-finally-the-observer-has-to-identify-the-digit-by-a-keypress-b-prototypical-trace-of-a-saccadic-eye-movement-to-the-target-position-in-particular-we-show-the-fixation-window-and-the-temporal-window-during-which-a-saccade-is-possible-green-shaded-area-c-simulated-reconstruction-of-the-visual-information-from-the-interoceptive-retinotopic-map-at-the-onset-of-the-display-and-after-a-saccade-the-dashed-red-box-indicating-the-visual-area-of-the-what-pathway-in-contrast-to-an-exteroceptive-representation-see-a-this-demonstrates-that-the-position-of-the-target-has-to-be-inferred-from-a-degraded-sampled-image-in-particular-the-configuration-of-the-display-is-such-that-by-adding-clutter-and-reducing-the-size-of-the-digit-it-may-become-necessary-to-perform-a-saccade-to-be-able-to-identify-the-digit-the-computational-pathway-mediating-the-action-has-to-infer-the-location-of-the-target-emphbefore-seeing-it-that-is-before-being-able-to-actually-identify-the-targets-category-from-a-central-fixation&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/SpikeAI/2019-07-15_CNS/master/figures/fig_intro.jpg&#34; alt=&#34;Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. **A)** It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. **B)** Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). **C)** Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;#39;&amp;#39; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;#39;s category from a central fixation. &#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Problem setting: In generic, ecological settings, the visual system faces a tricky problem when searching for one target (from a class of targets) in a cluttered environment. &lt;strong&gt;A)&lt;/strong&gt; It is synthesized in the following experiment: After a fixation period of 200 ms, an observer is presented with a luminous display  showing a single target from a known class (here digits) and at a random position. The display is presented for a short period of 500 ms (light shaded area in B), that is enough to perform at most one saccade (here, successful) on the potential target. Finally, the observer has to identify the digit by a keypress. &lt;strong&gt;B)&lt;/strong&gt; Prototypical trace of a saccadic eye movement to the target position. In particular, we show the fixation window and the temporal window during which a saccade is possible (green shaded area). &lt;strong&gt;C)&lt;/strong&gt; Simulated reconstruction of the visual information from the (interoceptive) retinotopic map at the onset of the display and after a saccade, the dashed red box indicating the visual area of the ``what&amp;rsquo;&amp;rsquo; pathway. In contrast to an exteroceptive representation (see A), this demonstrates that the position of the target has to be inferred from a degraded (sampled) image. In particular, the configuration of the display is such that by adding clutter and reducing the size of the digit, it may become necessary to perform a saccade to be able to identify the digit. The computational pathway mediating the action has to infer the location of the target \emph{before seeing it}, that is, before being able to actually identify the target&amp;rsquo;s category from a central fixation.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
 
 
 
@@ -591,6 +621,11 @@ List of Contributors :&lt;/li&gt;
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-results-failure-to-classify&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-32.png&#34; alt=&#34;Results: failure to classify&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -611,12 +646,18 @@ List of Contributors :&lt;/li&gt;
 
 
 
+
+
+
+
+
 &lt;figure  id=&#34;figure-results-failure-to-locate&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://spikeai.github.io/2019-07-15_CNS/figures/CNS-saccade-47.png&#34; alt=&#34;Results: failure to locate&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Results: failure to locate
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -650,6 +691,10 @@ List of Contributors :&lt;/li&gt;
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-a-this-figure-reports-the-response-of-predictive-processing-during-the-simulation-of-pursuit-initiation-using-a-single-sweep-of-a-visual-target-while-compensating-for-sensory-motor-delays-here-we-see-horizontal-excursions-of-oculomotor-angle-red-line-one-can-see-clearly-the-initial-displacement-of-the-target-that-is-suppressed-by-action-after-a-few-hundred-milliseconds-additionally-we-illustrate-the-effects-of-assuming-wrong-sensorimotor-delays-on-pursuit-initiation-under-pure-sensory-delays-blue-dotted-line-one-can-see-clearly-the-delay-in-sensory-predictions-in-relation-to-the-true-inputs-with-pure-motor-delays-blue-dashed-line-and-with-combined-sensorimotor-delays-blue-line-there-is-a-failure-of-optimal-control-with-oscillatory-fluctuations-in-oculomotor-trajectories-which-may-become-unstable-b-this-figure-reports-the-simulation-of-smooth-pursuit-when-the-target-motion-is-hemi-sinusoidal-as-would-happen-for-a-pendulum-that-would-be-stopped-at-each-half-cycle-left-of-the-vertical-broken-black-lines-in-the-lower-right-panel-we-report-the-horizontal-excursions-of-oculomotor-angle-the-generative-model-used-here-has-been-equipped-with-a-second-hierarchical-level-that-contains-hidden-states-modeling-latent-periodic-behavior-of-the-hidden-causes-of-target-motion-with-this-addition-the-improvement-in-pursuit-accuracy-apparent-at-the-onset-of-the-second-cycle-of-motion-is-observed-pink-shaded-area-similar-to-psychophysical-experimentss&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;**(A)** This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. **(B)** This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.&#34; srcset=&#34;
@@ -662,7 +707,8 @@ List of Contributors :&lt;/li&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;(A)&lt;/strong&gt; This figure reports the response of predictive processing during the simulation of pursuit initiation, using a single sweep of a visual target, while compensating for sensory motor delays. Here, we see horizontal excursions of oculomotor angle (red line). One can see clearly the initial displacement of the target that is suppressed by action after a few hundred milliseconds. Additionally, we illustrate the effects of assuming wrong sensorimotor delays on pursuit initiation. Under pure sensory delays (blue dotted line), one can see clearly the delay in sensory predictions, in relation to the true inputs. With pure motor delays (blue dashed line) and with combined sensorimotor delays (blue line) there is a failure of optimal control with oscillatory fluctuations in oculomotor trajectories, which may become unstable. &lt;strong&gt;(B)&lt;/strong&gt; This figure reports the simulation of smooth pursuit when the target motion is hemi-sinusoidal, as would happen for a pendulum that would be stopped at each half cycle left of the vertical (broken black lines in the lower-right panel). We report the horizontal excursions of oculomotor angle. The generative model used here has been equipped with a second hierarchical level that contains hidden states, modeling latent periodic behavior of the (hidden) causes of target motion. With this addition, the improvement in pursuit accuracy apparent at the onset of the second cycle of motion is observed (pink shaded area), similar to psychophysical experimentss.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -773,12 +819,17 @@ List of Contributors :&lt;/li&gt;
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-this-schematic-shows-the-dependencies-among-various-quantities-that-are-assumed-when-modeling-the-exchanges-of-a-self-organizing-system-like-the-brain-with-the-environment-the-top-panel-describes-the-states-of-the-environment-and-the-system-or-agent-in-terms-of-a-probabilistic-dependency-graph-where-connections-denote-directed-dependencies-the-quantities-are-described-within-the-nodes-of-this-graph-with-exemplar-forms-for-their-dependencies-on-other-variables-see-main-text-here-hidden-and-internal-states-are-separated-by-action-and-sensory-states-both-action-and-internal-states-encoding-a-conditional-density-minimize-free-energy-while-internal-states-encoding-prior-beliefs-maximize-salience-both-free-energy-and-salience-are-defined-in-terms-of-a-generative-model-that-is-shown-as-fictive-dependency-graph-in-the-lower-panel-note-that-the-variables-in-the-real-world-and-the-form-of-their-dynamics-are-different-from-that-assumed-by-the-generative-model-this-is-why-external-states-are-in-bold-furthermore-note-that-action-is-a-state-in-the-model-of-the-brain-but-is-replaced-by-hidden-controls-in-the-brains-model-of-its-world-this-means-that-the-agent-is-not-aware-of-action-but-has-beliefs-about-hidden-causes-in-the-world-that-action-can-fulfill-through-minimizing-free-energy-these-beliefs-correspond-to-prior-expectations-that-sensory-states-will-be-sampled-in-a-way-that-optimizes-conditional-confidence-or-salience&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.frontiersin.org/files/Articles/21922/fpsyg-03-00151-r4/image_m/fpsyg-03-00151-g001.jpg&#34; alt=&#34;**This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.** The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;strong&gt;This schematic shows the dependencies among various quantities that are assumed when modeling the exchanges of a self organizing system like the brain with the environment.&lt;/strong&gt; The top panel describes the states of the environment and the system or agent in terms of a probabilistic dependency graph, where connections denote directed dependencies. The quantities are described within the nodes of this graph with exemplar forms for their dependencies on other variables (see main text). Here, hidden and internal states are separated by action and sensory states. Both action and internal states encoding a conditional density minimize free energy, while internal states encoding prior beliefs maximize salience. Both free energy and salience are defined in terms of a generative model that is shown as fictive dependency graph in the lower panel. Note that the variables in the real world and the form of their dynamics are different from that assumed by the generative model; this is why external states are in bold. Furthermore, note that action is a state in the model of the brain but is replaced by hidden controls in the brain’s model of its world. This means that the agent is not aware of action but has beliefs about hidden causes in the world that action can fulfill through minimizing free energy. These beliefs correspond to prior expectations that sensory states will be sampled in a way that optimizes conditional confidence or salience.
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     

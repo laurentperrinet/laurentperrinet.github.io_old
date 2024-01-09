@@ -5,7 +5,7 @@
     <link>https://laurentperrinet.github.io/tag/spike/</link>
       <atom:link href="https://laurentperrinet.github.io/tag/spike/index.xml" rel="self" type="application/rss+xml" />
     <description>spike</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author&#39;s copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder. This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License Please note that multiple distribution, publication or commercial usage of copyrighted papers included in this website would require submission of a permission request addressed to the journal in which the paper appeared. </copyright><lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://laurentperrinet.github.io/media/icon_hu064773317e508d3c994dd612a46c4bf9_247868_512x512_fill_lanczos_center_3.png</url>
       <title>spike</title>
@@ -27,6 +27,8 @@
       <guid>https://laurentperrinet.github.io/publication/kaplan-13/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Based on 
+
+
 
 
 
@@ -119,6 +121,8 @@
 
 
 
+
+
   
 
 
@@ -190,6 +194,8 @@
 
 &lt;/li&gt;
 &lt;li&gt;see  follow-up on the flash-lag effect: 
+
+
 
 
 
@@ -330,6 +336,8 @@ This chapter introduces the book. See also:&lt;/p&gt;
 
 
 
+
+
   
 
 
@@ -394,6 +402,8 @@ This chapter introduces the book. See also:&lt;/p&gt;
 
 &lt;/li&gt;
 &lt;li&gt;
+
+
 
 
 
@@ -535,6 +545,10 @@ This chapter introduces the book. See also:&lt;/p&gt;
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-progressive-reconstruction-of-a-static-image-using-spikes-in-a-multi-scale-oriented-representation&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;*Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.*&#34;
@@ -542,7 +556,8 @@ This chapter introduces the book. See also:&lt;/p&gt;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Progressive reconstruction of a static image using spikes in a multi-scale oriented representation.&lt;/em&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -573,6 +588,10 @@ This chapter introduces the book. See also:&lt;/p&gt;
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-le-jury-était-consistué-de-gauche-à-droite-de-jeanny-hérault-rapporteur-michel-imbert-président-yves-burnod-rapporteur-absent-de-la-photo-manuel-samuelides-directeur-de-thèse-et-simon-thorpe-co-directeur-de-thèse&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Le jury était consistué (de gauche à droite) de Jeanny Hérault (Rapporteur), Michel Imbert (Président), Yves Burnod (Rapporteur, absent de la photo), Manuel Samuelides (Directeur de thèse) et Simon Thorpe (Co-directeur de thèse).&#34; srcset=&#34;
@@ -586,6 +605,7 @@ This chapter introduces the book. See also:&lt;/p&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Le jury était consistué (de gauche à droite) de Jeanny Hérault (Rapporteur), Michel Imbert (Président), Yves Burnod (Rapporteur, absent de la photo), Manuel Samuelides (Directeur de thèse) et Simon Thorpe (Co-directeur de thèse).
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 </description>
     </item>
     
