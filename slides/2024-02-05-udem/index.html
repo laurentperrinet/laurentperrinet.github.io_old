@@ -24,7 +24,7 @@
   <title>2024-02-05-udem.md | Novel visual computations</title>
 
   
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/theme/white.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/theme/simple.min.css">
 
   
   
@@ -36,6 +36,10 @@
 
   
   
+  
+    
+    
+    <link rel="stylesheet" href="/css/reveal_custom.min.css">
   
 </head>
 <body>
@@ -62,11 +66,11 @@
     <section>
     
       <section>
-<h2 id="neuromorphic-models-of-visionhttpslaurentperrinetgithubioslides2024-02-05-udemtransitionfade"><a href="https://laurentperrinet.github.io/slides/2024-02-05-udem/?transition=fade" target="_blank" rel="noopener">Neuromorphic models of vision</a></h2>
+<h3 id="neuromorphic-models-of-visionhttpslaurentperrinetgithubioslides2024-02-05-udemtransitionfade"><a href="https://laurentperrinet.github.io/slides/2024-02-05-udem/?transition=fade" target="_blank" rel="noopener">Neuromorphic models of vision</a></h3>
 <h4 id="laurent-perrinethttpslaurentperrinetgithubio"><em><a href="https://laurentperrinet.github.io" target="_blank" rel="noopener">Laurent Perrinet</a></em></h4>
 <h4 id="u2024-02-05httpslaurentperrinetgithubiotalk2023-12-01-biocomp-seminar-at-udems-school-of-optometry-montréalhttpsoptoumontrealcaecoleenglishu"><u><a href="https://laurentperrinet.github.io/talk/2023-12-01-biocomp" target="_blank" rel="noopener">[2024-02-05]</a> <a href="https://opto.umontreal.ca/ecole/english/" target="_blank" rel="noopener">Seminar at UdeM’s School of Optometry, Montréal</a></u></h4>
 <img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
-<p><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
+<h4 id="laurentperrinetuniv-amufrmailtolaurentperrinetuniv-amufr"><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></h4>
 <aside class="notes">
   <h2 id="when-brains-meet-computing-machines">When brains meet computing machines</h2>
 <p>*Hello, can you hear me in the back? First of all, I&rsquo;d like to <em>thank</em> the organizers for this opportunity and all of you for coming.</p>
@@ -381,7 +385,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
 <section>
 <h1 id="event-based-cameras">Event-Based Cameras</h1>
 <aside class="notes">
-  Transitioning from conventional frame-based cameras, we now focus on the <em>event camera</em>, a highly promising bio-inspired visual sensor.
+  Transitioning from conventional frame-based cameras, we now focus on the <em>event-based camera</em>, a highly promising bio-inspired visual sensor.
 </aside>
 
     </section>
@@ -423,7 +427,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
 <li>First, each pixel of an event-based camera is <em>independent</em>, operating without a synchronized global clock.</li>
 <li>Second, each pixel detects changes in <em>logarithmic light intensity</em> and generates a binary event only if the change exceeds a <em>threshold</em>. If the change is an increment - that is, the log intensity has increased - the event has positive polarity; if it&rsquo;s a decrement, the event has negative polarity.</li>
 </ul>
-<p>In summary, an event is generated asynchronously when a pixel-level change in brightness is detected. This results in superior temporal resolution and reduced susceptibility to motion blur, making event cameras ideal for capturing fast-moving scenes. Now let&rsquo;s explain how discrete events are generated in response to an analog signal that continuously evolves over time.</p>
+<p>In summary, an event is generated asynchronously when a pixel-level change in brightness is detected. This results in superior temporal resolution and reduced susceptibility to motion blur, making event cameras ideal for capturing fast-moving scenes.</p>
 
 </aside>
 
@@ -669,7 +673,7 @@ https://prostheticknowledge.tumblr.com/post/163324909991/dvs128-gesture-dataset-
 https://github.com/idsc-frazzoli/retina?tab=readme-ov-file
 https://user-images.githubusercontent.com/4012178/30553969-2948547a-9ca3-11e7-91e8-159806c7e329.gif -->
 <aside class="notes">
-  We considered a classification task using a classic camera dataset, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.
+  Let&rsquo;s take some examples from a classic dataset, DVS gesture. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene, hiding static parts. Let&rsquo;s explain how discrete events are generated in response to the luminous input that continuously evolves over time.
 </aside>
 
     </section>
@@ -2019,11 +2023,11 @@ This is what we&rsquo;ve done, by first removing the parts of the core correspon
     
       
 <section>
-<h1 id="neuromorphic-models-of-visionhttpslaurentperrinetgithubioslides2024-02-05-udemtransitionfade-1"><a href="https://laurentperrinet.github.io/slides/2024-02-05-udem/?transition=fade" target="_blank" rel="noopener">Neuromorphic models of vision</a></h1>
+<h3 id="neuromorphic-models-of-visionhttpslaurentperrinetgithubioslides2024-02-05-udemtransitionfade-1"><a href="https://laurentperrinet.github.io/slides/2024-02-05-udem/?transition=fade" target="_blank" rel="noopener">Neuromorphic models of vision</a></h3>
 <h4 id="laurent-perrinethttpslaurentperrinetgithubio-1"><em><a href="https://laurentperrinet.github.io" target="_blank" rel="noopener">Laurent Perrinet</a></em></h4>
 <h4 id="u2024-02-05httpslaurentperrinetgithubiotalk2023-12-01-biocomp-seminar-at-udems-school-of-optometry-montréalhttpsoptoumontrealcaecoleenglishu-1"><u><a href="https://laurentperrinet.github.io/talk/2023-12-01-biocomp" target="_blank" rel="noopener">[2024-02-05]</a> <a href="https://opto.umontreal.ca/ecole/english/" target="_blank" rel="noopener">Seminar at UdeM’s School of Optometry, Montréal</a></u></h4>
 <img src="https://github.com/laurentperrinet/perrinet_curriculum-vitae.tex/raw/master/troislogos.jpg" alt="logos" height="130"/>
-<p><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
+<h4 id="laurentperrinetuniv-amufrmailtolaurentperrinetuniv-amufr-1"><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></h4>
 <aside class="notes">
   <p>In conclusion, we have seen that event-driven cameras open the door to new applications that mimic the performance of the human eye, in terms of computational dynamics, adaptation to light conditions and energy constraints. This technological development has recently been accompanied by the development of neuromorphic chips and innovative algorithms in the form of spiking neural networks. However, there is still a great deal of progress to be made at theoretical level, particularly in the understanding of these spiking neural networks, and we have shown the potential progress that can be made by exploiting the richness of temporal representations, particularly by taking advantage of heterogeneous delays.
 Beyond these particular applications to natural image processing, I hope to have succeeded in demonstrating the importance of cross-fertilizing the field of engineering applications in general with biological neuroscience. This new line of research - known as NeuroAI or, more generally, as computational neuroscience - is likely to develop over the next few years. Thank you for your attention.</p>
