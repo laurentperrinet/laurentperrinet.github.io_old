@@ -285,7 +285,10 @@ This technology is highly efficient for a wide range of signals. However, it doe
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-cameras-dvs-gesture&#34;&gt;Event-Based Cameras: DVS gesture&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_arm-roll.webp&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_hand-clap.webp&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_air-guitar.webp&#34;  width=&#34;33%&#34;/&gt;&lt;/p&gt;
 &lt;!-- 
+https://prostheticknowledge.tumblr.com/post/163324909991/dvs128-gesture-dataset-release-from-ibm-research
+
 
 
 
@@ -351,9 +354,7 @@ This technology is highly efficient for a wide range of signals. However, it doe
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
- --&gt;
-&lt;p&gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34;  width=&#34;33%&#34;/&gt;&lt;/p&gt;
-&lt;!-- !&#34;&#34; width=&#34;33%&#34; &gt;}}
+
 
 
 
@@ -397,7 +398,124 @@ This technology is highly efficient for a wide range of signals. However, it doe
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
- --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34;  width=&#34;33%&#34;/&gt;
+&lt;img src=https://user-images.githubusercontent.com/4012178/27771912-cb58ebb8-5f58-11e7-9566-79f3fbc5d9ba.gif&#34;  width=&#34;33%&#34;/&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ 
+
+https://github.com/idsc-frazzoli/retina?tab=readme-ov-file
+https://user-images.githubusercontent.com/4012178/30553969-2948547a-9ca3-11e7-91e8-159806c7e329.gif --&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   We considered a classification task using a classic camera dataset, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.
 &lt;/aside&gt;
@@ -800,119 +918,7 @@ Another key feature is their ability to detect a very wide &lt;em&gt;range&lt;/e
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;always-on-object-recognition-dvs-gesture&#34;&gt;Always-on Object Recognition: DVS gesture&lt;/h2&gt;
-&lt;!-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
- --&gt;
-&lt;p&gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34;  width=&#34;33%&#34;/&gt;&lt;/p&gt;
-&lt;!-- !&#34;&#34; width=&#34;33%&#34; &gt;}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;33%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
- --&gt;
+&lt;p&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_arm-roll.webp&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_hand-clap.webp&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_air-guitar.webp&#34;  width=&#34;33%&#34;/&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   We considered a classification task using a classic camera dataset, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.
 &lt;/aside&gt;
