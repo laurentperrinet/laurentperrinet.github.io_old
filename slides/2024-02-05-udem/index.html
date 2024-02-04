@@ -69,8 +69,9 @@
 <p><a href="mailto:laurent.perrinet@univ-amu.fr">laurent.perrinet@univ-amu.fr</a></p>
 <aside class="notes">
   <h2 id="when-brains-meet-computing-machines">When brains meet computing machines</h2>
-<p><em>Hello</em>, can you hear me in the back? First, I&rsquo;d like to <em>thank</em> organizers for this opportunity, and all of you for coming. These slides are available from my website, along with a number of references.</p>
-<p>I&rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and I&rsquo;m a computational neuroscientist interested in large scale models of vision. during this seminar for the &ldquo;groupe de recherche de la vision de l&rsquo;UdeM&rdquo;, I&rsquo;ll be focusing on neuromorphic models, by presenting to you <em>event-driven cameras</em>, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. The <em>outline</em> of the talk is as follows: initially, I will explain the concept of an event-driven camera, especially in comparison to a traditional frame-based camera. Following that, we’ll explore some applications of these cameras using specific algorithms. Lastly, we’ll delve into how our understanding of neuroscience can enhance these algorithms.</p>
+<p>*Hello, can you hear me in the back? First of all, I&rsquo;d like to <em>thank</em> the organizers for this opportunity and all of you for coming.</p>
+<p>I&rsquo;m Laurent Perrinet from the Institut des Neurosciences de la Timone, a joint AMU / CNRS unit, and I&rsquo;m a computational neuroscientist interested in large-scale models of vision. During this seminar for the &ldquo;groupe de recherche de la vision de l&rsquo;UdeM&rdquo;, I&rsquo;ll focus on neuromorphic models by introducing you to <em>event-driven cameras</em>, a new technology in the field of imaging, and the impact of this technology on our understanding of vision. The <em>outline</em> of the talk is as follows: first, I will explain the concept of an event-driven camera, especially in comparison to a traditional frame-based camera. Then we&rsquo;ll explore some applications of these cameras using specific algorithms. Finally, we&rsquo;ll look at how our understanding of neuroscience can improve these algorithms.</p>
+<p>Relax, these slides along with a number of references and useful links are available on my website.</p>
 
 </aside>
 </section>
@@ -87,7 +88,7 @@
 <section>
 <h1 id="sensing-light">Sensing light</h1>
 <aside class="notes">
-  First of all, the objective of <em>imaging technologies</em> is to represent a visual signal, which includes luminous intensity and color, distributed over the visual field to create a realistic representation of a visual scene. Let&rsquo;s see an example.
+  The primary goal of <em>imaging technologies</em> is to represent a visual signal, i.e. the intensity and color of light as it is distributed across the visual field, in order to create a realistic representation of a visual scene. Let&rsquo;s look at an example.
 </aside>
 
     </section>
@@ -105,7 +106,7 @@
   >
 
 <aside class="notes">
-  For example, this galloping horse gives us the feeling that we’re seeing a scene right in front of us. This imaging technique allowed by the chain of preocesses from my computer to the beamer seems to move smoothly, but it’s actually an <em>illusion</em> called apparent motion. This happens when still images are shown one after another, very quickly, making it look like the scene is moving. Our brains interpret these separate images as a single unified moving scene. This technique is the foundation of motion pictures and animation, where frames are displayed quickly enough to give the <em>illusion</em> of continuous motion.
+  For example, this galloping horse makes us feel like we&rsquo;re seeing this real scene right in front of us. This imaging technique, made possible by the chain of pre-processing from my computer to the projector, appears to move smoothly, but it&rsquo;s actually an <em>illusion</em> called apparent motion. This is what happens when still images are shown one after another, very quickly, making it appear as if the scene is moving all the time: Our brains interpret these separate images as a single, unified moving scene. This technique is the basis of motion pictures and animation, where frames are displayed quickly enough to create the <em>illusion</em> of continuous motion. Lowering the frame rate reveals this illusion&hellip;
 </aside>
 
     </section>
@@ -123,8 +124,8 @@
   >
 
 <aside class="notes">
-  <p>Imaging techniques have also opened doors to new scientific discoveries. For example, back in the late 19th century, scientists wondered if horses lifted all four hooves off the ground when they galloped. It was too fast for our eyes to see. Eadweard Muybridge solved this puzzle using <em>chronophotography</em>, an early form of photography that captures movement. He took a series of photos of a running horse and showed that, yes, there are moments when all four hooves are in the air. This breakthrough helped us understand animal movement better and paved the way for modern cameras.</p>
-<p>This technique is inspired by the research carried out by <a href="https://en.wikipedia.org/wiki/%c3%89tienne-Jules_Marey" target="_blank" rel="noopener">Étienne-Jules <em>Marey</em></a>, under the term <em>chronophotography</em>, litterally shooting scene with a gun-like apparatus to shoot a visual scene. This notably enabled later Muybridge to scientifically demonstrate the mechanism of a horse&rsquo;s gallop.</p>
+  <p>&hellip; and this example demonstrates that since numerous years imaging techniques have also opened the door to new scientific discoveries. For example, in the late 19th century, scientists wondered if horses lifted all four hooves off the ground when they galloped. It was too fast for the human eye to see. Eadweard Muybridge solved this mystery using <em>chronophotography</em>, an early form of photography that captures motion. He took a series of photographs of a horse running and showed that there are moments when all four hooves are in the air. This breakthrough helped us better understand animal movement and paved the way for modern cameras.</p>
+<p>This technique is inspired by the research of [Étienne-Jules <em>Marey</em>] (<a href="https://en.wikipedia.org/wiki/" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/</a>Étienne-Jules_Marey), under the term <em>chronophotography</em>, which is the use of a rifle-like apparatus to photograph a visual scene. This technique allowed Muybridge, in particular, to scientifically demonstrate the mechanism of a horse&rsquo;s gallop. The movie theater became popular only afterwards.</p>
 <p><a href="http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The&#43;Horse&#43;in&#43;Motion,&#43;1878.%C2%A0Eadweard&#43;Muybridge&#43;%28b.&#43;9&#43;April,&#43;1830%29The&#43;first&#43;movie&#43;ever&#43;made,&#43;from&#43;still&#43;photographs..gif" target="_blank" rel="noopener">http://4.bp.blogspot.com/-AHprBxkfu5o/UJ-lqR7GsmI/AAAAAAAAHpo/VJzY7HMuXe0/s1600/The+Horse+in+Motion,+1878.%C2%A0Eadweard+Muybridge+(b.+9+April,+1830)The+first+movie+ever+made,+from+still+photographs..gif</a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/0/07/The_Horse_in_Motion-anim.gif" target="_blank" rel="noopener">https://upload.wikimedia.org/wikipedia/commons/0/07/The_Horse_in_Motion-anim.gif</a></p>
 
@@ -145,8 +146,7 @@
   >
 
 <aside class="notes">
-  <p>The use of such dynamic <em>visualization</em> is crucial in the scientific field, whether in biology or physics, as it enables us to quantify the characteristics of the experiment being carried out.
-In the laboratory, for example, we use it in particular to quantify <em>eye movements</em> when a stimulus is presented to an observer.</p>
+  <p>The use of such dynamic <em>visualization</em> is crucial in the scientific field, whether in biology or physics, as it allows us to quantify the characteristics of the experiment being conducted, and this is certainly one of the reasons for your presence and an important aspect of your daily work. In the laboratory, for example, we use it in particular to quantify <em>eye movements</em> when a stimulus is presented to an observer.</p>
 <p><a href="https://hackaday.com/wp-content/uploads/2018/04/saccades.gif?w=600&amp;h=600" target="_blank" rel="noopener">https://hackaday.com/wp-content/uploads/2018/04/saccades.gif?w=600&h=600</a>
 <a href="http://38.media.tumblr.com/831aada3328557146e214efe1cb867a5/tumblr_mslrotKPS01snyrdto1_500.gif" target="_blank" rel="noopener">http://38.media.tumblr.com/831aada3328557146e214efe1cb867a5/tumblr_mslrotKPS01snyrdto1_500.gif</a>
 <a href="https://www.filmsranked.com/wp-content/uploads/2020/05/two-fencers.gif%22" target="_blank" rel="noopener">https://www.filmsranked.com/wp-content/uploads/2020/05/two-fencers.gif"</a></p>
@@ -418,11 +418,140 @@ This technology is highly efficient for a wide range of signals. However, it doe
   </div></figure>
 
 <aside class="notes">
-  <p>An event-based camera is equipped with a sensor that, much like common CMOS sensors, converts light into electrical current. Yet, it stands apart from standard frame-based cameras by taking inspiration from the human retina. There are two main differences with respect to frame-based camera:
-Firstly each pixel of an event-based camera is <em>independent</em>, functioning without a synchonized global clock.
-Secondly, each pixel detect shifts in <em>logarithmic light intensity</em>, generating an binary event only when the change exceeds a <em>threshold</em>. If the change is an increment - meaning the log intensity increased - the event has positive polarity; if it&rsquo;s a decrement, the event has negative polarity.</p>
-<p>In summary, an event is asynchronously generated when a pixel-level change in brightness is detected. This leads to a superior temporal resolution and a reduced susceptibility to motion blur, making event-camera ideal for capturing fast-moving scenes. Now, let’s explain how discrete events are produced in response to an analog signal that evolves continuously over time.</p>
+  <p>An event-based camera is equipped with a sensor that converts light into an electrical current, similar to conventional CMOS sensors. However, it differs from standard frame-based cameras in that it is inspired by the human retina. There are two main differences from a frame-based camera (middle graph) that lead to an event-based representation (right graph):</p>
+<ul>
+<li>First, each pixel of an event-based camera is <em>independent</em>, operating without a synchronized global clock.</li>
+<li>Second, each pixel detects changes in <em>logarithmic light intensity</em> and generates a binary event only if the change exceeds a <em>threshold</em>. If the change is an increment - that is, the log intensity has increased - the event has positive polarity; if it&rsquo;s a decrement, the event has negative polarity.</li>
+</ul>
+<p>In summary, an event is generated asynchronously when a pixel-level change in brightness is detected. This results in superior temporal resolution and reduced susceptibility to motion blur, making event cameras ideal for capturing fast-moving scenes. Now let&rsquo;s explain how discrete events are generated in response to an analog signal that continuously evolves over time.</p>
 
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="event-based-cameras-dvs-gesture">Event-Based Cameras: DVS gesture</h2>
+<!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
+  </div></figure>
+ -->
+<p><img src="https://research.ibm.com/interactive/dvsgesture/images/hand_clap.gif"  width="33%"/><img src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif"  width="33%"/><img src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif"  width="33%"/></p>
+<!-- !"" width="33%" >}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/air_guitar.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="https://research.ibm.com/interactive/dvsgesture/images/right_hand_clockwise.gif" alt="" loading="lazy" data-zoomable width="33%" /></div>
+  </div></figure>
+ -->
+<aside class="notes">
+  We considered a classification task using a classic camera dataset, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.
 </aside>
 
     </section>
