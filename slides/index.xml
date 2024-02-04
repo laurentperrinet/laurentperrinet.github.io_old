@@ -573,7 +573,7 @@ https://user-images.githubusercontent.com/4012178/30553969-2948547a-9ca3-11e7-91
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
-  &amp;hellip; And we can observe that it crosses a threshold. At this precise time, the pixel generates an event. In this case, the event is of positive polarity, as it corresponds to an increase.
+  &amp;hellip; And we can observe that it crosses a threshold. It is at this precise moment that the pixel generates an event. In this case, the event is of positive polarity, since it corresponds to an increase.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-cameras-4&#34;&gt;Event-Based Cameras&lt;/h2&gt;
@@ -601,7 +601,7 @@ https://user-images.githubusercontent.com/4012178/30553969-2948547a-9ca3-11e7-91
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
-  Then, the signal continue its course in time and cross a threshold again, resulting in the production of a new event with positive polarity.
+  The signal then continues its time course and crosses a threshold again, resulting in the production of a new event with positive polarity.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-based-cameras-5&#34;&gt;Event-Based Cameras&lt;/h2&gt;
