@@ -930,7 +930,7 @@ Another key feature is their ability to detect a very wide &lt;em&gt;range&lt;/e
 &lt;h4 id=&#34;always-on-object-recognition-dvs-gesture&#34;&gt;Always-on Object Recognition: DVS gesture&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_arm-roll.webp&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_hand-clap.webp&#34;  width=&#34;33%&#34;/&gt;&lt;img src=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/DVSGesture_air-guitar.webp&#34;  width=&#34;33%&#34;/&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  We considered a classification task using a classic camera dataset, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.
+  We considered the DVS gesture classification task, involving the classification of 10 different types of human gestures. These movements are, for example, clapping hands or playing air guitar. Note that the stream of events is caused by changes in the visual scene.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;always-on-object-recognition&#34;&gt;Always-on Object Recognition&lt;/h4&gt;
@@ -961,7 +961,7 @@ Another key feature is their ability to detect a very wide &lt;em&gt;range&lt;/e
 
 &lt;aside class=&#34;notes&#34;&gt;
   So how can we process and learn data coming from an event-based camera ?
-My team, including PhD student Antoine Grimaldi, has enhanced an existing algorithm known as &lt;em&gt;HOTS&lt;/em&gt;. This algorithm employs a traditional convolutional and hierarchical structure to process information. It begins with the camera’s event data that are processed three stacked layers, the last layer giving a high-level representation suitable for tasks like digit recognition—for example, identifying the number eight. A key aspect of HOTS is its conversion of event data into multiplexed, parallel channels that mirror the temporal sequence of events, termed the &lt;em&gt;temporal surface&lt;/em&gt;. A temporal surface provides a representation of recent activity, it jumps to one on an event and then exponentially decays through time. Each layer represents these temporal surfaces individually. Notably, the algorithm’s learning process is &lt;em&gt;unsupervised&lt;/em&gt; at every layer, marking a significant advancement over typical deep learning methods that rely on back-propagating classification errors—which is biologically implausible. Building on HOTS, we’ve improved it by incorporated neurobiological insights, particularly the principle of &lt;em&gt;homeostasis&lt;/em&gt;, to better balance the various parallel communication pathways.
+My team, including PhD student Antoine Grimaldi, has enhanced an existing algorithm known as &lt;em&gt;HOTS&lt;/em&gt;. This algorithm employs a traditional convolutional and hierarchical structure to process information. It begins with the camera’s event data that are processed three stacked layers, the last layer giving a high-level representation suitable for tasks like digit recognition —for example, identifying the number eight. A key aspect of HOTS is its conversion of event data into multiplexed, parallel channels that mirror different temporal sequence of events, termed the &lt;em&gt;temporal surface&lt;/em&gt; which provides with a representation of recent activity. Each layer represents these temporal surfaces individually. Notably, the algorithm’s learning process is &lt;em&gt;unsupervised&lt;/em&gt; at every layer, marking a significant advancement over typical deep learning methods that rely on back-propagating classification errors—which is biologically implausible. Building on HOTS, we’ve improved it by incorporated neurobiological insights, particularly the principle of &lt;em&gt;homeostasis&lt;/em&gt;, to better balance the various parallel communication pathways.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;always-on-object-gesture-recognition&#34;&gt;Always-on Object Gesture Recognition&lt;/h4&gt;
@@ -991,7 +991,7 @@ My team, including PhD student Antoine Grimaldi, has enhanced an existing algori
     &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;p&gt;To demonstrate our algorithm’s effectiveness, we tested it on a standard dataset that I presented before for classifying &lt;em&gt;10 distinct human gestures&lt;/em&gt;, such as clapping, waving, or drumming. With random guessing at 10%, the original HOTS algorithm achieved 70% accuracy after processing all events. However, by adding &lt;em&gt;homeostasis&lt;/em&gt;—an important concept from neuroscience—we enhanced the algorithm’s performance to 82%. This underscores the value of incorporating neuroscientific principles into machine learning. Homeostasis is used to balance the firing rates accross neurons in a neural network. It ensures that all neurons contribute equally over time, avoiding dominance by a few neurons.&lt;/p&gt;
+  &lt;p&gt;To demonstrate our algorithm’s effectiveness, we tested it on a standard dataset that I presented before for classifying &lt;em&gt;10 distinct human gestures&lt;/em&gt;, such as clapping, waving, or drumming. With random guessing at about 8.3%, the original HOTS algorithm achieved 70% accuracy after processing all events. However, by adding &lt;em&gt;homeostasis&lt;/em&gt; —an important concept from neuroscience— we enhanced the algorithm’s performance to 82%. Homeostasis is used to balance the firing rates accross neurons in a neural network. It ensures that all neurons contribute equally over time, avoiding dominance by a few neurons. This underscores the value of incorporating neuroscientific principles into machine learning.&lt;/p&gt;
 &lt;p&gt;Furthermore, we leveraged a key trait of biological systems: the ability to process information continuously, in real time. Traditional algorithms wait to classify until all events are processed. We innovated by enabling our algorithm to classify on-the-fly, in real-time, with each incoming event. This means that as events occur, they’re instantly processed through the layers, reaching the classification layer without delay.&lt;/p&gt;
 
 &lt;/aside&gt;
@@ -1022,16 +1022,16 @@ My team, including PhD student Antoine Grimaldi, has enhanced an existing algori
       [&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grimaldi, Boutin, Sio-Ieng, Benosman &amp;amp; LP, 2023&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;{&lt;aside class=&#34;notes&#34;&gt;
+&lt;aside class=&#34;notes&#34;&gt;
   What&amp;rsquo;s more interesting is that we were also able to show the &lt;em&gt;evolution&lt;/em&gt; of our algorithm’s average performance relative to the dataset and the number of processed events. The blue curve reveals that with fewer than 10 events, performance hovers at chance levels. However, as more events are processed, we observe a steady improvement. Remarkably, with 10,000 events, &lt;em&gt;performance&lt;/em&gt; matches that of the original algorithm and further excels with an additional tenfold increase in events. A major advantage of this algorithm is that it can be asked to classify the nature of what it sees in real-time, at any point during the event stream —not just after the entire signal is processed. Online processing is essential in biology. For example, imagine you&amp;rsquo;re on the savannah and a &lt;em&gt;lion&lt;/em&gt; jumps out at you. You won&amp;rsquo;t have the time to wait for the video sequence to finish processing before making the right decision, which is to flee.
 We’ve also refined our algorithm to select classification events based on precision calculations for each event. By adding a precision &lt;em&gt;threshold&lt;/em&gt;, we achieve high performance with merely a hundred events. This reflects a biological network trait where decisions aren’t made incrementally but rather emerge abruptly here after 200 events — and then continue to improve and stabilize.
-&lt;/aside&gt;&lt;/p&gt;
+&lt;/aside&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
 &lt;h1 id=&#34;spiking-neural-networks&#34;&gt;Spiking Neural Networks&lt;/h1&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  I have therefore illustrated the use of &lt;em&gt;event-driven&lt;/em&gt; cameras on a particular algorithm. The nice feature of this algorithm is that it processes the stream of events from the camera on an event-by-event basis rather than having to wait for the whole video sequence to finish. Each event has the potential to initiate a series of processes across various layers, allowing for the continuous update of classification values. This type of operation is characteristic of the way neurons work in the brain, that is using an event-based representation of information processing. This is what we call &lt;em&gt;spiking neural networks&lt;/em&gt;.
+  I have therefore illustrated the use of &lt;em&gt;event-driven&lt;/em&gt; cameras on a particular algorithm. The nice feature of this algorithm is that it processes the stream of events from the camera on an event-by-event basis rather than having to wait for the whole video sequence to finish. Each event has the potential to initiate a series of processes across various layers, allowing for the continuous update of classification values. This type of operation is characteristic of the way neurons work in the brain, that is, using an event-based representation of information processing. This is what we call &lt;em&gt;spiking neural networks&lt;/em&gt;.
 &lt;/aside&gt;
 &lt;hr&gt;
 
@@ -1052,11 +1052,11 @@ We’ve also refined our algorithm to select classification events based on prec
 
 
 
-&lt;figure  id=&#34;figure-tonic-manualhttpstonicreadthedocsioenlatest_imagesneuron-modelspng&#34;&gt;
+&lt;figure  id=&#34;figure--gregor-lenz-tonic-manualhttpstonicreadthedocsioenlatest&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://tonic.readthedocs.io/en/latest/_images/neuron-models.png&#34; alt=&#34;[[Tonic manual](https://tonic.readthedocs.io/en/latest/_images/neuron-models.png)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;70%&#34; /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://tonic.readthedocs.io/en/latest/_images/neuron-models.png&#34; alt=&#34;© Gregor Lenz, [[Tonic manual](https://tonic.readthedocs.io/en/latest/)]&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;50%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      [&lt;a href=&#34;https://tonic.readthedocs.io/en/latest/_images/neuron-models.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tonic manual&lt;/a&gt;]
+      © Gregor Lenz, [&lt;a href=&#34;https://tonic.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tonic manual&lt;/a&gt;]
     &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
@@ -1122,7 +1122,7 @@ We’ve also refined our algorithm to select classification events based on prec
     &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;p&gt;The introduction of spiking neural networks marks a &lt;em&gt;paradigm shift&lt;/em&gt; in computation, in the same way that event-driven cameras have brought a paradigm shift in image representation. These spiking neural networks have led to the creation of innovative algorithms and the development of neuromorphic chips like Intel’s Loihi 2. This chip departs from traditional computing by utilizing a massively parallel array of event-driven processing units. As with event-driven cameras, this has the dual advantage of being very fast and consuming very little energy. The field continues to advance, with new neuromorphic chips being developed that could potentially replace standard CPUs and GPUs.&lt;/p&gt;
+  &lt;p&gt;The introduction of spiking neural networks marks a &lt;strong&gt;paradigm shift&lt;/strong&gt; in computation, in the same way that event-driven cameras have brought a paradigm shift in image representation. These spiking neural networks have led to the creation of innovative algorithms and the development of neuromorphic chips like Intel’s Loihi 2. This chip departs from traditional computing by utilizing a massively parallel array of event-driven processing units. As with event-driven cameras, this has the dual advantage of being very fast and consuming very little &lt;strong&gt;energy&lt;/strong&gt;. The field continues to advance, with new &lt;strong&gt;neuromorphic chips&lt;/strong&gt; being developed that could potentially replace standard CPUs and GPUs.&lt;/p&gt;
 &lt;figure  id=&#34;figure-propheseehttpsdocspropheseeaistableconceptshtml&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2019/Pierre%20temp/Intel%20Loihi__w630.jpg&#34; alt=&#34;[Prophesee](https://docs.prophesee.ai/stable/concepts.html)&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;45%&#34; /&gt;&lt;/div&gt;
@@ -1234,7 +1234,7 @@ In contrast, Panel B at the botton shows the neuron’s response to stimulation 
 
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In this second example, I show a simulation reproducing the 1999 paper by Diesmann and colleagues. This &lt;em&gt;theoretical model&lt;/em&gt; considers ten interconnected groups, each comprising 100 neurons. Each group is connected to the next one. A key finding is that information transfer across groups depends on the temporal concentration of spikes. Initially, information is too scattered within the first group, leading to a dilution effect in subsequent groups. However, once a threshold is reached, a cluster of synchronous spikes ensures efficient propagation through the network. This non-linear dynamic is characteristic of spiking neural networks, adding a layer of richness, but also a cerain complexity.&lt;/p&gt;
+&lt;p&gt;In this second example, I show a simulation reproducing the 1999 paper by Diesmann and colleagues. This &lt;em&gt;theoretical model&lt;/em&gt; considers ten interconnected groups, each comprising 100 neurons. Each group is connected to the next one. A key finding is that information transfer across groups depends on the &lt;strong&gt;temporal concentration&lt;/strong&gt; of spikes. Initially, information is too scattered within the first group, leading to a dilution effect in subsequent groups. However, once a threshold is reached, a cluster of synchronous spikes ensures efficient propagation through the network. This non-linear dynamic is characteristic of spiking neural networks, adding a layer of richness, but also a cerain complexity.&lt;/p&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
@@ -1266,16 +1266,15 @@ In contrast, Panel B at the botton shows the neuron’s response to stimulation 
 
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;strong&gt;2 MINUTE&lt;/strong&gt;
-A third example shows an experiment conducted by Rosa Cossart&amp;rsquo;s group at INMED and recently published by Haimerl and colleagues. They used &lt;em&gt;calcium fluorescence&lt;/em&gt; imaging to track neuronal activity in mice. By arranging the neurons in &lt;em&gt;temporal order of activation&lt;/em&gt;, it shows a sequential activation of these neurons, a mechanism which resembles the model mentioned earlier. These patterns closely align with the mouse’s motor behavior, as depicted in the accompanying graph. Notably, these activity sequences remained consistent, even when recorded on the &lt;em&gt;next day&lt;/em&gt;, underscoring the importance of temporal dynamics in neural computation.
+A third example shows an experiment conducted by Rosa Cossart&amp;rsquo;s group at INMED and recently published by Haimerl and colleagues. They used &lt;em&gt;calcium fluorescence&lt;/em&gt; imaging to track neuronal activity in mice which at first look appears to be activated in a random sequence. By arranging the neurons in &lt;em&gt;temporal order of activation&lt;/em&gt;, it shows a repeatable, sequential activation of these neurons, a mechanism which resembles the model mentioned earlier. These patterns closely align with the mouse’s motor behavior, as depicted in the accompanying graph. Surprisingly, these activity sequences remained consistent, even when recorded on the &lt;em&gt;next day&lt;/em&gt;, underscoring the importance of temporal dynamics in neural computation.
 &lt;/aside&gt;
 &lt;/section&gt;
 &lt;hr&gt;
 &lt;section&gt;
 &lt;h1 id=&#34;spiking-neural-networks-spiking-motifs&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h1&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;These observations have led us to &lt;em&gt;review&lt;/em&gt; neurobiological evidence of neurons encoding information based on the relative timing of spikes. Intriguingly, the conduction &lt;em&gt;delays&lt;/em&gt; observed in spike transmission are not merely obstacles. Instead, they could be used to enhance information representation and processing through &lt;em&gt;spiking motifs&lt;/em&gt;. This perspective challenges traditional views and opens up new possibilities for understanding information representation, processing and learning.&lt;/p&gt;
-
+  &lt;strong&gt;2 MINUTE&lt;/strong&gt;
+These observations have led us to &lt;em&gt;review&lt;/em&gt; neurobiological evidence of neurons encoding information based on the relative timing of spikes. Intriguingly, the conduction &lt;em&gt;delays&lt;/em&gt; observed in spike transmission are not merely obstacles. Instead, they could be used to enhance information representation and processing through &lt;em&gt;spiking motifs&lt;/em&gt;. This perspective challenges traditional views and opens up new possibilities for understanding information representation, processing and learning.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;spiking-neural-networks-spiking-motifs-1&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h4&gt;
@@ -1306,7 +1305,7 @@ A third example shows an experiment conducted by Rosa Cossart&amp;rsquo;s group 
 
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;strong&gt;2 MINUTE&lt;/strong&gt;
-Consider an ultra-simplified neural network with three presynaptic neurons and two output neurons, connected by &lt;em&gt;heterogeneous&lt;/em&gt; delays. With synchronous inputs, the output neurons activate at different times, failing to reach the threshold for an output spike. However, if the delays align the action potentials to arrive simultaneously, the combined input can trigger an output spike at the &lt;em&gt;same instant&lt;/em&gt;, as indicated by the red bar.
+Consider an ultra-simplified neural network with three presynaptic neurons and two output neurons, connected by &lt;em&gt;heterogeneous&lt;/em&gt; delays. With synchronous inputs, the output neurons activate at different times, failing to reach the threshold for an output spike. However, if the delays align, the action potentials to arrive simultaneously, the combined input can trigger an output spike at the &lt;em&gt;same instant&lt;/em&gt;, as indicated by the red bar.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;spiking-neural-networks-spiking-motifs-2&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h4&gt;
@@ -1336,9 +1335,8 @@ Consider an ultra-simplified neural network with three presynaptic neurons and t
     &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;To better grasp this mechanism, let’s revisit the animation of a spiking neuron. Without delays, action potentials reach the neuron’s cell body immediately, where they’re integrated to potentially trigger a spike.&lt;/p&gt;
-
+  &lt;strong&gt;2 MINUTE&lt;/strong&gt;
+To better grasp this mechanism, let’s revisit the animation of a spiking neuron. Without delays, action potentials reach the neuron’s cell body immediately, where they’re integrated to potentially trigger a spike.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;spiking-neural-networks-spiking-motifs-3&#34;&gt;Spiking Neural Networks: Spiking motifs&lt;/h4&gt;
@@ -1426,9 +1424,8 @@ In applying this theoretical principle, we developed an algorithm to detect move
     &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We then used a neural network with a classical architecture, which we enhanced by using an spike representation that accounts for various synaptic delays values. In this figure, the input is on the left grid, indicating spikes of either positive or negative polarity. This input is processed through multiple channels, represented by green and orange, and generate membrane activity. This activity, in turn, led to the production of output spikes, particularly in synaptic connection nuclei with heterogeneous delays. These delays are key to identifying specific spatio-temporal patterns.&lt;/p&gt;
-
+  &lt;strong&gt;2 MINUTE&lt;/strong&gt;
+We then used a neural network with a classical architecture, which we enhanced by using a spike-based representation that accounts for various synaptic delays values. In this figure, the input is on the left grid, indicating spikes of either positive or negative polarity. This input is processed through multiple channels, represented by green and orange, and generate membrane activity. This activity, in turn, led to the production of output spikes, particularly in synaptic connection nuclei with heterogeneous delays. These delays are key to identifying specific spatio-temporal patterns.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;spiking-neural-networks-hd-snn-2&#34;&gt;Spiking Neural Networks: HD-SNN&lt;/h4&gt;
@@ -1461,8 +1458,7 @@ In applying this theoretical principle, we developed an algorithm to detect move
   &lt;strong&gt;2 MINUTE&lt;/strong&gt;
 A key advantage of this network is its differentiability, which allows the application of traditional machine learning techniques, such as supervised learning.
 We then see the emergence of various convolution kernels. The graph on the left, marked by red arrows, displays a selection of these kernels oriented in different directions.
-It shows the kernels obtained on the spatial representation according to the different columns, and each row represents the different delays from a delay of one on the right to a delay of 12 time steps on the left. Detectors that follow the motion emerge. For example, for the top line from top to bottom. These kernels integrate both positive neurons in red and negative polarity inputs in blue.
-vim Such spatio-temporal filtering is observed in neurobiology, but to my knowledge had never been observed in a model of spiking neurons trained under natural conditions.
+It shows the kernels obtained on the spatial representation according to the different columns, and each row represents the different delays from a delay of one on the right to a delay of 12 time steps on the left. Detectors that follow the motion emerge. For example, for the top line from top to bottom. These kernels integrate both positive neurons in red and negative polarity inputs in blue. Such spatio-temporal filtering is observed in neurobiology, but to my knowledge had never been observed in a model of spiking neurons trained under natural conditions.
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;spiking-neural-networks-hd-snn-3&#34;&gt;Spiking Neural Networks: HD-SNN&lt;/h4&gt;
